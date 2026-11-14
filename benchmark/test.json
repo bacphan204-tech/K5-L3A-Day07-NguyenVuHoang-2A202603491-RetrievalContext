@@ -1,0 +1,174 @@
+[
+  {
+    "id": "d7-test-q01",
+    "split": "test",
+    "question": "Trong ví dụ máy tính bảng, một người sẵn sàng trả 90 USD nhưng thực trả 80 USD nhận được bao nhiêu thặng dư tiêu dùng? Giải thích phép tính.",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Thặng dư tiêu dùng là 10 USD cho chiếc máy tính bảng: 90 - 80 = 10 USD.",
+    "gold": [
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 29,
+        "evidence": "Those consumers who would have been willing to pay $90 for a tablet based on the utility they expect to receive from it, but who were able to pay the equilibrium price of $80, clearly received a benefit beyond what they had to pay. Remember, the demand curve traces consumers’ willingness to pay for different quantities. The amount that individuals would have been willing to pay, minus the amount that they actually paid, is called consumer surplus."
+      }
+    ],
+    "topic": "consumer_surplus_calculation",
+    "filter": {},
+    "origin": "New Day 7 question, not a Day 6 test reuse",
+    "review_status": "AI-authored source-text check; student confirmation pending"
+  },
+  {
+    "id": "d7-test-q02",
+    "split": "test",
+    "question": "Chính phủ thường hỗ trợ giá nông sản bằng cách tham gia thị trường như thế nào, và việc đó tác động ra sao đến cầu và giá?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Chính phủ mua sản phẩm trên thị trường, làm tăng cầu để giữ giá cao hơn mức giá nếu không có biện pháp này.",
+    "gold": [
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 28,
+        "evidence": "The most common way price supports work is that the government enters the market and buys up the product, adding to demand to keep prices higher than they otherwise would be."
+      }
+    ],
+    "topic": "agricultural_price_support",
+    "filter": {},
+    "origin": "New Day 7 question, not a Day 6 test reuse",
+    "review_status": "AI-authored source-text check; student confirmation pending"
+  },
+  {
+    "id": "d7-test-q03",
+    "split": "test",
+    "question": "Trong ví dụ thị trường tín dụng thẻ, ở lãi suất 13% lượng vốn được cầu và được cung là bao nhiêu? Thị trường thiếu hay dư bao nhiêu tỷ USD?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Lượng cầu 700 tỷ USD, lượng cung 510 tỷ USD; thiếu vốn 190 tỷ USD, vì 700 - 510 = 190.",
+    "gold": [
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 46,
+        "evidence": "If the interest rate is below the equilibrium, then excess demand or a shortage of funds occurs in this market. At an interest rate of 13%, the quantity of funds credit card borrowers demand increases to $700 billion, but the quantity credit card firms are willing to supply is only $510 billion."
+      }
+    ],
+    "topic": "credit_shortage_calculation",
+    "filter": {},
+    "origin": "New Day 7 question, not a Day 6 test reuse",
+    "review_status": "AI-authored source-text check; student confirmation pending"
+  },
+  {
+    "id": "d7-test-q04",
+    "split": "test",
+    "question": "Khi người tiêu dùng và doanh nghiệp tin tưởng hơn rằng họ có thể trả nợ trong tương lai, cầu vốn tài chính tại một mức lãi suất cho trước dịch chuyển thế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Cầu vốn tài chính tăng tại mỗi mức lãi suất cho trước; đường cầu dịch sang phải.",
+    "gold": [
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 47,
+        "evidence": "Thus, when consumers and businesses have greater confidence that they will be able to repay in the future, the quantity demanded of financial capital at any given interest rate will shift to the right."
+      }
+    ],
+    "topic": "repayment_confidence",
+    "filter": {},
+    "origin": "New Day 7 question, not a Day 6 test reuse",
+    "review_status": "AI-authored source-text check; student confirmation pending"
+  },
+  {
+    "id": "d7-test-q05",
+    "split": "test",
+    "question": "Nếu khoản đầu tư A trở nên rủi ro hơn trong khi B là lựa chọn thay thế, người tiết kiệm chuyển vốn ra sao và đường cung vốn cho A, B dịch chuyển hướng nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Người tiết kiệm chuyển vốn từ A sang B; cung vốn cho A dịch trái, cung vốn cho B dịch phải.",
+    "gold": [
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 47,
+        "evidence": "If Investment A becomes more risky, or the return diminishes, then savers will shift their funds to Investment B—and the supply curve of financial capital for Investment A will shift back to the left while the supply curve of capital for Investment B shifts to the right."
+      }
+    ],
+    "topic": "investment_risk_reallocation",
+    "filter": {},
+    "origin": "New Day 7 question, not a Day 6 test reuse",
+    "review_status": "AI-authored source-text check; student confirmation pending"
+  },
+  {
+    "id": "d7-test-u01",
+    "split": "test",
+    "question": "Theo bộ tài liệu này, lãi suất cho vay mua nhà cụ thể của Vietcombank trong tháng 11/2026 là bao nhiêu phần trăm mỗi năm?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Corpus không có biểu lãi suất sản phẩm vay mua nhà của Vietcombank tháng 11/2026.",
+    "filter": {},
+    "absence_review": {
+      "search_terms": [
+        "Vietcombank",
+        "2026",
+        "mortgage"
+      ],
+      "term_page_hits": {
+        "Vietcombank": [],
+        "2026": [],
+        "mortgage": [
+          46
+        ]
+      },
+      "scope": "All 52 indexed text pages; not a top-k retrieval result",
+      "inspection_pages": [
+        44,
+        45,
+        46,
+        49,
+        50
+      ],
+      "reasoning": "Chương thị trường tài chính mô tả mô hình và ví dụ tín dụng; việc nhắc đến khoản vay nhà hoặc đường link FRED không cung cấp báo giá của ngân hàng Việt Nam, sản phẩm và tháng được hỏi. Phạm vi chỉ là corpus, không truy cập nguồn ngoài.",
+      "status": "AI initial text/scope review; student source confirmation pending"
+    }
+  },
+  {
+    "id": "d7-test-u02",
+    "split": "test",
+    "question": "Dựa riêng vào tài liệu, giá cân bằng xăng tại Hà Nội ngày 14/11/2026 chính xác là bao nhiêu đồng/lít?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Corpus không cung cấp giá xăng thực tế hoặc hàm cung cầu cho Hà Nội tại ngày được hỏi.",
+    "filter": {},
+    "absence_review": {
+      "search_terms": [
+        "Hanoi",
+        "Ha Noi",
+        "2026",
+        "gasoline"
+      ],
+      "term_page_hits": {
+        "Hanoi": [],
+        "Ha Noi": [],
+        "2026": [],
+        "gasoline": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          12,
+          15,
+          22,
+          38
+        ]
+      },
+      "scope": "All 52 indexed text pages; not a top-k retrieval result",
+      "inspection_pages": [
+        4,
+        5,
+        8,
+        9
+      ],
+      "reasoning": "Ví dụ xăng dùng USD/gallon và triệu gallon, không phải dữ liệu Hà Nội theo ngày. Không chuyển ví dụ cân bằng trong sách thành báo giá hiện hành hoặc tự quy đổi sang đồng/lít khi thiếu dữ liệu.",
+      "status": "AI initial text/scope review; student source confirmation pending"
+    }
+  }
+]

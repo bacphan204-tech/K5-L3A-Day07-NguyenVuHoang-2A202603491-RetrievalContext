@@ -1,0 +1,21 @@
+{
+  "status": "PASS",
+  "benchmark_counts": {
+    "dev": {
+      "answerable": 15,
+      "unanswerable": 2
+    },
+    "test": {
+      "answerable": 5,
+      "unanswerable": 2
+    }
+  },
+  "dev_agent_traces": 34,
+  "test_agent_traces": 14,
+  "semantic_reviews_complete_by_ai": true,
+  "student_confirmed": false,
+  "frozen_pipeline_unchanged": true,
+  "report_present": true,
+  "optional_advanced_done": false,
+  "api_called_by_this_check": false
+}

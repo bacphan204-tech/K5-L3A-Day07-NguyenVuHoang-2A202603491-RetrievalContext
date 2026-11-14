@@ -1,0 +1,166 @@
+{
+  "run_directory": "C:\\Users\\VU-HOANG-DZ\\Downloads\\K5-L3A-Day07-NguyenVuHoang-2A202603491-RetrievalContext\\results\\part08\\revalidated-20261114T094428Z-6d4f23",
+  "configurations": {
+    "dense": {
+      "operational": {
+        "completed_cases": 17,
+        "expected_cases": 17,
+        "statuses": {
+          "answered": 14,
+          "abstain": 3
+        },
+        "errors": 0,
+        "tool_use": {
+          "n": 17,
+          "N": 17
+        },
+        "search_count_distribution": {
+          "1": 17
+        },
+        "strict_context_evidence_rate": {
+          "n": 8,
+          "N": 15
+        },
+        "citation_id_checks_only": {
+          "n": 19,
+          "N": 19
+        },
+        "normalized_abstentions": 3,
+        "model_calls": 34,
+        "input_tokens": 32855,
+        "output_tokens": 2193,
+        "estimated_api_cost_usd": 0.03450975,
+        "total_agent_seconds": 51.788676899988786,
+        "manual_metrics": {
+          "grounded_answer": null,
+          "citation_semantic_validity": null,
+          "abstention_correct": null,
+          "context_grade": null
+        },
+        "note": "Partial runs use completed-case denominators; report completion counts. Strict context uses quotes, not semantic review. API errors are separate; usage covers returned responses only."
+      },
+      "pending_review_query_ids": [],
+      "manual_metrics": {
+        "cases": 17,
+        "provider_errors": 0,
+        "tool_use": {
+          "n": 17,
+          "N": 17
+        },
+        "grounded_answer": {
+          "0": 3,
+          "1": 2,
+          "2": 10,
+          "N": 15,
+          "mean": 1.4666666666666666
+        },
+        "citation_validity": {
+          "n": 16,
+          "N": 19
+        },
+        "answer_citation_coverage": {
+          "n": 14,
+          "N": 14
+        },
+        "abstention": {
+          "n": 2,
+          "N": 2
+        },
+        "false_abstention": {
+          "n": 1,
+          "N": 15
+        },
+        "manual_context_evidence_rate": {
+          "n": 10,
+          "N": 15
+        },
+        "manual_context_grade_distribution": {
+          "0": 2,
+          "1": 3,
+          "2": 10
+        }
+      }
+    },
+    "rerank": {
+      "operational": {
+        "completed_cases": 17,
+        "expected_cases": 17,
+        "statuses": {
+          "answered": 15,
+          "abstain": 2
+        },
+        "errors": 0,
+        "tool_use": {
+          "n": 17,
+          "N": 17
+        },
+        "search_count_distribution": {
+          "1": 16,
+          "2": 1
+        },
+        "strict_context_evidence_rate": {
+          "n": 9,
+          "N": 15
+        },
+        "citation_id_checks_only": {
+          "n": 20,
+          "N": 20
+        },
+        "normalized_abstentions": 1,
+        "model_calls": 35,
+        "input_tokens": 34835,
+        "output_tokens": 2343,
+        "estimated_api_cost_usd": 0.03666975,
+        "total_agent_seconds": 56.474431500042556,
+        "manual_metrics": {
+          "grounded_answer": null,
+          "citation_semantic_validity": null,
+          "abstention_correct": null,
+          "context_grade": null
+        },
+        "note": "Partial runs use completed-case denominators; report completion counts. Strict context uses quotes, not semantic review. API errors are separate; usage covers returned responses only."
+      },
+      "pending_review_query_ids": [],
+      "manual_metrics": {
+        "cases": 17,
+        "provider_errors": 0,
+        "tool_use": {
+          "n": 17,
+          "N": 17
+        },
+        "grounded_answer": {
+          "0": 1,
+          "1": 2,
+          "2": 12,
+          "N": 15,
+          "mean": 1.7333333333333334
+        },
+        "citation_validity": {
+          "n": 17,
+          "N": 20
+        },
+        "answer_citation_coverage": {
+          "n": 15,
+          "N": 15
+        },
+        "abstention": {
+          "n": 2,
+          "N": 2
+        },
+        "false_abstention": {
+          "n": 0,
+          "N": 15
+        },
+        "manual_context_evidence_rate": {
+          "n": 12,
+          "N": 15
+        },
+        "manual_context_grade_distribution": {
+          "0": 1,
+          "1": 2,
+          "2": 12
+        }
+      }
+    }
+  }
+}

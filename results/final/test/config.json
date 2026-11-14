@@ -1,0 +1,48 @@
+{
+  "frozen_at_utc": "2026-11-14T09:50:35.989382+00:00",
+  "selected_method": "rerank",
+  "baseline_method": "dense",
+  "dev_run": "results\\part08\\revalidated-20261114T094428Z-6d4f23",
+  "dev_evaluation_sha256": "88bb3b74364922854dd7e68f646c8b9c0a1724604d3b8fb8705686b2ea671dc0",
+  "selection_rule": "Highest dev grounded-answer mean, then semantic citation rate, manual context rate, lower agent time, then method name. This rule is documented at final selection after exploratory dev, before running test; not a preregistered dev study.",
+  "reviewer": "Codex AI; same assistant helped implement system",
+  "student_confirmed": false,
+  "llm": {
+    "base_url": "https://api.openai.com/v1",
+    "model": "gpt-5.4-mini-2026-03-17",
+    "timeout_seconds": 120,
+    "max_output_tokens": 1500
+  },
+  "prompt_version": "book-agent-v1.1",
+  "validator_version": "book-agent-validator-v1.2",
+  "max_searches": 3,
+  "top_k": 5,
+  "candidate_k": 20,
+  "context_budget_chars": 5000,
+  "fingerprints": {
+    "benchmark/dev.json": "eac6024ea9f2f58ce261fa487476dfd67808c1cfab80d52da3c2b0c4338d6d34",
+    "benchmark/test.inputs.json": "f7e8c357ef3202d174c4212ba18f331db3dd542295f094a521c48c00cce8e13b",
+    "benchmark/test.json": "bc0795d65e906c8377f205e44e113d6bdfaa2aa88c2cccf35d36148a6318ecf2",
+    "data/day6/chunks.json": "1c4c64b291ad00e040605ac50345e1912a5f98fc24f643faf4cfdd8c86a7d28b",
+    "scripts/final_evaluation.py": "1c7faa7ef247fb30c16b6d816e729af184eb9975f173502f5262a2df3b983dc7",
+    "src/agent_evaluation.py": "6457ed39afeeb9aa9b5311dcac29ad1c7b5474e6d34583d2b90a7f35bbf5e67c",
+    "src/agent_retriever.py": "980883f2d1cc750d2be9790f123f8c3b972793418310b26706e1bd6528690e3c",
+    "src/benchmark.py": "6916d83c7c6b9190cfa283f5349e2c4aaeec49e6622bec4e7e0a0cf66607626c",
+    "src/book_agent.py": "55b9a025ca779e381a3b92e2866339fbe2db75e67164a43692650d14febaab79",
+    "src/compare_retrieval.py": "108c6dc6682f17d34c56a54c88c1714456807ccbdc34ba9cfcd962faaa46a196",
+    "src/dense_retrieval.py": "f7be167a63f5175ffec74dc84955cbb16465695d0a3e1e391cc74f6a50e0f95f",
+    "src/hybrid_retrieval.py": "d3068e00e395c82ca1c82d0c86c9b714ce4061f31a6caefeb654cb5e0bb6361e",
+    "src/lexical_retrieval.py": "00c931ea14924eec70e492f86baddd1d329e1c26363d1ec8f1b01c553aaa772a",
+    "src/llm_client.py": "477134fb2bf671bce38148cf0e84b7c49888789e28af6f32c41d29f3daf7adb4",
+    "src/prepare_day6.py": "facee9a63d73a15bc442fc5c0d700cf281b41f5002d4ec28d4b114d6da64a878",
+    "src/retrieval_improvements.py": "16af9ed370e07ba6dddcd979b259bc65db73747f73050b4945b550a8648fca38",
+    "src/retrieval_metrics.py": "a545a30c4ef4d4c556c9904b190b8f47a9956d8590865d7fcbd12d183dd649d4"
+  },
+  "test_model_run_before_freeze": false,
+  "scope": "Basic Day 7 only; no optional 100-page advanced challenge",
+  "split": "test",
+  "methods": [
+    "dense",
+    "rerank"
+  ]
+}

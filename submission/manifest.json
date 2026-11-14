@@ -1,0 +1,13 @@
+{
+  "archive": "Day07_2A202603491_NguyenVuHoang.zip",
+  "file_count": 232,
+  "archive_sha256": "c80ac8f66ea1caa5d8c43b9a741c07c278fe050ebdfcce30a9894f0c6b063dc4",
+  "credential_scan": "passed; no key values logged",
+  "exclusions": [
+    ".env",
+    ".local",
+    "venv",
+    ".git",
+    "__pycache__"
+  ]
+}

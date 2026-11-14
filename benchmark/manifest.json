@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "counts": {
+    "dev": {
+      "answerable": 15,
+      "unanswerable": 2
+    },
+    "test": {
+      "answerable": 5,
+      "unanswerable": 2
+    }
+  },
+  "gold_semantics": "Each gold item is a complete alternative; one valid item suffices. No multi-hop gold in this version.",
+  "source_id": "openstax-principles-economics-3e",
+  "corpus_sha256": "1c4c64b291ad00e040605ac50345e1912a5f98fc24f643faf4cfdd8c86a7d28b",
+  "day6_benchmark_sha256": "2336133389fa5a5f8530eb726ccc763cffeeca5e103867c8802d6b36124b1532",
+  "reused_day6_dev_ids": [
+    "q01",
+    "q02",
+    "q03",
+    "q04",
+    "q05",
+    "q06",
+    "q07",
+    "q08",
+    "q09",
+    "q10",
+    "q11",
+    "q12",
+    "q13",
+    "q14",
+    "q15"
+  ],
+  "day6_test_reused": false,
+  "excluded_day6_alternatives": [
+    {
+      "day6_id": "q01",
+      "page": 33,
+      "reason": "Quote crosses B chunk boundary; excluded from single-chunk strict gold, not declared invalid source evidence"
+    }
+  ],
+  "question_files_sha256": {
+    "dev.json": "eac6024ea9f2f58ce261fa487476dfd67808c1cfab80d52da3c2b0c4338d6d34",
+    "test.json": "bc0795d65e906c8377f205e44e113d6bdfaa2aa88c2cccf35d36148a6318ecf2"
+  },
+  "test_policy": "New AI-authored test; held out from retrieval/configuration selection. Authoring/structural evidence checks are not model evaluation. The author has seen test labels, so this is not an external blind evaluation.",
+  "review_status": "Draft benchmark: student source/absence confirmation pending",
+  "benchmark_run": false,
+  "student_confirmed": false,
+  "license": "OpenStax Principles of Economics 3e excerpts/evidence: CC BY-NC-SA 4.0; retain source attribution"
+}

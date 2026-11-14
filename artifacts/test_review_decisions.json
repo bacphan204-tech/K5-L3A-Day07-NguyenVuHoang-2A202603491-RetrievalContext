@@ -1,0 +1,23 @@
+{
+  "reviewer": "Codex AI - direct reading of every test answer, cited source text and final context after pipeline freeze",
+  "student_confirmed": false,
+  "scope": "Test source review after frozen run; no pipeline/model/gold changes. Same AI helped implement the system, so labels are not independent human grading.",
+  "dense": [
+    ["q01", 2, 2, [true], "Trang 29 nêu willingness to pay 90 USD, actual price 80 USD và định nghĩa consumer surplus; phép trừ 90-80=10 USD đúng."],
+    ["q02", 1, 1, [false], "Trả đúng phần giá sàn/mua dư thừa và surplus, nhưng thiếu cơ chế chính phủ thêm cầu để giữ giá; cuối câu nói cầu giảm, lẫn thay đổi lượng cầu với dịch chuyển cầu. Citation không hỗ trợ kết luận cầu giảm."],
+    ["q03", 2, 2, [true, true], "Trang 46 bảng 4.5 và đoạn 13% cho 700/510 tỷ USD; thiếu hụt 190 tỷ USD, đơn vị và phép tính đúng."],
+    ["q04", 0, 0, [false], "Citation trang 44 chỉ phân loại người tiết kiệm/người vay; context thiếu đoạn niềm tin trả nợ làm demand shift right ở trang 47. Trả đúng kiến thức nhưng không được evidence hỗ trợ."],
+    ["q05", 2, 2, [true], "Trang 47 nêu rõ rủi ro A tăng -> vốn chuyển B; supply A trái, supply B phải."],
+    ["u01", null, null, [], "Từ chối thông tin lãi suất Vietcombank tháng 11/2026; corpus chỉ có mô hình/ví dụ tín dụng, không có báo giá sản phẩm/ngân hàng/tháng yêu cầu.", true],
+    ["u02", null, null, [], "Từ chối giá cân bằng xăng Hà Nội theo ngày. Không chuyển ví dụ USD/gallon trong sách thành số đồng/lít hiện hành.", true]
+  ],
+  "rerank": [
+    ["q01", 2, 2, [true], "Trang 29 đủ 90 USD, 80 USD và công thức willingness minus actual paid; đáp án 10 USD và phép trừ đúng."],
+    ["q02", 2, 2, [true, true], "Trang 28 nêu chính phủ mua sản phẩm adding to demand giữ giá cao; đoạn cùng trang nói dư cung/mua phần dư, lợi nông dân và chi phí taxpayers/consumers. Hai citation hỗ trợ các phần tương ứng."],
+    ["q03", 2, 2, [true, true], "Trang 46 đủ lãi suất 13%, cầu 700 và cung 510 tỷ USD; thiếu hụt 190 tỷ USD được tính đúng."],
+    ["q04", 2, 2, [true], "Trang 47 nói trực tiếp greater confidence repay in future -> quantity demanded at any given interest rate shifts right. Diễn đạt lượng cầu ở mỗi mức lãi suất được hiểu là dịch đường cầu."],
+    ["q05", 2, 2, [true], "Trang 47 hỗ trợ đầy đủ chuyển vốn A sang B khi A rủi ro hơn, supply A trái và B phải."],
+    ["u01", null, null, [], "Từ chối rõ ràng dữ liệu lãi suất ngân hàng/tháng không được cung cấp; không thêm khẳng định hay con số suy đoán.", true],
+    ["u02", null, null, [], "Từ chối rõ ràng giá xăng Hà Nội/ngày được hỏi, không dùng ví dụ sách thay dữ liệu thị trường.", true]
+  ]
+}

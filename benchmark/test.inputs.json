@@ -1,0 +1,37 @@
+[
+  {
+    "id": "d7-test-q01",
+    "split": "test",
+    "question": "Trong ví dụ máy tính bảng, một người sẵn sàng trả 90 USD nhưng thực trả 80 USD nhận được bao nhiêu thặng dư tiêu dùng? Giải thích phép tính."
+  },
+  {
+    "id": "d7-test-q02",
+    "split": "test",
+    "question": "Chính phủ thường hỗ trợ giá nông sản bằng cách tham gia thị trường như thế nào, và việc đó tác động ra sao đến cầu và giá?"
+  },
+  {
+    "id": "d7-test-q03",
+    "split": "test",
+    "question": "Trong ví dụ thị trường tín dụng thẻ, ở lãi suất 13% lượng vốn được cầu và được cung là bao nhiêu? Thị trường thiếu hay dư bao nhiêu tỷ USD?"
+  },
+  {
+    "id": "d7-test-q04",
+    "split": "test",
+    "question": "Khi người tiêu dùng và doanh nghiệp tin tưởng hơn rằng họ có thể trả nợ trong tương lai, cầu vốn tài chính tại một mức lãi suất cho trước dịch chuyển thế nào?"
+  },
+  {
+    "id": "d7-test-q05",
+    "split": "test",
+    "question": "Nếu khoản đầu tư A trở nên rủi ro hơn trong khi B là lựa chọn thay thế, người tiết kiệm chuyển vốn ra sao và đường cung vốn cho A, B dịch chuyển hướng nào?"
+  },
+  {
+    "id": "d7-test-u01",
+    "split": "test",
+    "question": "Theo bộ tài liệu này, lãi suất cho vay mua nhà cụ thể của Vietcombank trong tháng 11/2026 là bao nhiêu phần trăm mỗi năm?"
+  },
+  {
+    "id": "d7-test-u02",
+    "split": "test",
+    "question": "Dựa riêng vào tài liệu, giá cân bằng xăng tại Hà Nội ngày 14/11/2026 chính xác là bao nhiêu đồng/lít?"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "query_id": "d7-dev-q01",
+    "experiment": "clean_scope_dense",
+    "baseline_hit1": false,
+    "experiment_hit1": false,
+    "baseline_hit3": false,
+    "experiment_hit3": false,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q01",
+    "experiment": "clean_scope_sentence_rerank",
+    "baseline_hit1": false,
+    "experiment_hit1": false,
+    "baseline_hit3": false,
+    "experiment_hit3": false,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q02",
+    "experiment": "clean_scope_dense",
+    "baseline_hit1": false,
+    "experiment_hit1": false,
+    "baseline_hit3": true,
+    "experiment_hit3": true,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q02",
+    "experiment": "clean_scope_sentence_rerank",
+    "baseline_hit1": false,
+    "experiment_hit1": true,
+    "baseline_hit3": true,
+    "experiment_hit3": true,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q03",
+    "experiment": "clean_scope_dense",
+    "baseline_hit1": false,
+    "experiment_hit1": false,
+    "baseline_hit3": false,
+    "experiment_hit3": false,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q03",
+    "experiment": "clean_scope_sentence_rerank",
+    "baseline_hit1": false,
+    "experiment_hit1": false,
+    "baseline_hit3": false,
+    "experiment_hit3": false,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q04",
+    "experiment": "clean_scope_dense",
+    "baseline_hit1": true,
+    "experiment_hit1": true,
+    "baseline_hit3": true,
+    "experiment_hit3": true,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q04",
+    "experiment": "clean_scope_sentence_rerank",
+    "baseline_hit1": true,
+    "experiment_hit1": true,
+    "baseline_hit3": true,
+    "experiment_hit3": true,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q05",
+    "experiment": "clean_scope_dense",
+    "baseline_hit1": false,
+    "experiment_hit1": false,
+    "baseline_hit3": true,
+    "experiment_hit3": true,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q05",
+    "experiment": "clean_scope_sentence_rerank",
+    "baseline_hit1": false,
+    "experiment_hit1": true,
+    "baseline_hit3": true,
+    "experiment_hit3": true,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q06",
+    "experiment": "clean_scope_dense",
+    "baseline_hit1": false,
+    "experiment_hit1": false,
+    "baseline_hit3": true,
+    "experiment_hit3": true,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q06",
+    "experiment": "clean_scope_sentence_rerank",
+    "baseline_hit1": false,
+    "experiment_hit1": false,
+    "baseline_hit3": true,
+    "experiment_hit3": true,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q07",
+    "experiment": "clean_scope_dense",
+    "baseline_hit1": true,
+    "experiment_hit1": true,
+    "baseline_hit3": true,
+    "experiment_hit3": true,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q07",
+    "experiment": "clean_scope_sentence_rerank",
+    "baseline_hit1": true,
+    "experiment_hit1": true,
+    "baseline_hit3": true,
+    "experiment_hit3": true,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q08",
+    "experiment": "clean_scope_dense",
+    "baseline_hit1": false,
+    "experiment_hit1": false,
+    "baseline_hit3": false,
+    "experiment_hit3": false,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q08",
+    "experiment": "clean_scope_sentence_rerank",
+    "baseline_hit1": false,
+    "experiment_hit1": false,
+    "baseline_hit3": false,
+    "experiment_hit3": false,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q09",
+    "experiment": "clean_scope_dense",
+    "baseline_hit1": false,
+    "experiment_hit1": false,
+    "baseline_hit3": false,
+    "experiment_hit3": false,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q09",
+    "experiment": "clean_scope_sentence_rerank",
+    "baseline_hit1": false,
+    "experiment_hit1": false,
+    "baseline_hit3": false,
+    "experiment_hit3": false,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q10",
+    "experiment": "clean_scope_dense",
+    "baseline_hit1": false,
+    "experiment_hit1": false,
+    "baseline_hit3": false,
+    "experiment_hit3": false,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q10",
+    "experiment": "clean_scope_sentence_rerank",
+    "baseline_hit1": false,
+    "experiment_hit1": false,
+    "baseline_hit3": false,
+    "experiment_hit3": false,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q11",
+    "experiment": "clean_scope_dense",
+    "baseline_hit1": false,
+    "experiment_hit1": false,
+    "baseline_hit3": false,
+    "experiment_hit3": false,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q11",
+    "experiment": "clean_scope_sentence_rerank",
+    "baseline_hit1": false,
+    "experiment_hit1": true,
+    "baseline_hit3": false,
+    "experiment_hit3": true,
+    "delta_hit3": 1
+  },
+  {
+    "query_id": "d7-dev-q12",
+    "experiment": "clean_scope_dense",
+    "baseline_hit1": false,
+    "experiment_hit1": false,
+    "baseline_hit3": false,
+    "experiment_hit3": false,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q12",
+    "experiment": "clean_scope_sentence_rerank",
+    "baseline_hit1": false,
+    "experiment_hit1": false,
+    "baseline_hit3": false,
+    "experiment_hit3": true,
+    "delta_hit3": 1
+  },
+  {
+    "query_id": "d7-dev-q13",
+    "experiment": "clean_scope_dense",
+    "baseline_hit1": false,
+    "experiment_hit1": false,
+    "baseline_hit3": false,
+    "experiment_hit3": false,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q13",
+    "experiment": "clean_scope_sentence_rerank",
+    "baseline_hit1": false,
+    "experiment_hit1": false,
+    "baseline_hit3": false,
+    "experiment_hit3": false,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q14",
+    "experiment": "clean_scope_dense",
+    "baseline_hit1": false,
+    "experiment_hit1": false,
+    "baseline_hit3": true,
+    "experiment_hit3": true,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q14",
+    "experiment": "clean_scope_sentence_rerank",
+    "baseline_hit1": false,
+    "experiment_hit1": true,
+    "baseline_hit3": true,
+    "experiment_hit3": true,
+    "delta_hit3": 0
+  },
+  {
+    "query_id": "d7-dev-q15",
+    "experiment": "clean_scope_dense",
+    "baseline_hit1": false,
+    "experiment_hit1": true,
+    "baseline_hit3": false,
+    "experiment_hit3": true,
+    "delta_hit3": 1
+  },
+  {
+    "query_id": "d7-dev-q15",
+    "experiment": "clean_scope_sentence_rerank",
+    "baseline_hit1": false,
+    "experiment_hit1": true,
+    "baseline_hit3": false,
+    "experiment_hit3": true,
+    "delta_hit3": 1
+  }
+]

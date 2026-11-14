@@ -1,0 +1,275 @@
+[
+  {
+    "query_id": "d7-dev-q01",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Trang 5 mô tả as price rises quantity demanded decreases và law of demand; câu hỏi đã cho điều kiện các yếu tố khác không đổi.",
+    "reviewer": "Codex AI - direct reading of answer, final context and source chunks",
+    "student_confirmed": false,
+    "source_trace_sha256": "65a276249bbee1058770f4c53f0b9d5f6d0a75481099d5ee48025398c9fb7bfe",
+    "review_decisions_sha256": "9a533c3ab12e53ecae51fb4f863774bb0ce99e66056e719a13481ea218ea12f4"
+  },
+  {
+    "query_id": "d7-dev-q02",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 1,
+    "answer_grade": 1,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Đáp án nêu đúng quan hệ cùng chiều và độ dốc dương nhưng bỏ điều kiện other factors constant được hỏi. Context trang 19/34 chỉ đủ phần quan hệ.",
+    "reviewer": "Codex AI - direct reading of answer, final context and source chunks",
+    "student_confirmed": false,
+    "source_trace_sha256": "18f2a21b92672978e0987710536a085b07cdf55bead6ef6b67592f2a21a573bf",
+    "review_decisions_sha256": "9a533c3ab12e53ecae51fb4f863774bb0ce99e66056e719a13481ea218ea12f4"
+  },
+  {
+    "query_id": "d7-dev-q03",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 1,
+    "answer_grade": 1,
+    "citation_support": [
+      false
+    ],
+    "abstention_correct": null,
+    "reason": "Định nghĩa curve/all prices so với specific point không có trong citation trang 25. Context minh họa quantity tăng khi curve không đổi, chỉ hỗ trợ một phần phân biệt.",
+    "reviewer": "Codex AI - direct reading of answer, final context and source chunks",
+    "student_confirmed": false,
+    "source_trace_sha256": "0657e4bd7a607c2e9b316843c69c11f9253e21400f0ef7d01637072f5c9998e1",
+    "review_decisions_sha256": "9a533c3ab12e53ecae51fb4f863774bb0ce99e66056e719a13481ea218ea12f4"
+  },
+  {
+    "query_id": "d7-dev-q04",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Trang 7 có cả giá/lượng cân bằng và đơn vị của bảng; trang 8 xác nhận trong context.",
+    "reviewer": "Codex AI - direct reading of answer, final context and source chunks",
+    "student_confirmed": false,
+    "source_trace_sha256": "e0d9173fc65a90695bb51c6dab1a387c7c6503e38f0275677621aee99d7cc040",
+    "review_decisions_sha256": "9a533c3ab12e53ecae51fb4f863774bb0ce99e66056e719a13481ea218ea12f4"
+  },
+  {
+    "query_id": "d7-dev-q05",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Trang 34 nêu below equilibrium, quantity demanded exceeds supplied, shortage và hai quy luật giá-lượng.",
+    "reviewer": "Codex AI - direct reading of answer, final context and source chunks",
+    "student_confirmed": false,
+    "source_trace_sha256": "86c8f0c6720bf433a1fa5dabeb573a81f0df858157ee9615f5bc255e03d1433c",
+    "review_decisions_sha256": "9a533c3ab12e53ecae51fb4f863774bb0ce99e66056e719a13481ea218ea12f4"
+  },
+  {
+    "query_id": "d7-dev-q06",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Trang 9 định nghĩa ceteris paribus; trang 34 nêu giữ yếu tố khác không đổi khi xét một sự kiện.",
+    "reviewer": "Codex AI - direct reading of answer, final context and source chunks",
+    "student_confirmed": false,
+    "source_trace_sha256": "2bd71bd7c0fa14388be478f190d15fd1c237258a09bef47409ab81595c536a01",
+    "review_decisions_sha256": "9a533c3ab12e53ecae51fb4f863774bb0ce99e66056e719a13481ea218ea12f4"
+  },
+  {
+    "query_id": "d7-dev-q07",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Trang 33 định nghĩa normal good: quantity demanded rises as income rises và falls as income falls; trang 11 cũng có gold trong context.",
+    "reviewer": "Codex AI - direct reading of answer, final context and source chunks",
+    "student_confirmed": false,
+    "source_trace_sha256": "c4bd22e1106cedd75e3f8bd839d3dbb95c91a53974aa168f2c8ceafbb49e3ace",
+    "review_decisions_sha256": "9a533c3ab12e53ecae51fb4f863774bb0ce99e66056e719a13481ea218ea12f4"
+  },
+  {
+    "query_id": "d7-dev-q08",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 0,
+    "answer_grade": 0,
+    "citation_support": [
+      false
+    ],
+    "abstention_correct": null,
+    "reason": "Citation trang 23 là chi phí lao động/bưu chính, không hỗ trợ inferior good hay thu nhập tăng. Context thiếu bằng chứng cho câu hỏi.",
+    "reviewer": "Codex AI - direct reading of answer, final context and source chunks",
+    "student_confirmed": false,
+    "source_trace_sha256": "8b7f9c2daad7d62ead7169b38109df36bbcbf4762ee98b88515acb3dbd788f4d",
+    "review_decisions_sha256": "9a533c3ab12e53ecae51fb4f863774bb0ce99e66056e719a13481ea218ea12f4"
+  },
+  {
+    "query_id": "d7-dev-q09",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Trang 12 nêu trực tiếp lower substitute price decreases demand for other product.",
+    "reviewer": "Codex AI - direct reading of answer, final context and source chunks",
+    "student_confirmed": false,
+    "source_trace_sha256": "ba2927da24455a906eebb4888f77a683ca9f9fc45158837e0a3ed84b3e660cfe",
+    "review_decisions_sha256": "9a533c3ab12e53ecae51fb4f863774bb0ce99e66056e719a13481ea218ea12f4"
+  },
+  {
+    "query_id": "d7-dev-q10",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Trang 16 mô tả trợ cấp giảm chi phí, tăng supply at every given price và shift right; hỗ trợ đầy đủ, khác trang gold chính nhưng có nghĩa tương đương.",
+    "reviewer": "Codex AI - direct reading of answer, final context and source chunks",
+    "student_confirmed": false,
+    "source_trace_sha256": "63e759ebbc969caceb9aa3a8130fa383863dfb26a5715bd93947ab1d727a4d16",
+    "review_decisions_sha256": "9a533c3ab12e53ecae51fb4f863774bb0ce99e66056e719a13481ea218ea12f4"
+  },
+  {
+    "query_id": "d7-dev-q11",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Trang 16 nêu new technology lower cost shifts supply right và greater quantity at any given price.",
+    "reviewer": "Codex AI - direct reading of answer, final context and source chunks",
+    "student_confirmed": false,
+    "source_trace_sha256": "4331ed30e588b989f6d8c2aa1164d4b20a3ed1e4fddaa8cf860ee1f99957fbab",
+    "review_decisions_sha256": "9a533c3ab12e53ecae51fb4f863774bb0ce99e66056e719a13481ea218ea12f4"
+  },
+  {
+    "query_id": "d7-dev-q12",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Trang 26 định nghĩa legal maximum price; trang 34 nêu prevents price rising above a level, hỗ trợ diễn giải.",
+    "reviewer": "Codex AI - direct reading of answer, final context and source chunks",
+    "student_confirmed": false,
+    "source_trace_sha256": "61f3a6fab74a8b8ed510fe7415d5fdc96c13f824970a311deaf6637abf018c2a",
+    "review_decisions_sha256": "9a533c3ab12e53ecae51fb4f863774bb0ce99e66056e719a13481ea218ea12f4"
+  },
+  {
+    "query_id": "d7-dev-q13",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Trang 28 định nghĩa lowest price legally pay; trang 26 bổ sung floor prevents falling below a level.",
+    "reviewer": "Codex AI - direct reading of answer, final context and source chunks",
+    "student_confirmed": false,
+    "source_trace_sha256": "96009de0e8b18c541b58a1fc56fad0035254ba5af22960b37d6aca3bfd7edf14",
+    "review_decisions_sha256": "9a533c3ab12e53ecae51fb4f863774bb0ce99e66056e719a13481ea218ea12f4"
+  },
+  {
+    "query_id": "d7-dev-q14",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Trang 30 và 34 cùng nêu tổng thặng dư tiêu dùng và sản xuất.",
+    "reviewer": "Codex AI - direct reading of answer, final context and source chunks",
+    "student_confirmed": false,
+    "source_trace_sha256": "66ce646c4da01d5b24f1a57cf5bf4d5f9a63b897a4cea49b19586a49e3424610",
+    "review_decisions_sha256": "9a533c3ab12e53ecae51fb4f863774bb0ce99e66056e719a13481ea218ea12f4"
+  },
+  {
+    "query_id": "d7-dev-q15",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      false
+    ],
+    "abstention_correct": null,
+    "reason": "Câu trả lời có đủ evidence trong context trang 41 về hộ gia đình/doanh nghiệp, nhưng chỉ cite trang 36, nơi chưa nêu hộ gia đình. Citation không hỗ trợ toàn bộ khẳng định được gắn.",
+    "reviewer": "Codex AI - direct reading of answer, final context and source chunks",
+    "student_confirmed": false,
+    "source_trace_sha256": "d6afaffc2101ca39861838081e975296a1ef8a8f2f5b743a6970dd8456a0ee55",
+    "review_decisions_sha256": "9a533c3ab12e53ecae51fb4f863774bb0ce99e66056e719a13481ea218ea12f4"
+  },
+  {
+    "query_id": "d7-dev-u01",
+    "answerable": false,
+    "status": "abstain",
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Model chọn abstain với raw answer rỗng; validator tạo thông báo từ chối, không bổ sung con số. Nguồn thiếu mức lương Việt Nam 2026; ghi rõ chuẩn hóa.",
+    "reviewer": "Codex AI - direct reading of answer, final context and source chunks",
+    "student_confirmed": false,
+    "source_trace_sha256": "111e8ef8eded99d68f9d71a45585679fbea54af389904115bcc4bd7c6c45bb90",
+    "review_decisions_sha256": "9a533c3ab12e53ecae51fb4f863774bb0ce99e66056e719a13481ea218ea12f4"
+  },
+  {
+    "query_id": "d7-dev-u02",
+    "answerable": false,
+    "status": "abstain",
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Từ chối rõ ràng, không đoán hệ số co giãn thực nghiệm cho địa điểm/năm ngoài corpus.",
+    "reviewer": "Codex AI - direct reading of answer, final context and source chunks",
+    "student_confirmed": false,
+    "source_trace_sha256": "9d130e6b9dfd7950fe6bb908c8f38f30ce2cae823aa7493732a5db321be00c9c",
+    "review_decisions_sha256": "9a533c3ab12e53ecae51fb4f863774bb0ce99e66056e719a13481ea218ea12f4"
+  }
+]

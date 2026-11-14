@@ -1,0 +1,43 @@
+{
+  "reviewer": "Codex AI - direct reading of answer, final context and source chunks",
+  "student_confirmed": false,
+  "scope": "Dev only. Semantic judgments by the same AI involved in implementation; not independent human grading.",
+  "dense": [
+    ["q01", 1, 1, [false], "Citation trang 25 hỗ trợ di chuyển dọc đường cầu nhưng không nêu chiều giảm lượng cầu. Context chưa đủ định luật cầu với điều kiện hỏi."],
+    ["q02", 2, 2, [true, true], "Trang 33 nêu quan hệ cùng chiều và điều kiện other variables held constant; citation thứ hai giải nghĩa ceteris paribus."],
+    ["q03", 1, 0, [], "Từ chối câu có đáp án. Context nhắc phân biệt shift/quantity và demand curve nhưng thiếu định nghĩa curve so với specific point."],
+    ["q04", 2, 2, [true], "Trang 7 có điểm E 1.40/600 và header USD/gallon, millions of gallons; trang 8 trong context xác nhận rõ đơn vị."],
+    ["q05", 2, 2, [true], "Trang 9 nêu đầy đủ below equilibrium, quantity demanded exceeds quantity supplied và shortage."],
+    ["q06", 2, 2, [true, true], "Trang 9 định nghĩa other things being equal; trang 10 giải thích phân tích từng yếu tố và giữ yếu tố khác cố định."],
+    ["q07", 0, 0, [false], "Citation chỉ là câu ability to pay ở trang 3, không định nghĩa normal good hay quan hệ thu nhập-cầu. Đáp án đúng kiến thức nhưng không grounded."],
+    ["q08", 0, 0, [false], "Citation trang 23 nói chuyển dịch do thị hiếu bưu chính, không nói inferior good hay thu nhập. Thêm citation inline chỉ sửa định dạng."],
+    ["q09", 2, 2, [true], "Trang 12 nêu trực tiếp lower price for a substitute decreases demand for the other product."],
+    ["q10", 2, 2, [true, true], "Trang 16 có ví dụ giá thép giảm và trợ cấp giảm chi phí, tăng cung ở mỗi giá, dịch phải; evidence tương đương ngoài quote gold chính."],
+    ["q11", 1, 1, [true], "Trang 22 nói công nghệ giảm chi phí làm tăng cung, hỗ trợ phần cốt lõi; context/citation không giải thích trực tiếp hướng phải của đường cung hàng hóa."],
+    ["q12", 2, 2, [true], "Trang 26 định nghĩa legal maximum price cho hàng hóa/dịch vụ. Bản dịch phải hiểu là giá tối đa được phép trả, không phải nghĩa vụ trả đúng mức trần."],
+    ["q13", 2, 2, [true], "Trang 28 định nghĩa lowest price legally pay, đúng ý và nguồn."],
+    ["q14", 2, 2, [true, true], "Trang 30 và 34 đều nêu social surplus = consumer surplus + producer surplus."],
+    ["q15", 2, 2, [true, true], "Trang 41 nêu supply of labor from households và demand from firms; trang 36 hỗ trợ phía doanh nghiệp thuê lao động. Hai citation hỗ trợ các phần tương ứng."],
+    ["u01", null, null, [], "Từ chối rõ ràng, không đoán mức lương Việt Nam; nguồn chỉ nói ví dụ Hoa Kỳ, không đủ điều kiện địa điểm/năm.", true],
+    ["u02", null, null, [], "Từ chối rõ ràng, không suy hệ số co giãn thực nghiệm Việt Nam từ bảng xăng minh họa.", true]
+  ],
+  "rerank": [
+    ["q01", 2, 2, [true], "Trang 5 mô tả as price rises quantity demanded decreases và law of demand; câu hỏi đã cho điều kiện các yếu tố khác không đổi."],
+    ["q02", 1, 1, [true, true], "Đáp án nêu đúng quan hệ cùng chiều và độ dốc dương nhưng bỏ điều kiện other factors constant được hỏi. Context trang 19/34 chỉ đủ phần quan hệ."],
+    ["q03", 1, 1, [false], "Định nghĩa curve/all prices so với specific point không có trong citation trang 25. Context minh họa quantity tăng khi curve không đổi, chỉ hỗ trợ một phần phân biệt."],
+    ["q04", 2, 2, [true], "Trang 7 có cả giá/lượng cân bằng và đơn vị của bảng; trang 8 xác nhận trong context."],
+    ["q05", 2, 2, [true], "Trang 34 nêu below equilibrium, quantity demanded exceeds supplied, shortage và hai quy luật giá-lượng."],
+    ["q06", 2, 2, [true, true], "Trang 9 định nghĩa ceteris paribus; trang 34 nêu giữ yếu tố khác không đổi khi xét một sự kiện."],
+    ["q07", 2, 2, [true], "Trang 33 định nghĩa normal good: quantity demanded rises as income rises và falls as income falls; trang 11 cũng có gold trong context."],
+    ["q08", 0, 0, [false], "Citation trang 23 là chi phí lao động/bưu chính, không hỗ trợ inferior good hay thu nhập tăng. Context thiếu bằng chứng cho câu hỏi."],
+    ["q09", 2, 2, [true], "Trang 12 nêu trực tiếp lower substitute price decreases demand for other product."],
+    ["q10", 2, 2, [true], "Trang 16 mô tả trợ cấp giảm chi phí, tăng supply at every given price và shift right; hỗ trợ đầy đủ, khác trang gold chính nhưng có nghĩa tương đương."],
+    ["q11", 2, 2, [true], "Trang 16 nêu new technology lower cost shifts supply right và greater quantity at any given price."],
+    ["q12", 2, 2, [true, true], "Trang 26 định nghĩa legal maximum price; trang 34 nêu prevents price rising above a level, hỗ trợ diễn giải."],
+    ["q13", 2, 2, [true, true], "Trang 28 định nghĩa lowest price legally pay; trang 26 bổ sung floor prevents falling below a level."],
+    ["q14", 2, 2, [true, true], "Trang 30 và 34 cùng nêu tổng thặng dư tiêu dùng và sản xuất."],
+    ["q15", 2, 2, [false], "Câu trả lời có đủ evidence trong context trang 41 về hộ gia đình/doanh nghiệp, nhưng chỉ cite trang 36, nơi chưa nêu hộ gia đình. Citation không hỗ trợ toàn bộ khẳng định được gắn."],
+    ["u01", null, null, [], "Model chọn abstain với raw answer rỗng; validator tạo thông báo từ chối, không bổ sung con số. Nguồn thiếu mức lương Việt Nam 2026; ghi rõ chuẩn hóa.", true],
+    ["u02", null, null, [], "Từ chối rõ ràng, không đoán hệ số co giãn thực nghiệm cho địa điểm/năm ngoài corpus.", true]
+  ]
+}

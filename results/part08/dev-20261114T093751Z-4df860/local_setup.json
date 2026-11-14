@@ -1,0 +1,10 @@
+{
+  "dense_startup_seconds": 21.531375599995954,
+  "sentence_setup": {
+    "unique_sentences": 1182,
+    "cache_used": true,
+    "setup_seconds": 0.47165659999882337,
+    "cache_path": "C:\\Users\\VU-HOANG-DZ\\Downloads\\K5-L3A-Day07-NguyenVuHoang-2A202603491-RetrievalContext\\.local\\e5_sentence_bank.json",
+    "new_document_embeddings": 0
+  }
+}

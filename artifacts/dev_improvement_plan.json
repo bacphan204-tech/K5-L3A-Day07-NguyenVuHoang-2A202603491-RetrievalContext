@@ -1,0 +1,22 @@
+{
+  "split": "dev",
+  "test_read_or_run": false,
+  "candidate_k": 20,
+  "ranking_cutoffs": [1, 3],
+  "baseline": "Original-query dense E5 + Chroma, same B corpus",
+  "experiment_1": {
+    "name": "clean_scope_dense",
+    "hypothesis": "An explicit chapter prefix can distract semantic search and duplicate an existing metadata filter.",
+    "change": "Remove leading Theo chương 3/4 only when the same chapter is already present in the supplied filter. Keep filter and all remaining query text."
+  },
+  "experiment_2": {
+    "name": "clean_scope_sentence_rerank",
+    "hypothesis": "Whole-chunk embeddings can blur a relevant definition with neighboring material; source-sentence similarity may improve top-3 ordering.",
+    "change": "Use experiment 1 candidates; score = 0.5 * dense cosine + 0.5 * max source-sentence cosine. Same E5 revision, passage/query prefixes, normalized vectors.",
+    "alpha_dense": 0.5,
+    "alpha_sentence": 0.5,
+    "sentence_policy": "punctuation followed by whitespace; preserve text offsets"
+  },
+  "comparison_policy": "Report original and transformed queries, all per-question outcomes, strict Hit@1/Hit@3 and cost/time. No changes to corpus, gold or parameters based on test.",
+  "selection_scope": "Exploratory dev retrieval only; final selection waits for context and real-agent evaluation. No automatic claim that either experiment improves quality."
+}

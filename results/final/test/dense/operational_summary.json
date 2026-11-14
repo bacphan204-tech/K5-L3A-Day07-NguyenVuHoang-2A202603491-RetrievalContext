@@ -1,0 +1,37 @@
+{
+  "completed_cases": 7,
+  "expected_cases": 7,
+  "statuses": {
+    "answered": 5,
+    "abstain": 2
+  },
+  "errors": 0,
+  "tool_use": {
+    "n": 7,
+    "N": 7
+  },
+  "search_count_distribution": {
+    "1": 7
+  },
+  "strict_context_evidence_rate": {
+    "n": 3,
+    "N": 5
+  },
+  "citation_id_checks_only": {
+    "n": 6,
+    "N": 6
+  },
+  "normalized_abstentions": 2,
+  "model_calls": 14,
+  "input_tokens": 13896,
+  "output_tokens": 1090,
+  "estimated_api_cost_usd": 0.015327,
+  "total_agent_seconds": 28.223577300013858,
+  "manual_metrics": {
+    "grounded_answer": null,
+    "citation_semantic_validity": null,
+    "abstention_correct": null,
+    "context_grade": null
+  },
+  "note": "Partial runs use completed-case denominators; report completion counts. Strict context uses quotes, not semantic review. API errors are separate; usage covers returned responses only."
+}

@@ -1,0 +1,9 @@
+# Normalize ordinary text; retain exact bytes for the frozen experiment inputs.
+* text=auto eol=lf
+src/*.py -text
+*.json -text
+*.jsonl -text
+*.csv -text
+scripts/final_evaluation.py -text
+*.pdf -text
+*.zip -text

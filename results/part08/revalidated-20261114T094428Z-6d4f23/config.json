@@ -1,0 +1,34 @@
+{
+  "split": "dev",
+  "methods": [
+    "dense",
+    "rerank"
+  ],
+  "llm": {
+    "base_url": "https://api.openai.com/v1",
+    "model": "gpt-5.4-mini-2026-03-17",
+    "timeout_seconds": 120,
+    "max_output_tokens": 1500
+  },
+  "prompt_version": "book-agent-v1.1",
+  "max_searches": 3,
+  "top_k": 5,
+  "candidate_k": 20,
+  "context_budget_chars": 5000,
+  "corpus_sha256": "1c4c64b291ad00e040605ac50345e1912a5f98fc24f643faf4cfdd8c86a7d28b",
+  "dev_sha256": "eac6024ea9f2f58ce261fa487476dfd67808c1cfab80d52da3c2b0c4338d6d34",
+  "test_read_or_run": false,
+  "source_sha256": {
+    "agent_dev.py": "55729f781abec2f9e78a6c57decdef84dab38b864f6f450714422199399d6ef8",
+    "book_agent.py": "343c7704b5e60c9ff11c0473099c420b6bfb3b7f1fd17dedeff3db020984927d",
+    "agent_retriever.py": "980883f2d1cc750d2be9790f123f8c3b972793418310b26706e1bd6528690e3c",
+    "llm_client.py": "477134fb2bf671bce38148cf0e84b7c49888789e28af6f32c41d29f3daf7adb4",
+    "retrieval_improvements.py": "16af9ed370e07ba6dddcd979b259bc65db73747f73050b4945b550a8648fca38",
+    "dense_retrieval.py": "f7be167a63f5175ffec74dc84955cbb16465695d0a3e1e391cc74f6a50e0f95f"
+  },
+  "validator_version": "book-agent-validator-v1.2",
+  "revalidation_only": true,
+  "original_run": "C:\\Users\\VU-HOANG-DZ\\Downloads\\K5-L3A-Day07-NguyenVuHoang-2A202603491-RetrievalContext\\results\\part08\\dev-20261114T093751Z-4df860",
+  "original_config_sha256": "41b7ed37c1049b683dd4447bb2d0dc9513cfbc4fa4242d5aec043e81f20435c4",
+  "validator_sha256": "55b9a025ca779e381a3b92e2866339fbe2db75e67164a43692650d14febaab79"
+}

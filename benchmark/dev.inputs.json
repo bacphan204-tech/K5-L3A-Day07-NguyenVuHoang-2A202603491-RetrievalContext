@@ -1,0 +1,96 @@
+[
+  {
+    "id": "d7-dev-q01",
+    "split": "dev",
+    "question": "Khi các yếu tố khác không đổi, giá hàng hóa tăng thì lượng cầu thường thay đổi thế nào?"
+  },
+  {
+    "id": "d7-dev-q02",
+    "split": "dev",
+    "question": "Quy luật cung mô tả quan hệ giữa giá và lượng cung như thế nào, với điều kiện gì?"
+  },
+  {
+    "id": "d7-dev-q03",
+    "split": "dev",
+    "question": "Theo chương 3, cầu khác lượng cầu ở điểm nào?",
+    "filter": {
+      "chapter": 3
+    }
+  },
+  {
+    "id": "d7-dev-q04",
+    "split": "dev",
+    "question": "Trong ví dụ xăng, giá và lượng cân bằng là bao nhiêu?"
+  },
+  {
+    "id": "d7-dev-q05",
+    "split": "dev",
+    "question": "Khi giá thấp hơn mức cân bằng, thị trường bị thiếu hụt hay dư thừa, vì sao?"
+  },
+  {
+    "id": "d7-dev-q06",
+    "split": "dev",
+    "question": "Giả định ceteris paribus có nghĩa là gì trong mô hình cung cầu?"
+  },
+  {
+    "id": "d7-dev-q07",
+    "split": "dev",
+    "question": "Hàng hóa thông thường được định nghĩa theo quan hệ giữa thu nhập và cầu như thế nào?"
+  },
+  {
+    "id": "d7-dev-q08",
+    "split": "dev",
+    "question": "Đối với hàng hóa thứ cấp, thu nhập tăng làm đường cầu dịch chuyển ra sao?"
+  },
+  {
+    "id": "d7-dev-q09",
+    "split": "dev",
+    "question": "Nếu giá hàng hóa thay thế giảm thì cầu đối với sản phẩm còn lại thay đổi thế nào?"
+  },
+  {
+    "id": "d7-dev-q10",
+    "split": "dev",
+    "question": "Chi phí sản xuất giảm tác động thế nào đến lượng cung tại mỗi mức giá và đường cung?"
+  },
+  {
+    "id": "d7-dev-q11",
+    "split": "dev",
+    "question": "Công nghệ mới giúp giảm chi phí sản xuất sẽ dịch chuyển đường cung theo hướng nào?"
+  },
+  {
+    "id": "d7-dev-q12",
+    "split": "dev",
+    "question": "Theo chương 3, giá trần là gì?",
+    "filter": {
+      "chapter": 3
+    }
+  },
+  {
+    "id": "d7-dev-q13",
+    "split": "dev",
+    "question": "Giá sàn được định nghĩa như thế nào?"
+  },
+  {
+    "id": "d7-dev-q14",
+    "split": "dev",
+    "question": "Thặng dư xã hội được tính từ những thành phần nào?"
+  },
+  {
+    "id": "d7-dev-q15",
+    "split": "dev",
+    "question": "Theo chương 4, ai cung ứng và ai có nhu cầu lao động?",
+    "filter": {
+      "chapter": 4
+    }
+  },
+  {
+    "id": "d7-dev-u01",
+    "split": "dev",
+    "question": "Theo bộ tài liệu này, mức lương tối thiểu vùng I của Việt Nam năm 2026 chính xác là bao nhiêu đồng/tháng?"
+  },
+  {
+    "id": "d7-dev-u02",
+    "split": "dev",
+    "question": "Theo tài liệu, hệ số co giãn cầu theo giá của xăng tại Việt Nam năm 2025 chính xác bằng bao nhiêu?"
+  }
+]

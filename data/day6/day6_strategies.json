@@ -1,0 +1,22 @@
+{
+  "model": "intfloat/multilingual-e5-small",
+  "model_revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+  "vector_store": "Chroma PersistentClient",
+  "metric": "cosine",
+  "top_k": 3,
+  "query_language": "vi",
+  "corpus_language": "en",
+  "selection_rule": "Before test: highest strict dev Evidence Hit@3, then Hit@1, then fewer chunks, then alphabetic strategy. Human grounding remains a separate audit, not a tuning signal.",
+  "strategies": {
+    "A": {"chunking": "fixed characters, page-bounded", "size": 500, "overlap": 50, "filter": false},
+    "B": {"chunking": "sentence-boundary-aware, page-bounded", "size": 1000, "overlap": 0, "filter": false},
+    "C": {"chunking": "identical chunks and vectors to B", "size": 1000, "overlap": 0, "filter": "chapter only when provided by question"}
+  },
+  "coherence_sampling": "Midpoint of first 10 sorted selected excerpt pages, all chunks covering each position. Per-position mean then overall mean.",
+  "limitations": [
+    "A-B changes boundary policy, maximum length and overlap together; identifies overall chunking-strategy impact, not the isolated effect of sentence boundaries.",
+    "20 questions authored with AI assistance; human validation required. Dev/test share chapters and concepts; test is not independent by topic.",
+    "Exact evidence containment is a conservative automatic score; valid paraphrases and alternative source evidence need explicit human adjudication.",
+    "C reuses B embeddings; its ingest time excludes embedding compute. Compare shared B+C embedding cost transparently."
+  ]
+}

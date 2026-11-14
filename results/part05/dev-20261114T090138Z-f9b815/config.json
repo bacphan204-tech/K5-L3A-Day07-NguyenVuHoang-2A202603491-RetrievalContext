@@ -1,0 +1,23 @@
+{
+  "split": "dev",
+  "query_mode": "original",
+  "ranking_cutoff": 3,
+  "candidate_k_per_method": 20,
+  "rrf_k": 60,
+  "bm25": {
+    "k1": 1.5,
+    "b": 0.75
+  },
+  "corpus_sha256": "1c4c64b291ad00e040605ac50345e1912a5f98fc24f643faf4cfdd8c86a7d28b",
+  "dev_sha256": "eac6024ea9f2f58ce261fa487476dfd67808c1cfab80d52da3c2b0c4338d6d34",
+  "dev_inputs_sha256": "5b644b0d12eb276b94e9b6e20766a96f02ad620eef4cd19d304505b9d6b116ab",
+  "test_read_or_run": false,
+  "context_or_agent_run": false,
+  "source_sha256": {
+    "scripts/benchmark_dev.py": "8fb190ae9239f4a7f6cbd495a21a7bd304b7cdab46816f9f3a738e4ad3391bc1",
+    "src/dense_retrieval.py": "f7be167a63f5175ffec74dc84955cbb16465695d0a3e1e391cc74f6a50e0f95f",
+    "src/lexical_retrieval.py": "00c931ea14924eec70e492f86baddd1d329e1c26363d1ec8f1b01c553aaa772a",
+    "src/hybrid_retrieval.py": "d3068e00e395c82ca1c82d0c86c9b714ce4061f31a6caefeb654cb5e0bb6361e",
+    "src/retrieval_metrics.py": "a545a30c4ef4d4c556c9904b190b8f47a9956d8590865d7fcbd12d183dd649d4"
+  }
+}

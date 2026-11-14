@@ -1,0 +1,12 @@
+{
+  "plan_sha256": "6bbf9dad15bcb76afb59019beaaf8577a41b85f7ab4c86df399643064999e33e",
+  "dev_sha256": "eac6024ea9f2f58ce261fa487476dfd67808c1cfab80d52da3c2b0c4338d6d34",
+  "corpus_sha256": "1c4c64b291ad00e040605ac50345e1912a5f98fc24f643faf4cfdd8c86a7d28b",
+  "test_read_or_run": false,
+  "source_sha256": {
+    "scripts/experiment_dev.py": "c8dcaff8bbe8ff4612afb6611c926f701db4d534dfc6830c2184fff8adeb844e",
+    "src/retrieval_improvements.py": "16af9ed370e07ba6dddcd979b259bc65db73747f73050b4945b550a8648fca38",
+    "src/dense_retrieval.py": "f7be167a63f5175ffec74dc84955cbb16465695d0a3e1e391cc74f6a50e0f95f",
+    "src/retrieval_metrics.py": "a545a30c4ef4d4c556c9904b190b8f47a9956d8590865d7fcbd12d183dd649d4"
+  }
+}

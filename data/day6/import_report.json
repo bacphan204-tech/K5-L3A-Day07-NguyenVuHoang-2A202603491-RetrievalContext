@@ -1,0 +1,42 @@
+{
+  "strategy": "B",
+  "chunk_count": 183,
+  "content_pages": 52,
+  "physical_pdf_pages": 53,
+  "chunks_by_chapter": {
+    "3": 113,
+    "4": 70
+  },
+  "embedding": {
+    "model": "intfloat/multilingual-e5-small",
+    "revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+    "dimensions": 384,
+    "query_prefix": "query: ",
+    "document_prefix": "passage: ",
+    "normalize_embeddings": true
+  },
+  "vector_store": {
+    "backend": "Chroma PersistentClient",
+    "collection": "economics_b",
+    "metric": "cosine",
+    "day6_database_file_exists": true,
+    "opened_or_queried": false
+  },
+  "checks": {
+    "unique_ids": true,
+    "source_page_offsets_match": true,
+    "all_content_pages_covered": true,
+    "pdf_hash_matches": true
+  },
+  "input_sha256": {
+    "data/manifest.json": "e72b59bdf5e8d58cd8709d431fd2e7c4a5526a97cd0dbe8079357ecece451c49",
+    "artifacts/strategies.json": "0008661818eacff8eee35f0a1471bd72e7d3da36decc619ed1ead63cbc831aed",
+    "results/chunks_B.jsonl": "0c1521b33f9330c5a4bf74f7671c27134b4ea86a086b42a3d012a20ddf983f0f",
+    "data/processed/pages.jsonl": "df96070b2901e3a15f2057f663ed6659fb486884bdf42d25ef392b9402d36197",
+    "data/raw/economics-chapters-3-4.pdf": "5f19c70f104b0872f125d2a19a0b7b0f488a00ff21ac11b8e4e4fedef21a4043",
+    "starter/src/ingestion.py": "e45c1c482ddfc919f38eeead1dda81af707a7a83b37d4f9e5054b3a70bb1e8f0",
+    "starter/src/models.py": "9f26a14cd6139c7b608df067894274308ae7b5c2c2ccd10566079c345fae1710"
+  },
+  "benchmark_imported": false,
+  "note": "Corpus import only. This is not a retrieval benchmark or a live database check."
+}

@@ -1,0 +1,470 @@
+[
+  {
+    "id": "d7-dev-q01",
+    "split": "dev",
+    "question": "Khi các yếu tố khác không đổi, giá hàng hóa tăng thì lượng cầu thường thay đổi thế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Lượng cầu giảm; đó là quan hệ nghịch giữa giá và lượng cầu.",
+    "gold": [
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 4,
+        "evidence": "Economists call this inverse relationship between price and quantity demanded the law of demand. The law of demand assumes that all other variables that affect demand (which we explain in the next module) are held constant."
+      }
+    ],
+    "filter": {},
+    "origin": {
+      "project": "Day 6",
+      "question_id": "q01",
+      "split": "dev"
+    },
+    "review_status": "AI-authored source-text check; student confirmation pending"
+  },
+  {
+    "id": "d7-dev-q02",
+    "split": "dev",
+    "question": "Quy luật cung mô tả quan hệ giữa giá và lượng cung như thế nào, với điều kiện gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Giá cao hơn đi cùng lượng cung cao hơn và ngược lại, khi các yếu tố khác ảnh hưởng cung không đổi.",
+    "gold": [
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 5,
+        "evidence": "Economists call this positive relationship between price and quantity supplied—that a higher price leads to a higher quantity supplied and a lower price leads to a lower quantity supplied—the law of supply. The law of supply assumes that all other variables that affect supply (to be explained in the next module) are held constant."
+      },
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 33,
+        "evidence": "law of supply the common relationship that a higher price leads to a greater quantity supplied and a lower price leads to a lower quantity supplied, while all other variables are held constant"
+      }
+    ],
+    "filter": {},
+    "origin": {
+      "project": "Day 6",
+      "question_id": "q02",
+      "split": "dev"
+    },
+    "review_status": "AI-authored source-text check; student confirmation pending"
+  },
+  {
+    "id": "d7-dev-q03",
+    "split": "dev",
+    "question": "Theo chương 3, cầu khác lượng cầu ở điểm nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Cầu là quan hệ trên cả đường cong; lượng cầu là một điểm cụ thể trên đường cong.",
+    "gold": [
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 5,
+        "evidence": "In short, demand refers to the curve and quantity demanded refers to a (specific) point on the curve."
+      }
+    ],
+    "filter": {
+      "chapter": 3
+    },
+    "origin": {
+      "project": "Day 6",
+      "question_id": "q03",
+      "split": "dev"
+    },
+    "review_status": "AI-authored source-text check; student confirmation pending",
+    "filter_provenance": "Chapter explicitly stated in the question, not inferred from gold"
+  },
+  {
+    "id": "d7-dev-q04",
+    "split": "dev",
+    "question": "Trong ví dụ xăng, giá và lượng cân bằng là bao nhiêu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Giá cân bằng 1,40 USD/gallon; lượng cân bằng 600 triệu gallon trong ví dụ.",
+    "gold": [
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 8,
+        "evidence": "In Figure 3.4, the equilibrium price is $1.40 per gallon of gasoline and the equilibrium quantity is 600 million gallons."
+      }
+    ],
+    "filter": {},
+    "origin": {
+      "project": "Day 6",
+      "question_id": "q04",
+      "split": "dev"
+    },
+    "review_status": "AI-authored source-text check; student confirmation pending"
+  },
+  {
+    "id": "d7-dev-q05",
+    "split": "dev",
+    "question": "Khi giá thấp hơn mức cân bằng, thị trường bị thiếu hụt hay dư thừa, vì sao?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Thiếu hụt vì lượng cầu vượt lượng cung.",
+    "gold": [
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 9,
+        "evidence": "When the price is below equilibrium, there is excess demand, or a shortage—that is, at the given price the quantity demanded, which has been stimulated by the lower price, now exceeds the quantity supplied, which has been depressed by the lower price."
+      },
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 33,
+        "evidence": "excess demand at the existing price, the quantity demanded exceeds the quantity supplied; also called a shortage"
+      },
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 34,
+        "evidence": "If the price is below the equilibrium level, then the quantity demanded will exceed the quantity supplied. Excess demand or a shortage will exist."
+      }
+    ],
+    "filter": {},
+    "origin": {
+      "project": "Day 6",
+      "question_id": "q05",
+      "split": "dev"
+    },
+    "review_status": "AI-authored source-text check; student confirmation pending"
+  },
+  {
+    "id": "d7-dev-q06",
+    "split": "dev",
+    "question": "Giả định ceteris paribus có nghĩa là gì trong mô hình cung cầu?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Giữ các yếu tố liên quan khác không đổi khi phân tích tác động của yếu tố đang xét.",
+    "gold": [
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 9,
+        "evidence": "Economists call this assumption ceteris paribus, a Latin phrase meaning “other things being equal.” Any given demand or supply curve is based on the ceteris paribus assumption that all else is held equal."
+      },
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 34,
+        "evidence": "Economists often use the ceteris paribus or “other things being equal” assumption: while examining the economic impact of one event, all other factors remain unchanged for analysis purposes."
+      }
+    ],
+    "filter": {},
+    "origin": {
+      "project": "Day 6",
+      "question_id": "q06",
+      "split": "dev"
+    },
+    "review_status": "AI-authored source-text check; student confirmation pending"
+  },
+  {
+    "id": "d7-dev-q07",
+    "split": "dev",
+    "question": "Hàng hóa thông thường được định nghĩa theo quan hệ giữa thu nhập và cầu như thế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Thu nhập tăng thì cầu tăng và ngược lại.",
+    "gold": [
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 11,
+        "evidence": "A product whose demand rises when income rises, and vice versa, is called a normal good."
+      },
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 33,
+        "evidence": "normal good a good in which the quantity demanded rises as income rises, and in which quantity demanded falls as income falls"
+      }
+    ],
+    "filter": {},
+    "origin": {
+      "project": "Day 6",
+      "question_id": "q07",
+      "split": "dev"
+    },
+    "review_status": "AI-authored source-text check; student confirmation pending"
+  },
+  {
+    "id": "d7-dev-q08",
+    "split": "dev",
+    "question": "Đối với hàng hóa thứ cấp, thu nhập tăng làm đường cầu dịch chuyển ra sao?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Cầu giảm và đường cầu dịch sang trái.",
+    "gold": [
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 12,
+        "evidence": "A product whose demand falls when income rises, and vice versa, is called an inferior good. In other words, when income increases, the demand curve shifts to the left."
+      },
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 33,
+        "evidence": "inferior good a good in which the quantity demanded falls as income rises, and in which quantity demanded rises and income falls"
+      }
+    ],
+    "filter": {},
+    "origin": {
+      "project": "Day 6",
+      "question_id": "q08",
+      "split": "dev"
+    },
+    "review_status": "AI-authored source-text check; student confirmation pending"
+  },
+  {
+    "id": "d7-dev-q09",
+    "split": "dev",
+    "question": "Nếu giá hàng hóa thay thế giảm thì cầu đối với sản phẩm còn lại thay đổi thế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Cầu đối với sản phẩm còn lại giảm.",
+    "gold": [
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 12,
+        "evidence": "A lower price for a substitute decreases demand for the other product."
+      }
+    ],
+    "filter": {},
+    "origin": {
+      "project": "Day 6",
+      "question_id": "q09",
+      "split": "dev"
+    },
+    "review_status": "AI-authored source-text check; student confirmation pending"
+  },
+  {
+    "id": "d7-dev-q10",
+    "split": "dev",
+    "question": "Chi phí sản xuất giảm tác động thế nào đến lượng cung tại mỗi mức giá và đường cung?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Lượng cung tại mỗi giá tăng; đường cung dịch sang phải.",
+    "gold": [
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 15,
+        "evidence": "When costs of production fall, a firm will tend to supply a larger quantity at any given price for its output. We can show this by the supply curve shifting to the right."
+      }
+    ],
+    "filter": {},
+    "origin": {
+      "project": "Day 6",
+      "question_id": "q10",
+      "split": "dev"
+    },
+    "review_status": "AI-authored source-text check; student confirmation pending"
+  },
+  {
+    "id": "d7-dev-q11",
+    "split": "dev",
+    "question": "Công nghệ mới giúp giảm chi phí sản xuất sẽ dịch chuyển đường cung theo hướng nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Sang phải, lượng sản xuất tại mỗi mức giá tăng.",
+    "gold": [
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 16,
+        "evidence": "A technological improvement that reduces costs of production will shift supply to the right, so that a greater quantity will be produced at any given price."
+      }
+    ],
+    "filter": {},
+    "origin": {
+      "project": "Day 6",
+      "question_id": "q11",
+      "split": "dev"
+    },
+    "review_status": "AI-authored source-text check; student confirmation pending"
+  },
+  {
+    "id": "d7-dev-q12",
+    "split": "dev",
+    "question": "Theo chương 3, giá trần là gì?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Mức giá tối đa hợp pháp được trả cho hàng hóa hoặc dịch vụ.",
+    "gold": [
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 26,
+        "evidence": "A price ceiling is a legal maximum price that one pays for some good or service."
+      },
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 33,
+        "evidence": "price ceiling a legal maximum price"
+      }
+    ],
+    "filter": {
+      "chapter": 3
+    },
+    "origin": {
+      "project": "Day 6",
+      "question_id": "q12",
+      "split": "dev"
+    },
+    "review_status": "AI-authored source-text check; student confirmation pending",
+    "filter_provenance": "Chapter explicitly stated in the question, not inferred from gold"
+  },
+  {
+    "id": "d7-dev-q13",
+    "split": "dev",
+    "question": "Giá sàn được định nghĩa như thế nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Giá thấp nhất được phép trả hợp pháp cho hàng hóa hoặc dịch vụ.",
+    "gold": [
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 28,
+        "evidence": "A price floor is the lowest price that one can legally pay for some good or service."
+      },
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 33,
+        "evidence": "price floor a legal minimum price"
+      }
+    ],
+    "filter": {},
+    "origin": {
+      "project": "Day 6",
+      "question_id": "q13",
+      "split": "dev"
+    },
+    "review_status": "AI-authored source-text check; student confirmation pending"
+  },
+  {
+    "id": "d7-dev-q14",
+    "split": "dev",
+    "question": "Thặng dư xã hội được tính từ những thành phần nào?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Tổng thặng dư tiêu dùng và thặng dư sản xuất.",
+    "gold": [
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 30,
+        "evidence": "The sum of consumer surplus and producer surplus is social surplus, also referred to as economic surplus or total surplus."
+      },
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 34,
+        "evidence": "social surplus the sum of consumer surplus and producer surplus"
+      }
+    ],
+    "filter": {},
+    "origin": {
+      "project": "Day 6",
+      "question_id": "q14",
+      "split": "dev"
+    },
+    "review_status": "AI-authored source-text check; student confirmation pending"
+  },
+  {
+    "id": "d7-dev-q15",
+    "split": "dev",
+    "question": "Theo chương 4, ai cung ứng và ai có nhu cầu lao động?",
+    "answerable": true,
+    "expected_behavior": "search_and_answer",
+    "expected_answer": "Người tìm việc cung ứng lao động; doanh nghiệp và bên tuyển dụng có cầu lao động.",
+    "gold": [
+      {
+        "source_id": "openstax-principles-economics-3e",
+        "page": 36,
+        "evidence": "In labor markets job seekers (individuals) are the suppliers of labor, while firms and other employers who hire labor are the demanders for labor."
+      }
+    ],
+    "filter": {
+      "chapter": 4
+    },
+    "origin": {
+      "project": "Day 6",
+      "question_id": "q15",
+      "split": "dev"
+    },
+    "review_status": "AI-authored source-text check; student confirmation pending",
+    "filter_provenance": "Chapter explicitly stated in the question, not inferred from gold"
+  },
+  {
+    "id": "d7-dev-u01",
+    "split": "dev",
+    "question": "Theo bộ tài liệu này, mức lương tối thiểu vùng I của Việt Nam năm 2026 chính xác là bao nhiêu đồng/tháng?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Corpus không cung cấp quy định lương tối thiểu vùng I Việt Nam năm 2026.",
+    "filter": {},
+    "absence_review": {
+      "search_terms": [
+        "Vietnam",
+        "Viet Nam",
+        "2026",
+        "minimum wage"
+      ],
+      "term_page_hits": {
+        "Vietnam": [],
+        "Viet Nam": [],
+        "2026": [],
+        "minimum wage": [
+          28,
+          36,
+          41,
+          42,
+          43,
+          44
+        ]
+      },
+      "scope": "All 52 indexed text pages; not a top-k retrieval result",
+      "inspection_pages": [
+        28,
+        42,
+        43
+      ],
+      "reasoning": "Các trang về lương tối thiểu/living wage trình bày ví dụ Hoa Kỳ và mô hình, không có bảng mức lương theo vùng Việt Nam hay căn cứ năm 2026. Không dùng ví dụ USD/giờ thay cho số đồng/tháng được hỏi.",
+      "status": "AI initial text/scope review; student source confirmation pending"
+    }
+  },
+  {
+    "id": "d7-dev-u02",
+    "split": "dev",
+    "question": "Theo tài liệu, hệ số co giãn cầu theo giá của xăng tại Việt Nam năm 2025 chính xác bằng bao nhiêu?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Ví dụ xăng không cung cấp ước lượng co giãn thực nghiệm cho Việt Nam năm 2025.",
+    "filter": {},
+    "absence_review": {
+      "search_terms": [
+        "Vietnam",
+        "Viet Nam",
+        "2025",
+        "elasticity",
+        "gasoline"
+      ],
+      "term_page_hits": {
+        "Vietnam": [],
+        "Viet Nam": [],
+        "2025": [],
+        "elasticity": [],
+        "gasoline": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          12,
+          15,
+          22,
+          38
+        ]
+      },
+      "scope": "All 52 indexed text pages; not a top-k retrieval result",
+      "inspection_pages": [
+        4,
+        5,
+        8,
+        9
+      ],
+      "reasoning": "Có bảng giá/lượng giả định và ví dụ cân bằng xăng; không có dữ liệu hoặc ước lượng cho địa điểm, năm được hỏi. Không tự biến phép tính từ bảng minh họa thành hệ số thực nghiệm Việt Nam.",
+      "status": "AI initial text/scope review; student source confirmation pending"
+    }
+  }
+]

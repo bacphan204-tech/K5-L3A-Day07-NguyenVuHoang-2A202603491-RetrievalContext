@@ -1,0 +1,111 @@
+[
+  {
+    "query_id": "d7-test-q01",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Trang 29 nêu willingness to pay 90 USD, actual price 80 USD và định nghĩa consumer surplus; phép trừ 90-80=10 USD đúng.",
+    "reviewer": "Codex AI - direct reading of every test answer, cited source text and final context after pipeline freeze",
+    "student_confirmed": false,
+    "source_trace_sha256": "2368fca73ebfe7cdc1a2547bff790e66238c0a52f981071eb3c00a38e9f87bdb",
+    "review_decisions_sha256": "31eea960c02f12553ca9c68441efee09080dadaa0981f2bd8e558bb569e9cb4d"
+  },
+  {
+    "query_id": "d7-test-q02",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 1,
+    "answer_grade": 1,
+    "citation_support": [
+      false
+    ],
+    "abstention_correct": null,
+    "reason": "Trả đúng phần giá sàn/mua dư thừa và surplus, nhưng thiếu cơ chế chính phủ thêm cầu để giữ giá; cuối câu nói cầu giảm, lẫn thay đổi lượng cầu với dịch chuyển cầu. Citation không hỗ trợ kết luận cầu giảm.",
+    "reviewer": "Codex AI - direct reading of every test answer, cited source text and final context after pipeline freeze",
+    "student_confirmed": false,
+    "source_trace_sha256": "aa0d65f450c2bc40f98d4645fb2701ba696706a839b301a17eaf25345234569c",
+    "review_decisions_sha256": "31eea960c02f12553ca9c68441efee09080dadaa0981f2bd8e558bb569e9cb4d"
+  },
+  {
+    "query_id": "d7-test-q03",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Trang 46 bảng 4.5 và đoạn 13% cho 700/510 tỷ USD; thiếu hụt 190 tỷ USD, đơn vị và phép tính đúng.",
+    "reviewer": "Codex AI - direct reading of every test answer, cited source text and final context after pipeline freeze",
+    "student_confirmed": false,
+    "source_trace_sha256": "178d29fc7c2f77eff2b8883c19b67ad9633b6dd49f47b8bc9b9f96f4f74eb903",
+    "review_decisions_sha256": "31eea960c02f12553ca9c68441efee09080dadaa0981f2bd8e558bb569e9cb4d"
+  },
+  {
+    "query_id": "d7-test-q04",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 0,
+    "answer_grade": 0,
+    "citation_support": [
+      false
+    ],
+    "abstention_correct": null,
+    "reason": "Citation trang 44 chỉ phân loại người tiết kiệm/người vay; context thiếu đoạn niềm tin trả nợ làm demand shift right ở trang 47. Trả đúng kiến thức nhưng không được evidence hỗ trợ.",
+    "reviewer": "Codex AI - direct reading of every test answer, cited source text and final context after pipeline freeze",
+    "student_confirmed": false,
+    "source_trace_sha256": "0daca613698fc3ce1b5208894565e1eb8782d089ca122456394279dd5c26199a",
+    "review_decisions_sha256": "31eea960c02f12553ca9c68441efee09080dadaa0981f2bd8e558bb569e9cb4d"
+  },
+  {
+    "query_id": "d7-test-q05",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Trang 47 nêu rõ rủi ro A tăng -> vốn chuyển B; supply A trái, supply B phải.",
+    "reviewer": "Codex AI - direct reading of every test answer, cited source text and final context after pipeline freeze",
+    "student_confirmed": false,
+    "source_trace_sha256": "fdc05118e598e541ef235fb8ccfe8158836aecb8928e09716cba35841c96ad2f",
+    "review_decisions_sha256": "31eea960c02f12553ca9c68441efee09080dadaa0981f2bd8e558bb569e9cb4d"
+  },
+  {
+    "query_id": "d7-test-u01",
+    "answerable": false,
+    "status": "abstain",
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Từ chối thông tin lãi suất Vietcombank tháng 11/2026; corpus chỉ có mô hình/ví dụ tín dụng, không có báo giá sản phẩm/ngân hàng/tháng yêu cầu.",
+    "reviewer": "Codex AI - direct reading of every test answer, cited source text and final context after pipeline freeze",
+    "student_confirmed": false,
+    "source_trace_sha256": "811039e4ecb9fd0c170bdf9631abdbe61624e4f3e5e78d0c69d89ec65ca89d88",
+    "review_decisions_sha256": "31eea960c02f12553ca9c68441efee09080dadaa0981f2bd8e558bb569e9cb4d"
+  },
+  {
+    "query_id": "d7-test-u02",
+    "answerable": false,
+    "status": "abstain",
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Từ chối giá cân bằng xăng Hà Nội theo ngày. Không chuyển ví dụ USD/gallon trong sách thành số đồng/lít hiện hành.",
+    "reviewer": "Codex AI - direct reading of every test answer, cited source text and final context after pipeline freeze",
+    "student_confirmed": false,
+    "source_trace_sha256": "b5d85c23c8364e882d3c2598d068160ec4357cee4156b6632f84bb7f67c76217",
+    "review_decisions_sha256": "31eea960c02f12553ca9c68441efee09080dadaa0981f2bd8e558bb569e9cb4d"
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "changes": [
+    {
+      "method": "dense",
+      "query_id": "d7-dev-q08",
+      "new_status": "answered",
+      "normalization": {
+        "inline_citations_added": [
+          "76aac269a892f761375c9380"
+        ],
+        "note": "Formatting only; semantic source support still requires review."
+      }
+    },
+    {
+      "method": "rerank",
+      "query_id": "d7-dev-u01",
+      "new_status": "abstain",
+      "normalization": {
+        "canonical_abstention": true,
+        "removed_citations": [],
+        "model_answer_replaced": true
+      }
+    }
+  ],
+  "source_trace_sha256": {
+    "dense/traces/d7-dev-q01.json": "cf405e1c943e2b827eb31c4910218901e7274ce4c47d58c36c78a68d4362eb76",
+    "dense/traces/d7-dev-q02.json": "b2cb1d8b35e7a0f4a2608a724a164d3493028f9892b760ec83ee565bd3a6dc10",
+    "dense/traces/d7-dev-q03.json": "4c27399afd0fbdb5fca239e940a474708c9f09cd0acadaf5eadc4742bdf1ddd3",
+    "dense/traces/d7-dev-q04.json": "a64cc16109973d69aa8d5ea5a8865223821f61574ef51e19edc76a8127d138f8",
+    "dense/traces/d7-dev-q05.json": "3e62abc6fee5f485659088328e49d88429eeadbf87cc6fe7dffb44f250cf6c5a",
+    "dense/traces/d7-dev-q06.json": "4ba6d4ce368a553c07d53c86006fe5a7e2014819aeb848d41c052796cd2c6b89",
+    "dense/traces/d7-dev-q07.json": "b0d7038fb5f02c9d03ad55ba9ae55a0c24b43b90b8d05390cd6521c885a0d9d4",
+    "dense/traces/d7-dev-q08.json": "bc2706ac2329e0f4c56e671b8adcb72f9e2edde2f100b1481b524a0acad9ae14",
+    "dense/traces/d7-dev-q09.json": "522267324ecf96b9fbb6cd61526df6f962dda9ff56622a393ab7b279d44b1c19",
+    "dense/traces/d7-dev-q10.json": "8fba5cf16f5e5426643cf9adb79c406216fc6b115247fefd4b8b6f99b99c2c42",
+    "dense/traces/d7-dev-q11.json": "03b436697e9727fa654b1b7fbb121be9bf0f78627aefffc28dcee74c802305b3",
+    "dense/traces/d7-dev-q12.json": "c179fe309294143983c214e444a6125c8e3358997cfe333dad685b4338518785",
+    "dense/traces/d7-dev-q13.json": "497f2a21afc10f2805e6f771922fd06413b100d1473b77e2dbaa39f7f99d0834",
+    "dense/traces/d7-dev-q14.json": "01451028602cff44a3ad9e9edff9bb2ea23a3d65209f322c79a485094ad3b120",
+    "dense/traces/d7-dev-q15.json": "4fb9ac5a8a35cafeeabd1c92b8633c0aab646ebf003bced21b5214e732dc39bd",
+    "dense/traces/d7-dev-u01.json": "14d8284c4fc143b641e684704245b5cd4d90df12151063765549ad904987cb47",
+    "dense/traces/d7-dev-u02.json": "f669c6ec17d0ea8294ebe92c5b9b6a71c1c928799983f562950d6a5c8ab16a24",
+    "rerank/traces/d7-dev-q01.json": "469d74f268ded17296331503f1597aa0fbb0a3edbcd8562fd38ae115ef767c62",
+    "rerank/traces/d7-dev-q02.json": "b24e85c6c266169c7e70d2a605f149c9f49a647f70d6c62e2acffa9ffc76e7aa",
+    "rerank/traces/d7-dev-q03.json": "befc40f3ddde13d02cfe158ea9580641a505e1f004c5fc01338faaa96ed993d5",
+    "rerank/traces/d7-dev-q04.json": "646efad0866e875bd3b1932be8cc4a9537ece4c70d068e5781ae06f6268b5beb",
+    "rerank/traces/d7-dev-q05.json": "7878c02febb51014a0b46c2e77e3c18298d3022061f20ed43de134e2828729e6",
+    "rerank/traces/d7-dev-q06.json": "b8435db1d936a74e275baf2283a57933a8d9ee67f5d8e66e68a59f73924b849f",
+    "rerank/traces/d7-dev-q07.json": "7d439b6c24161c1ca723b207aef993feb56533acae50866eaeb3f577682cbad4",
+    "rerank/traces/d7-dev-q08.json": "d6ef8f6d3853bd9651507bdaf1e555b977096614d799165b4071b3a35bbdfdb7",
+    "rerank/traces/d7-dev-q09.json": "429f89a67d66a3bd41e1235034a13322e931325f760ee0e7f1e1c4c2bccd9282",
+    "rerank/traces/d7-dev-q10.json": "c4062e8164de72b984ad933b48a28606f3a0af4374a806c821602631efa33edf",
+    "rerank/traces/d7-dev-q11.json": "a4b1683a03d8079355ec37147a6a9899683248a9c9157988c250483e162f11a1",
+    "rerank/traces/d7-dev-q12.json": "9e6fc31ed912ea4451a66ea1138be86d65419855a967e6402836181fec7bd2f7",
+    "rerank/traces/d7-dev-q13.json": "18aa78911e6a72f41ec456987e80d7c8727fc0c81c2d07c4ef15250447260c5c",
+    "rerank/traces/d7-dev-q14.json": "42802535dd7e6b587e838103ae4fc5148fe0bd0d1bd0d1af0f59b7856bf242b1",
+    "rerank/traces/d7-dev-q15.json": "626f9c1afbec22d05618025277ad8d73b918c8ba1d8e3c8a33d07e82f4f26a00",
+    "rerank/traces/d7-dev-u01.json": "4ed37ad63289c8ca6404f8e7b325a30f8c9fdc32250d674195ee755307ea8a43",
+    "rerank/traces/d7-dev-u02.json": "0486e6042e8b9137b9846caae29134048f1a224c0115a97b151e861ef5632d1e"
+  },
+  "new_api_calls": 0,
+  "additional_api_cost_usd": 0,
+  "note": "Derived validation output, not a fresh model run or semantic grading. Original traces unchanged; manual labels reset for review."
+}

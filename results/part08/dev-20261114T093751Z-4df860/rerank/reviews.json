@@ -1,0 +1,241 @@
+[
+  {
+    "query_id": "d7-dev-q01",
+    "status": "answered",
+    "answerable": true,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [
+      null
+    ],
+    "abstention_correct": null,
+    "reason": "",
+    "reviewer": "",
+    "student_confirmed": false
+  },
+  {
+    "query_id": "d7-dev-q02",
+    "status": "answered",
+    "answerable": true,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [
+      null,
+      null
+    ],
+    "abstention_correct": null,
+    "reason": "",
+    "reviewer": "",
+    "student_confirmed": false
+  },
+  {
+    "query_id": "d7-dev-q03",
+    "status": "answered",
+    "answerable": true,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [
+      null
+    ],
+    "abstention_correct": null,
+    "reason": "",
+    "reviewer": "",
+    "student_confirmed": false
+  },
+  {
+    "query_id": "d7-dev-q04",
+    "status": "answered",
+    "answerable": true,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [
+      null
+    ],
+    "abstention_correct": null,
+    "reason": "",
+    "reviewer": "",
+    "student_confirmed": false
+  },
+  {
+    "query_id": "d7-dev-q05",
+    "status": "answered",
+    "answerable": true,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [
+      null
+    ],
+    "abstention_correct": null,
+    "reason": "",
+    "reviewer": "",
+    "student_confirmed": false
+  },
+  {
+    "query_id": "d7-dev-q06",
+    "status": "answered",
+    "answerable": true,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [
+      null,
+      null
+    ],
+    "abstention_correct": null,
+    "reason": "",
+    "reviewer": "",
+    "student_confirmed": false
+  },
+  {
+    "query_id": "d7-dev-q07",
+    "status": "answered",
+    "answerable": true,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [
+      null
+    ],
+    "abstention_correct": null,
+    "reason": "",
+    "reviewer": "",
+    "student_confirmed": false
+  },
+  {
+    "query_id": "d7-dev-q08",
+    "status": "answered",
+    "answerable": true,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [
+      null
+    ],
+    "abstention_correct": null,
+    "reason": "",
+    "reviewer": "",
+    "student_confirmed": false
+  },
+  {
+    "query_id": "d7-dev-q09",
+    "status": "answered",
+    "answerable": true,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [
+      null
+    ],
+    "abstention_correct": null,
+    "reason": "",
+    "reviewer": "",
+    "student_confirmed": false
+  },
+  {
+    "query_id": "d7-dev-q10",
+    "status": "answered",
+    "answerable": true,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [
+      null
+    ],
+    "abstention_correct": null,
+    "reason": "",
+    "reviewer": "",
+    "student_confirmed": false
+  },
+  {
+    "query_id": "d7-dev-q11",
+    "status": "answered",
+    "answerable": true,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [
+      null
+    ],
+    "abstention_correct": null,
+    "reason": "",
+    "reviewer": "",
+    "student_confirmed": false
+  },
+  {
+    "query_id": "d7-dev-q12",
+    "status": "answered",
+    "answerable": true,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [
+      null,
+      null
+    ],
+    "abstention_correct": null,
+    "reason": "",
+    "reviewer": "",
+    "student_confirmed": false
+  },
+  {
+    "query_id": "d7-dev-q13",
+    "status": "answered",
+    "answerable": true,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [
+      null,
+      null
+    ],
+    "abstention_correct": null,
+    "reason": "",
+    "reviewer": "",
+    "student_confirmed": false
+  },
+  {
+    "query_id": "d7-dev-q14",
+    "status": "answered",
+    "answerable": true,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [
+      null,
+      null
+    ],
+    "abstention_correct": null,
+    "reason": "",
+    "reviewer": "",
+    "student_confirmed": false
+  },
+  {
+    "query_id": "d7-dev-q15",
+    "status": "answered",
+    "answerable": true,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [
+      null
+    ],
+    "abstention_correct": null,
+    "reason": "",
+    "reviewer": "",
+    "student_confirmed": false
+  },
+  {
+    "query_id": "d7-dev-u01",
+    "status": "error",
+    "answerable": false,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reason": "",
+    "reviewer": "",
+    "student_confirmed": false
+  },
+  {
+    "query_id": "d7-dev-u02",
+    "status": "abstain",
+    "answerable": false,
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": null,
+    "reason": "",
+    "reviewer": "",
+    "student_confirmed": false
+  }
+]

@@ -1,0 +1,267 @@
+{
+  "pdf_physical_pages": 53,
+  "content_pages": 52,
+  "checks": [
+    {
+      "page": 2,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 3,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 4,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 5,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 6,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 7,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 8,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 9,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 10,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 11,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 12,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 13,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 14,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 15,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 16,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 17,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 18,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 19,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 20,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 21,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 22,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 23,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 24,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 25,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 26,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 27,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 28,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 29,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 30,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 31,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 32,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 33,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 34,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 35,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 36,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 37,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 38,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 39,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 40,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 41,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 42,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 43,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 44,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 45,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 46,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 47,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 48,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 49,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 50,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 51,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 52,
+      "nonempty": true,
+      "first_80_chars_match": true
+    },
+    {
+      "page": 53,
+      "nonempty": true,
+      "first_80_chars_match": true
+    }
+  ],
+  "method": "pypdf full-page extraction compared to prepared source text; not visual layout/OCR verification"
+}

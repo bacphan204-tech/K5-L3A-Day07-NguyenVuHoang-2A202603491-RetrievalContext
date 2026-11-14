@@ -1,0 +1,112 @@
+[
+  {
+    "query_id": "d7-test-q01",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Trang 29 đủ 90 USD, 80 USD và công thức willingness minus actual paid; đáp án 10 USD và phép trừ đúng.",
+    "reviewer": "Codex AI - direct reading of every test answer, cited source text and final context after pipeline freeze",
+    "student_confirmed": false,
+    "source_trace_sha256": "458662e67e7de1aedcadf35cca2ae0d2f39c0729192d06b53a2cdc92f341f6af",
+    "review_decisions_sha256": "31eea960c02f12553ca9c68441efee09080dadaa0981f2bd8e558bb569e9cb4d"
+  },
+  {
+    "query_id": "d7-test-q02",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Trang 28 nêu chính phủ mua sản phẩm adding to demand giữ giá cao; đoạn cùng trang nói dư cung/mua phần dư, lợi nông dân và chi phí taxpayers/consumers. Hai citation hỗ trợ các phần tương ứng.",
+    "reviewer": "Codex AI - direct reading of every test answer, cited source text and final context after pipeline freeze",
+    "student_confirmed": false,
+    "source_trace_sha256": "8b1024a634dbe9b92deff9667f81838520da66780f9141f1ce0189f665ffcdb9",
+    "review_decisions_sha256": "31eea960c02f12553ca9c68441efee09080dadaa0981f2bd8e558bb569e9cb4d"
+  },
+  {
+    "query_id": "d7-test-q03",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Trang 46 đủ lãi suất 13%, cầu 700 và cung 510 tỷ USD; thiếu hụt 190 tỷ USD được tính đúng.",
+    "reviewer": "Codex AI - direct reading of every test answer, cited source text and final context after pipeline freeze",
+    "student_confirmed": false,
+    "source_trace_sha256": "39eda5b1e1ead035dded98dfd05d63a057f9712030d936dfbed0f8975b5374f8",
+    "review_decisions_sha256": "31eea960c02f12553ca9c68441efee09080dadaa0981f2bd8e558bb569e9cb4d"
+  },
+  {
+    "query_id": "d7-test-q04",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Trang 47 nói trực tiếp greater confidence repay in future -> quantity demanded at any given interest rate shifts right. Diễn đạt lượng cầu ở mỗi mức lãi suất được hiểu là dịch đường cầu.",
+    "reviewer": "Codex AI - direct reading of every test answer, cited source text and final context after pipeline freeze",
+    "student_confirmed": false,
+    "source_trace_sha256": "f827b5fb1ff964682be112dbf80c655d3ae630ee3989f38eca8202f1274afbcf",
+    "review_decisions_sha256": "31eea960c02f12553ca9c68441efee09080dadaa0981f2bd8e558bb569e9cb4d"
+  },
+  {
+    "query_id": "d7-test-q05",
+    "answerable": true,
+    "status": "answered",
+    "context_grade": 2,
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": null,
+    "reason": "Trang 47 hỗ trợ đầy đủ chuyển vốn A sang B khi A rủi ro hơn, supply A trái và B phải.",
+    "reviewer": "Codex AI - direct reading of every test answer, cited source text and final context after pipeline freeze",
+    "student_confirmed": false,
+    "source_trace_sha256": "6128cb39df392cd3c4afd7ae6aa3c93106f2cf2d84edf218151da667aedb2177",
+    "review_decisions_sha256": "31eea960c02f12553ca9c68441efee09080dadaa0981f2bd8e558bb569e9cb4d"
+  },
+  {
+    "query_id": "d7-test-u01",
+    "answerable": false,
+    "status": "abstain",
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Từ chối rõ ràng dữ liệu lãi suất ngân hàng/tháng không được cung cấp; không thêm khẳng định hay con số suy đoán.",
+    "reviewer": "Codex AI - direct reading of every test answer, cited source text and final context after pipeline freeze",
+    "student_confirmed": false,
+    "source_trace_sha256": "e2d2e46154d5173d7ac37d4475b167fdd217d8f018e32b7645ee9c9fd0811604",
+    "review_decisions_sha256": "31eea960c02f12553ca9c68441efee09080dadaa0981f2bd8e558bb569e9cb4d"
+  },
+  {
+    "query_id": "d7-test-u02",
+    "answerable": false,
+    "status": "abstain",
+    "context_grade": null,
+    "answer_grade": null,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Từ chối rõ ràng giá xăng Hà Nội/ngày được hỏi, không dùng ví dụ sách thay dữ liệu thị trường.",
+    "reviewer": "Codex AI - direct reading of every test answer, cited source text and final context after pipeline freeze",
+    "student_confirmed": false,
+    "source_trace_sha256": "9a6e26d4883695cf081d519ef895207dafe4044ad39b092ec2247a3e0caacd3a",
+    "review_decisions_sha256": "31eea960c02f12553ca9c68441efee09080dadaa0981f2bd8e558bb569e9cb4d"
+  }
+]

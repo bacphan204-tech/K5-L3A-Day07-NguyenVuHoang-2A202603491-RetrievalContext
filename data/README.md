@@ -7,3 +7,5 @@ Các file `example_*.json` chỉ minh họa định dạng, không đủ để n
 - **Câu thiếu evidence:** `id`, `split`, `question`, `answerable: false`, `expected_behavior: "search_and_abstain"`, `absence_reason`. Xem `agent_cases_example.json`.
 
 Không đưa `gold` hoặc nhãn đáp án vào model và retrieval tool. Ghi nguồn dữ liệu và quyền sử dụng. Cách chuyển một số định dạng Day 6: [starter/README.md](../starter/README.md).
+
+Bộ benchmark Day 7 được chuẩn bị tại `benchmark/` ở gốc repo; file `.inputs.json` chỉ chứa đầu vào pipeline, file `dev.json`/`test.json` chứa nhãn evaluator. Cách chạy ở [README](../README.md), minh chứng yêu cầu ở [docs/README.md](../docs/README.md).

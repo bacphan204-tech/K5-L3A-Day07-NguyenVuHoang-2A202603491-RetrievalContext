@@ -1,0 +1,512 @@
+{
+  "source_id": "openstax-principles-economics-3e",
+  "title": "Principles of Economics 3e",
+  "publisher": "OpenStax, Rice University",
+  "source_path_or_url": "data/raw/economics-chapters-3-4.pdf",
+  "source_url": "https://openstax.org/details/books/principles-economics-3e/",
+  "download_url": "https://assets.openstax.org/oscms-prodcms/media/documents/principles-economics-3e_-_WEB.pdf",
+  "accessed_at": "2026-11-13",
+  "license_or_permission": "CC BY-NC-SA 4.0; see excerpt PDF page 1 (original PDF page 4)",
+  "attribution": "Access for free at openstax.org. OpenStax, Rice University, Principles of Economics 3e.",
+  "snapshot": {
+    "sha256": "5f19c70f104b0872f125d2a19a0b7b0f488a00ff21ac11b8e4e4fedef21a4043",
+    "size_bytes": 4881653,
+    "total_physical_pages": 53,
+    "copyright_notice_in_file": "2026 Rice University",
+    "original_publication_year_in_file": 2022
+  },
+  "scope": "Demand and supply, including labor and financial markets",
+  "page_numbering": "page is the one-based physical page in the 53-page excerpt. original_pdf_page and printed_page preserve the original mapping; see data/excerpt_page_map.csv.",
+  "counting_rule": "Count relevant instructional pages only after content review. Exclude cover, contents, blank and references-only pages. Short pages require review, not automatic exclusion.",
+  "selected_page_count": 52,
+  "verified_content_page_count": 52,
+  "review_status": "assistant_structural_review_complete; student_review_pending",
+  "pages": [
+    {
+      "page": 2,
+      "printed_page": 47,
+      "original_pdf_page": 63,
+      "chapter": 3,
+      "char_count": 1010,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 3,
+      "printed_page": 48,
+      "original_pdf_page": 64,
+      "chapter": 3,
+      "char_count": 3695,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 4,
+      "printed_page": 49,
+      "original_pdf_page": 65,
+      "chapter": 3,
+      "char_count": 2144,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 5,
+      "printed_page": 50,
+      "original_pdf_page": 66,
+      "chapter": 3,
+      "char_count": 2727,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 6,
+      "printed_page": 51,
+      "original_pdf_page": 67,
+      "chapter": 3,
+      "char_count": 1984,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 7,
+      "printed_page": 52,
+      "original_pdf_page": 68,
+      "chapter": 3,
+      "char_count": 1926,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 8,
+      "printed_page": 53,
+      "original_pdf_page": 69,
+      "chapter": 3,
+      "char_count": 3913,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 9,
+      "printed_page": 54,
+      "original_pdf_page": 70,
+      "chapter": 3,
+      "char_count": 3670,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 10,
+      "printed_page": 55,
+      "original_pdf_page": 71,
+      "chapter": 3,
+      "char_count": 2617,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 11,
+      "printed_page": 56,
+      "original_pdf_page": 72,
+      "chapter": 3,
+      "char_count": 2091,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 12,
+      "printed_page": 57,
+      "original_pdf_page": 73,
+      "chapter": 3,
+      "char_count": 4338,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 13,
+      "printed_page": 58,
+      "original_pdf_page": 74,
+      "chapter": 3,
+      "char_count": 1602,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 14,
+      "printed_page": 59,
+      "original_pdf_page": 75,
+      "chapter": 3,
+      "char_count": 2196,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 15,
+      "printed_page": 60,
+      "original_pdf_page": 76,
+      "chapter": 3,
+      "char_count": 2247,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 16,
+      "printed_page": 61,
+      "original_pdf_page": 77,
+      "chapter": 3,
+      "char_count": 4119,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 17,
+      "printed_page": 62,
+      "original_pdf_page": 78,
+      "chapter": 3,
+      "char_count": 1713,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 18,
+      "printed_page": 63,
+      "original_pdf_page": 79,
+      "chapter": 3,
+      "char_count": 1344,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 19,
+      "printed_page": 64,
+      "original_pdf_page": 80,
+      "chapter": 3,
+      "char_count": 2948,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 20,
+      "printed_page": 65,
+      "original_pdf_page": 81,
+      "chapter": 3,
+      "char_count": 1643,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 21,
+      "printed_page": 66,
+      "original_pdf_page": 82,
+      "chapter": 3,
+      "char_count": 2683,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 22,
+      "printed_page": 67,
+      "original_pdf_page": 83,
+      "chapter": 3,
+      "char_count": 2715,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 23,
+      "printed_page": 68,
+      "original_pdf_page": 84,
+      "chapter": 3,
+      "char_count": 2787,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 24,
+      "printed_page": 69,
+      "original_pdf_page": 85,
+      "chapter": 3,
+      "char_count": 2592,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 25,
+      "printed_page": 70,
+      "original_pdf_page": 86,
+      "chapter": 3,
+      "char_count": 2953,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 26,
+      "printed_page": 71,
+      "original_pdf_page": 87,
+      "chapter": 3,
+      "char_count": 3422,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 27,
+      "printed_page": 72,
+      "original_pdf_page": 88,
+      "chapter": 3,
+      "char_count": 2591,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 28,
+      "printed_page": 73,
+      "original_pdf_page": 89,
+      "chapter": 3,
+      "char_count": 3125,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 29,
+      "printed_page": 74,
+      "original_pdf_page": 90,
+      "chapter": 3,
+      "char_count": 2464,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 30,
+      "printed_page": 75,
+      "original_pdf_page": 91,
+      "chapter": 3,
+      "char_count": 3071,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 31,
+      "printed_page": 76,
+      "original_pdf_page": 92,
+      "chapter": 3,
+      "char_count": 3319,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 32,
+      "printed_page": 77,
+      "original_pdf_page": 93,
+      "chapter": 3,
+      "char_count": 4029,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 33,
+      "printed_page": 78,
+      "original_pdf_page": 94,
+      "chapter": 3,
+      "char_count": 3593,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 34,
+      "printed_page": 79,
+      "original_pdf_page": 95,
+      "chapter": 3,
+      "char_count": 3841,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 35,
+      "printed_page": 85,
+      "original_pdf_page": 101,
+      "chapter": 4,
+      "char_count": 1433,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 36,
+      "printed_page": 86,
+      "original_pdf_page": 102,
+      "chapter": 4,
+      "char_count": 3517,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 37,
+      "printed_page": 87,
+      "original_pdf_page": 103,
+      "chapter": 4,
+      "char_count": 2218,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 38,
+      "printed_page": 88,
+      "original_pdf_page": 104,
+      "chapter": 4,
+      "char_count": 4408,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 39,
+      "printed_page": 89,
+      "original_pdf_page": 105,
+      "chapter": 4,
+      "char_count": 3418,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 40,
+      "printed_page": 90,
+      "original_pdf_page": 106,
+      "chapter": 4,
+      "char_count": 3966,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 41,
+      "printed_page": 91,
+      "original_pdf_page": 107,
+      "chapter": 4,
+      "char_count": 2634,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 42,
+      "printed_page": 92,
+      "original_pdf_page": 108,
+      "chapter": 4,
+      "char_count": 3419,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 43,
+      "printed_page": 93,
+      "original_pdf_page": 109,
+      "chapter": 4,
+      "char_count": 3341,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 44,
+      "printed_page": 94,
+      "original_pdf_page": 110,
+      "chapter": 4,
+      "char_count": 3910,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 45,
+      "printed_page": 95,
+      "original_pdf_page": 111,
+      "chapter": 4,
+      "char_count": 2843,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 46,
+      "printed_page": 96,
+      "original_pdf_page": 112,
+      "chapter": 4,
+      "char_count": 3255,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 47,
+      "printed_page": 97,
+      "original_pdf_page": 113,
+      "chapter": 4,
+      "char_count": 3976,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 48,
+      "printed_page": 98,
+      "original_pdf_page": 114,
+      "chapter": 4,
+      "char_count": 1755,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 49,
+      "printed_page": 99,
+      "original_pdf_page": 115,
+      "chapter": 4,
+      "char_count": 3393,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 50,
+      "printed_page": 100,
+      "original_pdf_page": 116,
+      "chapter": 4,
+      "char_count": 4049,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 51,
+      "printed_page": 101,
+      "original_pdf_page": 117,
+      "chapter": 4,
+      "char_count": 3420,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 52,
+      "printed_page": 102,
+      "original_pdf_page": 118,
+      "chapter": 4,
+      "char_count": 2172,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    },
+    {
+      "page": 53,
+      "printed_page": 103,
+      "original_pdf_page": 119,
+      "chapter": 4,
+      "char_count": 704,
+      "status": "needs_content_review",
+      "content_review": "AI structural/source review; student confirmation pending"
+    }
+  ],
+  "filter_metadata": {
+    "chapter": {
+      "type": "integer",
+      "values": [
+        3,
+        4
+      ],
+      "provenance": "Chapter headings and table of contents in source PDF",
+      "purpose": "Restrict retrieval to the chapter explicitly requested by the question or prior user context"
+    }
+  },
+  "limitations": [
+    "Text extraction does not preserve graph geometry or reliably reconstruct tables.",
+    "Some words are joined in the source extraction; normalization does not infer missing spaces.",
+    "Paragraph structure and printed-page mapping require checking against the PDF.",
+    "The original full PDF was removed locally; the excerpt includes its copyright page, which is excluded from indexing."
+  ],
+  "review_evidence": "data/corpus_review.json"
+}

@@ -1,0 +1,525 @@
+{
+  "id": "adv-dev-table-02",
+  "question": "Dựa vào Hình 3.3 và Bảng 3.2 về xăng, nếu giá là 1,60 đô la mỗi gallon thì lượng cung ứng là bao nhiêu, và đơn vị của lượng này là gì?",
+  "vision": false,
+  "final": {
+    "status": "answered",
+    "answer": "Theo Hình 3.3 và Bảng 3.2, khi giá là 1,60 đô la mỗi gallon thì lượng cung ứng là 640 triệu gallon [page 43, Figure 3.3; Table 3.2]. Đơn vị của lượng này là \"triệu gallon\" (millions of gallons) [page 43, Figure 3.3; Table 3.2].",
+    "pages": [
+      43
+    ]
+  },
+  "context": [
+    {
+      "page": 43,
+      "original_pdf_page": 67,
+      "text": "Is supply the same as quantity supplied? \nIn economic terminology, supply is not the same as quantity supplied. When economists refer to supply, they mean \nthe relationship between a range of prices and the quantities supplied at those prices, a relationship that we can \nillustrate with a supply curve or a supply schedule. When economists refer to quantity supplied, they mean only a \ncertain point on the supply curve, or one quantity on the supply schedule. In short, supply refers to the curve and \nquantity supplied refers to a (specific) point on the curve. \nFigure 3.3 illustrates the law of supply, again using the market for gasoline as an example. Like demand, we \ncan illustrate supply using a table or a graph. A supply schedule is a table, like Table 3.2, that shows the \nquantity supplied at a range of different prices. Again, we measure price in dollars per gallon of gasoline and \nwe measure quantity supplied in millions of gallons. A supply curve is a graphic illustration of the relationship \nbetween price, shown on the vertical axis, and quantity, shown on the horizontal axis. The supply schedule and \nthe supply curve are just two different ways of showing the same information. Notice that the horizontal and \nvertical axes on the graph for the supply curve are the same as for the demand curve. \nFIGURE 3.3 A Supply Curve for Gasoline The supply schedule is the table that shows quantity supplied of gasoline \nat each price. As price rises, quantity supplied also increases, and vice versa. The supply curve (S) is created by \ngraphing the points from the supply schedule and then connecting them. The upward slope of the supply curve \nillustrates the law of supply—that a higher price leads to a higher quantity supplied, and vice versa. \nPrice (per gallon) Quantity Supplied (millions of gallons) \n$1.00 \n500 \n$1.20 \n550 \n$1.40 \n600 \n$1.60 \n640 \n$1.80 \n680 \nTABLE 3.2 Price and Supply of Gasoline \n CLEAR IT UP \n3.1 • Demand, Supply, and Equilibrium in Markets for Goods and Services     51\n"
+    },
+    {
+      "page": 44,
+      "original_pdf_page": 68,
+      "text": "Price (per gallon) Quantity Supplied (millions of gallons) \n$2.00 \n700 \n$2.20 \n720 \nTABLE 3.2 Price and Supply of Gasoline \nThe shape of supply curves will vary somewhat according to the product: steeper, flatter, straighter, or curved. \nNearly all supply curves, however, share a basic similarity: they slope up from left to right and illustrate the law \nof supply: as the price rises, say, from $1.00 per gallon to $2.20 per gallon, the quantity supplied increases \nfrom 500 gallons to 720 gallons. Conversely, as the price falls, the quantity supplied decreases. \nEquilibrium—Where Demand and Supply Intersect \nBecause the graphs for demand and supply curves both have price on the vertical axis and quantity on the \nhorizontal axis, the demand curve and supply curve for a particular good or service can appear on the same \ngraph. Together, demand and supply determine the price and the quantity that will be bought and sold in a \nmarket. \nFigure 3.4 illustrates the interaction of demand and supply in the market for gasoline. The demand curve (D) is \nidentical to Figure 3.2. The supply curve (S) is identical to Figure 3.3. Table 3.3 contains the same information \nin tabular form. \nFIGURE 3.4 Demand and Supply for Gasoline The demand curve (D) and the supply curve (S) intersect at the \nequilibrium point E, with a price of $1.40 and a quantity of 600. The equilibrium price is the only price where \nquantity demanded is equal to quantity supplied. At a price above equilibrium like $1.80, quantity supplied exceeds \nthe quantity demanded, so there is excess supply. At a price below equilibrium such as $1.20, quantity demanded \nexceeds quantity supplied, so there is excess demand. \nPrice (per gallon) Quantity demanded (millions of gallons) Quantity supplied (millions of gallons) \n$1.00 \n800 \n500 \n$1.20 \n700 \n550 \n$1.40 \n600 \n600 \nTABLE 3.3 Price, Quantity Demanded, and Quantity Supplied \n52     3 • Demand and Supply\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 45,
+      "original_pdf_page": 69,
+      "text": "Price (per gallon) Quantity demanded (millions of gallons) Quantity supplied (millions of gallons) \n$1.60 \n550 \n640 \n$1.80 \n500 \n680 \n$2.00 \n460 \n700 \n$2.20 \n420 \n720 \nTABLE 3.3 Price, Quantity Demanded, and Quantity Supplied \nRemember this: When two lines on a diagram cross, this intersection usually means something. The point \nwhere the supply curve (S) and the demand curve (D) cross, designated by point E in Figure 3.4, is called the \nequilibrium. The equilibrium price is the only price where the plans of consumers and the plans of producers \nagree—that is, where the amount of the product consumers want to buy (quantity demanded) is equal to the \namount producers want to sell (quantity supplied). Economists call this common quantity the equilibrium \nquantity. At any other price, the quantity demanded does not equal the quantity supplied, so the market is not \nin equilibrium at that price. \nIn Figure 3.4, the equilibrium price is $1.40 per gallon of gasoline and the equilibrium quantity is 600 million \ngallons. If you had only the demand and supply schedules, and not the graph, you could find the equilibrium by \nlooking for the price level on the tables where the quantity demanded and the quantity supplied are equal. \nThe word “equilibrium” means “balance.” If a market is at its equilibrium price and quantity, then it has no \nreason to move away from that point. However, if a market is not at equilibrium, then economic pressures arise \nto move the market toward the equilibrium price and the equilibrium quantity. \nImagine, for example, that the price of a gallon of gasoline was above the equilibrium price—that is, instead of \n$1.40 per gallon, the price is $1.80 per gallon. The dashed horizontal line at the price of $1.80 in Figure 3.4 \nillustrates this above-equilibrium price. At this higher price, the quantity demanded drops from 600 to 500. \nThis decline in quantity reflects how consumers react to the higher price by finding ways to use less gasoline. \nMoreover, at this higher price of $1.80, the quantity of gasoline supplied rises from 600 to 680, as the higher \nprice makes it more profitable for gasoline producers to expand their output. Now, consider how quantity \ndemanded and quantity supplied are related at this above-equilibrium price. Quantity demanded has fallen to \n500 gallons, while quantity supplied has risen to 680 gallons. In fact, at any above-equilibrium price, the \nquantity supplied exceeds the quantity demanded. We call this an excess supply or a surplus. \nWith a surplus, gasoline accumulates at gas stations, in tanker trucks, in pipelines, and at oil refineries. This \naccumulation puts pressure on gasoline sellers. If a surplus remains unsold, those firms involved in making \nand selling gasoline are not receiving enough cash to pay their workers and to cover their expenses. In this \nsituation, some producers and sellers will want to cut prices, because it is better to sell at a lower price than not \nto sell at all. Once some sellers start cutting prices, others will follow to avoid losing sales. These price \nreductions in turn will stimulate a higher quantity demanded. Therefore, if the price is above the equilibrium \nlevel, incentives built into the structure of demand and supply will create pressures for the price to fall toward \nthe equilibrium. \nNow suppose that the price is below its equilibrium level at $1.20 per gallon, as the dashed horizontal line at \nthis price in Figure 3.4 shows. At this lower price, the quantity demanded increases from 600 to 700 as drivers \ntake longer trips, spend more minutes warming up the car in the driveway in wintertime, stop sharing rides to \nwork, and buy larger cars that get fewer miles to the gallon. However, the below-equilibrium price reduces \ngasoline producers’ incentives to produce and sell gasoline, and the quantity supplied falls from 600 to 550. \n3.1 • Demand, Supply, and Equilibrium in Markets for Goods and Services     53\n"
+    },
+    {
+      "page": 41,
+      "original_pdf_page": 65,
+      "text": "license has no effective demand for a car. \nWhat a buyer pays for a unit of the specific good or service is called price. The total number of units that \nconsumers would purchase at that price is called the quantity demanded. A rise in price of a good or service \nalmost always decreases the quantity demanded of that good or service. Conversely, a fall in price will increase \nthe quantity demanded. When the price of a gallon of gasoline increases, for example, people look for ways to \nreduce their consumption by combining several errands, commuting by carpool or mass transit, or taking \nweekend or vacation trips closer to home. Economists call this inverse relationship between price and quantity \ndemanded the law of demand. The law of demand assumes that all other variables that affect demand (which \nwe explain in the next module) are held constant. \nWe can show an example from the market for gasoline in a table or a graph. Economists call a table that shows \nthe quantity demanded at each price, such as Table 3.1, a demand schedule. In this case we measure price in \ndollars per gallon of gasoline. We measure the quantity demanded in millions of gallons over some time period \n(for example, per day or per year) and over some geographic area (like a state or a country). A demand curve \nshows the relationship between price and quantity demanded on a graph like Figure 3.2, with quantity on the \nhorizontal axis and the price per gallon on the vertical axis. (Note that this is an exception to the normal rule in \nmathematics that the independent variable (x) goes on the horizontal axis and the dependent variable (y) goes \non the vertical axis. While economists often use math, they are different disciplines.) \nTable 3.1 shows the demand schedule and the graph in Figure 3.2 shows the demand curve. These are two \nways to describe the same relationship between price and quantity demanded. \nPrice (per gallon) Quantity Demanded (millions of gallons) \n$1.00 \n800 \n$1.20 \n700 \n$1.40 \n600 \n$1.60 \n550 \n$1.80 \n500 \n$2.00 \n460 \n$2.20 \n420 \nTABLE 3.1 Price and Quantity Demanded of Gasoline \n3.1 • Demand, Supply, and Equilibrium in Markets for Goods and Services     49\n"
+    },
+    {
+      "page": 42,
+      "original_pdf_page": 66,
+      "text": "FIGURE 3.2 A Demand Curve for Gasoline The demand schedule shows that as price rises, quantity demanded \ndecreases, and vice versa. We graph these points, and the line connecting them is the demand curve (D). The \ndownward slope of the demand curve again illustrates the law of demand—the inverse relationship between prices \nand quantity demanded. \nDemand curves will appear somewhat different for each product. They may appear relatively steep or flat, or \nthey may be straight or curved. Nearly all demand curves share the fundamental similarity that they slope \ndown from left to right. Demand curves embody the law of demand: As the price increases, the quantity \ndemanded decreases, and conversely, as the price decreases, the quantity demanded increases. \nConfused about these different types of demand? Read the next Clear It Up feature. \nIs demand the same as quantity demanded? \nIn economic terminology, demand is not the same as quantity demanded. When economists talk about demand, \nthey mean the relationship between a range of prices and the quantities demanded at those prices, as illustrated by \na demand curve or a demand schedule. When economists talk about quantity demanded, they mean only a certain \npoint on the demand curve, or one quantity on the demand schedule. In short, demand refers to the curve and \nquantity demanded refers to a (specific) point on the curve. \nSupply of Goods and Services \nWhen economists talk about supply, they mean the amount of some good or service a producer is willing to \nproduce and/or bring to market at each price. Price is what the producer receives for selling one unit of a good \nor service. A rise in price almost always leads to an increase in the quantity supplied of that good or service, \nwhile a fall in price will decrease the quantity supplied. When the price of gasoline rises, for example, it \nencourages profit-seeking firms to take several actions: expand exploration for oil reserves; drill for more oil; \ninvest in more pipelines and oil tankers to bring the oil to plants for refining into gasoline; build new oil \nrefineries; purchase additional pipelines and trucks to ship the gasoline to gas stations; and open more gas \nstations or keep existing gas stations open longer hours. Economists call this positive relationship between \nprice and quantity supplied—that a higher price leads to a higher quantity supplied and a lower price leads to a \nlower quantity supplied—the law of supply. The law of supply assumes that all other variables that affect \nsupply (to be explained in the next module) are held constant. \nStill unsure about the different types of supply? See the following Clear It Up feature. \n CLEAR IT UP \n50     3 • Demand and Supply\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 52,
+      "original_pdf_page": 76,
+      "text": "up. When a firm’s profits increase, it is more motivated to produce output, since the more it produces the more \nprofit it will earn. When costs of production fall, a firm will tend to supply a larger quantity at any given price \nfor its output. We can show this by the supply curve shifting to the right. \nTake, for example, a messenger company that delivers packages around a city. The company may find that \nbuying gasoline is one of its main costs. If the price of gasoline falls, then the company will find it can deliver \nmessages more cheaply than before. Since lower costs correspond to higher profits, the messenger company \nmay now supply more of its services at any given price. For example, given the lower gasoline prices, the \ncompany can now serve a greater area, and increase its supply. \nConversely, if a firm faces higher costs of production, then it will earn lower profits at any given selling price for \nits products. As a result, a higher cost of production typically causes a firm to supply a smaller quantity at any \ngiven price. In this case, the supply curve shifts to the left. \nConsider the supply for cars, shown by curve S0 in Figure 3.10. Point J indicates that if the price is $20,000, the \nquantity supplied will be 18 million cars. If the price rises to $22,000 per car, ceteris paribus, the quantity \nsupplied will rise to 20 million cars, as point K on the S0 curve shows. We can show the same information in \ntable form, as in Table 3.5. \nFIGURE 3.10 Shifts in Supply: A Car Example Decreased supply means that at every given price, the quantity \nsupplied is lower, so that the supply curve shifts to the left, from S0 to S1. Increased supply means that at every \ngiven price, the quantity supplied is higher, so that the supply curve shifts to the right, from S0 to S2. \nPrice \nDecrease to S1 \nOriginal Quantity Supplied S0 \nIncrease to S2 \n$16,000 10.5 million \n12.0 million \n13.2 million \n$18,000 13.5 million \n15.0 million \n16.5 million \n$20,000 16.5 million \n18.0 million \n19.8 million \n$22,000 18.5 million \n20.0 million \n22.0 million \n$24,000 19.5 million \n21.0 million \n23.1 million \n$26,000 20.5 million \n22.0 million \n24.2 million \nTABLE 3.5 Price and Shifts in Supply: A Car Example \n60     3 • Demand and Supply\nAccess for free at openstax.org\n"
+    }
+  ],
+  "retrieval_queries": [
+    "Figure 3.3 Table 3.2 gasoline price 1.60 quantity supplied gallon",
+    "Hình 3.3 Bảng 3.2 xăng giá 1,60 đô la mỗi gallon lượng cung ứng",
+    "gasoline supply schedule Figure 3.3 Table 3.2 1.60"
+  ],
+  "ranked_pages": [
+    [
+      43,
+      2.0486599011189175
+    ],
+    [
+      44,
+      2.047123015873016
+    ],
+    [
+      45,
+      1.0920729849358548
+    ],
+    [
+      41,
+      1.0481474748810153
+    ],
+    [
+      42,
+      1.0284388866478418
+    ],
+    [
+      52,
+      0.07153938093548358
+    ],
+    [
+      76,
+      0.045008912655971484
+    ],
+    [
+      74,
+      0.04370384104323105
+    ],
+    [
+      72,
+      0.043575999144790094
+    ],
+    [
+      73,
+      0.043064182194616975
+    ],
+    [
+      40,
+      0.04234321350991521
+    ],
+    [
+      75,
+      0.04093567251461988
+    ],
+    [
+      57,
+      0.03987037149860108
+    ],
+    [
+      71,
+      0.02803921568627451
+    ],
+    [
+      58,
+      0.025807525807525808
+    ],
+    [
+      103,
+      0.025657894736842105
+    ],
+    [
+      14,
+      0.025478740668614087
+    ],
+    [
+      106,
+      0.013888888888888888
+    ],
+    [
+      77,
+      0.013513513513513514
+    ],
+    [
+      102,
+      0.013333333333333334
+    ],
+    [
+      114,
+      0.013157894736842105
+    ],
+    [
+      104,
+      0.012987012987012988
+    ],
+    [
+      78,
+      0.01282051282051282
+    ],
+    [
+      64,
+      0.012658227848101266
+    ],
+    [
+      46,
+      0.0125
+    ],
+    [
+      12,
+      0.0125
+    ]
+  ],
+  "status": "success",
+  "calls": [
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": "Search this economics textbook to answer in Vietnamese: Dựa vào Hình 3.3 và Bảng 3.2 về xăng, nếu giá là 1,60 đô la mỗi gallon thì lượng cung ứng là bao nhiêu, và đơn vị của lượng này là gì?"
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "search_book",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_0787905c57022242016af8364460a887d29ea6ffd051b92002",
+        "object": "response",
+        "created_at": 1794651716,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651717,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_0787905c57022242016af83644d4ac87d2b766f0174e89bd1c",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"queries\":[\"Figure 3.3 Table 3.2 gasoline price 1.60 quantity supplied gallon\", \"Hình 3.3 Bảng 3.2 xăng giá 1,60 đô la mỗi gallon lượng cung ứng\", \"gasoline supply schedule Figure 3.3 Table 3.2 1.60\"]}",
+            "call_id": "call_LFPPriU6hjULuRu39vqD2kuo",
+            "name": "search_book"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "name": "search_book",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 191,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 85,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 276
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.263541799999075
+    },
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": [
+              {
+                "type": "input_text",
+                "text": "Answer the question using ONLY supplied source evidence, in Vietnamese. Cite [page N] and Figure/Table ID for all claims. No external facts. If date/place/condition absent, choose abstain with no guessed values. Dựa vào Hình 3.3 và Bảng 3.2 về xăng, nếu giá là 1,60 đô la mỗi gallon thì lượng cung ứng là bao nhiêu, và đơn vị của lượng này là gì?\nSOURCE_CONTEXT:[{\"page\": 43, \"original_pdf_page\": 67, \"text\": \"Is supply the same as quantity supplied? \\nIn economic terminology, supply is not the same as quantity supplied. When economists refer to supply, they mean \\nthe relationship between a range of prices and the quantities supplied at those prices, a relationship that we can \\nillustrate with a supply curve or a supply schedule. When economists refer to quantity supplied, they mean only a \\ncertain point on the supply curve, or one quantity on the supply schedule. In short, supply refers to the curve and \\nquantity supplied refers to a (specific) point on the curve. \\nFigure 3.3 illustrates the law of supply, again using the market for gasoline as an example. Like demand, we \\ncan illustrate supply using a table or a graph. A supply schedule is a table, like Table 3.2, that shows the \\nquantity supplied at a range of different prices. Again, we measure price in dollars per gallon of gasoline and \\nwe measure quantity supplied in millions of gallons. A supply curve is a graphic illustration of the relationship \\nbetween price, shown on the vertical axis, and quantity, shown on the horizontal axis. The supply schedule and \\nthe supply curve are just two different ways of showing the same information. Notice that the horizontal and \\nvertical axes on the graph for the supply curve are the same as for the demand curve. \\nFIGURE 3.3 A Supply Curve for Gasoline The supply schedule is the table that shows quantity supplied of gasoline \\nat each price. As price rises, quantity supplied also increases, and vice versa. The supply curve (S) is created by \\ngraphing the points from the supply schedule and then connecting them. The upward slope of the supply curve \\nillustrates the law of supply—that a higher price leads to a higher quantity supplied, and vice versa. \\nPrice (per gallon) Quantity Supplied (millions of gallons) \\n$1.00 \\n500 \\n$1.20 \\n550 \\n$1.40 \\n600 \\n$1.60 \\n640 \\n$1.80 \\n680 \\nTABLE 3.2 Price and Supply of Gasoline \\n CLEAR IT UP \\n3.1 • Demand, Supply, and Equilibrium in Markets for Goods and Services     51\\n\"}, {\"page\": 44, \"original_pdf_page\": 68, \"text\": \"Price (per gallon) Quantity Supplied (millions of gallons) \\n$2.00 \\n700 \\n$2.20 \\n720 \\nTABLE 3.2 Price and Supply of Gasoline \\nThe shape of supply curves will vary somewhat according to the product: steeper, flatter, straighter, or curved. \\nNearly all supply curves, however, share a basic similarity: they slope up from left to right and illustrate the law \\nof supply: as the price rises, say, from $1.00 per gallon to $2.20 per gallon, the quantity supplied increases \\nfrom 500 gallons to 720 gallons. Conversely, as the price falls, the quantity supplied decreases. \\nEquilibrium—Where Demand and Supply Intersect \\nBecause the graphs for demand and supply curves both have price on the vertical axis and quantity on the \\nhorizontal axis, the demand curve and supply curve for a particular good or service can appear on the same \\ngraph. Together, demand and supply determine the price and the quantity that will be bought and sold in a \\nmarket. \\nFigure 3.4 illustrates the interaction of demand and supply in the market for gasoline. The demand curve (D) is \\nidentical to Figure 3.2. The supply curve (S) is identical to Figure 3.3. Table 3.3 contains the same information \\nin tabular form. \\nFIGURE 3.4 Demand and Supply for Gasoline The demand curve (D) and the supply curve (S) intersect at the \\nequilibrium point E, with a price of $1.40 and a quantity of 600. The equilibrium price is the only price where \\nquantity demanded is equal to quantity supplied. At a price above equilibrium like $1.80, quantity supplied exceeds \\nthe quantity demanded, so there is excess supply. At a price below equilibrium such as $1.20, quantity demanded \\nexceeds quantity supplied, so there is excess demand. \\nPrice (per gallon) Quantity demanded (millions of gallons) Quantity supplied (millions of gallons) \\n$1.00 \\n800 \\n500 \\n$1.20 \\n700 \\n550 \\n$1.40 \\n600 \\n600 \\nTABLE 3.3 Price, Quantity Demanded, and Quantity Supplied \\n52     3 • Demand and Supply\\nAccess for free at openstax.org\\n\"}, {\"page\": 45, \"original_pdf_page\": 69, \"text\": \"Price (per gallon) Quantity demanded (millions of gallons) Quantity supplied (millions of gallons) \\n$1.60 \\n550 \\n640 \\n$1.80 \\n500 \\n680 \\n$2.00 \\n460 \\n700 \\n$2.20 \\n420 \\n720 \\nTABLE 3.3 Price, Quantity Demanded, and Quantity Supplied \\nRemember this: When two lines on a diagram cross, this intersection usually means something. The point \\nwhere the supply curve (S) and the demand curve (D) cross, designated by point E in Figure 3.4, is called the \\nequilibrium. The equilibrium price is the only price where the plans of consumers and the plans of producers \\nagree—that is, where the amount of the product consumers want to buy (quantity demanded) is equal to the \\namount producers want to sell (quantity supplied). Economists call this common quantity the equilibrium \\nquantity. At any other price, the quantity demanded does not equal the quantity supplied, so the market is not \\nin equilibrium at that price. \\nIn Figure 3.4, the equilibrium price is $1.40 per gallon of gasoline and the equilibrium quantity is 600 million \\ngallons. If you had only the demand and supply schedules, and not the graph, you could find the equilibrium by \\nlooking for the price level on the tables where the quantity demanded and the quantity supplied are equal. \\nThe word “equilibrium” means “balance.” If a market is at its equilibrium price and quantity, then it has no \\nreason to move away from that point. However, if a market is not at equilibrium, then economic pressures arise \\nto move the market toward the equilibrium price and the equilibrium quantity. \\nImagine, for example, that the price of a gallon of gasoline was above the equilibrium price—that is, instead of \\n$1.40 per gallon, the price is $1.80 per gallon. The dashed horizontal line at the price of $1.80 in Figure 3.4 \\nillustrates this above-equilibrium price. At this higher price, the quantity demanded drops from 600 to 500. \\nThis decline in quantity reflects how consumers react to the higher price by finding ways to use less gasoline. \\nMoreover, at this higher price of $1.80, the quantity of gasoline supplied rises from 600 to 680, as the higher \\nprice makes it more profitable for gasoline producers to expand their output. Now, consider how quantity \\ndemanded and quantity supplied are related at this above-equilibrium price. Quantity demanded has fallen to \\n500 gallons, while quantity supplied has risen to 680 gallons. In fact, at any above-equilibrium price, the \\nquantity supplied exceeds the quantity demanded. We call this an excess supply or a surplus. \\nWith a surplus, gasoline accumulates at gas stations, in tanker trucks, in pipelines, and at oil refineries. This \\naccumulation puts pressure on gasoline sellers. If a surplus remains unsold, those firms involved in making \\nand selling gasoline are not receiving enough cash to pay their workers and to cover their expenses. In this \\nsituation, some producers and sellers will want to cut prices, because it is better to sell at a lower price than not \\nto sell at all. Once some sellers start cutting prices, others will follow to avoid losing sales. These price \\nreductions in turn will stimulate a higher quantity demanded. Therefore, if the price is above the equilibrium \\nlevel, incentives built into the structure of demand and supply will create pressures for the price to fall toward \\nthe equilibrium. \\nNow suppose that the price is below its equilibrium level at $1.20 per gallon, as the dashed horizontal line at \\nthis price in Figure 3.4 shows. At this lower price, the quantity demanded increases from 600 to 700 as drivers \\ntake longer trips, spend more minutes warming up the car in the driveway in wintertime, stop sharing rides to \\nwork, and buy larger cars that get fewer miles to the gallon. However, the below-equilibrium price reduces \\ngasoline producers’ incentives to produce and sell gasoline, and the quantity supplied falls from 600 to 550. \\n3.1 • Demand, Supply, and Equilibrium in Markets for Goods and Services     53\\n\"}, {\"page\": 41, \"original_pdf_page\": 65, \"text\": \"license has no effective demand for a car. \\nWhat a buyer pays for a unit of the specific good or service is called price. The total number of units that \\nconsumers would purchase at that price is called the quantity demanded. A rise in price of a good or service \\nalmost always decreases the quantity demanded of that good or service. Conversely, a fall in price will increase \\nthe quantity demanded. When the price of a gallon of gasoline increases, for example, people look for ways to \\nreduce their consumption by combining several errands, commuting by carpool or mass transit, or taking \\nweekend or vacation trips closer to home. Economists call this inverse relationship between price and quantity \\ndemanded the law of demand. The law of demand assumes that all other variables that affect demand (which \\nwe explain in the next module) are held constant. \\nWe can show an example from the market for gasoline in a table or a graph. Economists call a table that shows \\nthe quantity demanded at each price, such as Table 3.1, a demand schedule. In this case we measure price in \\ndollars per gallon of gasoline. We measure the quantity demanded in millions of gallons over some time period \\n(for example, per day or per year) and over some geographic area (like a state or a country). A demand curve \\nshows the relationship between price and quantity demanded on a graph like Figure 3.2, with quantity on the \\nhorizontal axis and the price per gallon on the vertical axis. (Note that this is an exception to the normal rule in \\nmathematics that the independent variable (x) goes on the horizontal axis and the dependent variable (y) goes \\non the vertical axis. While economists often use math, they are different disciplines.) \\nTable 3.1 shows the demand schedule and the graph in Figure 3.2 shows the demand curve. These are two \\nways to describe the same relationship between price and quantity demanded. \\nPrice (per gallon) Quantity Demanded (millions of gallons) \\n$1.00 \\n800 \\n$1.20 \\n700 \\n$1.40 \\n600 \\n$1.60 \\n550 \\n$1.80 \\n500 \\n$2.00 \\n460 \\n$2.20 \\n420 \\nTABLE 3.1 Price and Quantity Demanded of Gasoline \\n3.1 • Demand, Supply, and Equilibrium in Markets for Goods and Services     49\\n\"}, {\"page\": 42, \"original_pdf_page\": 66, \"text\": \"FIGURE 3.2 A Demand Curve for Gasoline The demand schedule shows that as price rises, quantity demanded \\ndecreases, and vice versa. We graph these points, and the line connecting them is the demand curve (D). The \\ndownward slope of the demand curve again illustrates the law of demand—the inverse relationship between prices \\nand quantity demanded. \\nDemand curves will appear somewhat different for each product. They may appear relatively steep or flat, or \\nthey may be straight or curved. Nearly all demand curves share the fundamental similarity that they slope \\ndown from left to right. Demand curves embody the law of demand: As the price increases, the quantity \\ndemanded decreases, and conversely, as the price decreases, the quantity demanded increases. \\nConfused about these different types of demand? Read the next Clear It Up feature. \\nIs demand the same as quantity demanded? \\nIn economic terminology, demand is not the same as quantity demanded. When economists talk about demand, \\nthey mean the relationship between a range of prices and the quantities demanded at those prices, as illustrated by \\na demand curve or a demand schedule. When economists talk about quantity demanded, they mean only a certain \\npoint on the demand curve, or one quantity on the demand schedule. In short, demand refers to the curve and \\nquantity demanded refers to a (specific) point on the curve. \\nSupply of Goods and Services \\nWhen economists talk about supply, they mean the amount of some good or service a producer is willing to \\nproduce and/or bring to market at each price. Price is what the producer receives for selling one unit of a good \\nor service. A rise in price almost always leads to an increase in the quantity supplied of that good or service, \\nwhile a fall in price will decrease the quantity supplied. When the price of gasoline rises, for example, it \\nencourages profit-seeking firms to take several actions: expand exploration for oil reserves; drill for more oil; \\ninvest in more pipelines and oil tankers to bring the oil to plants for refining into gasoline; build new oil \\nrefineries; purchase additional pipelines and trucks to ship the gasoline to gas stations; and open more gas \\nstations or keep existing gas stations open longer hours. Economists call this positive relationship between \\nprice and quantity supplied—that a higher price leads to a higher quantity supplied and a lower price leads to a \\nlower quantity supplied—the law of supply. The law of supply assumes that all other variables that affect \\nsupply (to be explained in the next module) are held constant. \\nStill unsure about the different types of supply? See the following Clear It Up feature. \\n CLEAR IT UP \\n50     3 • Demand and Supply\\nAccess for free at openstax.org\\n\"}, {\"page\": 52, \"original_pdf_page\": 76, \"text\": \"up. When a firm’s profits increase, it is more motivated to produce output, since the more it produces the more \\nprofit it will earn. When costs of production fall, a firm will tend to supply a larger quantity at any given price \\nfor its output. We can show this by the supply curve shifting to the right. \\nTake, for example, a messenger company that delivers packages around a city. The company may find that \\nbuying gasoline is one of its main costs. If the price of gasoline falls, then the company will find it can deliver \\nmessages more cheaply than before. Since lower costs correspond to higher profits, the messenger company \\nmay now supply more of its services at any given price. For example, given the lower gasoline prices, the \\ncompany can now serve a greater area, and increase its supply. \\nConversely, if a firm faces higher costs of production, then it will earn lower profits at any given selling price for \\nits products. As a result, a higher cost of production typically causes a firm to supply a smaller quantity at any \\ngiven price. In this case, the supply curve shifts to the left. \\nConsider the supply for cars, shown by curve S0 in Figure 3.10. Point J indicates that if the price is $20,000, the \\nquantity supplied will be 18 million cars. If the price rises to $22,000 per car, ceteris paribus, the quantity \\nsupplied will rise to 20 million cars, as point K on the S0 curve shows. We can show the same information in \\ntable form, as in Table 3.5. \\nFIGURE 3.10 Shifts in Supply: A Car Example Decreased supply means that at every given price, the quantity \\nsupplied is lower, so that the supply curve shifts to the left, from S0 to S1. Increased supply means that at every \\ngiven price, the quantity supplied is higher, so that the supply curve shifts to the right, from S0 to S2. \\nPrice \\nDecrease to S1 \\nOriginal Quantity Supplied S0 \\nIncrease to S2 \\n$16,000 10.5 million \\n12.0 million \\n13.2 million \\n$18,000 13.5 million \\n15.0 million \\n16.5 million \\n$20,000 16.5 million \\n18.0 million \\n19.8 million \\n$22,000 18.5 million \\n20.0 million \\n22.0 million \\n$24,000 19.5 million \\n21.0 million \\n23.1 million \\n$26,000 20.5 million \\n22.0 million \\n24.2 million \\nTABLE 3.5 Price and Shifts in Supply: A Car Example \\n60     3 • Demand and Supply\\nAccess for free at openstax.org\\n\"}]"
+              }
+            ]
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "finish",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_055dc446fe27b84b016af83645b78887d2bef643aed9d7d898",
+        "object": "response",
+        "created_at": 1794651717,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651718,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_055dc446fe27b84b016af83646570887d2b568a83d97121da2",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"status\":\"answered\",\"answer\":\"Theo Hình 3.3 và Bảng 3.2, khi giá là 1,60 đô la mỗi gallon thì lượng cung ứng là 640 triệu gallon [page 43, Figure 3.3; Table 3.2]. Đơn vị của lượng này là \\\"triệu gallon\\\" (millions of gallons) [page 43, Figure 3.3; Table 3.2].\",\"pages\":[43]}",
+            "call_id": "call_fDPuDtXzhSISb1hhjOgWoeVx",
+            "name": "finish"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "name": "finish",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 4037,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 111,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 4148
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.6610250999947311
+    }
+  ],
+  "usage": {
+    "model_calls": 2,
+    "input_tokens": 4228,
+    "cached_input_tokens": 0,
+    "output_tokens": 196,
+    "estimated_api_cost_usd": 0.004053,
+    "cost_note": "Estimate from published standard GPT-5.4-mini token rates, verified 2026-11-14; actual bill may differ. Unknown model/endpoint rates are not assumed zero.",
+    "pricing_source": "https://developers.openai.com/api/docs/models/gpt-5.4-mini"
+  },
+  "seconds": 2.9461809000058565
+}

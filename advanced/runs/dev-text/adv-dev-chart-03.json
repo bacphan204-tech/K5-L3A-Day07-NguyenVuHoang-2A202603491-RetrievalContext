@@ -1,0 +1,502 @@
+{
+  "id": "adv-dev-chart-03",
+  "question": "Dựa trên Hình 4.4 \"A Living Wage: Example of a Price Floor\" trong trang trích dẫn, tại mức lương $12/giờ, số lao động được cung ứng và số lao động được doanh nghiệp thành phố thuê lần lượt là bao nhiêu? Hãy trả lời kèm đơn vị.",
+  "vision": false,
+  "final": {
+    "status": "answered",
+    "answer": "Tại mức lương 12 USD/giờ, số lao động được cung ứng là 1.600 lao động và số lao động được doanh nghiệp thành phố thuê là 700 lao động [page 84, Figure 4.4] [page 85, Table 4.4].",
+    "pages": [
+      84,
+      85
+    ]
+  },
+  "context": [
+    {
+      "page": 84,
+      "original_pdf_page": 108,
+      "text": "people from earning income are not politically popular. There is one exception: boards of trustees or \nstockholders, as an example, propose limits on the high incomes of top business executives. \nThe labor market, however, presents some prominent examples of price floors, which are an attempt to \nincrease the wages of low-paid workers. The U.S. government sets a minimum wage, a price floor that makes it \nillegal for an employer to pay employees less than a certain hourly rate. In mid-2009, the U.S. minimum wage \nwas raised to $7.25 per hour. Local political movements in a number of U.S. cities have pushed for a higher \nminimum wage, which they call a living wage. Promoters of living wage laws maintain that the minimum wage \nis too low to ensure a reasonable standard of living. They base this conclusion on the calculation that, if you \nwork 40 hours a week at a minimum wage of $7.25 per hour for 50 weeks a year, your annual income is \n$14,500, which is less than the official U.S. government definition of what it means for a family to be in poverty. \n(A family with two adults earning minimum wage and two young children will find it more cost efficient for one \nparent to provide childcare while the other works for income. Thus the family income would be $14,500, which \nis significantly lower than the federal poverty line for a family of four, which was $26,500 in 2021.) \nSupporters of the living wage argue that full-time workers should be assured a high enough wage so that they \ncan afford the essentials of life: food, clothing, shelter, and healthcare. Since Baltimore passed the first living \nwage law in 1994, several dozen cities enacted similar laws in the late 1990s and the 2000s. The living wage \nordinances do not apply to all employers, but they have specified that all employees of the city or employees of \nfirms that the city hires be paid at least a certain wage that is usually a few dollars per hour above the U.S. \nminimum wage. \nFigure 4.4 illustrates the situation of a city considering a living wage law. For simplicity, we assume that there \nis no federal minimum wage. The wage appears on the vertical axis, because the wage is the price in the labor \nmarket. Before the passage of the living wage law, the equilibrium wage is $10 per hour and the city hires 1,200 \nworkers at this wage. However, a group of concerned citizens persuades the city council to enact a living wage \nlaw requiring employers to pay no less than $12 per hour. In response to the higher wage, 1,600 workers look \nfor jobs with the city. At this higher wage, the city, as an employer, is willing to hire only 700 workers. At the \nprice floor, the quantity supplied exceeds the quantity demanded, and a surplus of labor exists in this market. \nFor workers who continue to have a job at a higher salary, life has improved. For those who were willing to \nwork at the old wage rate but lost their jobs with the wage increase, life has not improved. Table 4.4 shows the \ndifferences in supply and demand at different wages. \nFIGURE 4.4 A Living Wage: Example of a Price Floor The original equilibrium in this labor market is a wage of $10/\nhour and a quantity of 1,200 workers, shown at point E. Imposing a wage floor at $12/hour leads to an excess \nsupply of labor. At that wage, the quantity of labor supplied is 1,600 and the quantity of labor demanded is only 700. \n92     4 • Labor and Financial Markets\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 85,
+      "original_pdf_page": 109,
+      "text": "Wage \nQuantity Labor Demanded Quantity Labor Supplied \n$8/hr \n1,900 \n500 \n$9/hr \n1,500 \n900 \n$10/hr 1,200 \n1,200 \n$11/hr 900 \n1,400 \n$12/hr 700 \n1,600 \n$13/hr 500 \n1,800 \n$14/hr 400 \n1,900 \nTABLE 4.4 Living Wage: Example of a Price Floor \nThe Minimum Wage as an Example of a Price Floor \nThe U.S. minimum wage is a price floor that is set either very close to the equilibrium wage or even slightly \nbelow it. About 1.5% of hourly workers in the U.S. are paid the minimum wage. In other words, the vast \nmajority of the U.S. labor force has its wages determined in the labor market, not as a result of the government \nprice floor. However, for workers with low skills and little experience, like those without a high school diploma \nor teenagers, the minimum wage is quite important. In many cities, the federal minimum wage is apparently \nbelow the market price for unskilled labor, because employers offer more than the minimum wage to checkout \nclerks and other low-skill workers without any government prodding. \nEconomists have attempted to estimate how much the minimum wage reduces the quantity demanded of low-\nskill labor. A typical result of such studies is that a 10% increase in the minimum wage would decrease the \nhiring of unskilled workers by 1 to 2%, which seems a relatively small reduction. In fact, some studies have \neven found no effect of a higher minimum wage on employment at certain times and places—although these \nstudies are controversial. Well-known economists Walter Williams and Thomas Sowell, who both focus on the \nintersections of race and economics, argue that minimum wages increase discrimination and limit economic \nmobility. Williams, for example, indicates that higher minimum wages would increase employment barriers \nfor lower-skilled workers, reducing the opportunity for them to learn on the job and gain experience that \nwould give them more choice in employment. \nLet’s suppose that the minimum wage lies just slightly below the equilibrium wage level. Wages could fluctuate \naccording to market forces above this price floor, but they would not be allowed to move beneath the floor. In \nthis situation, the price floor minimum wage is nonbinding —that is, the price floor is not determining the \nmarket outcome. Even if the minimum wage moves just a little higher, it will still have no effect on the quantity \nof employment in the economy, as long as it remains below the equilibrium wage. Even if the government \nincreases the minimum wage by enough so that it rises slightly above the equilibrium wage and becomes \nbinding, there will be only a small excess supply gap between the quantity demanded and quantity supplied. \nThese insights help to explain why U.S. minimum wage laws have historically had only a small impact on \nemployment. Since the minimum wage has typically been set close to the equilibrium wage for low-skill labor \nand sometimes even below it, it has not had a large effect in creating an excess supply of labor. However, if the \nminimum wage increased dramatically—say, if it doubled to match the living wages that some U.S. cities have \nconsidered—then its impact on reducing the quantity demanded of employment would be far greater. The \nfollowing Clear It Up feature describes in greater detail some of the arguments for and against changes to the \nminimum wage. \n4.1 • Demand and Supply at Work in Labor Markets     93\n"
+    },
+    {
+      "page": 98,
+      "original_pdf_page": 122,
+      "text": "Review Questions \n13 . What is the “price” commonly called in the labor market? \n14 . Are households demanders or suppliers in the goods market? Are firms demanders or suppliers in the \ngoods market? What about the labor market and the financial market? \n15 . Name some factors that can cause a shift in the demand curve in labor markets. \n16 . Name some factors that can cause a shift in the supply curve in labor markets. \n17 . How do economists define equilibrium in financial markets? \n18 . What would be a sign of a shortage in financial markets? \n19 . Would usury laws help or hinder resolution of a shortage in financial markets? \n20 . Whether the product market or the labor market, what happens to the equilibrium price and quantity for \neach of the four possibilities: increase in demand, decrease in demand, increase in supply, and decrease \nin supply. \nCritical Thinking Questions \n21 . Other than the demand for labor, what would be another example of a “derived demand?” \n22 . Suppose that a 5% increase in the minimum wage causes a 5% reduction in employment. How would this \naffect employers and how would it affect workers? In your opinion, would this be a good policy? \n23 . Under what circumstances would a minimum wage be a nonbinding price floor? Under what \ncircumstances would a living wage be a binding price floor? \n24 . Suppose the U.S. economy began to grow more rapidly than other countries in the world. What would be \nthe likely impact on U.S. financial markets as part of the global economy? \n25 . If the government imposed a federal interest rate ceiling of 20% on all loans, who would gain and who \nwould lose? \n26 . Why are the factors that shift the demand for a product different from the factors that shift the demand for \nlabor? Why are the factors that shift the supply of a product different from those that shift the supply of \nlabor? \n27 . During a discussion several years ago on building a pipeline to Alaska to carry natural gas, the U.S. Senate \npassed a bill stipulating that there should be a guaranteed minimum price for the natural gas that would \nflow through the pipeline. The thinking behind the bill was that if private firms had a guaranteed price for \ntheir natural gas, they would be more willing to drill for gas and to pay to build the pipeline. \na. Using the demand and supply framework, predict the effects of this price floor on the price, quantity \ndemanded, and quantity supplied. \nb. With the enactment of this price floor for natural gas, what are some of the likely unintended \nconsequences in the market? \nc. Suggest some policies other than the price floor that the government can pursue if it wishes to \nencourage drilling for natural gas and for a new pipeline in Alaska. \nProblems \n28 . Identify each of the following as involving either demand or supply. Draw a circular flow diagram and label \nthe flows A through F. (Some choices can be on both sides of the goods market.) \na. Households in the labor market \nb. Firms in the goods market \n106     4 • Review Questions\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 96,
+      "original_pdf_page": 120,
+      "text": "Key Terms \ninterest rate the “price” of borrowing in the financial market; a rate of return on an investment \nminimum wage a price floor that makes it illegal for an employer to pay employees less than a certain hourly \nrate \nusury laws laws that impose an upper limit on the interest rate that lenders can charge \nKey Concepts and Summary \n4.1 Demand and Supply at Work in Labor Markets \nIn the labor market, households are on the supply side of the market and firms are on the demand side. In the \nmarket for financial capital, households and firms can be on either side of the market: they are suppliers of \nfinancial capital when they save or make financial investments, and demanders of financial capital when they \nborrow or receive financial investments. \nIn the demand and supply analysis of labor markets, we can measure the price by the annual salary or hourly \nwage received. We can measure the quantity of labor various ways, like number of workers or the number of \nhours worked. \nFactors that can shift the demand curve for labor include: a change in the quantity demanded of the product \nthat the labor produces; a change in the production process that uses more or less labor; and a change in \ngovernment policy that affects the quantity of labor that firms wish to hire at a given wage. Demand can also \nincrease or decrease (shift) in response to: workers’ level of education and training, technology, the number of \ncompanies, and availability and price of other inputs. \nThe main factors that can shift the supply curve for labor are: how desirable a job appears to workers relative \nto the alternatives, government policy that either restricts or encourages the quantity of workers trained for \nthe job, the number of workers in the economy, and required education. \n4.2 Demand and Supply in Financial Markets \nIn the demand and supply analysis of financial markets, the “price” is the rate of return or the interest rate \nreceived. We measure the quantity by the money that flows from those who supply financial capital to those \nwho demand it. \nTwo factors can shift the supply of financial capital to a certain investment: if people want to alter their \nexisting levels of consumption, and if the riskiness or return on one investment changes relative to other \ninvestments. Factors that can shift demand for capital include business confidence and consumer confidence \nin the future—since financial investments received in the present are typically repaid in the future. \n4.3 The Market System as an Efficient Mechanism for Information \nThe market price system provides a highly efficient mechanism for disseminating information about relative \nscarcities of goods, services, labor, and financial capital. Market participants do not need to know why prices \nhave changed, only that the changes require them to revisit previous decisions they made about supply and \ndemand. Price controls hide information about the true scarcity of products and thereby cause misallocation \nof resources. \nSelf-Check Questions \n1 . In the labor market, what causes a movement along the demand curve? What causes a shift in the demand \ncurve? \n2 . In the labor market, what causes a movement along the supply curve? What causes a shift in the supply \ncurve? \n3 . Why is a living wage considered a price floor? Does imposing a living wage have the same outcome as a \n104     4 • Key Terms\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 78,
+      "original_pdf_page": 102,
+      "text": "These data tell us, as economists, that the market for healthcare professionals, and nurses in particular, will face \nseveral challenges. Our study of supply and demand will help us to analyze what might happen in the labor market \nfor nursing and other healthcare professionals, as we will discuss in the second half of this case at the end of the \nchapter. \nThe theories of supply and demand do not apply just to markets for goods. They apply to any market, even \nmarkets for things we may not think of as goods and services like labor and financial services. Labor markets \nare markets for employees or jobs. Financial services markets are markets for saving or borrowing. \nWhen we think about demand and supply curves in goods and services markets, it is easy to picture the \ndemanders and suppliers: businesses produce the products and households buy them. Who are the \ndemanders and suppliers in labor and financial service markets? In labor markets job seekers (individuals) are \nthe suppliers of labor, while firms and other employers who hire labor are the demanders for labor. In financial \nmarkets, any individual or firm who saves contributes to the supply of money, and any entity that borrows \n(person, firm, or government) contributes to the demand for money. \nAs a college student, you most likely participate in both labor and financial markets. Employment is a fact of \nlife for most college students: According to the National Center for Educational Statistics, in 2018 43% of full-\ntime college students and 81% of part-time college students were employed. Most college students are also \nheavily involved in financial markets, primarily as borrowers. As of the 2018–19 school year, 43% of full-time \nundergraduate students were receiving loan aid to help finance their education, and those loans averaged \n$7,300 per year. Many students also borrow for other expenses, like purchasing a car. As this chapter will \nillustrate, we can analyze labor markets and financial markets with the same tools we use to analyze demand \nand supply in the goods markets. \n4.1 Demand and Supply at Work in Labor Markets \nLEARNING OBJECTIVES \nBy the end of this section, you will be able to: \n• Predict shifts in the demand and supply curves of the labor market \n• Explain the impact of new technology on the demand and supply curves of the labor market \n• Explain price floors in the labor market such as minimum wage or a living wage \nMarkets for labor have demand and supply curves, just like markets for goods. The law of demand applies in \nlabor markets this way: A higher salary or wage—that is, a higher price in the labor market—leads to a \ndecrease in the quantity of labor demanded by employers, while a lower salary or wage leads to an increase in \nthe quantity of labor demanded. The law of supply functions in labor markets, too: A higher price for labor \nleads to a higher quantity of labor supplied; a lower price leads to a lower quantity supplied. \nEquilibrium in the Labor Market \nIn 2020, nearly 41,000 registered nurses worked in the Minneapolis-St. Paul-Bloomington, Minnesota-\nWisconsin metropolitan area, according to the BLS. They worked for a variety of employers: hospitals, doctors’ \noffices, schools, health clinics, and nursing homes. Figure 4.2 illustrates how demand and supply determine \nequilibrium in this labor market. The demand and supply schedules in Table 4.1 list the quantity supplied and \nquantity demanded of nurses at different salaries. \n86     4 • Labor and Financial Markets\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 83,
+      "original_pdf_page": 107,
+      "text": "Step 1. What did the markets for low-skill labor and high-skill labor look like before the arrival of the new \ntechnologies? In Figure 4.3 (a) and Figure 4.3 (b), S0 is the original supply curve for labor and D0 is the original \ndemand curve for labor in each market. In each graph, the original point of equilibrium, E0, occurs at the price \nW0 and the quantity Q0. \nFIGURE 4.3 Technology and Wages: Applying Demand and Supply (a) The demand for low-skill labor shifts to the \nleft when technology can do the job previously done by these workers. (b) New technologies can also increase the \ndemand for high-skill labor in fields such as information technology and network administration. \nStep 2. Does the new technology affect the supply of labor from households or the demand for labor from \nfirms? The technology change described here affects demand for labor by firms that hire workers. \nStep 3. Will the new technology increase or decrease demand? Based on the description earlier, as the \nsubstitute for low-skill labor becomes available, demand for low-skill labor will shift to the left, from D0 to D1. \nAs the technology complement for high-skill labor becomes cheaper, demand for high-skill labor will shift to \nthe right, from D0 to D1. \nStep 4. The new equilibrium for low-skill labor, shown as point E1 with price W1 and quantity Q1, has a lower \nwage and quantity hired than the original equilibrium, E0. The new equilibrium for high-skill labor, shown as \npoint E1 with price W1 and quantity Q1, has a higher wage and quantity hired than the original equilibrium \n(E0). \nThus, the demand and supply model predicts that the new computer and communications technologies will \nraise the pay of high-skill workers but reduce the pay of low-skill workers. From the 1970s to the mid-2000s, \nthe wage gap widened between high-skill and low-skill labor. According to the National Center for Education \nStatistics, in 1980, for example, a college graduate earned about 30% more than a high school graduate with \ncomparable job experience, but by 2019, a college graduate earned about 59% more than an otherwise \ncomparable high school graduate. Many economists believe that the trend toward greater wage inequality \nacross the U.S. economy is due to improvements in technology. \nLINK IT UP \nVisit this website (https://openstax.org/l/oldtechjobs) to read about ten tech skills that have lost relevance in \ntoday’s workforce. \nPrice Floors in the Labor Market: Living Wages and Minimum Wages \nIn contrast to goods and services markets, price ceilings are rare in labor markets, because rules that prevent \n4.1 • Demand and Supply at Work in Labor Markets     91\n"
+    }
+  ],
+  "retrieval_queries": [
+    "Figure 4.4 \"A Living Wage: Example of a Price Floor\" $12 wage quantity supplied quantity demanded city firms",
+    "\"A Living Wage: Example of a Price Floor\" Figure 4.4 12 dollars per hour labor supplied employed city firms",
+    "Figure 4.4 living wage price floor 12/hour supplied hired labor textbook"
+  ],
+  "ranked_pages": [
+    [
+      84,
+      1.097567424643046
+    ],
+    [
+      85,
+      1.0917211828736764
+    ],
+    [
+      98,
+      0.08472814533295064
+    ],
+    [
+      96,
+      0.08174763231642326
+    ],
+    [
+      78,
+      0.07182935589432517
+    ],
+    [
+      83,
+      0.07049757160293797
+    ],
+    [
+      99,
+      0.05216330254304938
+    ],
+    [
+      65,
+      0.046649531024531024
+    ],
+    [
+      79,
+      0.044898504273504274
+    ],
+    [
+      68,
+      0.04280998851894374
+    ],
+    [
+      87,
+      0.026856524873828405
+    ],
+    [
+      81,
+      0.026709401709401708
+    ],
+    [
+      52,
+      0.026144907723855092
+    ],
+    [
+      64,
+      0.014492753623188406
+    ],
+    [
+      88,
+      0.0136986301369863
+    ],
+    [
+      97,
+      0.013333333333333334
+    ],
+    [
+      82,
+      0.013157894736842105
+    ],
+    [
+      80,
+      0.01282051282051282
+    ],
+    [
+      45,
+      0.0125
+    ],
+    [
+      24,
+      0.0125
+    ]
+  ],
+  "status": "success",
+  "calls": [
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": "Search this economics textbook to answer in Vietnamese: Dựa trên Hình 4.4 \"A Living Wage: Example of a Price Floor\" trong trang trích dẫn, tại mức lương $12/giờ, số lao động được cung ứng và số lao động được doanh nghiệp thành phố thuê lần lượt là bao nhiêu? Hãy trả lời kèm đơn vị."
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "search_book",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_0e1daf00ffdf73cb016af8365b69c487d2b162134d99861147",
+        "object": "response",
+        "created_at": 1794651739,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651740,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_0e1daf00ffdf73cb016af8365bbb2887d28e8447fd7017ed54",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"queries\":[\"Figure 4.4 \\\"A Living Wage: Example of a Price Floor\\\" $12 wage quantity supplied quantity demanded city firms\", \"\\\"A Living Wage: Example of a Price Floor\\\" Figure 4.4 12 dollars per hour labor supplied employed city firms\", \"Figure 4.4 living wage price floor 12/hour supplied hired labor textbook\"]}",
+            "call_id": "call_HXPCknw9SG8gjM1j27trZiBw",
+            "name": "search_book"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "name": "search_book",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 210,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 88,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 298
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.1006466999970144
+    },
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": [
+              {
+                "type": "input_text",
+                "text": "Answer the question using ONLY supplied source evidence, in Vietnamese. Cite [page N] and Figure/Table ID for all claims. No external facts. If date/place/condition absent, choose abstain with no guessed values. Dựa trên Hình 4.4 \"A Living Wage: Example of a Price Floor\" trong trang trích dẫn, tại mức lương $12/giờ, số lao động được cung ứng và số lao động được doanh nghiệp thành phố thuê lần lượt là bao nhiêu? Hãy trả lời kèm đơn vị.\nSOURCE_CONTEXT:[{\"page\": 84, \"original_pdf_page\": 108, \"text\": \"people from earning income are not politically popular. There is one exception: boards of trustees or \\nstockholders, as an example, propose limits on the high incomes of top business executives. \\nThe labor market, however, presents some prominent examples of price floors, which are an attempt to \\nincrease the wages of low-paid workers. The U.S. government sets a minimum wage, a price floor that makes it \\nillegal for an employer to pay employees less than a certain hourly rate. In mid-2009, the U.S. minimum wage \\nwas raised to $7.25 per hour. Local political movements in a number of U.S. cities have pushed for a higher \\nminimum wage, which they call a living wage. Promoters of living wage laws maintain that the minimum wage \\nis too low to ensure a reasonable standard of living. They base this conclusion on the calculation that, if you \\nwork 40 hours a week at a minimum wage of $7.25 per hour for 50 weeks a year, your annual income is \\n$14,500, which is less than the official U.S. government definition of what it means for a family to be in poverty. \\n(A family with two adults earning minimum wage and two young children will find it more cost efficient for one \\nparent to provide childcare while the other works for income. Thus the family income would be $14,500, which \\nis significantly lower than the federal poverty line for a family of four, which was $26,500 in 2021.) \\nSupporters of the living wage argue that full-time workers should be assured a high enough wage so that they \\ncan afford the essentials of life: food, clothing, shelter, and healthcare. Since Baltimore passed the first living \\nwage law in 1994, several dozen cities enacted similar laws in the late 1990s and the 2000s. The living wage \\nordinances do not apply to all employers, but they have specified that all employees of the city or employees of \\nfirms that the city hires be paid at least a certain wage that is usually a few dollars per hour above the U.S. \\nminimum wage. \\nFigure 4.4 illustrates the situation of a city considering a living wage law. For simplicity, we assume that there \\nis no federal minimum wage. The wage appears on the vertical axis, because the wage is the price in the labor \\nmarket. Before the passage of the living wage law, the equilibrium wage is $10 per hour and the city hires 1,200 \\nworkers at this wage. However, a group of concerned citizens persuades the city council to enact a living wage \\nlaw requiring employers to pay no less than $12 per hour. In response to the higher wage, 1,600 workers look \\nfor jobs with the city. At this higher wage, the city, as an employer, is willing to hire only 700 workers. At the \\nprice floor, the quantity supplied exceeds the quantity demanded, and a surplus of labor exists in this market. \\nFor workers who continue to have a job at a higher salary, life has improved. For those who were willing to \\nwork at the old wage rate but lost their jobs with the wage increase, life has not improved. Table 4.4 shows the \\ndifferences in supply and demand at different wages. \\nFIGURE 4.4 A Living Wage: Example of a Price Floor The original equilibrium in this labor market is a wage of $10/\\nhour and a quantity of 1,200 workers, shown at point E. Imposing a wage floor at $12/hour leads to an excess \\nsupply of labor. At that wage, the quantity of labor supplied is 1,600 and the quantity of labor demanded is only 700. \\n92     4 • Labor and Financial Markets\\nAccess for free at openstax.org\\n\"}, {\"page\": 85, \"original_pdf_page\": 109, \"text\": \"Wage \\nQuantity Labor Demanded Quantity Labor Supplied \\n$8/hr \\n1,900 \\n500 \\n$9/hr \\n1,500 \\n900 \\n$10/hr 1,200 \\n1,200 \\n$11/hr 900 \\n1,400 \\n$12/hr 700 \\n1,600 \\n$13/hr 500 \\n1,800 \\n$14/hr 400 \\n1,900 \\nTABLE 4.4 Living Wage: Example of a Price Floor \\nThe Minimum Wage as an Example of a Price Floor \\nThe U.S. minimum wage is a price floor that is set either very close to the equilibrium wage or even slightly \\nbelow it. About 1.5% of hourly workers in the U.S. are paid the minimum wage. In other words, the vast \\nmajority of the U.S. labor force has its wages determined in the labor market, not as a result of the government \\nprice floor. However, for workers with low skills and little experience, like those without a high school diploma \\nor teenagers, the minimum wage is quite important. In many cities, the federal minimum wage is apparently \\nbelow the market price for unskilled labor, because employers offer more than the minimum wage to checkout \\nclerks and other low-skill workers without any government prodding. \\nEconomists have attempted to estimate how much the minimum wage reduces the quantity demanded of low-\\nskill labor. A typical result of such studies is that a 10% increase in the minimum wage would decrease the \\nhiring of unskilled workers by 1 to 2%, which seems a relatively small reduction. In fact, some studies have \\neven found no effect of a higher minimum wage on employment at certain times and places—although these \\nstudies are controversial. Well-known economists Walter Williams and Thomas Sowell, who both focus on the \\nintersections of race and economics, argue that minimum wages increase discrimination and limit economic \\nmobility. Williams, for example, indicates that higher minimum wages would increase employment barriers \\nfor lower-skilled workers, reducing the opportunity for them to learn on the job and gain experience that \\nwould give them more choice in employment. \\nLet’s suppose that the minimum wage lies just slightly below the equilibrium wage level. Wages could fluctuate \\naccording to market forces above this price floor, but they would not be allowed to move beneath the floor. In \\nthis situation, the price floor minimum wage is nonbinding —that is, the price floor is not determining the \\nmarket outcome. Even if the minimum wage moves just a little higher, it will still have no effect on the quantity \\nof employment in the economy, as long as it remains below the equilibrium wage. Even if the government \\nincreases the minimum wage by enough so that it rises slightly above the equilibrium wage and becomes \\nbinding, there will be only a small excess supply gap between the quantity demanded and quantity supplied. \\nThese insights help to explain why U.S. minimum wage laws have historically had only a small impact on \\nemployment. Since the minimum wage has typically been set close to the equilibrium wage for low-skill labor \\nand sometimes even below it, it has not had a large effect in creating an excess supply of labor. However, if the \\nminimum wage increased dramatically—say, if it doubled to match the living wages that some U.S. cities have \\nconsidered—then its impact on reducing the quantity demanded of employment would be far greater. The \\nfollowing Clear It Up feature describes in greater detail some of the arguments for and against changes to the \\nminimum wage. \\n4.1 • Demand and Supply at Work in Labor Markets     93\\n\"}, {\"page\": 98, \"original_pdf_page\": 122, \"text\": \"Review Questions \\n13 . What is the “price” commonly called in the labor market? \\n14 . Are households demanders or suppliers in the goods market? Are firms demanders or suppliers in the \\ngoods market? What about the labor market and the financial market? \\n15 . Name some factors that can cause a shift in the demand curve in labor markets. \\n16 . Name some factors that can cause a shift in the supply curve in labor markets. \\n17 . How do economists define equilibrium in financial markets? \\n18 . What would be a sign of a shortage in financial markets? \\n19 . Would usury laws help or hinder resolution of a shortage in financial markets? \\n20 . Whether the product market or the labor market, what happens to the equilibrium price and quantity for \\neach of the four possibilities: increase in demand, decrease in demand, increase in supply, and decrease \\nin supply. \\nCritical Thinking Questions \\n21 . Other than the demand for labor, what would be another example of a “derived demand?” \\n22 . Suppose that a 5% increase in the minimum wage causes a 5% reduction in employment. How would this \\naffect employers and how would it affect workers? In your opinion, would this be a good policy? \\n23 . Under what circumstances would a minimum wage be a nonbinding price floor? Under what \\ncircumstances would a living wage be a binding price floor? \\n24 . Suppose the U.S. economy began to grow more rapidly than other countries in the world. What would be \\nthe likely impact on U.S. financial markets as part of the global economy? \\n25 . If the government imposed a federal interest rate ceiling of 20% on all loans, who would gain and who \\nwould lose? \\n26 . Why are the factors that shift the demand for a product different from the factors that shift the demand for \\nlabor? Why are the factors that shift the supply of a product different from those that shift the supply of \\nlabor? \\n27 . During a discussion several years ago on building a pipeline to Alaska to carry natural gas, the U.S. Senate \\npassed a bill stipulating that there should be a guaranteed minimum price for the natural gas that would \\nflow through the pipeline. The thinking behind the bill was that if private firms had a guaranteed price for \\ntheir natural gas, they would be more willing to drill for gas and to pay to build the pipeline. \\na. Using the demand and supply framework, predict the effects of this price floor on the price, quantity \\ndemanded, and quantity supplied. \\nb. With the enactment of this price floor for natural gas, what are some of the likely unintended \\nconsequences in the market? \\nc. Suggest some policies other than the price floor that the government can pursue if it wishes to \\nencourage drilling for natural gas and for a new pipeline in Alaska. \\nProblems \\n28 . Identify each of the following as involving either demand or supply. Draw a circular flow diagram and label \\nthe flows A through F. (Some choices can be on both sides of the goods market.) \\na. Households in the labor market \\nb. Firms in the goods market \\n106     4 • Review Questions\\nAccess for free at openstax.org\\n\"}, {\"page\": 96, \"original_pdf_page\": 120, \"text\": \"Key Terms \\ninterest rate the “price” of borrowing in the financial market; a rate of return on an investment \\nminimum wage a price floor that makes it illegal for an employer to pay employees less than a certain hourly \\nrate \\nusury laws laws that impose an upper limit on the interest rate that lenders can charge \\nKey Concepts and Summary \\n4.1 Demand and Supply at Work in Labor Markets \\nIn the labor market, households are on the supply side of the market and firms are on the demand side. In the \\nmarket for financial capital, households and firms can be on either side of the market: they are suppliers of \\nfinancial capital when they save or make financial investments, and demanders of financial capital when they \\nborrow or receive financial investments. \\nIn the demand and supply analysis of labor markets, we can measure the price by the annual salary or hourly \\nwage received. We can measure the quantity of labor various ways, like number of workers or the number of \\nhours worked. \\nFactors that can shift the demand curve for labor include: a change in the quantity demanded of the product \\nthat the labor produces; a change in the production process that uses more or less labor; and a change in \\ngovernment policy that affects the quantity of labor that firms wish to hire at a given wage. Demand can also \\nincrease or decrease (shift) in response to: workers’ level of education and training, technology, the number of \\ncompanies, and availability and price of other inputs. \\nThe main factors that can shift the supply curve for labor are: how desirable a job appears to workers relative \\nto the alternatives, government policy that either restricts or encourages the quantity of workers trained for \\nthe job, the number of workers in the economy, and required education. \\n4.2 Demand and Supply in Financial Markets \\nIn the demand and supply analysis of financial markets, the “price” is the rate of return or the interest rate \\nreceived. We measure the quantity by the money that flows from those who supply financial capital to those \\nwho demand it. \\nTwo factors can shift the supply of financial capital to a certain investment: if people want to alter their \\nexisting levels of consumption, and if the riskiness or return on one investment changes relative to other \\ninvestments. Factors that can shift demand for capital include business confidence and consumer confidence \\nin the future—since financial investments received in the present are typically repaid in the future. \\n4.3 The Market System as an Efficient Mechanism for Information \\nThe market price system provides a highly efficient mechanism for disseminating information about relative \\nscarcities of goods, services, labor, and financial capital. Market participants do not need to know why prices \\nhave changed, only that the changes require them to revisit previous decisions they made about supply and \\ndemand. Price controls hide information about the true scarcity of products and thereby cause misallocation \\nof resources. \\nSelf-Check Questions \\n1 . In the labor market, what causes a movement along the demand curve? What causes a shift in the demand \\ncurve? \\n2 . In the labor market, what causes a movement along the supply curve? What causes a shift in the supply \\ncurve? \\n3 . Why is a living wage considered a price floor? Does imposing a living wage have the same outcome as a \\n104     4 • Key Terms\\nAccess for free at openstax.org\\n\"}, {\"page\": 78, \"original_pdf_page\": 102, \"text\": \"These data tell us, as economists, that the market for healthcare professionals, and nurses in particular, will face \\nseveral challenges. Our study of supply and demand will help us to analyze what might happen in the labor market \\nfor nursing and other healthcare professionals, as we will discuss in the second half of this case at the end of the \\nchapter. \\nThe theories of supply and demand do not apply just to markets for goods. They apply to any market, even \\nmarkets for things we may not think of as goods and services like labor and financial services. Labor markets \\nare markets for employees or jobs. Financial services markets are markets for saving or borrowing. \\nWhen we think about demand and supply curves in goods and services markets, it is easy to picture the \\ndemanders and suppliers: businesses produce the products and households buy them. Who are the \\ndemanders and suppliers in labor and financial service markets? In labor markets job seekers (individuals) are \\nthe suppliers of labor, while firms and other employers who hire labor are the demanders for labor. In financial \\nmarkets, any individual or firm who saves contributes to the supply of money, and any entity that borrows \\n(person, firm, or government) contributes to the demand for money. \\nAs a college student, you most likely participate in both labor and financial markets. Employment is a fact of \\nlife for most college students: According to the National Center for Educational Statistics, in 2018 43% of full-\\ntime college students and 81% of part-time college students were employed. Most college students are also \\nheavily involved in financial markets, primarily as borrowers. As of the 2018–19 school year, 43% of full-time \\nundergraduate students were receiving loan aid to help finance their education, and those loans averaged \\n$7,300 per year. Many students also borrow for other expenses, like purchasing a car. As this chapter will \\nillustrate, we can analyze labor markets and financial markets with the same tools we use to analyze demand \\nand supply in the goods markets. \\n4.1 Demand and Supply at Work in Labor Markets \\nLEARNING OBJECTIVES \\nBy the end of this section, you will be able to: \\n• Predict shifts in the demand and supply curves of the labor market \\n• Explain the impact of new technology on the demand and supply curves of the labor market \\n• Explain price floors in the labor market such as minimum wage or a living wage \\nMarkets for labor have demand and supply curves, just like markets for goods. The law of demand applies in \\nlabor markets this way: A higher salary or wage—that is, a higher price in the labor market—leads to a \\ndecrease in the quantity of labor demanded by employers, while a lower salary or wage leads to an increase in \\nthe quantity of labor demanded. The law of supply functions in labor markets, too: A higher price for labor \\nleads to a higher quantity of labor supplied; a lower price leads to a lower quantity supplied. \\nEquilibrium in the Labor Market \\nIn 2020, nearly 41,000 registered nurses worked in the Minneapolis-St. Paul-Bloomington, Minnesota-\\nWisconsin metropolitan area, according to the BLS. They worked for a variety of employers: hospitals, doctors’ \\noffices, schools, health clinics, and nursing homes. Figure 4.2 illustrates how demand and supply determine \\nequilibrium in this labor market. The demand and supply schedules in Table 4.1 list the quantity supplied and \\nquantity demanded of nurses at different salaries. \\n86     4 • Labor and Financial Markets\\nAccess for free at openstax.org\\n\"}, {\"page\": 83, \"original_pdf_page\": 107, \"text\": \"Step 1. What did the markets for low-skill labor and high-skill labor look like before the arrival of the new \\ntechnologies? In Figure 4.3 (a) and Figure 4.3 (b), S0 is the original supply curve for labor and D0 is the original \\ndemand curve for labor in each market. In each graph, the original point of equilibrium, E0, occurs at the price \\nW0 and the quantity Q0. \\nFIGURE 4.3 Technology and Wages: Applying Demand and Supply (a) The demand for low-skill labor shifts to the \\nleft when technology can do the job previously done by these workers. (b) New technologies can also increase the \\ndemand for high-skill labor in fields such as information technology and network administration. \\nStep 2. Does the new technology affect the supply of labor from households or the demand for labor from \\nfirms? The technology change described here affects demand for labor by firms that hire workers. \\nStep 3. Will the new technology increase or decrease demand? Based on the description earlier, as the \\nsubstitute for low-skill labor becomes available, demand for low-skill labor will shift to the left, from D0 to D1. \\nAs the technology complement for high-skill labor becomes cheaper, demand for high-skill labor will shift to \\nthe right, from D0 to D1. \\nStep 4. The new equilibrium for low-skill labor, shown as point E1 with price W1 and quantity Q1, has a lower \\nwage and quantity hired than the original equilibrium, E0. The new equilibrium for high-skill labor, shown as \\npoint E1 with price W1 and quantity Q1, has a higher wage and quantity hired than the original equilibrium \\n(E0). \\nThus, the demand and supply model predicts that the new computer and communications technologies will \\nraise the pay of high-skill workers but reduce the pay of low-skill workers. From the 1970s to the mid-2000s, \\nthe wage gap widened between high-skill and low-skill labor. According to the National Center for Education \\nStatistics, in 1980, for example, a college graduate earned about 30% more than a high school graduate with \\ncomparable job experience, but by 2019, a college graduate earned about 59% more than an otherwise \\ncomparable high school graduate. Many economists believe that the trend toward greater wage inequality \\nacross the U.S. economy is due to improvements in technology. \\nLINK IT UP \\nVisit this website (https://openstax.org/l/oldtechjobs) to read about ten tech skills that have lost relevance in \\ntoday’s workforce. \\nPrice Floors in the Labor Market: Living Wages and Minimum Wages \\nIn contrast to goods and services markets, price ceilings are rare in labor markets, because rules that prevent \\n4.1 • Demand and Supply at Work in Labor Markets     91\\n\"}]"
+              }
+            ]
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "finish",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_0c41e1cea41e1312016af8365ca3c487d2a3040ef1c050bc6e",
+        "object": "response",
+        "created_at": 1794651740,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651741,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_0c41e1cea41e1312016af8365d4b4487d2813e5f43237e87db",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"status\":\"answered\",\"answer\":\"Tại mức lương 12 USD/giờ, số lao động được cung ứng là 1.600 lao động và số lao động được doanh nghiệp thành phố thuê là 700 lao động [page 84, Figure 4.4] [page 85, Table 4.4].\",\"pages\":[84,85]}",
+            "call_id": "call_E4TWKWZ0MExEXBYlqVSBRXVN",
+            "name": "finish"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "name": "finish",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 4858,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 88,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 4946
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.6013142000010703
+    }
+  ],
+  "usage": {
+    "model_calls": 2,
+    "input_tokens": 5068,
+    "cached_input_tokens": 0,
+    "output_tokens": 176,
+    "estimated_api_cost_usd": 0.004593,
+    "cost_note": "Estimate from published standard GPT-5.4-mini token rates, verified 2026-11-14; actual bill may differ. Unknown model/endpoint rates are not assumed zero.",
+    "pricing_source": "https://developers.openai.com/api/docs/models/gpt-5.4-mini"
+  },
+  "seconds": 2.713775500000338
+}

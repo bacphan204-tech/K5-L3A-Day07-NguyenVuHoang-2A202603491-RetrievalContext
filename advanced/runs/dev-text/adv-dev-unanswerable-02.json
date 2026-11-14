@@ -1,0 +1,562 @@
+{
+  "id": "adv-dev-unanswerable-02",
+  "question": "Dựa riêng vào tài liệu, giá xăng Hà Nội ngày 14/11/2026 chính xác là bao nhiêu?",
+  "vision": false,
+  "final": {
+    "status": "abstain",
+    "answer": "Không thể xác định từ tài liệu đã cung cấp. Các trang nguồn chỉ nói về giá xăng và cân bằng thị trường trong ví dụ giáo khoa, không có dữ liệu về Hà Nội, ngày 14/11/2026, hay một bảng/biểu nào nêu giá xăng tại địa điểm và thời điểm đó [page 45, Table 3.3; Figure 3.4].",
+    "pages": [
+      45,
+      55,
+      64,
+      48,
+      85,
+      67
+    ]
+  },
+  "context": [
+    {
+      "page": 45,
+      "original_pdf_page": 69,
+      "text": "Price (per gallon) Quantity demanded (millions of gallons) Quantity supplied (millions of gallons) \n$1.60 \n550 \n640 \n$1.80 \n500 \n680 \n$2.00 \n460 \n700 \n$2.20 \n420 \n720 \nTABLE 3.3 Price, Quantity Demanded, and Quantity Supplied \nRemember this: When two lines on a diagram cross, this intersection usually means something. The point \nwhere the supply curve (S) and the demand curve (D) cross, designated by point E in Figure 3.4, is called the \nequilibrium. The equilibrium price is the only price where the plans of consumers and the plans of producers \nagree—that is, where the amount of the product consumers want to buy (quantity demanded) is equal to the \namount producers want to sell (quantity supplied). Economists call this common quantity the equilibrium \nquantity. At any other price, the quantity demanded does not equal the quantity supplied, so the market is not \nin equilibrium at that price. \nIn Figure 3.4, the equilibrium price is $1.40 per gallon of gasoline and the equilibrium quantity is 600 million \ngallons. If you had only the demand and supply schedules, and not the graph, you could find the equilibrium by \nlooking for the price level on the tables where the quantity demanded and the quantity supplied are equal. \nThe word “equilibrium” means “balance.” If a market is at its equilibrium price and quantity, then it has no \nreason to move away from that point. However, if a market is not at equilibrium, then economic pressures arise \nto move the market toward the equilibrium price and the equilibrium quantity. \nImagine, for example, that the price of a gallon of gasoline was above the equilibrium price—that is, instead of \n$1.40 per gallon, the price is $1.80 per gallon. The dashed horizontal line at the price of $1.80 in Figure 3.4 \nillustrates this above-equilibrium price. At this higher price, the quantity demanded drops from 600 to 500. \nThis decline in quantity reflects how consumers react to the higher price by finding ways to use less gasoline. \nMoreover, at this higher price of $1.80, the quantity of gasoline supplied rises from 600 to 680, as the higher \nprice makes it more profitable for gasoline producers to expand their output. Now, consider how quantity \ndemanded and quantity supplied are related at this above-equilibrium price. Quantity demanded has fallen to \n500 gallons, while quantity supplied has risen to 680 gallons. In fact, at any above-equilibrium price, the \nquantity supplied exceeds the quantity demanded. We call this an excess supply or a surplus. \nWith a surplus, gasoline accumulates at gas stations, in tanker trucks, in pipelines, and at oil refineries. This \naccumulation puts pressure on gasoline sellers. If a surplus remains unsold, those firms involved in making \nand selling gasoline are not receiving enough cash to pay their workers and to cover their expenses. In this \nsituation, some producers and sellers will want to cut prices, because it is better to sell at a lower price than not \nto sell at all. Once some sellers start cutting prices, others will follow to avoid losing sales. These price \nreductions in turn will stimulate a higher quantity demanded. Therefore, if the price is above the equilibrium \nlevel, incentives built into the structure of demand and supply will create pressures for the price to fall toward \nthe equilibrium. \nNow suppose that the price is below its equilibrium level at $1.20 per gallon, as the dashed horizontal line at \nthis price in Figure 3.4 shows. At this lower price, the quantity demanded increases from 600 to 700 as drivers \ntake longer trips, spend more minutes warming up the car in the driveway in wintertime, stop sharing rides to \nwork, and buy larger cars that get fewer miles to the gallon. However, the below-equilibrium price reduces \ngasoline producers’ incentives to produce and sell gasoline, and the quantity supplied falls from 600 to 550. \n3.1 • Demand, Supply, and Equilibrium in Markets for Goods and Services     53\n"
+    },
+    {
+      "page": 55,
+      "original_pdf_page": 79,
+      "text": "FIGURE 3.13 Increasing Costs Leads to Increasing Price Because the cost of production and the desired profit \nequal the price a firm will set for a product, if the cost of production increases, the price for the product will also \nneed to increase. \nStep 4. Shift the supply curve through this point. You will see that an increase in cost causes an upward (or a \nleftward) shift of the supply curve so that at any price, the quantities supplied will be smaller, as Figure 3.14 \nillustrates. \nFIGURE 3.14 Supply Curve Shifts When the cost of production increases, the supply curve shifts upwardly to a \nnew price level. \nSumming Up Factors That Change Supply \nChanges in the cost of inputs, natural disasters, new technologies, and the impact of government decisions all \naffect the cost of production. In turn, these factors affect how much firms are willing to supply at any given \nprice. \nFigure 3.15 summarizes factors that change the supply of goods and services. Notice that a change in the price \nof the product itself is not among the factors that shift the supply curve. Although a change in price of a good or \nservice typically causes a change in quantity supplied or a movement along the supply curve for that specific \ngood or service, it does not cause the supply curve itself to shift. \n3.2 • Shifts in Demand and Supply for Goods and Services     63\n"
+    },
+    {
+      "page": 64,
+      "original_pdf_page": 88,
+      "text": "FIGURE 3.21 A Price Ceiling Example—Rent Control The original intersection of demand and supply occurs at E0. If \ndemand shifts from D0 to D1, the new equilibrium would be at E1—unless a price ceiling prevents the price from \nrising. If the price is not permitted to rise, the quantity supplied remains at 15,000. However, after the change in \ndemand, the quantity demanded rises to 19,000, resulting in a shortage. \nPrice Original Quantity Supplied Original Quantity Demanded New Quantity Demanded \n$400 12,000 \n18,000 \n23,000 \n$500 15,000 \n15,000 \n19,000 \n$600 17,000 \n13,000 \n17,000 \n$700 19,000 \n11,000 \n15,000 \n$800 20,000 \n10,000 \n14,000 \nTABLE 3.7 Rent Control \nSuppose that a city government passes a rent control law to keep the price at the original equilibrium of $500 \nfor a typical apartment. In Figure 3.21, the horizontal line at the price of $500 shows the legally fixed \nmaximum price set by the rent control law. However, the underlying forces that shifted the demand curve to \nthe right are still there. At that price ($500), the quantity supplied remains at the same 15,000 rental units, but \nthe quantity demanded is 19,000 rental units. In other words, the quantity demanded exceeds the quantity \nsupplied, so there is a shortage of rental housing. One of the ironies of price ceilings is that while the price \nceiling was intended to help renters, there are actually fewer apartments rented out under the price ceiling \n(15,000 rental units) than would be the case at the market rent of $600 (17,000 rental units). \nPrice ceilings do not simply benefit renters at the expense of landlords. Rather, some renters (or potential \nrenters) lose their housing as landlords convert apartments to co-ops and condos. Even when the housing \nremains in the rental market, landlords tend to spend less on maintenance and on essentials like heating, \ncooling, hot water, and lighting. The first rule of economics is you do not get something for nothing—everything \nhas an opportunity cost. Thus, if renters obtain “cheaper” housing than the market requires, they tend to also \nend up with lower quality housing. \nPrice ceilings are enacted in an attempt to keep prices low for those who need the product. However, when the \nmarket price is not allowed to rise to the equilibrium level, quantity demanded exceeds quantity supplied, and \nthus a shortage occurs. Those who manage to purchase the product at the lower price given by the price ceiling \nwill benefit, but sellers of the product will suffer, along with those who are not able to purchase the product at \n72     3 • Demand and Supply\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 48,
+      "original_pdf_page": 72,
+      "text": "FIGURE 3.5 Shifts in Demand: A Car Example Increased demand means that at every given price, the quantity \ndemanded is higher, so that the demand curve shifts to the right from D0 to D1. Decreased demand means that at \nevery given price, the quantity demanded is lower, so that the demand curve shifts to the left from D0 to D2. \nPrice \nDecrease to D2 \nOriginal Quantity Demanded D0 \nIncrease to D1 \n$16,000 17.6 million \n22.0 million \n24.0 million \n$18,000 16.0 million \n20.0 million \n22.0 million \n$20,000 14.4 million \n18.0 million \n20.0 million \n$22,000 13.6 million \n17.0 million \n19.0 million \n$24,000 13.2 million \n16.5 million \n18.5 million \n$26,000 12.8 million \n16.0 million \n18.0 million \nTABLE 3.4 Price and Demand Shifts: A Car Example \nNow, imagine that the economy slows down so that many people lose their jobs or work fewer hours, reducing \ntheir incomes. In this case, the decrease in income would lead to a lower quantity of cars demanded at every \ngiven price, and the original demand curve D0 would shift left to D2. The shift from D0 to D2 represents such a \ndecrease in demand: At any given price level, the quantity demanded is now lower. In this example, a price of \n$20,000 means 18 million cars sold along the original demand curve, but only 14.4 million sold after demand \nfell. \nWhen a demand curve shifts, it does not mean that the quantity demanded by every individual buyer changes \nby the same amount. In this example, not everyone would have higher or lower income and not everyone \nwould buy or not buy an additional car. Instead, a shift in a demand curve captures a pattern for the market as \na whole. \nIn the previous section, we argued that higher income causes greater demand at every price. This is true for \nmost goods and services. For some—luxury cars, vacations in Europe, and fine jewelry—the effect of a rise in \nincome can be especially pronounced. A product whose demand rises when income rises, and vice versa, is \ncalled a normal good. A few exceptions to this pattern do exist. As incomes rise, many people will buy fewer \n56     3 • Demand and Supply\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 85,
+      "original_pdf_page": 109,
+      "text": "Wage \nQuantity Labor Demanded Quantity Labor Supplied \n$8/hr \n1,900 \n500 \n$9/hr \n1,500 \n900 \n$10/hr 1,200 \n1,200 \n$11/hr 900 \n1,400 \n$12/hr 700 \n1,600 \n$13/hr 500 \n1,800 \n$14/hr 400 \n1,900 \nTABLE 4.4 Living Wage: Example of a Price Floor \nThe Minimum Wage as an Example of a Price Floor \nThe U.S. minimum wage is a price floor that is set either very close to the equilibrium wage or even slightly \nbelow it. About 1.5% of hourly workers in the U.S. are paid the minimum wage. In other words, the vast \nmajority of the U.S. labor force has its wages determined in the labor market, not as a result of the government \nprice floor. However, for workers with low skills and little experience, like those without a high school diploma \nor teenagers, the minimum wage is quite important. In many cities, the federal minimum wage is apparently \nbelow the market price for unskilled labor, because employers offer more than the minimum wage to checkout \nclerks and other low-skill workers without any government prodding. \nEconomists have attempted to estimate how much the minimum wage reduces the quantity demanded of low-\nskill labor. A typical result of such studies is that a 10% increase in the minimum wage would decrease the \nhiring of unskilled workers by 1 to 2%, which seems a relatively small reduction. In fact, some studies have \neven found no effect of a higher minimum wage on employment at certain times and places—although these \nstudies are controversial. Well-known economists Walter Williams and Thomas Sowell, who both focus on the \nintersections of race and economics, argue that minimum wages increase discrimination and limit economic \nmobility. Williams, for example, indicates that higher minimum wages would increase employment barriers \nfor lower-skilled workers, reducing the opportunity for them to learn on the job and gain experience that \nwould give them more choice in employment. \nLet’s suppose that the minimum wage lies just slightly below the equilibrium wage level. Wages could fluctuate \naccording to market forces above this price floor, but they would not be allowed to move beneath the floor. In \nthis situation, the price floor minimum wage is nonbinding —that is, the price floor is not determining the \nmarket outcome. Even if the minimum wage moves just a little higher, it will still have no effect on the quantity \nof employment in the economy, as long as it remains below the equilibrium wage. Even if the government \nincreases the minimum wage by enough so that it rises slightly above the equilibrium wage and becomes \nbinding, there will be only a small excess supply gap between the quantity demanded and quantity supplied. \nThese insights help to explain why U.S. minimum wage laws have historically had only a small impact on \nemployment. Since the minimum wage has typically been set close to the equilibrium wage for low-skill labor \nand sometimes even below it, it has not had a large effect in creating an excess supply of labor. However, if the \nminimum wage increased dramatically—say, if it doubled to match the living wages that some U.S. cities have \nconsidered—then its impact on reducing the quantity demanded of employment would be far greater. The \nfollowing Clear It Up feature describes in greater detail some of the arguments for and against changes to the \nminimum wage. \n4.1 • Demand and Supply at Work in Labor Markets     93\n"
+    },
+    {
+      "page": 67,
+      "original_pdf_page": 91,
+      "text": "FIGURE 3.23 Consumer and Producer Surplus The somewhat triangular area labeled by F shows the area of \nconsumer surplus, which shows that the equilibrium price in the market was less than what many of the consumers \nwere willing to pay. Point J on the demand curve shows that, even at the price of $90, consumers would have been \nwilling to purchase a quantity of 20 million. The somewhat triangular area labeled by G shows the area of producer \nsurplus, which shows that the equilibrium price received in the market was more than what many of the producers \nwere willing to accept for their products. For example, point K on the supply curve shows that at a price of $45, firms \nwould have been willing to supply a quantity of 14 million. \nThe supply curve shows the quantity that firms are willing to supply at each price. For example, point K in \nFigure 3.23 illustrates that, at $45, firms would still have been willing to supply a quantity of 14 million. Those \nproducers who would have been willing to supply the tablets at $45, but who were instead able to charge the \nequilibrium price of $80, clearly received an extra benefit beyond what they required to supply the product. \nThe extra benefit producers receive from selling a good or service, measured by the price the producer actually \nreceived minus the price the producer would have been willing to accept is called producer surplus. In Figure \n3.23, producer surplus is the area labeled G—that is, the area between the market price and the segment of the \nsupply curve below the equilibrium. \nThe sum of consumer surplus and producer surplus is social surplus, also referred to as economic surplus or \ntotal surplus. In Figure 3.23 we show social surplus as the area F + G. Social surplus is larger at equilibrium \nquantity and price than it would be at any other quantity. This demonstrates the economic efficiency of the \nmarket equilibrium. In addition, at the efficient level of output, it is impossible to produce greater consumer \nsurplus without reducing producer surplus, and it is impossible to produce greater producer surplus without \nreducing consumer surplus. \nInefficiency of Price Floors and Price Ceilings \nThe imposition of a price floor or a price ceiling will prevent a market from adjusting to its equilibrium price \nand quantity, and thus will create an inefficient outcome. However, there is an additional twist here. Along with \ncreating inefficiency, price floors and ceilings will also transfer some consumer surplus to producers, or some \nproducer surplus to consumers. \nImagine that several firms develop a promising but expensive new drug for treating back pain. If this therapy \nis left to the market, the equilibrium price will be $600 per month and 20,000 people will use the drug, as \nshown in Figure 3.24 (a). The original level of consumer surplus is T + U and producer surplus is V + W + X. \nHowever, the government decides to impose a price ceiling of $400 to make the drug more affordable. At this \nprice ceiling, firms in the market now produce only 15,000. \n3.5 • Demand, Supply, and Efficiency     75\n"
+    }
+  ],
+  "retrieval_queries": [
+    "Hanoi gasoline price 14/11/2026 textbook",
+    "giá xăng Hà Nội ngày 14/11/2026",
+    "14 November 2026 Hanoi gasoline price figure table"
+  ],
+  "ranked_pages": [
+    [
+      45,
+      0.06219280455134501
+    ],
+    [
+      55,
+      0.046470330908794336
+    ],
+    [
+      64,
+      0.044311902520857746
+    ],
+    [
+      48,
+      0.04321070234113713
+    ],
+    [
+      85,
+      0.0428717671484193
+    ],
+    [
+      67,
+      0.042198298777246145
+    ],
+    [
+      76,
+      0.04201388888888889
+    ],
+    [
+      84,
+      0.040570613969442615
+    ],
+    [
+      43,
+      0.03200204813108039
+    ],
+    [
+      41,
+      0.03125763125763126
+    ],
+    [
+      44,
+      0.029910714285714284
+    ],
+    [
+      40,
+      0.028958333333333336
+    ],
+    [
+      52,
+      0.028850145288501453
+    ],
+    [
+      73,
+      0.028577260665441927
+    ],
+    [
+      42,
+      0.028404512489927477
+    ],
+    [
+      54,
+      0.027272727272727275
+    ],
+    [
+      59,
+      0.025657894736842105
+    ],
+    [
+      114,
+      0.01639344262295082
+    ],
+    [
+      6,
+      0.014705882352941176
+    ],
+    [
+      74,
+      0.014705882352941176
+    ],
+    [
+      23,
+      0.014492753623188406
+    ],
+    [
+      95,
+      0.014084507042253521
+    ],
+    [
+      3,
+      0.013888888888888888
+    ],
+    [
+      17,
+      0.0136986301369863
+    ],
+    [
+      92,
+      0.013513513513513514
+    ],
+    [
+      14,
+      0.013513513513513514
+    ],
+    [
+      36,
+      0.013333333333333334
+    ],
+    [
+      72,
+      0.013157894736842105
+    ],
+    [
+      18,
+      0.012987012987012988
+    ],
+    [
+      46,
+      0.01282051282051282
+    ],
+    [
+      37,
+      0.01282051282051282
+    ],
+    [
+      103,
+      0.01282051282051282
+    ],
+    [
+      97,
+      0.012658227848101266
+    ],
+    [
+      98,
+      0.0125
+    ]
+  ],
+  "status": "success",
+  "calls": [
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": "Search this economics textbook to answer in Vietnamese: Dựa riêng vào tài liệu, giá xăng Hà Nội ngày 14/11/2026 chính xác là bao nhiêu?"
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "search_book",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_0a721836751b54e5016af83676d3dc87d2ac395e520ea4ccfd",
+        "object": "response",
+        "created_at": 1794651766,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651767,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_0a721836751b54e5016af836773d3087d2b0d9dc746a1677a0",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"queries\":[\"Hanoi gasoline price 14/11/2026 textbook\", \"giá xăng Hà Nội ngày 14/11/2026\", \"14 November 2026 Hanoi gasoline price figure table\"]}",
+            "call_id": "call_IiCCnNFGzyz9tAAkQNtpTVJk",
+            "name": "search_book"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "name": "search_book",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 169,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 58,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 227
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.0934683999948902
+    },
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": [
+              {
+                "type": "input_text",
+                "text": "Answer the question using ONLY supplied source evidence, in Vietnamese. Cite [page N] and Figure/Table ID for all claims. No external facts. If date/place/condition absent, choose abstain with no guessed values. Dựa riêng vào tài liệu, giá xăng Hà Nội ngày 14/11/2026 chính xác là bao nhiêu?\nSOURCE_CONTEXT:[{\"page\": 45, \"original_pdf_page\": 69, \"text\": \"Price (per gallon) Quantity demanded (millions of gallons) Quantity supplied (millions of gallons) \\n$1.60 \\n550 \\n640 \\n$1.80 \\n500 \\n680 \\n$2.00 \\n460 \\n700 \\n$2.20 \\n420 \\n720 \\nTABLE 3.3 Price, Quantity Demanded, and Quantity Supplied \\nRemember this: When two lines on a diagram cross, this intersection usually means something. The point \\nwhere the supply curve (S) and the demand curve (D) cross, designated by point E in Figure 3.4, is called the \\nequilibrium. The equilibrium price is the only price where the plans of consumers and the plans of producers \\nagree—that is, where the amount of the product consumers want to buy (quantity demanded) is equal to the \\namount producers want to sell (quantity supplied). Economists call this common quantity the equilibrium \\nquantity. At any other price, the quantity demanded does not equal the quantity supplied, so the market is not \\nin equilibrium at that price. \\nIn Figure 3.4, the equilibrium price is $1.40 per gallon of gasoline and the equilibrium quantity is 600 million \\ngallons. If you had only the demand and supply schedules, and not the graph, you could find the equilibrium by \\nlooking for the price level on the tables where the quantity demanded and the quantity supplied are equal. \\nThe word “equilibrium” means “balance.” If a market is at its equilibrium price and quantity, then it has no \\nreason to move away from that point. However, if a market is not at equilibrium, then economic pressures arise \\nto move the market toward the equilibrium price and the equilibrium quantity. \\nImagine, for example, that the price of a gallon of gasoline was above the equilibrium price—that is, instead of \\n$1.40 per gallon, the price is $1.80 per gallon. The dashed horizontal line at the price of $1.80 in Figure 3.4 \\nillustrates this above-equilibrium price. At this higher price, the quantity demanded drops from 600 to 500. \\nThis decline in quantity reflects how consumers react to the higher price by finding ways to use less gasoline. \\nMoreover, at this higher price of $1.80, the quantity of gasoline supplied rises from 600 to 680, as the higher \\nprice makes it more profitable for gasoline producers to expand their output. Now, consider how quantity \\ndemanded and quantity supplied are related at this above-equilibrium price. Quantity demanded has fallen to \\n500 gallons, while quantity supplied has risen to 680 gallons. In fact, at any above-equilibrium price, the \\nquantity supplied exceeds the quantity demanded. We call this an excess supply or a surplus. \\nWith a surplus, gasoline accumulates at gas stations, in tanker trucks, in pipelines, and at oil refineries. This \\naccumulation puts pressure on gasoline sellers. If a surplus remains unsold, those firms involved in making \\nand selling gasoline are not receiving enough cash to pay their workers and to cover their expenses. In this \\nsituation, some producers and sellers will want to cut prices, because it is better to sell at a lower price than not \\nto sell at all. Once some sellers start cutting prices, others will follow to avoid losing sales. These price \\nreductions in turn will stimulate a higher quantity demanded. Therefore, if the price is above the equilibrium \\nlevel, incentives built into the structure of demand and supply will create pressures for the price to fall toward \\nthe equilibrium. \\nNow suppose that the price is below its equilibrium level at $1.20 per gallon, as the dashed horizontal line at \\nthis price in Figure 3.4 shows. At this lower price, the quantity demanded increases from 600 to 700 as drivers \\ntake longer trips, spend more minutes warming up the car in the driveway in wintertime, stop sharing rides to \\nwork, and buy larger cars that get fewer miles to the gallon. However, the below-equilibrium price reduces \\ngasoline producers’ incentives to produce and sell gasoline, and the quantity supplied falls from 600 to 550. \\n3.1 • Demand, Supply, and Equilibrium in Markets for Goods and Services     53\\n\"}, {\"page\": 55, \"original_pdf_page\": 79, \"text\": \"FIGURE 3.13 Increasing Costs Leads to Increasing Price Because the cost of production and the desired profit \\nequal the price a firm will set for a product, if the cost of production increases, the price for the product will also \\nneed to increase. \\nStep 4. Shift the supply curve through this point. You will see that an increase in cost causes an upward (or a \\nleftward) shift of the supply curve so that at any price, the quantities supplied will be smaller, as Figure 3.14 \\nillustrates. \\nFIGURE 3.14 Supply Curve Shifts When the cost of production increases, the supply curve shifts upwardly to a \\nnew price level. \\nSumming Up Factors That Change Supply \\nChanges in the cost of inputs, natural disasters, new technologies, and the impact of government decisions all \\naffect the cost of production. In turn, these factors affect how much firms are willing to supply at any given \\nprice. \\nFigure 3.15 summarizes factors that change the supply of goods and services. Notice that a change in the price \\nof the product itself is not among the factors that shift the supply curve. Although a change in price of a good or \\nservice typically causes a change in quantity supplied or a movement along the supply curve for that specific \\ngood or service, it does not cause the supply curve itself to shift. \\n3.2 • Shifts in Demand and Supply for Goods and Services     63\\n\"}, {\"page\": 64, \"original_pdf_page\": 88, \"text\": \"FIGURE 3.21 A Price Ceiling Example—Rent Control The original intersection of demand and supply occurs at E0. If \\ndemand shifts from D0 to D1, the new equilibrium would be at E1—unless a price ceiling prevents the price from \\nrising. If the price is not permitted to rise, the quantity supplied remains at 15,000. However, after the change in \\ndemand, the quantity demanded rises to 19,000, resulting in a shortage. \\nPrice Original Quantity Supplied Original Quantity Demanded New Quantity Demanded \\n$400 12,000 \\n18,000 \\n23,000 \\n$500 15,000 \\n15,000 \\n19,000 \\n$600 17,000 \\n13,000 \\n17,000 \\n$700 19,000 \\n11,000 \\n15,000 \\n$800 20,000 \\n10,000 \\n14,000 \\nTABLE 3.7 Rent Control \\nSuppose that a city government passes a rent control law to keep the price at the original equilibrium of $500 \\nfor a typical apartment. In Figure 3.21, the horizontal line at the price of $500 shows the legally fixed \\nmaximum price set by the rent control law. However, the underlying forces that shifted the demand curve to \\nthe right are still there. At that price ($500), the quantity supplied remains at the same 15,000 rental units, but \\nthe quantity demanded is 19,000 rental units. In other words, the quantity demanded exceeds the quantity \\nsupplied, so there is a shortage of rental housing. One of the ironies of price ceilings is that while the price \\nceiling was intended to help renters, there are actually fewer apartments rented out under the price ceiling \\n(15,000 rental units) than would be the case at the market rent of $600 (17,000 rental units). \\nPrice ceilings do not simply benefit renters at the expense of landlords. Rather, some renters (or potential \\nrenters) lose their housing as landlords convert apartments to co-ops and condos. Even when the housing \\nremains in the rental market, landlords tend to spend less on maintenance and on essentials like heating, \\ncooling, hot water, and lighting. The first rule of economics is you do not get something for nothing—everything \\nhas an opportunity cost. Thus, if renters obtain “cheaper” housing than the market requires, they tend to also \\nend up with lower quality housing. \\nPrice ceilings are enacted in an attempt to keep prices low for those who need the product. However, when the \\nmarket price is not allowed to rise to the equilibrium level, quantity demanded exceeds quantity supplied, and \\nthus a shortage occurs. Those who manage to purchase the product at the lower price given by the price ceiling \\nwill benefit, but sellers of the product will suffer, along with those who are not able to purchase the product at \\n72     3 • Demand and Supply\\nAccess for free at openstax.org\\n\"}, {\"page\": 48, \"original_pdf_page\": 72, \"text\": \"FIGURE 3.5 Shifts in Demand: A Car Example Increased demand means that at every given price, the quantity \\ndemanded is higher, so that the demand curve shifts to the right from D0 to D1. Decreased demand means that at \\nevery given price, the quantity demanded is lower, so that the demand curve shifts to the left from D0 to D2. \\nPrice \\nDecrease to D2 \\nOriginal Quantity Demanded D0 \\nIncrease to D1 \\n$16,000 17.6 million \\n22.0 million \\n24.0 million \\n$18,000 16.0 million \\n20.0 million \\n22.0 million \\n$20,000 14.4 million \\n18.0 million \\n20.0 million \\n$22,000 13.6 million \\n17.0 million \\n19.0 million \\n$24,000 13.2 million \\n16.5 million \\n18.5 million \\n$26,000 12.8 million \\n16.0 million \\n18.0 million \\nTABLE 3.4 Price and Demand Shifts: A Car Example \\nNow, imagine that the economy slows down so that many people lose their jobs or work fewer hours, reducing \\ntheir incomes. In this case, the decrease in income would lead to a lower quantity of cars demanded at every \\ngiven price, and the original demand curve D0 would shift left to D2. The shift from D0 to D2 represents such a \\ndecrease in demand: At any given price level, the quantity demanded is now lower. In this example, a price of \\n$20,000 means 18 million cars sold along the original demand curve, but only 14.4 million sold after demand \\nfell. \\nWhen a demand curve shifts, it does not mean that the quantity demanded by every individual buyer changes \\nby the same amount. In this example, not everyone would have higher or lower income and not everyone \\nwould buy or not buy an additional car. Instead, a shift in a demand curve captures a pattern for the market as \\na whole. \\nIn the previous section, we argued that higher income causes greater demand at every price. This is true for \\nmost goods and services. For some—luxury cars, vacations in Europe, and fine jewelry—the effect of a rise in \\nincome can be especially pronounced. A product whose demand rises when income rises, and vice versa, is \\ncalled a normal good. A few exceptions to this pattern do exist. As incomes rise, many people will buy fewer \\n56     3 • Demand and Supply\\nAccess for free at openstax.org\\n\"}, {\"page\": 85, \"original_pdf_page\": 109, \"text\": \"Wage \\nQuantity Labor Demanded Quantity Labor Supplied \\n$8/hr \\n1,900 \\n500 \\n$9/hr \\n1,500 \\n900 \\n$10/hr 1,200 \\n1,200 \\n$11/hr 900 \\n1,400 \\n$12/hr 700 \\n1,600 \\n$13/hr 500 \\n1,800 \\n$14/hr 400 \\n1,900 \\nTABLE 4.4 Living Wage: Example of a Price Floor \\nThe Minimum Wage as an Example of a Price Floor \\nThe U.S. minimum wage is a price floor that is set either very close to the equilibrium wage or even slightly \\nbelow it. About 1.5% of hourly workers in the U.S. are paid the minimum wage. In other words, the vast \\nmajority of the U.S. labor force has its wages determined in the labor market, not as a result of the government \\nprice floor. However, for workers with low skills and little experience, like those without a high school diploma \\nor teenagers, the minimum wage is quite important. In many cities, the federal minimum wage is apparently \\nbelow the market price for unskilled labor, because employers offer more than the minimum wage to checkout \\nclerks and other low-skill workers without any government prodding. \\nEconomists have attempted to estimate how much the minimum wage reduces the quantity demanded of low-\\nskill labor. A typical result of such studies is that a 10% increase in the minimum wage would decrease the \\nhiring of unskilled workers by 1 to 2%, which seems a relatively small reduction. In fact, some studies have \\neven found no effect of a higher minimum wage on employment at certain times and places—although these \\nstudies are controversial. Well-known economists Walter Williams and Thomas Sowell, who both focus on the \\nintersections of race and economics, argue that minimum wages increase discrimination and limit economic \\nmobility. Williams, for example, indicates that higher minimum wages would increase employment barriers \\nfor lower-skilled workers, reducing the opportunity for them to learn on the job and gain experience that \\nwould give them more choice in employment. \\nLet’s suppose that the minimum wage lies just slightly below the equilibrium wage level. Wages could fluctuate \\naccording to market forces above this price floor, but they would not be allowed to move beneath the floor. In \\nthis situation, the price floor minimum wage is nonbinding —that is, the price floor is not determining the \\nmarket outcome. Even if the minimum wage moves just a little higher, it will still have no effect on the quantity \\nof employment in the economy, as long as it remains below the equilibrium wage. Even if the government \\nincreases the minimum wage by enough so that it rises slightly above the equilibrium wage and becomes \\nbinding, there will be only a small excess supply gap between the quantity demanded and quantity supplied. \\nThese insights help to explain why U.S. minimum wage laws have historically had only a small impact on \\nemployment. Since the minimum wage has typically been set close to the equilibrium wage for low-skill labor \\nand sometimes even below it, it has not had a large effect in creating an excess supply of labor. However, if the \\nminimum wage increased dramatically—say, if it doubled to match the living wages that some U.S. cities have \\nconsidered—then its impact on reducing the quantity demanded of employment would be far greater. The \\nfollowing Clear It Up feature describes in greater detail some of the arguments for and against changes to the \\nminimum wage. \\n4.1 • Demand and Supply at Work in Labor Markets     93\\n\"}, {\"page\": 67, \"original_pdf_page\": 91, \"text\": \"FIGURE 3.23 Consumer and Producer Surplus The somewhat triangular area labeled by F shows the area of \\nconsumer surplus, which shows that the equilibrium price in the market was less than what many of the consumers \\nwere willing to pay. Point J on the demand curve shows that, even at the price of $90, consumers would have been \\nwilling to purchase a quantity of 20 million. The somewhat triangular area labeled by G shows the area of producer \\nsurplus, which shows that the equilibrium price received in the market was more than what many of the producers \\nwere willing to accept for their products. For example, point K on the supply curve shows that at a price of $45, firms \\nwould have been willing to supply a quantity of 14 million. \\nThe supply curve shows the quantity that firms are willing to supply at each price. For example, point K in \\nFigure 3.23 illustrates that, at $45, firms would still have been willing to supply a quantity of 14 million. Those \\nproducers who would have been willing to supply the tablets at $45, but who were instead able to charge the \\nequilibrium price of $80, clearly received an extra benefit beyond what they required to supply the product. \\nThe extra benefit producers receive from selling a good or service, measured by the price the producer actually \\nreceived minus the price the producer would have been willing to accept is called producer surplus. In Figure \\n3.23, producer surplus is the area labeled G—that is, the area between the market price and the segment of the \\nsupply curve below the equilibrium. \\nThe sum of consumer surplus and producer surplus is social surplus, also referred to as economic surplus or \\ntotal surplus. In Figure 3.23 we show social surplus as the area F + G. Social surplus is larger at equilibrium \\nquantity and price than it would be at any other quantity. This demonstrates the economic efficiency of the \\nmarket equilibrium. In addition, at the efficient level of output, it is impossible to produce greater consumer \\nsurplus without reducing producer surplus, and it is impossible to produce greater producer surplus without \\nreducing consumer surplus. \\nInefficiency of Price Floors and Price Ceilings \\nThe imposition of a price floor or a price ceiling will prevent a market from adjusting to its equilibrium price \\nand quantity, and thus will create an inefficient outcome. However, there is an additional twist here. Along with \\ncreating inefficiency, price floors and ceilings will also transfer some consumer surplus to producers, or some \\nproducer surplus to consumers. \\nImagine that several firms develop a promising but expensive new drug for treating back pain. If this therapy \\nis left to the market, the equilibrium price will be $600 per month and 20,000 people will use the drug, as \\nshown in Figure 3.24 (a). The original level of consumer surplus is T + U and producer surplus is V + W + X. \\nHowever, the government decides to impose a price ceiling of $400 to make the drug more affordable. At this \\nprice ceiling, firms in the market now produce only 15,000. \\n3.5 • Demand, Supply, and Efficiency     75\\n\"}]"
+              }
+            ]
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "finish",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_08a10e33ae24c551016af83677f8d087d2be7658d8849f4897",
+        "object": "response",
+        "created_at": 1794651768,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651769,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_08a10e33ae24c551016af83678812c87d2a461d376496f7595",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"status\":\"abstain\",\"answer\":\"Không thể xác định từ tài liệu đã cung cấp. Các trang nguồn chỉ nói về giá xăng và cân bằng thị trường trong ví dụ giáo khoa, không có dữ liệu về Hà Nội, ngày 14/11/2026, hay một bảng/biểu nào nêu giá xăng tại địa điểm và thời điểm đó [page 45, Table 3.3; Figure 3.4].\",\"pages\":[45,55,64,48,85,67]}",
+            "call_id": "call_e6cEszza5RPgbSOA1XFIJ2LF",
+            "name": "finish"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "name": "finish",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 4291,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 120,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 4411
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.6866875999985496
+    }
+  ],
+  "usage": {
+    "model_calls": 2,
+    "input_tokens": 4460,
+    "cached_input_tokens": 0,
+    "output_tokens": 178,
+    "estimated_api_cost_usd": 0.004146,
+    "cost_note": "Estimate from published standard GPT-5.4-mini token rates, verified 2026-11-14; actual bill may differ. Unknown model/endpoint rates are not assumed zero.",
+    "pricing_source": "https://developers.openai.com/api/docs/models/gpt-5.4-mini"
+  },
+  "seconds": 2.7848663000040688
+}

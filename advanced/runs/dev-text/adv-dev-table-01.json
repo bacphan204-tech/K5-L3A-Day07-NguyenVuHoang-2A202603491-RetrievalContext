@@ -1,0 +1,505 @@
+{
+  "id": "adv-dev-table-01",
+  "question": "Dựa vào Bảng 1.2 “The Extent of Globalization (exports/GDP)”, trong hàng của Canada, tỷ lệ exports/GDP năm 2014 và năm 2015 lần lượt là bao nhiêu?",
+  "vision": false,
+  "final": {
+    "status": "answered",
+    "answer": "Trong hàng của Canada ở Bảng 1.2, tỷ lệ exports/GDP là **31.7** năm 2014 và **31.5** năm 2015 [page 14, Table 1.2].",
+    "pages": [
+      14
+    ]
+  },
+  "context": [
+    {
+      "page": 14,
+      "original_pdf_page": 38,
+      "text": "ship in Figure 1.10, and air cargo have driven down transportation costs. Innovations in computing and \ntelecommunications have made it easier and cheaper to manage long-distance economic connections of \nproduction and sales. Many valuable products and services in the modern economy can take the form of \ninformation—for example: computer software; financial advice; travel planning; music, books and movies; and \nblueprints for designing a building. These products and many others can be transported over telephones and \ncomputer networks at ever-lower costs. Finally, international agreements and treaties between countries have \nencouraged greater trade. \nTable 1.2 presents one measure of globalization. It shows the percentage of domestic economic production \nthat was exported for a selection of countries from 2010 to 2015, according to an entity known as The World \nBank. Exports are the goods and services that one produces domestically and sells abroad. Imports are the \ngoods and services that one produces abroad and then sells domestically. Gross domestic product (GDP) \nmeasures the size of total production in an economy. Thus, the ratio of exports divided by GDP measures what \nshare of a country’s total economic production is sold in other countries. \nCountry \n2010 2011 2012 2013 2014 2015 \nHigher Income Countries \nUnited States 12.4 \n13.6 \n13.6 \n13.5 \n13.5 \n12.6 \nBelgium \n76.2 \n81.4 \n82.2 \n82.8 \n84.0 \n84.4 \nCanada \n29.1 \n30.7 \n30.0 \n30.1 \n31.7 \n31.5 \nFrance \n26.0 \n27.8 \n28.1 \n28.3 \n29.0 \n30.0 \nMiddle Income Countries \nChina \n29.4 \n28.5 \n27.3 \n26.4 \n23.9 \n22.4 \nBrazil \n10.9 \n11.9 \n12.6 \n12.6 \n11.2 \n13.0 \nMexico \n29.9 \n31.2 \n32.6 \n31.7 \n32.3 \n35.3 \nSouth Korea \n49.4 \n55.7 \n56.3 \n53.9 \n50.3 \n45.9 \nLower Income Countries \nChad \n36.8 \n38.9 \n36.9 \n32.2 \n34.2 \n29.8 \nIndia \n22.0 \n23.9 \n24.0 \n24.8 \n22.9 \n- \nNigeria \n25.3 \n31.3 \n31.4 \n18.0 \n18.4 \n- \nTABLE 1.2 The Extent of Globalization (exports/GDP) \n(Source: http://databank.worldbank.org/data/) \nIn recent decades, the export/GDP ratio has generally risen, both worldwide and for the U.S. economy. \nInterestingly, the share of U.S. exports in proportion to the U.S. economy is well below the global average, in \npart because large economies like the United States can contain more of the division of labor inside their \nnational borders. However, smaller economies like Belgium, Korea, and Canada need to trade across their \nborders with other countries to take full advantage of division of labor, specialization, and economies of scale. \nIn this sense, the enormous U.S. economy is less affected by globalization than most other countries. \n22     1 • Welcome to Economics!\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 15,
+      "original_pdf_page": 39,
+      "text": "Table 1.2 indicates that many medium and low income countries around the world, like Mexico and China, \nhave also experienced a surge of globalization in recent decades. If an astronaut in orbit could put on special \nglasses that make all economic transactions visible as brightly colored lines and look down at Earth, the \nastronaut would see the planet covered with connections. \nDespite the rise in globalization over the last few decades, in recent years we've seen significant pushback \nagainst globalization from people across the world concerned about loss of jobs, loss of political sovereignty, \nand increased economic inequality. Prominent examples of this pushback include the 2016 vote in Great \nBritain to exit the European Union (i.e. Brexit), and the election of Donald J. Trump for President of the United \nStates. \nHopefully, you now have an idea about economics. Before you move to any other chapter of study, be sure to \nread the very important appendix to this chapter called The Use of Mathematics in Principles of Economics. It \nis essential that you learn more about how to read and use models in economics. \nInformation Overload in the Information Age \nThe world provides nearly instant access to a wealth of information. Consider that as recently as the late 1970s, the \nFarmer’s Almanac, along with the Weather Bureau of the U.S. Department of Agriculture, were the primary sources \nAmerican farmers used to determine when to plant and harvest their crops. Today, these decisions are driven by \ndata. Farmers access detailed data streams driven by global positioning systems, historical rainfall patterns, and \ncomplex weather monitoring services. They combine this information with crop yield data and soil quality \nmeasurements from prior years. Maximizing production efficiently can mean the difference between a farm that \nremains profitable and one that may need to sell its land, and data helps eliminate guesswork. \nInformation helps us make decisions as simple as what to wear today to how many reporters the media should send \nto cover an event. Each of these decisions is an economic decision. After all, resources are scarce. If the media send \nten reporters to cover an announcement, they are not available to cover other stories or complete other tasks. \nInformation provides the necessary knowledge to make the best possible decisions on how to utilize scarce \nresources. Welcome to the world of economics! \n BRING IT HOME \n1.4 • How To Organize Economies: An Overview of Economic Systems     23\n"
+    },
+    {
+      "page": 3,
+      "original_pdf_page": 27,
+      "text": "YouTube starting with this introduction. \nFIGURE 1.2 Scarcity of Resources People experiencing homelessness are a stark reminder that scarcity of \nresources is real. (Credit: \"Pittsburgh Homeless\" by \"daveyinn\"/Flickr Creative Commons, CC BY 2.0) \nIf you still do not believe that scarcity is a problem, consider the following: Does everyone require food to eat? \nDoes everyone need a decent place to live? Does everyone have access to healthcare? In every country in the \nworld, there are people who are hungry, homeless (for example, those who call park benches their beds, as \nFigure 1.2 shows), and in need of healthcare, just to focus on a few critical goods and services. Why is this the \ncase? It is because of scarcity. Let’s delve into the concept of scarcity a little deeper, because it is crucial to \nunderstanding economics. \nThe Problem of Scarcity \nThink about all the things you consume: food, shelter, clothing, transportation, healthcare, and entertainment. \nHow do you acquire those items? You do not produce them yourself. You buy them. How do you afford the \nthings you buy? You work for pay. If you do not, someone else does on your behalf. Yet most of us never have \nenough income to buy all the things we want. This is because of scarcity. So how do we solve it? \nLINK IT UP \nVisit this website (https://openstax.org/l/drought) to read about how the United States is dealing with scarcity \nin resources. \nEvery society, at every level, must make choices about how to use its resources. Families must decide whether \nto spend their money on a new car or a fancy vacation. Towns must choose whether to put more of the budget \ninto police and fire protection or into the school system. Nations must decide whether to devote more funds to \nnational defense or to protecting the environment. In most cases, there just isn’t enough money in the budget \nto do everything. How do we use our limited resources the best way possible, that is, to obtain the most goods \nand services we can? There are a couple of options. First, we could each produce everything we each consume. \nAlternatively, we could each produce some of what we want to consume, and “trade” for the rest of what we \nwant. Let’s explore these options. Why do we not each just produce all of the things we consume? Think back to \npioneer days, when individuals knew how to do so much more than we do today, from building their homes, to \ngrowing their crops, to hunting for food, to repairing their equipment. Most of us do not know how to do all—or \nany—of those things, but it is not because we could not learn. Rather, we do not have to. The reason why is \nsomething called the division and specialization of labor, a production innovation first put forth by Adam \nSmith (Figure 1.3) in his book, The Wealth of Nations. \n1.1 • What Is Economics, and Why Is It Important?     11\n"
+    },
+    {
+      "page": 12,
+      "original_pdf_page": 36,
+      "text": "involvement in economic decisions than the U.S. economy. China and Russia, while over the past several \ndecades have moved more in the direction of having a market-oriented system, remain closer to the command \neconomy end of the spectrum. The Heritage Foundation provides perspective on countries’ economic freedom, \nas the following Clear It Up feature discusses. \nWhat countries are considered economically free? \nWho is in control of economic decisions? Are people free to do what they want and to work where they want? Are \nbusinesses free to produce when they want and what they choose, and to hire and fire as they wish? Are banks free \nto choose who will receive loans, or does the government control these kinds of choices? Each year, researchers at \nthe Heritage Foundation and the Wall Street Journal look at 50 different categories of economic freedom for \ncountries around the world. They give each nation a score based on the extent of economic freedom in each \ncategory. Note that while the Heritage Foundation/WSJ index is widely cited by an array of scholars and \npublications, it should be regarded as only one viewpoint. Some experts indicate that the index’s category choices \nand scores are politically biased. However, the index and others like it provide a useful resource for critical \ndiscussion of economic freedom. \nThe 2016 Heritage Foundation’s Index of Economic Freedom report ranked 178 countries around the world: Table \n1.1 lists some examples of the most free and the least free countries. Although technically not a separate country, \nHong Kong has been granted a degree of autonomy such that, for purposes of measuring economic statistics, it is \noften treated as a separate country. Several additional countries were not ranked because of extreme instability that \nmade judgments about economic freedom impossible. These countries include Afghanistan, Iraq, Libya, Syria, \nSomalia, and Yemen. \nThe assigned rankings are inevitably based on estimates, yet even these rough measures can be useful for \ndiscerning trends. In 2015, 101 of the 178 included countries shifted toward greater economic freedom, although \n77 of the countries shifted toward less economic freedom. In recent decades, the overall trend has been a higher \nlevel of economic freedom around the world. \nMost Economic Freedom \nLeast Economic Freedom \n1. Hong Kong \n167. Timor-Leste \n2. Singapore \n168. Democratic Republic of Congo \n3. New Zealand \n169. Argentina \n4. Switzerland \n170. Equatorial Guinea \n5. Australia \n171. Iran \n6. Canada \n172. Republic of Congo \n7. Chile \n173. Eritrea \n8. Ireland \n174. Turkmenistan \nTABLE 1.1 Economic Freedoms, 2016 (Source: The Heritage \nFoundation, 2016 Index of Economic Freedom, Country \nRankings, http://www.heritage.org/index/ranking) \n CLEAR IT UP \n20     1 • Welcome to Economics!\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 17,
+      "original_pdf_page": 41,
+      "text": "1.2 Microeconomics and Macroeconomics \nMicroeconomics and macroeconomics are two different perspectives on the economy. The microeconomic \nperspective focuses on parts of the economy: individuals, firms, and industries. The macroeconomic \nperspective looks at the economy as a whole, focusing on goals like growth in the standard of living, \nunemployment, and inflation. Macroeconomics has two types of policies for pursuing these goals: monetary \npolicy and fiscal policy. \n1.3 How Economists Use Theories and Models to Understand Economic Issues \nEconomists analyze problems differently than do other disciplinary experts. The main tools economists use \nare economic theories or models. A theory is not an illustration of the answer to a problem. Rather, a theory is a \ntool for determining the answer. \n1.4 How To Organize Economies: An Overview of Economic Systems \nWe can organize societies as traditional, command, or market-oriented economies. Most societies are a mix. \nThe last few decades have seen globalization evolve as a result of growth in commercial and financial networks \nthat cross national borders, making businesses and workers from different economies increasingly \ninterdependent. \nSelf-Check Questions \n1 . What is scarcity? Can you think of two causes of scarcity? \n2 . Residents of the town of Smithfield like to consume hams, but each ham requires 10 people to produce it \nand takes a month. If the town has a total of 100 people, what is the maximum amount of ham the \nresidents can consume in a month? \n3 . A consultant works for $200 per hour. She likes to eat vegetables, but is not very good at growing them. \nWhy does it make more economic sense for her to spend her time at the consulting job and shop for her \nvegetables? \n4 . A computer systems engineer could paint her house, but it makes more sense for her to hire a painter to \ndo it. Explain why. \n5 . What would be another example of a “system” in the real world that could serve as a metaphor for micro \nand macroeconomics? \n6 . Suppose we extend the circular flow model to add imports and exports. Copy the circular flow diagram \nonto a sheet of paper and then add a foreign country as a third agent. Draw a rough sketch of the flows of \nimports, exports, and the payments for each on your diagram. \n7 . What is an example of a problem in the world today, not mentioned in the chapter, that has an economic \ndimension? \n8 . The chapter defines private enterprise as a characteristic of market-oriented economies. What would \npublic enterprise be? Hint: It is a characteristic of command economies. \n9 . Why might Belgium, France, Italy, and Sweden have a higher export to GDP ratio than the United States? \nReview Questions \n10 . Give the three reasons that explain why the division of labor increases an economy’s level of production. \n11 . What are three reasons to study economics? \n12 . What is the difference between microeconomics and macroeconomics? \n13 . What are examples of individual economic agents? \n1 • Self-Check Questions     25\n"
+    },
+    {
+      "page": 72,
+      "original_pdf_page": 96,
+      "text": "3.5 Demand, Supply, and Efficiency \nConsumer surplus is the gap between the price that consumers are willing to pay, based on their preferences, \nand the market equilibrium price. Producer surplus is the gap between the price for which producers are \nwilling to sell a product, based on their costs, and the market equilibrium price. Social surplus is the sum of \nconsumer surplus and producer surplus. Total surplus is larger at the equilibrium quantity and price than it \nwill be at any other quantity and price. Deadweight loss is loss in total surplus that occurs when the economy \nproduces at an inefficient quantity. \nSelf-Check Questions \n1 . Review Figure 3.4. Suppose the price of gasoline is $1.60 per gallon. Is the quantity demanded higher or \nlower than at the equilibrium price of $1.40 per gallon? What about the quantity supplied? Is there a \nshortage or a surplus in the market? If so, how much? \n2 . Why do economists use the ceteris paribus assumption? \n3 . In an analysis of the market for paint, an economist discovers the facts listed below. State whether each of \nthese changes will affect supply or demand, and in what direction. \na. There have recently been some important cost-saving inventions in the technology for making paint. \nb. Paint is lasting longer, so that property owners need not repaint as often. \nc. Because of severe hailstorms, many people need to repaint now. \nd. The hailstorms damaged several factories that make paint, forcing them to close down for several \nmonths. \n4 . Many changes are affecting the market for oil. Predict how each of the following events will affect the \nequilibrium price and quantity in the market for oil. In each case, state how the event will affect the supply \nand demand diagram. Create a sketch of the diagram if necessary. \na. Cars are becoming more fuel efficient, and therefore get more miles to the gallon. \nb. The winter is exceptionally cold. \nc. A major discovery of new oil is made off the coast of Norway. \nd. The economies of some major oil-using nations, like Japan, slow down. \ne. A war in the Middle East disrupts oil-pumping schedules. \nf. Landlords install additional insulation in buildings. \ng. The price of solar energy falls dramatically. \nh. Chemical companies invent a new, popular kind of plastic made from oil. \n5 . Let’s think about the market for air travel. From August 2014 to January 2015, the price of jet fuel \nincreased roughly 47%. Using the four-step analysis, how do you think this fuel price increase affected the \nequilibrium price and quantity of air travel? \n6 . A tariff is a tax on imported goods. Suppose the U.S. government cuts the tariff on imported flat screen \ntelevisions. Using the four-step analysis, how do you think the tariff reduction will affect the equilibrium \nprice and quantity of flat screen TVs? \n7 . What is the effect of a price ceiling on the quantity demanded of the product? What is the effect of a price \nceiling on the quantity supplied? Why exactly does a price ceiling cause a shortage? \n8 . Does a price ceiling change the equilibrium price? \n9 . What would be the impact of imposing a price floor below the equilibrium price? \n10 . Does a price ceiling increase or decrease the number of transactions in a market? Why? What about a \nprice floor? \n11 . If a price floor benefits producers, why does a price floor reduce social surplus? \n80     3 • Self-Check Questions\nAccess for free at openstax.org\n"
+    }
+  ],
+  "retrieval_queries": [
+    "Table 1.2 \"The Extent of Globalization (exports/GDP)\" Canada 2014 2015",
+    "\"The Extent of Globalization (exports/GDP)\" Canada 2014 2015",
+    "Bảng 1.2 exports/GDP Canada 2014 2015"
+  ],
+  "ranked_pages": [
+    [
+      14,
+      1.0956322419678255
+    ],
+    [
+      15,
+      1.027046783625731
+    ],
+    [
+      3,
+      1
+    ],
+    [
+      12,
+      0.08953204155410038
+    ],
+    [
+      17,
+      0.08769906237119886
+    ],
+    [
+      72,
+      0.08445635736453831
+    ],
+    [
+      119,
+      0.06586815605802948
+    ],
+    [
+      102,
+      0.052887642614209876
+    ],
+    [
+      57,
+      0.04670793048402157
+    ],
+    [
+      109,
+      0.04643902077700826
+    ],
+    [
+      10,
+      0.044898504273504274
+    ],
+    [
+      16,
+      0.044613880742913004
+    ],
+    [
+      120,
+      0.04060364999975264
+    ],
+    [
+      13,
+      0.027984344422700584
+    ],
+    [
+      117,
+      0.02581612258494337
+    ],
+    [
+      71,
+      0.013333333333333334
+    ],
+    [
+      41,
+      0.012987012987012988
+    ],
+    [
+      86,
+      0.01282051282051282
+    ],
+    [
+      43,
+      0.0125
+    ],
+    [
+      18,
+      0.0125
+    ],
+    [
+      112,
+      0.0125
+    ]
+  ],
+  "status": "success",
+  "calls": [
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": "Search this economics textbook to answer in Vietnamese: Dựa vào Bảng 1.2 “The Extent of Globalization (exports/GDP)”, trong hàng của Canada, tỷ lệ exports/GDP năm 2014 và năm 2015 lần lượt là bao nhiêu?"
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "search_book",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_02ba5a3daef6c455016af83641798087d2b03536b38e85cc11",
+        "object": "response",
+        "created_at": 1794651713,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651714,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_02ba5a3daef6c455016af83641e86087d2a6706d4c24795160",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"queries\":[\"Table 1.2 \\\"The Extent of Globalization (exports/GDP)\\\" Canada 2014 2015\", \"\\\"The Extent of Globalization (exports/GDP)\\\" Canada 2014 2015\", \"Bảng 1.2 exports/GDP Canada 2014 2015\"]}",
+            "call_id": "call_eMhNgu78o76v4W44GNs1OxRN",
+            "name": "search_book"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "name": "search_book",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 190,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 82,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 272
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.4273374000040349
+    },
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": [
+              {
+                "type": "input_text",
+                "text": "Answer the question using ONLY supplied source evidence, in Vietnamese. Cite [page N] and Figure/Table ID for all claims. No external facts. If date/place/condition absent, choose abstain with no guessed values. Dựa vào Bảng 1.2 “The Extent of Globalization (exports/GDP)”, trong hàng của Canada, tỷ lệ exports/GDP năm 2014 và năm 2015 lần lượt là bao nhiêu?\nSOURCE_CONTEXT:[{\"page\": 14, \"original_pdf_page\": 38, \"text\": \"ship in Figure 1.10, and air cargo have driven down transportation costs. Innovations in computing and \\ntelecommunications have made it easier and cheaper to manage long-distance economic connections of \\nproduction and sales. Many valuable products and services in the modern economy can take the form of \\ninformation—for example: computer software; financial advice; travel planning; music, books and movies; and \\nblueprints for designing a building. These products and many others can be transported over telephones and \\ncomputer networks at ever-lower costs. Finally, international agreements and treaties between countries have \\nencouraged greater trade. \\nTable 1.2 presents one measure of globalization. It shows the percentage of domestic economic production \\nthat was exported for a selection of countries from 2010 to 2015, according to an entity known as The World \\nBank. Exports are the goods and services that one produces domestically and sells abroad. Imports are the \\ngoods and services that one produces abroad and then sells domestically. Gross domestic product (GDP) \\nmeasures the size of total production in an economy. Thus, the ratio of exports divided by GDP measures what \\nshare of a country’s total economic production is sold in other countries. \\nCountry \\n2010 2011 2012 2013 2014 2015 \\nHigher Income Countries \\nUnited States 12.4 \\n13.6 \\n13.6 \\n13.5 \\n13.5 \\n12.6 \\nBelgium \\n76.2 \\n81.4 \\n82.2 \\n82.8 \\n84.0 \\n84.4 \\nCanada \\n29.1 \\n30.7 \\n30.0 \\n30.1 \\n31.7 \\n31.5 \\nFrance \\n26.0 \\n27.8 \\n28.1 \\n28.3 \\n29.0 \\n30.0 \\nMiddle Income Countries \\nChina \\n29.4 \\n28.5 \\n27.3 \\n26.4 \\n23.9 \\n22.4 \\nBrazil \\n10.9 \\n11.9 \\n12.6 \\n12.6 \\n11.2 \\n13.0 \\nMexico \\n29.9 \\n31.2 \\n32.6 \\n31.7 \\n32.3 \\n35.3 \\nSouth Korea \\n49.4 \\n55.7 \\n56.3 \\n53.9 \\n50.3 \\n45.9 \\nLower Income Countries \\nChad \\n36.8 \\n38.9 \\n36.9 \\n32.2 \\n34.2 \\n29.8 \\nIndia \\n22.0 \\n23.9 \\n24.0 \\n24.8 \\n22.9 \\n- \\nNigeria \\n25.3 \\n31.3 \\n31.4 \\n18.0 \\n18.4 \\n- \\nTABLE 1.2 The Extent of Globalization (exports/GDP) \\n(Source: http://databank.worldbank.org/data/) \\nIn recent decades, the export/GDP ratio has generally risen, both worldwide and for the U.S. economy. \\nInterestingly, the share of U.S. exports in proportion to the U.S. economy is well below the global average, in \\npart because large economies like the United States can contain more of the division of labor inside their \\nnational borders. However, smaller economies like Belgium, Korea, and Canada need to trade across their \\nborders with other countries to take full advantage of division of labor, specialization, and economies of scale. \\nIn this sense, the enormous U.S. economy is less affected by globalization than most other countries. \\n22     1 • Welcome to Economics!\\nAccess for free at openstax.org\\n\"}, {\"page\": 15, \"original_pdf_page\": 39, \"text\": \"Table 1.2 indicates that many medium and low income countries around the world, like Mexico and China, \\nhave also experienced a surge of globalization in recent decades. If an astronaut in orbit could put on special \\nglasses that make all economic transactions visible as brightly colored lines and look down at Earth, the \\nastronaut would see the planet covered with connections. \\nDespite the rise in globalization over the last few decades, in recent years we've seen significant pushback \\nagainst globalization from people across the world concerned about loss of jobs, loss of political sovereignty, \\nand increased economic inequality. Prominent examples of this pushback include the 2016 vote in Great \\nBritain to exit the European Union (i.e. Brexit), and the election of Donald J. Trump for President of the United \\nStates. \\nHopefully, you now have an idea about economics. Before you move to any other chapter of study, be sure to \\nread the very important appendix to this chapter called The Use of Mathematics in Principles of Economics. It \\nis essential that you learn more about how to read and use models in economics. \\nInformation Overload in the Information Age \\nThe world provides nearly instant access to a wealth of information. Consider that as recently as the late 1970s, the \\nFarmer’s Almanac, along with the Weather Bureau of the U.S. Department of Agriculture, were the primary sources \\nAmerican farmers used to determine when to plant and harvest their crops. Today, these decisions are driven by \\ndata. Farmers access detailed data streams driven by global positioning systems, historical rainfall patterns, and \\ncomplex weather monitoring services. They combine this information with crop yield data and soil quality \\nmeasurements from prior years. Maximizing production efficiently can mean the difference between a farm that \\nremains profitable and one that may need to sell its land, and data helps eliminate guesswork. \\nInformation helps us make decisions as simple as what to wear today to how many reporters the media should send \\nto cover an event. Each of these decisions is an economic decision. After all, resources are scarce. If the media send \\nten reporters to cover an announcement, they are not available to cover other stories or complete other tasks. \\nInformation provides the necessary knowledge to make the best possible decisions on how to utilize scarce \\nresources. Welcome to the world of economics! \\n BRING IT HOME \\n1.4 • How To Organize Economies: An Overview of Economic Systems     23\\n\"}, {\"page\": 3, \"original_pdf_page\": 27, \"text\": \"YouTube starting with this introduction. \\nFIGURE 1.2 Scarcity of Resources People experiencing homelessness are a stark reminder that scarcity of \\nresources is real. (Credit: \\\"Pittsburgh Homeless\\\" by \\\"daveyinn\\\"/Flickr Creative Commons, CC BY 2.0) \\nIf you still do not believe that scarcity is a problem, consider the following: Does everyone require food to eat? \\nDoes everyone need a decent place to live? Does everyone have access to healthcare? In every country in the \\nworld, there are people who are hungry, homeless (for example, those who call park benches their beds, as \\nFigure 1.2 shows), and in need of healthcare, just to focus on a few critical goods and services. Why is this the \\ncase? It is because of scarcity. Let’s delve into the concept of scarcity a little deeper, because it is crucial to \\nunderstanding economics. \\nThe Problem of Scarcity \\nThink about all the things you consume: food, shelter, clothing, transportation, healthcare, and entertainment. \\nHow do you acquire those items? You do not produce them yourself. You buy them. How do you afford the \\nthings you buy? You work for pay. If you do not, someone else does on your behalf. Yet most of us never have \\nenough income to buy all the things we want. This is because of scarcity. So how do we solve it? \\nLINK IT UP \\nVisit this website (https://openstax.org/l/drought) to read about how the United States is dealing with scarcity \\nin resources. \\nEvery society, at every level, must make choices about how to use its resources. Families must decide whether \\nto spend their money on a new car or a fancy vacation. Towns must choose whether to put more of the budget \\ninto police and fire protection or into the school system. Nations must decide whether to devote more funds to \\nnational defense or to protecting the environment. In most cases, there just isn’t enough money in the budget \\nto do everything. How do we use our limited resources the best way possible, that is, to obtain the most goods \\nand services we can? There are a couple of options. First, we could each produce everything we each consume. \\nAlternatively, we could each produce some of what we want to consume, and “trade” for the rest of what we \\nwant. Let’s explore these options. Why do we not each just produce all of the things we consume? Think back to \\npioneer days, when individuals knew how to do so much more than we do today, from building their homes, to \\ngrowing their crops, to hunting for food, to repairing their equipment. Most of us do not know how to do all—or \\nany—of those things, but it is not because we could not learn. Rather, we do not have to. The reason why is \\nsomething called the division and specialization of labor, a production innovation first put forth by Adam \\nSmith (Figure 1.3) in his book, The Wealth of Nations. \\n1.1 • What Is Economics, and Why Is It Important?     11\\n\"}, {\"page\": 12, \"original_pdf_page\": 36, \"text\": \"involvement in economic decisions than the U.S. economy. China and Russia, while over the past several \\ndecades have moved more in the direction of having a market-oriented system, remain closer to the command \\neconomy end of the spectrum. The Heritage Foundation provides perspective on countries’ economic freedom, \\nas the following Clear It Up feature discusses. \\nWhat countries are considered economically free? \\nWho is in control of economic decisions? Are people free to do what they want and to work where they want? Are \\nbusinesses free to produce when they want and what they choose, and to hire and fire as they wish? Are banks free \\nto choose who will receive loans, or does the government control these kinds of choices? Each year, researchers at \\nthe Heritage Foundation and the Wall Street Journal look at 50 different categories of economic freedom for \\ncountries around the world. They give each nation a score based on the extent of economic freedom in each \\ncategory. Note that while the Heritage Foundation/WSJ index is widely cited by an array of scholars and \\npublications, it should be regarded as only one viewpoint. Some experts indicate that the index’s category choices \\nand scores are politically biased. However, the index and others like it provide a useful resource for critical \\ndiscussion of economic freedom. \\nThe 2016 Heritage Foundation’s Index of Economic Freedom report ranked 178 countries around the world: Table \\n1.1 lists some examples of the most free and the least free countries. Although technically not a separate country, \\nHong Kong has been granted a degree of autonomy such that, for purposes of measuring economic statistics, it is \\noften treated as a separate country. Several additional countries were not ranked because of extreme instability that \\nmade judgments about economic freedom impossible. These countries include Afghanistan, Iraq, Libya, Syria, \\nSomalia, and Yemen. \\nThe assigned rankings are inevitably based on estimates, yet even these rough measures can be useful for \\ndiscerning trends. In 2015, 101 of the 178 included countries shifted toward greater economic freedom, although \\n77 of the countries shifted toward less economic freedom. In recent decades, the overall trend has been a higher \\nlevel of economic freedom around the world. \\nMost Economic Freedom \\nLeast Economic Freedom \\n1. Hong Kong \\n167. Timor-Leste \\n2. Singapore \\n168. Democratic Republic of Congo \\n3. New Zealand \\n169. Argentina \\n4. Switzerland \\n170. Equatorial Guinea \\n5. Australia \\n171. Iran \\n6. Canada \\n172. Republic of Congo \\n7. Chile \\n173. Eritrea \\n8. Ireland \\n174. Turkmenistan \\nTABLE 1.1 Economic Freedoms, 2016 (Source: The Heritage \\nFoundation, 2016 Index of Economic Freedom, Country \\nRankings, http://www.heritage.org/index/ranking) \\n CLEAR IT UP \\n20     1 • Welcome to Economics!\\nAccess for free at openstax.org\\n\"}, {\"page\": 17, \"original_pdf_page\": 41, \"text\": \"1.2 Microeconomics and Macroeconomics \\nMicroeconomics and macroeconomics are two different perspectives on the economy. The microeconomic \\nperspective focuses on parts of the economy: individuals, firms, and industries. The macroeconomic \\nperspective looks at the economy as a whole, focusing on goals like growth in the standard of living, \\nunemployment, and inflation. Macroeconomics has two types of policies for pursuing these goals: monetary \\npolicy and fiscal policy. \\n1.3 How Economists Use Theories and Models to Understand Economic Issues \\nEconomists analyze problems differently than do other disciplinary experts. The main tools economists use \\nare economic theories or models. A theory is not an illustration of the answer to a problem. Rather, a theory is a \\ntool for determining the answer. \\n1.4 How To Organize Economies: An Overview of Economic Systems \\nWe can organize societies as traditional, command, or market-oriented economies. Most societies are a mix. \\nThe last few decades have seen globalization evolve as a result of growth in commercial and financial networks \\nthat cross national borders, making businesses and workers from different economies increasingly \\ninterdependent. \\nSelf-Check Questions \\n1 . What is scarcity? Can you think of two causes of scarcity? \\n2 . Residents of the town of Smithfield like to consume hams, but each ham requires 10 people to produce it \\nand takes a month. If the town has a total of 100 people, what is the maximum amount of ham the \\nresidents can consume in a month? \\n3 . A consultant works for $200 per hour. She likes to eat vegetables, but is not very good at growing them. \\nWhy does it make more economic sense for her to spend her time at the consulting job and shop for her \\nvegetables? \\n4 . A computer systems engineer could paint her house, but it makes more sense for her to hire a painter to \\ndo it. Explain why. \\n5 . What would be another example of a “system” in the real world that could serve as a metaphor for micro \\nand macroeconomics? \\n6 . Suppose we extend the circular flow model to add imports and exports. Copy the circular flow diagram \\nonto a sheet of paper and then add a foreign country as a third agent. Draw a rough sketch of the flows of \\nimports, exports, and the payments for each on your diagram. \\n7 . What is an example of a problem in the world today, not mentioned in the chapter, that has an economic \\ndimension? \\n8 . The chapter defines private enterprise as a characteristic of market-oriented economies. What would \\npublic enterprise be? Hint: It is a characteristic of command economies. \\n9 . Why might Belgium, France, Italy, and Sweden have a higher export to GDP ratio than the United States? \\nReview Questions \\n10 . Give the three reasons that explain why the division of labor increases an economy’s level of production. \\n11 . What are three reasons to study economics? \\n12 . What is the difference between microeconomics and macroeconomics? \\n13 . What are examples of individual economic agents? \\n1 • Self-Check Questions     25\\n\"}, {\"page\": 72, \"original_pdf_page\": 96, \"text\": \"3.5 Demand, Supply, and Efficiency \\nConsumer surplus is the gap between the price that consumers are willing to pay, based on their preferences, \\nand the market equilibrium price. Producer surplus is the gap between the price for which producers are \\nwilling to sell a product, based on their costs, and the market equilibrium price. Social surplus is the sum of \\nconsumer surplus and producer surplus. Total surplus is larger at the equilibrium quantity and price than it \\nwill be at any other quantity and price. Deadweight loss is loss in total surplus that occurs when the economy \\nproduces at an inefficient quantity. \\nSelf-Check Questions \\n1 . Review Figure 3.4. Suppose the price of gasoline is $1.60 per gallon. Is the quantity demanded higher or \\nlower than at the equilibrium price of $1.40 per gallon? What about the quantity supplied? Is there a \\nshortage or a surplus in the market? If so, how much? \\n2 . Why do economists use the ceteris paribus assumption? \\n3 . In an analysis of the market for paint, an economist discovers the facts listed below. State whether each of \\nthese changes will affect supply or demand, and in what direction. \\na. There have recently been some important cost-saving inventions in the technology for making paint. \\nb. Paint is lasting longer, so that property owners need not repaint as often. \\nc. Because of severe hailstorms, many people need to repaint now. \\nd. The hailstorms damaged several factories that make paint, forcing them to close down for several \\nmonths. \\n4 . Many changes are affecting the market for oil. Predict how each of the following events will affect the \\nequilibrium price and quantity in the market for oil. In each case, state how the event will affect the supply \\nand demand diagram. Create a sketch of the diagram if necessary. \\na. Cars are becoming more fuel efficient, and therefore get more miles to the gallon. \\nb. The winter is exceptionally cold. \\nc. A major discovery of new oil is made off the coast of Norway. \\nd. The economies of some major oil-using nations, like Japan, slow down. \\ne. A war in the Middle East disrupts oil-pumping schedules. \\nf. Landlords install additional insulation in buildings. \\ng. The price of solar energy falls dramatically. \\nh. Chemical companies invent a new, popular kind of plastic made from oil. \\n5 . Let’s think about the market for air travel. From August 2014 to January 2015, the price of jet fuel \\nincreased roughly 47%. Using the four-step analysis, how do you think this fuel price increase affected the \\nequilibrium price and quantity of air travel? \\n6 . A tariff is a tax on imported goods. Suppose the U.S. government cuts the tariff on imported flat screen \\ntelevisions. Using the four-step analysis, how do you think the tariff reduction will affect the equilibrium \\nprice and quantity of flat screen TVs? \\n7 . What is the effect of a price ceiling on the quantity demanded of the product? What is the effect of a price \\nceiling on the quantity supplied? Why exactly does a price ceiling cause a shortage? \\n8 . Does a price ceiling change the equilibrium price? \\n9 . What would be the impact of imposing a price floor below the equilibrium price? \\n10 . Does a price ceiling increase or decrease the number of transactions in a market? Why? What about a \\nprice floor? \\n11 . If a price floor benefits producers, why does a price floor reduce social surplus? \\n80     3 • Self-Check Questions\\nAccess for free at openstax.org\\n\"}]"
+              }
+            ]
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "finish",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_0dc2244b0d11095a016af83642df9087d2aa0331579cab61ef",
+        "object": "response",
+        "created_at": 1794651714,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651715,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_0dc2244b0d11095a016af836436cbc87d2af629b41b1d644e7",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"status\":\"answered\",\"answer\":\"Trong hàng của Canada ở Bảng 1.2, tỷ lệ exports/GDP là **31.7** năm 2014 và **31.5** năm 2015 [page 14, Table 1.2].\",\"pages\":[14]}",
+            "call_id": "call_aMr8ISKG8vR7rwATRM6g9yEi",
+            "name": "finish"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "name": "finish",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 4547,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 72,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 4619
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.4917903999885311
+    }
+  ],
+  "usage": {
+    "model_calls": 2,
+    "input_tokens": 4737,
+    "cached_input_tokens": 0,
+    "output_tokens": 154,
+    "estimated_api_cost_usd": 0.00424575,
+    "cost_note": "Estimate from published standard GPT-5.4-mini token rates, verified 2026-11-14; actual bill may differ. Unknown model/endpoint rates are not assumed zero.",
+    "pricing_source": "https://developers.openai.com/api/docs/models/gpt-5.4-mini"
+  },
+  "seconds": 2.9381766000005882
+}

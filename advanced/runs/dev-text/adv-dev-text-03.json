@@ -1,0 +1,517 @@
+{
+  "id": "adv-dev-text-03",
+  "question": "Dựa trên trang này, trong Bảng 3.5 \"Price and Shifts in Supply: A Car Example\", nếu giá là $22,000 và cung tăng sang S2, thì lượng cung là bao nhiêu?",
+  "vision": false,
+  "final": {
+    "status": "answered",
+    "answer": "Theo Bảng 3.5, khi giá là $22,000 và cung tăng sang S2, lượng cung là **22.0 triệu xe** [page 52, Table 3.5].",
+    "pages": [
+      52
+    ]
+  },
+  "context": [
+    {
+      "page": 52,
+      "original_pdf_page": 76,
+      "text": "up. When a firm’s profits increase, it is more motivated to produce output, since the more it produces the more \nprofit it will earn. When costs of production fall, a firm will tend to supply a larger quantity at any given price \nfor its output. We can show this by the supply curve shifting to the right. \nTake, for example, a messenger company that delivers packages around a city. The company may find that \nbuying gasoline is one of its main costs. If the price of gasoline falls, then the company will find it can deliver \nmessages more cheaply than before. Since lower costs correspond to higher profits, the messenger company \nmay now supply more of its services at any given price. For example, given the lower gasoline prices, the \ncompany can now serve a greater area, and increase its supply. \nConversely, if a firm faces higher costs of production, then it will earn lower profits at any given selling price for \nits products. As a result, a higher cost of production typically causes a firm to supply a smaller quantity at any \ngiven price. In this case, the supply curve shifts to the left. \nConsider the supply for cars, shown by curve S0 in Figure 3.10. Point J indicates that if the price is $20,000, the \nquantity supplied will be 18 million cars. If the price rises to $22,000 per car, ceteris paribus, the quantity \nsupplied will rise to 20 million cars, as point K on the S0 curve shows. We can show the same information in \ntable form, as in Table 3.5. \nFIGURE 3.10 Shifts in Supply: A Car Example Decreased supply means that at every given price, the quantity \nsupplied is lower, so that the supply curve shifts to the left, from S0 to S1. Increased supply means that at every \ngiven price, the quantity supplied is higher, so that the supply curve shifts to the right, from S0 to S2. \nPrice \nDecrease to S1 \nOriginal Quantity Supplied S0 \nIncrease to S2 \n$16,000 10.5 million \n12.0 million \n13.2 million \n$18,000 13.5 million \n15.0 million \n16.5 million \n$20,000 16.5 million \n18.0 million \n19.8 million \n$22,000 18.5 million \n20.0 million \n22.0 million \n$24,000 19.5 million \n21.0 million \n23.1 million \n$26,000 20.5 million \n22.0 million \n24.2 million \nTABLE 3.5 Price and Shifts in Supply: A Car Example \n60     3 • Demand and Supply\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 47,
+      "original_pdf_page": 71,
+      "text": "held equal, then the laws of supply and demand will not necessarily hold, as the following Clear It Up feature \nshows. \nWhen does ceteris paribus apply? \nWe typically apply ceteris paribus when we observe how changes in price affect demand or supply, but we can apply \nceteris paribus more generally. In the real world, demand and supply depend on more factors than just price. For \nexample, a consumer’s demand depends on income and a producer’s supply depends on the cost of producing the \nproduct. How can we analyze the effect on demand or supply if multiple factors are changing at the same time—say \nprice rises and income falls? The answer is that we examine the changes one at a time, assuming the other factors \nare held constant. \nFor example, we can say that an increase in the price reduces the amount consumers will buy (assuming income, \nand anything else that affects demand, is unchanged). Additionally, a decrease in income reduces the amount \nconsumers can afford to buy (assuming price, and anything else that affects demand, is unchanged). This is what the \nceteris paribus assumption really means. In this particular case, after we analyze each factor separately, we can \ncombine the results. The amount consumers buy falls for two reasons: first because of the higher price and second \nbecause of the lower income. \nHow Does Income Affect Demand? \nLet’s use income as an example of how factors other than price affect demand. Figure 3.5 shows the initial \ndemand for automobiles as D0. At point Q, for example, if the price is $20,000 per car, the quantity of cars \ndemanded is 18 million. D0 also shows how the quantity of cars demanded would change as a result of a higher \nor lower price. For example, if the price of a car rose to $22,000, the quantity demanded would decrease to 17 \nmillion, at point R. \nThe original demand curve D0, like every demand curve, is based on the ceteris paribus assumption that no \nother economically relevant factors change. Now imagine that the economy expands in a way that raises the \nincomes of many people, making cars more affordable. How will this affect demand? How can we show this \ngraphically? \nReturn to Figure 3.5. The price of cars is still $20,000, but with higher incomes, the quantity demanded has \nnow increased to 20 million cars, shown at point S. As a result of the higher income levels, the demand curve \nshifts to the right to the new demand curve D1, indicating an increase in demand. Table 3.4 shows clearly that \nthis increased demand would occur at every price, not just the original one. \n CLEAR IT UP \n3.2 • Shifts in Demand and Supply for Goods and Services     55\n"
+    },
+    {
+      "page": 48,
+      "original_pdf_page": 72,
+      "text": "FIGURE 3.5 Shifts in Demand: A Car Example Increased demand means that at every given price, the quantity \ndemanded is higher, so that the demand curve shifts to the right from D0 to D1. Decreased demand means that at \nevery given price, the quantity demanded is lower, so that the demand curve shifts to the left from D0 to D2. \nPrice \nDecrease to D2 \nOriginal Quantity Demanded D0 \nIncrease to D1 \n$16,000 17.6 million \n22.0 million \n24.0 million \n$18,000 16.0 million \n20.0 million \n22.0 million \n$20,000 14.4 million \n18.0 million \n20.0 million \n$22,000 13.6 million \n17.0 million \n19.0 million \n$24,000 13.2 million \n16.5 million \n18.5 million \n$26,000 12.8 million \n16.0 million \n18.0 million \nTABLE 3.4 Price and Demand Shifts: A Car Example \nNow, imagine that the economy slows down so that many people lose their jobs or work fewer hours, reducing \ntheir incomes. In this case, the decrease in income would lead to a lower quantity of cars demanded at every \ngiven price, and the original demand curve D0 would shift left to D2. The shift from D0 to D2 represents such a \ndecrease in demand: At any given price level, the quantity demanded is now lower. In this example, a price of \n$20,000 means 18 million cars sold along the original demand curve, but only 14.4 million sold after demand \nfell. \nWhen a demand curve shifts, it does not mean that the quantity demanded by every individual buyer changes \nby the same amount. In this example, not everyone would have higher or lower income and not everyone \nwould buy or not buy an additional car. Instead, a shift in a demand curve captures a pattern for the market as \na whole. \nIn the previous section, we argued that higher income causes greater demand at every price. This is true for \nmost goods and services. For some—luxury cars, vacations in Europe, and fine jewelry—the effect of a rise in \nincome can be especially pronounced. A product whose demand rises when income rises, and vice versa, is \ncalled a normal good. A few exceptions to this pattern do exist. As incomes rise, many people will buy fewer \n56     3 • Demand and Supply\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 61,
+      "original_pdf_page": 85,
+      "text": "FIGURE 3.19 Combined Effect of Decreased Demand and Decreased Supply Supply and demand shifts cause \nchanges in equilibrium price and quantity. \nFollowing are the results: \nEffect on Quantity: The effect of higher labor compensation on Postal Services because it raises the cost of \nproduction is to decrease the equilibrium quantity. The effect of a change in tastes away from snail mail is to \ndecrease the equilibrium quantity. Since both shifts are to the left, the overall impact is a decrease in the \nequilibrium quantity of Postal Services (Q3). This is easy to see graphically, since Q3 is to the left of Q0. \nEffect on Price: The overall effect on price is more complicated. The effect of higher labor compensation on \nPostal Services, because it raises the cost of production, is to increase the equilibrium price. The effect of a \nchange in tastes away from snail mail is to decrease the equilibrium price. Since the two effects are in opposite \ndirections, unless we know the magnitudes of the two effects, the overall effect is unclear. This is not unusual. \nWhen both curves shift, typically we can determine the overall effect on price or on quantity, but not on both. \nIn this case, we determined the overall effect on the equilibrium quantity, but not on the equilibrium price. In \nother cases, it might be the opposite. \nThe next Clear It Up feature focuses on the difference between shifts of supply or demand and movements \nalong a curve. \nWhat is the difference between shifts of demand or supply versus movements along a demand or \nsupply curve? \nOne common mistake in applying the demand and supply framework is to confuse the shift of a demand or a supply \ncurve with movement along a demand or supply curve. As an example, consider a problem that asks whether a \ndrought will increase or decrease the equilibrium quantity and equilibrium price of wheat. Lee, a student in an \nintroductory economics class, might reason: \n“Well, it is clear that a drought reduces supply, so I will shift back the supply curve, as in the shift from the original \nsupply curve S0 to S1 on the diagram (Shift 1). The equilibrium moves from E0 to E1, the equilibrium quantity is \nlower and the equilibrium price is higher. Then, a higher price makes farmers more likely to supply the good, so the \nsupply curve shifts right, as shows the shift from S1 to S2, shows on the diagram (Shift 2), so that the equilibrium \nnow moves from E1 to E2. The higher price, however, also reduces demand and so causes demand to shift back, like \n CLEAR IT UP \n3.3 • Changes in Equilibrium Price and Quantity: The Four-Step Process     69\n"
+    },
+    {
+      "page": 53,
+      "original_pdf_page": 77,
+      "text": "Now, imagine that the price of steel, an important ingredient in manufacturing cars, rises, so that producing a \ncar has become more expensive. At any given price for selling cars, car manufacturers will react by supplying a \nlower quantity. We can show this graphically as a leftward shift of supply, from S0 to S1, which indicates that at \nany given price, the quantity supplied decreases. In this example, at a price of $20,000, the quantity supplied \ndecreases from 18 million on the original supply curve (S0) to 16.5 million on the supply curve S1, which is \nlabeled as point L. \nConversely, if the price of steel decreases, producing a car becomes less expensive. At any given price for \nselling cars, car manufacturers can now expect to earn higher profits, so they will supply a higher quantity. The \nshift of supply to the right, from S0 to S2, means that at all prices, the quantity supplied has increased. In this \nexample, at a price of $20,000, the quantity supplied increases from 18 million on the original supply curve \n(S0) to 19.8 million on the supply curve S2, which is labeled M. \nOther Factors That Affect Supply \nIn the example above, we saw that changes in the prices of inputs in the production process will affect the cost \nof production and thus the supply. Several other things affect the cost of production, too, such as changes in \nweather or other natural conditions, new technologies for production, and some government policies. \nChanges in weather and climate will affect the cost of production for many agricultural products. For example, \nin 2014 the Manchurian Plain in Northeastern China, which produces most of the country's wheat, corn, and \nsoybeans, experienced its most severe drought in 50 years. A drought decreases the supply of agricultural \nproducts, which means that at any given price, a lower quantity will be supplied. Conversely, especially good \nweather would shift the supply curve to the right. \nWhen a firm discovers a new technology that allows the firm to produce at a lower cost, the supply curve will \nshift to the right, as well. For instance, in the 1960s a major scientific effort nicknamed the Green Revolution \nfocused on breeding improved seeds for basic crops like wheat and rice. By the early 1990s, more than two-\nthirds of the wheat and rice in low-income countries around the world used these Green Revolution seeds—and \nthe harvest was twice as high per acre. A technological improvement that reduces costs of production will shift \nsupply to the right, so that a greater quantity will be produced at any given price. \nGovernment policies can affect the cost of production and the supply curve through taxes, regulations, and \nsubsidies. For example, the U.S. government imposes a tax on alcoholic beverages that collects about $8 billion \nper year from producers. Businesses treat taxes as costs. Higher costs decrease supply for the reasons we \ndiscussed above. Other examples of policy that can affect cost are the wide array of government regulations \nthat require firms to spend money to provide a cleaner environment or a safer workplace. Complying with \nregulations increases costs. \nA government subsidy, on the other hand, is the opposite of a tax. A subsidy occurs when the government pays \na firm directly or reduces the firm’s taxes if the firm carries out certain actions. From the firm’s perspective, \ntaxes or regulations are an additional cost of production that shifts supply to the left, leading the firm to \nproduce a lower quantity at every given price. Government subsidies reduce the cost of production and \nincrease supply at every given price, shifting supply to the right. The following Work It Out feature shows how \nthis shift happens. \nShift in Supply \nWe know that a supply curve shows the minimum price a firm will accept to produce a given quantity of output. \nWhat happens to the supply curve when the cost of production goes up? Following is an example of a shift in \nsupply due to a production cost increase. (We’ll introduce some other concepts regarding firm decision-making in \nWORK IT OUT \n3.2 • Shifts in Demand and Supply for Goods and Services     61\n"
+    },
+    {
+      "page": 76,
+      "original_pdf_page": 100,
+      "text": "Price per Pound \nQd \nQs \n$3.80 \n600 720 \n$4.00 \n590 730 \nTABLE 3.9 \n56 . Table 3.10 shows the supply and demand for movie tickets in a city. Graph demand and supply and \nidentify the equilibrium. Then calculate in a table and graph the effect of the following two changes. \na. Three new nightclubs open. They offer decent bands and have no cover charge, but make their money \nby selling food and drink. As a result, demand for movie tickets falls by six units at every price. \nb. The city eliminates a tax that it placed on all local entertainment businesses. The result is that the \nquantity supplied of movies at any given price increases by 10%. \nPrice per Ticket Qd Qs \n$5.00 \n26 \n16 \n$6.00 \n24 \n18 \n$7.00 \n22 \n20 \n$8.00 \n21 \n21 \n$9.00 \n20 \n22 \nTABLE 3.10 \n57 . A low-income country decides to set a price ceiling on bread so it can make sure that bread is affordable to \nthe poor. Table 3.11 provides the conditions of demand and supply. What are the equilibrium price and \nequilibrium quantity before the price ceiling? What will the excess demand or the shortage (that is, \nquantity demanded minus quantity supplied) be if the price ceiling is set at $2.40? At $2.00? At $3.60? \nPrice \nQd \nQs \n$1.60 \n9,000 \n5,000 \n$2.00 \n8,500 \n5,500 \n$2.40 \n8,000 \n6,400 \n$2.80 7,500 7,500 \n$3.20 \n7,000 \n9,000 \n$3.60 \n6,500 \n11,000 \n$4.00 \n6,000 \n15,000 \nTABLE 3.11 \n84     3 • Problems\nAccess for free at openstax.org\n"
+    }
+  ],
+  "retrieval_queries": [
+    "Table 3.5 \"Price and Shifts in Supply: A Car Example\" $22,000 S2 quantity supplied",
+    "\"Price and Shifts in Supply: A Car Example\" Table 3.5 22000 S2",
+    "Table 3.5 car example supply S2 22000"
+  ],
+  "ranked_pages": [
+    [
+      52,
+      1.077263595740023
+    ],
+    [
+      47,
+      1.075206043956044
+    ],
+    [
+      48,
+      1.0481310803891448
+    ],
+    [
+      61,
+      0.08560461927174791
+    ],
+    [
+      53,
+      0.04762704813108039
+    ],
+    [
+      76,
+      0.04618300439195962
+    ],
+    [
+      41,
+      0.042515625352557596
+    ],
+    [
+      87,
+      0.04177740238220769
+    ],
+    [
+      43,
+      0.04111111111111111
+    ],
+    [
+      75,
+      0.04093888664784187
+    ],
+    [
+      46,
+      0.0386986301369863
+    ],
+    [
+      103,
+      0.02817460317460317
+    ],
+    [
+      62,
+      0.028006267136701922
+    ],
+    [
+      58,
+      0.02715098147128967
+    ],
+    [
+      57,
+      0.02651914295749912
+    ],
+    [
+      82,
+      0.026500526500526502
+    ],
+    [
+      71,
+      0.02632034632034632
+    ],
+    [
+      44,
+      0.02564102564102564
+    ],
+    [
+      64,
+      0.015151515151515152
+    ],
+    [
+      79,
+      0.014705882352941176
+    ],
+    [
+      14,
+      0.014084507042253521
+    ],
+    [
+      78,
+      0.0136986301369863
+    ],
+    [
+      12,
+      0.013157894736842105
+    ],
+    [
+      88,
+      0.012658227848101266
+    ]
+  ],
+  "status": "success",
+  "calls": [
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": "Search this economics textbook to answer in Vietnamese: Dựa trên trang này, trong Bảng 3.5 \"Price and Shifts in Supply: A Car Example\", nếu giá là $22,000 và cung tăng sang S2, thì lượng cung là bao nhiêu?"
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "search_book",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_028a649a9ef13514016af8367076f487d2be20df3b33099cdd",
+        "object": "response",
+        "created_at": 1794651760,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651761,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_028a649a9ef13514016af83670de4c87d28654c9182b214322",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"queries\":[\"Table 3.5 \\\"Price and Shifts in Supply: A Car Example\\\" $22,000 S2 quantity supplied\", \"\\\"Price and Shifts in Supply: A Car Example\\\" Table 3.5 22000 S2\", \"Table 3.5 car example supply S2 22000\"]}",
+            "call_id": "call_axoNjF5gLiSsOjQH9gW83B53",
+            "name": "search_book"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "name": "search_book",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 189,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 81,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 270
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.3921678000042448
+    },
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": [
+              {
+                "type": "input_text",
+                "text": "Answer the question using ONLY supplied source evidence, in Vietnamese. Cite [page N] and Figure/Table ID for all claims. No external facts. If date/place/condition absent, choose abstain with no guessed values. Dựa trên trang này, trong Bảng 3.5 \"Price and Shifts in Supply: A Car Example\", nếu giá là $22,000 và cung tăng sang S2, thì lượng cung là bao nhiêu?\nSOURCE_CONTEXT:[{\"page\": 52, \"original_pdf_page\": 76, \"text\": \"up. When a firm’s profits increase, it is more motivated to produce output, since the more it produces the more \\nprofit it will earn. When costs of production fall, a firm will tend to supply a larger quantity at any given price \\nfor its output. We can show this by the supply curve shifting to the right. \\nTake, for example, a messenger company that delivers packages around a city. The company may find that \\nbuying gasoline is one of its main costs. If the price of gasoline falls, then the company will find it can deliver \\nmessages more cheaply than before. Since lower costs correspond to higher profits, the messenger company \\nmay now supply more of its services at any given price. For example, given the lower gasoline prices, the \\ncompany can now serve a greater area, and increase its supply. \\nConversely, if a firm faces higher costs of production, then it will earn lower profits at any given selling price for \\nits products. As a result, a higher cost of production typically causes a firm to supply a smaller quantity at any \\ngiven price. In this case, the supply curve shifts to the left. \\nConsider the supply for cars, shown by curve S0 in Figure 3.10. Point J indicates that if the price is $20,000, the \\nquantity supplied will be 18 million cars. If the price rises to $22,000 per car, ceteris paribus, the quantity \\nsupplied will rise to 20 million cars, as point K on the S0 curve shows. We can show the same information in \\ntable form, as in Table 3.5. \\nFIGURE 3.10 Shifts in Supply: A Car Example Decreased supply means that at every given price, the quantity \\nsupplied is lower, so that the supply curve shifts to the left, from S0 to S1. Increased supply means that at every \\ngiven price, the quantity supplied is higher, so that the supply curve shifts to the right, from S0 to S2. \\nPrice \\nDecrease to S1 \\nOriginal Quantity Supplied S0 \\nIncrease to S2 \\n$16,000 10.5 million \\n12.0 million \\n13.2 million \\n$18,000 13.5 million \\n15.0 million \\n16.5 million \\n$20,000 16.5 million \\n18.0 million \\n19.8 million \\n$22,000 18.5 million \\n20.0 million \\n22.0 million \\n$24,000 19.5 million \\n21.0 million \\n23.1 million \\n$26,000 20.5 million \\n22.0 million \\n24.2 million \\nTABLE 3.5 Price and Shifts in Supply: A Car Example \\n60     3 • Demand and Supply\\nAccess for free at openstax.org\\n\"}, {\"page\": 47, \"original_pdf_page\": 71, \"text\": \"held equal, then the laws of supply and demand will not necessarily hold, as the following Clear It Up feature \\nshows. \\nWhen does ceteris paribus apply? \\nWe typically apply ceteris paribus when we observe how changes in price affect demand or supply, but we can apply \\nceteris paribus more generally. In the real world, demand and supply depend on more factors than just price. For \\nexample, a consumer’s demand depends on income and a producer’s supply depends on the cost of producing the \\nproduct. How can we analyze the effect on demand or supply if multiple factors are changing at the same time—say \\nprice rises and income falls? The answer is that we examine the changes one at a time, assuming the other factors \\nare held constant. \\nFor example, we can say that an increase in the price reduces the amount consumers will buy (assuming income, \\nand anything else that affects demand, is unchanged). Additionally, a decrease in income reduces the amount \\nconsumers can afford to buy (assuming price, and anything else that affects demand, is unchanged). This is what the \\nceteris paribus assumption really means. In this particular case, after we analyze each factor separately, we can \\ncombine the results. The amount consumers buy falls for two reasons: first because of the higher price and second \\nbecause of the lower income. \\nHow Does Income Affect Demand? \\nLet’s use income as an example of how factors other than price affect demand. Figure 3.5 shows the initial \\ndemand for automobiles as D0. At point Q, for example, if the price is $20,000 per car, the quantity of cars \\ndemanded is 18 million. D0 also shows how the quantity of cars demanded would change as a result of a higher \\nor lower price. For example, if the price of a car rose to $22,000, the quantity demanded would decrease to 17 \\nmillion, at point R. \\nThe original demand curve D0, like every demand curve, is based on the ceteris paribus assumption that no \\nother economically relevant factors change. Now imagine that the economy expands in a way that raises the \\nincomes of many people, making cars more affordable. How will this affect demand? How can we show this \\ngraphically? \\nReturn to Figure 3.5. The price of cars is still $20,000, but with higher incomes, the quantity demanded has \\nnow increased to 20 million cars, shown at point S. As a result of the higher income levels, the demand curve \\nshifts to the right to the new demand curve D1, indicating an increase in demand. Table 3.4 shows clearly that \\nthis increased demand would occur at every price, not just the original one. \\n CLEAR IT UP \\n3.2 • Shifts in Demand and Supply for Goods and Services     55\\n\"}, {\"page\": 48, \"original_pdf_page\": 72, \"text\": \"FIGURE 3.5 Shifts in Demand: A Car Example Increased demand means that at every given price, the quantity \\ndemanded is higher, so that the demand curve shifts to the right from D0 to D1. Decreased demand means that at \\nevery given price, the quantity demanded is lower, so that the demand curve shifts to the left from D0 to D2. \\nPrice \\nDecrease to D2 \\nOriginal Quantity Demanded D0 \\nIncrease to D1 \\n$16,000 17.6 million \\n22.0 million \\n24.0 million \\n$18,000 16.0 million \\n20.0 million \\n22.0 million \\n$20,000 14.4 million \\n18.0 million \\n20.0 million \\n$22,000 13.6 million \\n17.0 million \\n19.0 million \\n$24,000 13.2 million \\n16.5 million \\n18.5 million \\n$26,000 12.8 million \\n16.0 million \\n18.0 million \\nTABLE 3.4 Price and Demand Shifts: A Car Example \\nNow, imagine that the economy slows down so that many people lose their jobs or work fewer hours, reducing \\ntheir incomes. In this case, the decrease in income would lead to a lower quantity of cars demanded at every \\ngiven price, and the original demand curve D0 would shift left to D2. The shift from D0 to D2 represents such a \\ndecrease in demand: At any given price level, the quantity demanded is now lower. In this example, a price of \\n$20,000 means 18 million cars sold along the original demand curve, but only 14.4 million sold after demand \\nfell. \\nWhen a demand curve shifts, it does not mean that the quantity demanded by every individual buyer changes \\nby the same amount. In this example, not everyone would have higher or lower income and not everyone \\nwould buy or not buy an additional car. Instead, a shift in a demand curve captures a pattern for the market as \\na whole. \\nIn the previous section, we argued that higher income causes greater demand at every price. This is true for \\nmost goods and services. For some—luxury cars, vacations in Europe, and fine jewelry—the effect of a rise in \\nincome can be especially pronounced. A product whose demand rises when income rises, and vice versa, is \\ncalled a normal good. A few exceptions to this pattern do exist. As incomes rise, many people will buy fewer \\n56     3 • Demand and Supply\\nAccess for free at openstax.org\\n\"}, {\"page\": 61, \"original_pdf_page\": 85, \"text\": \"FIGURE 3.19 Combined Effect of Decreased Demand and Decreased Supply Supply and demand shifts cause \\nchanges in equilibrium price and quantity. \\nFollowing are the results: \\nEffect on Quantity: The effect of higher labor compensation on Postal Services because it raises the cost of \\nproduction is to decrease the equilibrium quantity. The effect of a change in tastes away from snail mail is to \\ndecrease the equilibrium quantity. Since both shifts are to the left, the overall impact is a decrease in the \\nequilibrium quantity of Postal Services (Q3). This is easy to see graphically, since Q3 is to the left of Q0. \\nEffect on Price: The overall effect on price is more complicated. The effect of higher labor compensation on \\nPostal Services, because it raises the cost of production, is to increase the equilibrium price. The effect of a \\nchange in tastes away from snail mail is to decrease the equilibrium price. Since the two effects are in opposite \\ndirections, unless we know the magnitudes of the two effects, the overall effect is unclear. This is not unusual. \\nWhen both curves shift, typically we can determine the overall effect on price or on quantity, but not on both. \\nIn this case, we determined the overall effect on the equilibrium quantity, but not on the equilibrium price. In \\nother cases, it might be the opposite. \\nThe next Clear It Up feature focuses on the difference between shifts of supply or demand and movements \\nalong a curve. \\nWhat is the difference between shifts of demand or supply versus movements along a demand or \\nsupply curve? \\nOne common mistake in applying the demand and supply framework is to confuse the shift of a demand or a supply \\ncurve with movement along a demand or supply curve. As an example, consider a problem that asks whether a \\ndrought will increase or decrease the equilibrium quantity and equilibrium price of wheat. Lee, a student in an \\nintroductory economics class, might reason: \\n“Well, it is clear that a drought reduces supply, so I will shift back the supply curve, as in the shift from the original \\nsupply curve S0 to S1 on the diagram (Shift 1). The equilibrium moves from E0 to E1, the equilibrium quantity is \\nlower and the equilibrium price is higher. Then, a higher price makes farmers more likely to supply the good, so the \\nsupply curve shifts right, as shows the shift from S1 to S2, shows on the diagram (Shift 2), so that the equilibrium \\nnow moves from E1 to E2. The higher price, however, also reduces demand and so causes demand to shift back, like \\n CLEAR IT UP \\n3.3 • Changes in Equilibrium Price and Quantity: The Four-Step Process     69\\n\"}, {\"page\": 53, \"original_pdf_page\": 77, \"text\": \"Now, imagine that the price of steel, an important ingredient in manufacturing cars, rises, so that producing a \\ncar has become more expensive. At any given price for selling cars, car manufacturers will react by supplying a \\nlower quantity. We can show this graphically as a leftward shift of supply, from S0 to S1, which indicates that at \\nany given price, the quantity supplied decreases. In this example, at a price of $20,000, the quantity supplied \\ndecreases from 18 million on the original supply curve (S0) to 16.5 million on the supply curve S1, which is \\nlabeled as point L. \\nConversely, if the price of steel decreases, producing a car becomes less expensive. At any given price for \\nselling cars, car manufacturers can now expect to earn higher profits, so they will supply a higher quantity. The \\nshift of supply to the right, from S0 to S2, means that at all prices, the quantity supplied has increased. In this \\nexample, at a price of $20,000, the quantity supplied increases from 18 million on the original supply curve \\n(S0) to 19.8 million on the supply curve S2, which is labeled M. \\nOther Factors That Affect Supply \\nIn the example above, we saw that changes in the prices of inputs in the production process will affect the cost \\nof production and thus the supply. Several other things affect the cost of production, too, such as changes in \\nweather or other natural conditions, new technologies for production, and some government policies. \\nChanges in weather and climate will affect the cost of production for many agricultural products. For example, \\nin 2014 the Manchurian Plain in Northeastern China, which produces most of the country's wheat, corn, and \\nsoybeans, experienced its most severe drought in 50 years. A drought decreases the supply of agricultural \\nproducts, which means that at any given price, a lower quantity will be supplied. Conversely, especially good \\nweather would shift the supply curve to the right. \\nWhen a firm discovers a new technology that allows the firm to produce at a lower cost, the supply curve will \\nshift to the right, as well. For instance, in the 1960s a major scientific effort nicknamed the Green Revolution \\nfocused on breeding improved seeds for basic crops like wheat and rice. By the early 1990s, more than two-\\nthirds of the wheat and rice in low-income countries around the world used these Green Revolution seeds—and \\nthe harvest was twice as high per acre. A technological improvement that reduces costs of production will shift \\nsupply to the right, so that a greater quantity will be produced at any given price. \\nGovernment policies can affect the cost of production and the supply curve through taxes, regulations, and \\nsubsidies. For example, the U.S. government imposes a tax on alcoholic beverages that collects about $8 billion \\nper year from producers. Businesses treat taxes as costs. Higher costs decrease supply for the reasons we \\ndiscussed above. Other examples of policy that can affect cost are the wide array of government regulations \\nthat require firms to spend money to provide a cleaner environment or a safer workplace. Complying with \\nregulations increases costs. \\nA government subsidy, on the other hand, is the opposite of a tax. A subsidy occurs when the government pays \\na firm directly or reduces the firm’s taxes if the firm carries out certain actions. From the firm’s perspective, \\ntaxes or regulations are an additional cost of production that shifts supply to the left, leading the firm to \\nproduce a lower quantity at every given price. Government subsidies reduce the cost of production and \\nincrease supply at every given price, shifting supply to the right. The following Work It Out feature shows how \\nthis shift happens. \\nShift in Supply \\nWe know that a supply curve shows the minimum price a firm will accept to produce a given quantity of output. \\nWhat happens to the supply curve when the cost of production goes up? Following is an example of a shift in \\nsupply due to a production cost increase. (We’ll introduce some other concepts regarding firm decision-making in \\nWORK IT OUT \\n3.2 • Shifts in Demand and Supply for Goods and Services     61\\n\"}, {\"page\": 76, \"original_pdf_page\": 100, \"text\": \"Price per Pound \\nQd \\nQs \\n$3.80 \\n600 720 \\n$4.00 \\n590 730 \\nTABLE 3.9 \\n56 . Table 3.10 shows the supply and demand for movie tickets in a city. Graph demand and supply and \\nidentify the equilibrium. Then calculate in a table and graph the effect of the following two changes. \\na. Three new nightclubs open. They offer decent bands and have no cover charge, but make their money \\nby selling food and drink. As a result, demand for movie tickets falls by six units at every price. \\nb. The city eliminates a tax that it placed on all local entertainment businesses. The result is that the \\nquantity supplied of movies at any given price increases by 10%. \\nPrice per Ticket Qd Qs \\n$5.00 \\n26 \\n16 \\n$6.00 \\n24 \\n18 \\n$7.00 \\n22 \\n20 \\n$8.00 \\n21 \\n21 \\n$9.00 \\n20 \\n22 \\nTABLE 3.10 \\n57 . A low-income country decides to set a price ceiling on bread so it can make sure that bread is affordable to \\nthe poor. Table 3.11 provides the conditions of demand and supply. What are the equilibrium price and \\nequilibrium quantity before the price ceiling? What will the excess demand or the shortage (that is, \\nquantity demanded minus quantity supplied) be if the price ceiling is set at $2.40? At $2.00? At $3.60? \\nPrice \\nQd \\nQs \\n$1.60 \\n9,000 \\n5,000 \\n$2.00 \\n8,500 \\n5,500 \\n$2.40 \\n8,000 \\n6,400 \\n$2.80 7,500 7,500 \\n$3.20 \\n7,000 \\n9,000 \\n$3.60 \\n6,500 \\n11,000 \\n$4.00 \\n6,000 \\n15,000 \\nTABLE 3.11 \\n84     3 • Problems\\nAccess for free at openstax.org\\n\"}]"
+              }
+            ]
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "finish",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_012fa2a3dbe6e71a016af83671d8c487d2a062de8005af130e",
+        "object": "response",
+        "created_at": 1794651761,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651763,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_012fa2a3dbe6e71a016af83672504887d29a7d4100fd4713f8",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"status\":\"answered\",\"answer\":\"Theo Bảng 3.5, khi giá là $22,000 và cung tăng sang S2, lượng cung là **22.0 triệu xe** [page 52, Table 3.5].\",\"pages\":[52]}",
+            "call_id": "call_rYEiJ6JLqlUsoreFO4AWdpUR",
+            "name": "finish"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "name": "finish",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 4208,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 67,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 4275
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.785823900005198
+    }
+  ],
+  "usage": {
+    "model_calls": 2,
+    "input_tokens": 4397,
+    "cached_input_tokens": 0,
+    "output_tokens": 148,
+    "estimated_api_cost_usd": 0.00396375,
+    "cost_note": "Estimate from published standard GPT-5.4-mini token rates, verified 2026-11-14; actual bill may differ. Unknown model/endpoint rates are not assumed zero.",
+    "pricing_source": "https://developers.openai.com/api/docs/models/gpt-5.4-mini"
+  },
+  "seconds": 3.2026349999941885
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "adv-dev-table-01",
+    "question": "Dựa vào Bảng 1.2 “The Extent of Globalization (exports/GDP)”, trong hàng của Canada, tỷ lệ exports/GDP năm 2014 và năm 2015 lần lượt là bao nhiêu?",
+    "group": "table"
+  },
+  {
+    "id": "adv-dev-table-02",
+    "question": "Dựa vào Hình 3.3 và Bảng 3.2 về xăng, nếu giá là 1,60 đô la mỗi gallon thì lượng cung ứng là bao nhiêu, và đơn vị của lượng này là gì?",
+    "group": "table"
+  },
+  {
+    "id": "adv-dev-table-03",
+    "question": "Dựa vào Hình 3.21 và Bảng 3.7 về kiểm soát tiền thuê, nếu chính quyền thành phố ấn định mức giá trần ở $500 cho một căn hộ điển hình, thì tại mức giá đó lượng cầu mới và lượng cung ban đầu lần lượt là bao nhiêu, và chênh lệch giữa chúng (tức mức thiếu hụt) là bao nhiêu căn hộ thuê?",
+    "group": "table"
+  },
+  {
+    "id": "adv-dev-diagram-01",
+    "question": "Dựa trên Hình 23.3 (“Flow of Investment Goods and Capital”), mũi tên nào biểu thị dòng tiền chi trả cho hàng xuất khẩu từ “Rest of the world” về “Home Country”, và dòng này được nhãn gì trên hình?",
+    "group": "diagram"
+  },
+  {
+    "id": "adv-dev-diagram-02",
+    "question": "Dựa vào Hình 28.3 (\"The Twelve Federal Reserve Districts\"), hãy xác định ngân hàng Dự trữ Liên bang khu vực nào có trụ sở chính ở New York, Philadelphia và Richmond; đồng thời cho biết New York, Philadelphia và Richmond lần lượt là thành phố trung tâm của những quận Dự trữ Liên bang số mấy trên bản đồ?",
+    "group": "diagram"
+  },
+  {
+    "id": "adv-dev-diagram-03",
+    "question": "Quan sát Hình 28.7 ở phần “The Pathways of Monetary Policy”, trong sơ đồ (a) về chính sách tiền tệ mở rộng, chuỗi tác động nào được thể hiện từ ô đầu tiên đến ô cuối cùng?",
+    "group": "diagram"
+  },
+  {
+    "id": "adv-dev-chart-01",
+    "question": "Quan sát Hình 2.2 \"The Budget Constraint: Alphonso’s Consumption Choice Opportunity Frontier\". Tại điểm C trên đường ngân sách, Alphonso mua bao nhiêu vé xe buýt và bao nhiêu chiếc burger?",
+    "group": "chart"
+  },
+  {
+    "id": "adv-dev-chart-02",
+    "question": "Dựa vào Hình 3.16 và Bảng 3.6 về thị trường cá hồi, tại mức giá nào thì lượng cung năm 2015 bằng đúng lượng cầu, và khi đó giá và lượng cân bằng được ghi trên hình là bao nhiêu? Hãy trả lời kèm đơn vị theo đúng chú thích trục của hình.",
+    "group": "chart"
+  },
+  {
+    "id": "adv-dev-chart-03",
+    "question": "Dựa trên Hình 4.4 \"A Living Wage: Example of a Price Floor\" trong trang trích dẫn, tại mức lương $12/giờ, số lao động được cung ứng và số lao động được doanh nghiệp thành phố thuê lần lượt là bao nhiêu? Hãy trả lời kèm đơn vị.",
+    "group": "chart"
+  },
+  {
+    "id": "adv-dev-multi_hop-01",
+    "question": "Dựa trên Hình 3.3 và Bảng 3.2 về thị trường xăng, tại mức giá $1.40 mỗi gallon, lượng xăng được cung ứng là bao nhiêu triệu gallons, và so với lượng cầu ở cùng mức giá trong Bảng 3.1 thì lượng cung thấp hơn hay cao hơn bao nhiêu triệu gallons?",
+    "group": "multi_hop"
+  },
+  {
+    "id": "adv-dev-multi_hop-02",
+    "question": "Dựa trên Hình 1.7 về sơ đồ luân chuyển (trang 33 PDF gốc) và Hình 27.4 về ngân hàng là trung gian tài chính (trang 671 PDF gốc), hãy xác định: nếu một hộ gia đình nhận tiền lương từ doanh nghiệp trong thị trường lao động rồi dùng khoản tiền đó để mua hàng hóa và dịch vụ từ doanh nghiệp trong thị trường hàng hóa và dịch vụ, thì trong Hình 1.7 hai dòng tương ứng với hai giao dịch này là mũi tên nào, và ở Hình 27.4 luồng tiền nào từ người vay về ngân hàng được gắn nhãn gì? Trả lời phải nêu rõ cả ký hiệu mũi tên và nhãn luồng tiền.",
+    "group": "multi_hop"
+  },
+  {
+    "id": "adv-dev-multi_hop-03",
+    "question": "Dựa trên Table 4.5 “Demand and Supply for Borrowing Money with Credit Cards” ở trang 88 (PDF trang 112) và Figure 4.5 được mô tả trong phần “Equilibrium in Financial Markets”, nếu lãi suất là 21% và điểm cân bằng nằm tại 15% với lượng cân bằng $600 billion, thì tại mức lãi suất 21% thị trường tín dụng thẻ tín dụng đang có dư cung hay dư cầu, và chênh lệch tuyệt đối giữa lượng vốn tài chính được cung ứng và lượng vốn tài chính được yêu cầu là bao nhiêu ($ billions)?",
+    "group": "multi_hop"
+  },
+  {
+    "id": "adv-dev-text-01",
+    "question": "Dựa trên đoạn văn ở trang này, trong phần \"Introduction to FRED\", nếu bạn muốn sử dụng dữ liệu từ FRED cho các mục đích khác, bạn có thể làm gì với dữ liệu đó?",
+    "group": "text"
+  },
+  {
+    "id": "adv-dev-text-02",
+    "question": "Dựa trên Bảng 2.1 trong trang này, nếu Alphonso chọn mua 12 vé xe buýt thì anh ta phải từ bỏ bao nhiêu chiếc burger?",
+    "group": "text"
+  },
+  {
+    "id": "adv-dev-text-03",
+    "question": "Dựa trên trang này, trong Bảng 3.5 \"Price and Shifts in Supply: A Car Example\", nếu giá là $22,000 và cung tăng sang S2, thì lượng cung là bao nhiêu?",
+    "group": "text"
+  },
+  {
+    "id": "adv-dev-unanswerable-01",
+    "question": "Dựa riêng vào tài liệu, mức lương tối thiểu vùng I Việt Nam năm 2026 chính xác là bao nhiêu?",
+    "group": "unanswerable"
+  },
+  {
+    "id": "adv-dev-unanswerable-02",
+    "question": "Dựa riêng vào tài liệu, giá xăng Hà Nội ngày 14/11/2026 chính xác là bao nhiêu?",
+    "group": "unanswerable"
+  },
+  {
+    "id": "adv-dev-unanswerable-03",
+    "question": "Dựa riêng vào tài liệu, lãi suất vay mua nhà Vietcombank tháng 11/2026 chính xác là bao nhiêu?",
+    "group": "unanswerable"
+  }
+]

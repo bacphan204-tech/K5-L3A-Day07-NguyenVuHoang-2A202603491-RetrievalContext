@@ -1,0 +1,293 @@
+[
+  {
+    "id": "adv-dev-table-01",
+    "split": "dev",
+    "group": "table",
+    "answerable": true,
+    "question": "Dựa vào Bảng 1.2 “The Extent of Globalization (exports/GDP)”, trong hàng của Canada, tỷ lệ exports/GDP năm 2014 và năm 2015 lần lượt là bao nhiêu?",
+    "expected_answer": "Canada: 31.7% năm 2014 và 31.5% năm 2015.",
+    "evidence_description": "Bảng 1.2 ở phần giữa/dưới trang, hàng Canada trong nhóm Higher Income Countries; các cột 2014 và 2015 lần lượt ghi 31.7 và 31.5.",
+    "gold_pages": [
+      14
+    ],
+    "original_pages": [
+      38
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI-authored; source-image review pending"
+  },
+  {
+    "id": "adv-dev-table-02",
+    "split": "dev",
+    "group": "table",
+    "answerable": true,
+    "question": "Dựa vào Hình 3.3 và Bảng 3.2 về xăng, nếu giá là 1,60 đô la mỗi gallon thì lượng cung ứng là bao nhiêu, và đơn vị của lượng này là gì?",
+    "expected_answer": "640 triệu gallon",
+    "evidence_description": "Hình 3.3 (đường cung S) và Bảng 3.2 cho thấy tại mức giá $1.60 per gallon, quantity supplied là 640; đơn vị được ghi là millions of gallons.",
+    "gold_pages": [
+      43
+    ],
+    "original_pages": [
+      67
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI-authored; source-image review pending"
+  },
+  {
+    "id": "adv-dev-table-03",
+    "split": "dev",
+    "group": "table",
+    "answerable": true,
+    "question": "Dựa vào Hình 3.21 và Bảng 3.7 về kiểm soát tiền thuê, nếu chính quyền thành phố ấn định mức giá trần ở $500 cho một căn hộ điển hình, thì tại mức giá đó lượng cầu mới và lượng cung ban đầu lần lượt là bao nhiêu, và chênh lệch giữa chúng (tức mức thiếu hụt) là bao nhiêu căn hộ thuê?",
+    "expected_answer": "Ở mức giá trần $500, lượng cầu mới là 19,000 căn hộ thuê, lượng cung ban đầu là 15,000 căn hộ thuê, nên thiếu hụt là 4,000 căn hộ thuê.",
+    "evidence_description": "Figure 3.21 (Price Ceiling Example—Rent Control) và Table 3.7 (Rent Control), hàng giá $500: Original Quantity Supplied = 15,000 và New Quantity Demanded = 19,000.",
+    "gold_pages": [
+      64
+    ],
+    "original_pages": [
+      88
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI-authored; source-image review pending"
+  },
+  {
+    "id": "adv-dev-diagram-01",
+    "split": "dev",
+    "group": "diagram",
+    "answerable": true,
+    "question": "Dựa trên Hình 23.3 (“Flow of Investment Goods and Capital”), mũi tên nào biểu thị dòng tiền chi trả cho hàng xuất khẩu từ “Rest of the world” về “Home Country”, và dòng này được nhãn gì trên hình?",
+    "expected_answer": "Mũi tên thứ hai từ trên xuống, nhãn “Payment for exports”.",
+    "evidence_description": "Trong Hình 23.3, có bốn luồng chính giữa “Home Country” và “Rest of the world”. Dòng thứ hai từ trên xuống đi từ “Rest of the world” sang “Home Country” và được ghi rõ là “Payment for exports”.",
+    "gold_pages": [
+      111
+    ],
+    "original_pages": [
+      583
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI-authored; source-image review pending"
+  },
+  {
+    "id": "adv-dev-diagram-02",
+    "split": "dev",
+    "group": "diagram",
+    "answerable": true,
+    "question": "Dựa vào Hình 28.3 (\"The Twelve Federal Reserve Districts\"), hãy xác định ngân hàng Dự trữ Liên bang khu vực nào có trụ sở chính ở New York, Philadelphia và Richmond; đồng thời cho biết New York, Philadelphia và Richmond lần lượt là thành phố trung tâm của những quận Dự trữ Liên bang số mấy trên bản đồ?",
+    "expected_answer": "New York là Quận 2; Philadelphia là Quận 3; Richmond là Quận 5.",
+    "evidence_description": "Hình 28.3 trên trang cho thấy các quận Dự trữ Liên bang và các thành phố đặt trụ sở khu vực; nhãn trên bản đồ ghi New York, Philadelphia và Richmond cùng các số quận tương ứng 2, 3 và 5.",
+    "gold_pages": [
+      118
+    ],
+    "original_pages": [
+      686
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI-authored; source-image review pending"
+  },
+  {
+    "id": "adv-dev-diagram-03",
+    "split": "dev",
+    "group": "diagram",
+    "answerable": true,
+    "question": "Quan sát Hình 28.7 ở phần “The Pathways of Monetary Policy”, trong sơ đồ (a) về chính sách tiền tệ mở rộng, chuỗi tác động nào được thể hiện từ ô đầu tiên đến ô cuối cùng?",
+    "expected_answer": "M↑ → r↓ → I↑, C↑ → P↑, real GDP↑",
+    "evidence_description": "Dựa trên Hình 28.7(a) trong trang cung cấp, các ô và mũi tên cho thấy chuỗi tác động của chính sách tiền tệ mở rộng: tăng cung tiền (M↑) làm giảm lãi suất (r↓), kích thích đầu tư và tiêu dùng (I↑, C↑), dẫn đến mức giá tăng và GDP thực tăng (P↑, real GDP↑).",
+    "gold_pages": [
+      120
+    ],
+    "original_pages": [
+      697
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI-authored; source-image review pending"
+  },
+  {
+    "id": "adv-dev-chart-01",
+    "split": "dev",
+    "group": "chart",
+    "answerable": true,
+    "question": "Quan sát Hình 2.2 \"The Budget Constraint: Alphonso’s Consumption Choice Opportunity Frontier\". Tại điểm C trên đường ngân sách, Alphonso mua bao nhiêu vé xe buýt và bao nhiêu chiếc burger?",
+    "expected_answer": "Tại điểm C, Alphonso mua 8 vé xe buýt và 3 chiếc burger.",
+    "evidence_description": "Hình 2.2 cho thấy các điểm A–F trên đường ngân sách. Điểm C nằm tại giao điểm gần trục hoành 8 vé xe buýt và trục tung 3 burger; nhãn trục dọc là Burgers và trục ngang là Bus Tickets.",
+    "gold_pages": [
+      21
+    ],
+    "original_pages": [
+      45
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI-authored; source-image review pending"
+  },
+  {
+    "id": "adv-dev-chart-02",
+    "split": "dev",
+    "group": "chart",
+    "answerable": true,
+    "question": "Dựa vào Hình 3.16 và Bảng 3.6 về thị trường cá hồi, tại mức giá nào thì lượng cung năm 2015 bằng đúng lượng cầu, và khi đó giá và lượng cân bằng được ghi trên hình là bao nhiêu? Hãy trả lời kèm đơn vị theo đúng chú thích trục của hình.",
+    "expected_answer": "Ở mức giá $2.50 mỗi pound, lượng cung năm 2015 bằng lượng cầu. Khi đó cân bằng trên Hình 3.16 là P = $2.50 per pound và Q = 550 thousand fish.",
+    "evidence_description": "Hình 3.16 có nhãn điểm cân bằng E1 = (P = 2.50, Q = 550). Bảng 3.6 cho thấy tại giá $2.50, Quantity Supplied in 2015 = 550 và Quantity Demanded = 550.",
+    "gold_pages": [
+      57
+    ],
+    "original_pages": [
+      81
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI-authored; source-image review pending"
+  },
+  {
+    "id": "adv-dev-chart-03",
+    "split": "dev",
+    "group": "chart",
+    "answerable": true,
+    "question": "Dựa trên Hình 4.4 \"A Living Wage: Example of a Price Floor\" trong trang trích dẫn, tại mức lương $12/giờ, số lao động được cung ứng và số lao động được doanh nghiệp thành phố thuê lần lượt là bao nhiêu? Hãy trả lời kèm đơn vị.",
+    "expected_answer": "1,600 lao động được cung ứng và 700 lao động được thuê (đơn vị: workers).",
+    "evidence_description": "Figure 4.4 cho biết khi áp dụng mức lương sàn $12/giờ, lượng lao động cung ứng là 1,600 và lượng lao động cầu/được thuê là 700; chú thích hình và đoạn văn ngay phía trên hình nêu rõ các con số này.",
+    "gold_pages": [
+      84
+    ],
+    "original_pages": [
+      108
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI-authored; source-image review pending"
+  },
+  {
+    "id": "adv-dev-multi_hop-01",
+    "split": "dev",
+    "group": "multi_hop",
+    "answerable": true,
+    "question": "Dựa trên Hình 3.3 và Bảng 3.2 về thị trường xăng, tại mức giá $1.40 mỗi gallon, lượng xăng được cung ứng là bao nhiêu triệu gallons, và so với lượng cầu ở cùng mức giá trong Bảng 3.1 thì lượng cung thấp hơn hay cao hơn bao nhiêu triệu gallons?",
+    "expected_answer": "Ở mức giá $1.40 mỗi gallon, lượng xăng được cung ứng là 600 triệu gallons. Trong Bảng 3.1, lượng cầu ở cùng mức giá là 600 triệu gallons, nên lượng cung bằng lượng cầu; chênh lệch là 0 triệu gallons.",
+    "evidence_description": "Hình 3.3 (A Supply Curve for Gasoline) và Bảng 3.2 (Price and Supply of Gasoline) cho lượng cung tại $1.40 là 600 triệu gallons; Bảng 3.1 (Price and Quantity Demanded of Gasoline) cho lượng cầu tại $1.40 là 600 triệu gallons.",
+    "gold_pages": [
+      41,
+      43
+    ],
+    "original_pages": [
+      65,
+      67
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI-authored; source-image review pending"
+  },
+  {
+    "id": "adv-dev-multi_hop-02",
+    "split": "dev",
+    "group": "multi_hop",
+    "answerable": true,
+    "question": "Dựa trên Hình 1.7 về sơ đồ luân chuyển (trang 33 PDF gốc) và Hình 27.4 về ngân hàng là trung gian tài chính (trang 671 PDF gốc), hãy xác định: nếu một hộ gia đình nhận tiền lương từ doanh nghiệp trong thị trường lao động rồi dùng khoản tiền đó để mua hàng hóa và dịch vụ từ doanh nghiệp trong thị trường hàng hóa và dịch vụ, thì trong Hình 1.7 hai dòng tương ứng với hai giao dịch này là mũi tên nào, và ở Hình 27.4 luồng tiền nào từ người vay về ngân hàng được gắn nhãn gì? Trả lời phải nêu rõ cả ký hiệu mũi tên và nhãn luồng tiền.",
+    "expected_answer": "Trong Hình 1.7, tiền lương từ doanh nghiệp đến hộ gia đình là mũi tên D (Wages, Salaries and Benefits), còn khoản chi mua hàng hóa và dịch vụ từ hộ gia đình đến doanh nghiệp là mũi tên B (Payment for Goods and Services). Trong Hình 27.4, luồng tiền từ người vay về ngân hàng được gắn nhãn Repayment of loans.",
+    "evidence_description": "Hình 1.7 trên trang 33 mô tả các mũi tên A/B cho thị trường hàng hóa và dịch vụ và C/D cho thị trường lao động; Hình 27.4 trên trang 671 mô tả các luồng giữa savers, banks, borrowers, trong đó mũi tên từ borrowers về banks được ghi rõ là Repayment of loans.",
+    "gold_pages": [
+      9,
+      116
+    ],
+    "original_pages": [
+      33,
+      671
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI-authored; source-image review pending"
+  },
+  {
+    "id": "adv-dev-multi_hop-03",
+    "split": "dev",
+    "group": "multi_hop",
+    "answerable": true,
+    "question": "Dựa trên Table 4.5 “Demand and Supply for Borrowing Money with Credit Cards” ở trang 88 (PDF trang 112) và Figure 4.5 được mô tả trong phần “Equilibrium in Financial Markets”, nếu lãi suất là 21% và điểm cân bằng nằm tại 15% với lượng cân bằng $600 billion, thì tại mức lãi suất 21% thị trường tín dụng thẻ tín dụng đang có dư cung hay dư cầu, và chênh lệch tuyệt đối giữa lượng vốn tài chính được cung ứng và lượng vốn tài chính được yêu cầu là bao nhiêu ($ billions)?",
+    "expected_answer": "Dư cung; chênh lệch tuyệt đối là $270 billion.",
+    "evidence_description": "Table 4.5 cho thấy tại lãi suất 21%: quantity supplied = $750 billion và quantity demanded = $480 billion. Phần văn bản ngay dưới Figure 4.5 nêu rằng điểm cân bằng ở 15% với lượng cân bằng $600 billion, và tại 21% lượng cung vượt lượng cầu. Chênh lệch tuyệt đối = $750 billion - $480 billion = $270 billion.",
+    "gold_pages": [
+      88,
+      114
+    ],
+    "original_pages": [
+      112,
+      668
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI-authored; source-image review pending"
+  },
+  {
+    "id": "adv-dev-text-01",
+    "split": "dev",
+    "group": "text",
+    "answerable": true,
+    "question": "Dựa trên đoạn văn ở trang này, trong phần \"Introduction to FRED\", nếu bạn muốn sử dụng dữ liệu từ FRED cho các mục đích khác, bạn có thể làm gì với dữ liệu đó?",
+    "expected_answer": "Bạn có thể dễ dàng tải dữ liệu xuống dạng bảng tính (spreadsheet form).",
+    "evidence_description": "Ngay dưới tiêu đề \"Introduction to FRED\", đoạn văn nêu rằng FRED cho phép hiển thị dữ liệu trong bảng hoặc biểu đồ, và \"you can easily download it into spreadsheet form if you want to use the data for other purposes.\"",
+    "gold_pages": [
+      2
+    ],
+    "original_pages": [
+      26
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI-authored; source-image review pending"
+  },
+  {
+    "id": "adv-dev-text-02",
+    "split": "dev",
+    "group": "text",
+    "answerable": true,
+    "question": "Dựa trên Bảng 2.1 trong trang này, nếu Alphonso chọn mua 12 vé xe buýt thì anh ta phải từ bỏ bao nhiêu chiếc burger?",
+    "expected_answer": "12 vé xe buýt; Alphonso phải từ bỏ 2 chiếc burger.",
+    "evidence_description": "Bảng 2.1 có các cột “Quantity of Burgers (at $2)” và “Quantity of Bus Tickets (at 50 cents)”. Ở hàng D, số lượng bus tickets là 12 và số lượng burgers tương ứng là 2.",
+    "gold_pages": [
+      23
+    ],
+    "original_pages": [
+      47
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI-authored; source-image review pending"
+  },
+  {
+    "id": "adv-dev-text-03",
+    "split": "dev",
+    "group": "text",
+    "answerable": true,
+    "question": "Dựa trên trang này, trong Bảng 3.5 \"Price and Shifts in Supply: A Car Example\", nếu giá là $22,000 và cung tăng sang S2, thì lượng cung là bao nhiêu?",
+    "expected_answer": "22.0 million cars",
+    "evidence_description": "Bảng 3.5, hàng giá $22,000, cột \"Increase to S2\" ghi 22.0 million.",
+    "gold_pages": [
+      52
+    ],
+    "original_pages": [
+      76
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI-authored; source-image review pending"
+  },
+  {
+    "id": "adv-dev-unanswerable-01",
+    "split": "dev",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "Dựa riêng vào tài liệu, mức lương tối thiểu vùng I Việt Nam năm 2026 chính xác là bao nhiêu?",
+    "expected_answer": "Không đủ bằng chứng; không đoán con số.",
+    "gold_pages": [],
+    "absence_reason": "Excerpt textbook has no contemporary Vietnam-specific dataset; full corpus scope/term and source review required."
+  },
+  {
+    "id": "adv-dev-unanswerable-02",
+    "split": "dev",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "Dựa riêng vào tài liệu, giá xăng Hà Nội ngày 14/11/2026 chính xác là bao nhiêu?",
+    "expected_answer": "Không đủ bằng chứng; không đoán con số.",
+    "gold_pages": [],
+    "absence_reason": "Excerpt textbook has no contemporary Vietnam-specific dataset; full corpus scope/term and source review required."
+  },
+  {
+    "id": "adv-dev-unanswerable-03",
+    "split": "dev",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "Dựa riêng vào tài liệu, lãi suất vay mua nhà Vietcombank tháng 11/2026 chính xác là bao nhiêu?",
+    "expected_answer": "Không đủ bằng chứng; không đoán con số.",
+    "gold_pages": [],
+    "absence_reason": "Excerpt textbook has no contemporary Vietnam-specific dataset; full corpus scope/term and source review required."
+  }
+]

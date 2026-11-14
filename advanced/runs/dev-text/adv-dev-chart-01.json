@@ -1,0 +1,485 @@
+{
+  "id": "adv-dev-chart-01",
+  "question": "Quan sát Hình 2.2 \"The Budget Constraint: Alphonso’s Consumption Choice Opportunity Frontier\". Tại điểm C trên đường ngân sách, Alphonso mua bao nhiêu vé xe buýt và bao nhiêu chiếc burger?",
+  "vision": false,
+  "final": {
+    "status": "answered",
+    "answer": "Tại điểm C trên Hình 2.2, Alphonso mua 8 vé xe buýt và 3 chiếc burger [page 21, Figure 2.2].",
+    "pages": [
+      21
+    ]
+  },
+  "context": [
+    {
+      "page": 21,
+      "original_pdf_page": 45,
+      "text": "FIGURE 2.2 The Budget Constraint: Alphonso’s Consumption Choice Opportunity Frontier Each point on the \nbudget constraint represents a combination of burgers and bus tickets whose total cost adds up to Alphonso’s \nbudget of $10. The relative price of burgers and bus tickets determines the slope of the budget constraint. All along \nthe budget set, giving up one burger means gaining four bus tickets. \nThe vertical axis in the figure shows burger purchases and the horizontal axis shows bus ticket purchases. If \nAlphonso spends all his money on burgers, he can afford five per week. ($10 per week/$2 per burger = 5 \nburgers per week.) However, if he does this, he will not be able to afford any bus tickets. Point A in the figure \nshows the choice (zero bus tickets and five burgers). Alternatively, if Alphonso spends all his money on bus \ntickets, he can afford 20 per week. ($10 per week/$0.50 per bus ticket = 20 bus tickets per week.) Then, \nhowever, he will not be able to afford any burgers. Point F shows this alternative choice (20 bus tickets and zero \nburgers). \nIf we connect all the points between A and F, we get Alphonso's budget constraint. This indicates all the \ncombination of burgers and bus tickets Alphonso can afford, given the price of the two goods and his budget \namount. \nIf Alphonso is like most people, he will choose some combination that includes both bus tickets and burgers. \nThat is, he will choose some combination on the budget constraint that is between points A and F. Every point \non (or inside) the constraint shows a combination of burgers and bus tickets that Alphonso can afford. Any \npoint outside the constraint is not affordable, because it would cost more money than Alphonso has in his \nbudget. \nThe budget constraint clearly shows the tradeoff Alphonso faces in choosing between burgers and bus tickets. \nSuppose he is currently at point D, where he can afford 12 bus tickets and two burgers. What would it cost \nAlphonso for one more burger? It would be natural to answer $2, but that’s not the way economists think. \nInstead they ask, how many bus tickets would Alphonso have to give up to get one more burger, while staying \nwithin his budget? Since bus tickets cost 50 cents, Alphonso would have to give up four to afford one more \nburger. That is the true cost to Alphonso. \nThe Concept of Opportunity Cost \nEconomists use the term opportunity cost to indicate what people must give up to obtain what they desire. \nThe idea behind opportunity cost is that the cost of one item is the lost opportunity to do or consume \nsomething else. In short, opportunity cost is the value of the next best alternative. For Alphonso, the \nopportunity cost of a burger is the four bus tickets he would have to give up. He would decide whether or not to \nchoose the burger depending on whether the value of the burger exceeds the value of the forgone \nalternative—in this case, bus tickets. Since people must choose, they inevitably face tradeoffs in which they \nhave to give up things they desire to obtain other things they desire more. \nLINK IT UP \nView this website (https://openstax.org/l/linestanding) for an example of opportunity cost—paying someone \nelse to wait in line for you. \n2.1 • How Individuals Make Choices Based on Their Budget Constraint     29\n"
+    },
+    {
+      "page": 22,
+      "original_pdf_page": 46,
+      "text": "A fundamental principle of economics is that every choice has an opportunity cost. If you sleep through your \neconomics class, the opportunity cost is the learning you miss from not attending class. If you spend your \nincome on video games, you cannot spend it on movies. If you choose to marry one person, you give up the \nopportunity to marry anyone else. In short, opportunity cost is all around us and part of human existence. \nThe following Work It Out feature shows a step-by-step analysis of a budget constraint calculation. Read \nthrough it to understand another important concept—slope—that we further explain in the appendix The Use \nof Mathematics in Principles of Economics. \nUnderstanding Budget Constraints \nBudget constraints are easy to understand if you apply a little math. The appendix The Use of Mathematics in \nPrinciples of Economics explains all the math you are likely to need in this book. Therefore, if math is not your \nstrength, you might want to take a look at the appendix. \nStep 1: The equation for any budget constraint is: \nwhere P and Q are the price and quantity of items purchased (which we assume here to be two items) and \nBudget is the amount of income one has to spend. \nStep 2. Apply the budget constraint equation to the scenario. In Alphonso’s case, this works out to be: \nStep 3. Using a little algebra, we can turn this into the familiar equation of a line: \nFor Alphonso, this is: \nStep 4. Simplify the equation. Begin by multiplying both sides of the equation by 2: \nStep 5. Subtract one bus ticket from both sides: \nDivide each side by 4 to yield the answer: \nStep 6. Notice that this equation fits the budget constraint in Figure 2.2. The vertical intercept is 5 and the slope \nis –0.25, just as the equation says. If you plug 20 bus tickets into the equation, you get 0 burgers. If you plug \nother numbers of bus tickets into the equation, you get the results (see Table 2.1), which are the points on \nAlphonso’s budget constraint. \nWORK IT OUT \n30     2 • Choice in a World of Scarcity\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 20,
+      "original_pdf_page": 44,
+      "text": "median weekly earnings for full-time workers aged 25 and over with just a bachelor’s degree: $1,305 weekly and \n$67,860 a year. What about those with no higher than a high school diploma in 2020? They earn an average of just \n$781 weekly and $40,612 over 12 months. In other words, data from the BLS indicates that receiving a bachelor’s \ndegree boosts earnings by 67% over what workers would have earned if they only obtained a high school diploma, \nand a master’s degree yields average earnings that are nearly double those of workers with a high school diploma. \nGiven these statistics, we might expect many people to choose to go to college and at least earn a bachelor’s \ndegree. Assuming that people want to improve their material well-being, it seems like they would make those \nchoices that provide them with the greatest opportunity to consume goods and services. As it turns out, the analysis \nis not nearly as simple as this. In fact, in 2019, the BLS reported that while just over 90% of the population aged 25 \nand over in the United States had a high school diploma, only 36% of those aged 25 and over had a bachelor's or \nhigher degree, and only 13.5% had earned a master's or higher degree. \nThis brings us to the subject of this chapter: why people make the choices they make and how economists explain \nthose choices. \nYou will learn quickly when you examine the relationship between economics and scarcity that choices involve \ntradeoffs. Every choice has a cost. \nIn 1968, the Rolling Stones recorded “You Can’t Always Get What You Want.” Economists chuckled, because \nthey had been singing a similar tune for decades. English economist Lionel Robbins (1898–1984), in his Essay \non the Nature and Significance of Economic Science in 1932, described not always getting what you want in \nthis way: \nThe time at our disposal is limited. There are only twenty-four hours in the day. We have to choose \nbetween the different uses to which they may be put. ... Everywhere we turn, if we choose one thing we \nmust relinquish others which, in different circumstances, we would wish not to have relinquished. \nScarcity of means to satisfy given ends is an almost ubiquitous condition of human nature. \nBecause people live in a world of scarcity, they cannot have all the time, money, possessions, and experiences \nthey wish. Neither can society. \nThis chapter will continue our discussion of scarcity and the economic way of thinking by first introducing \nthree critical concepts: opportunity cost, marginal decision making, and diminishing returns. Later, it will \nconsider whether the economic way of thinking accurately describes either how we make choices and how we \nshould make them. \n2.1 How Individuals Make Choices Based on Their Budget Constraint \nLEARNING OBJECTIVES \nBy the end of this section, you will be able to: \n• Calculate and graph budget constraints \n• Explain opportunity sets and opportunity costs \n• Evaluate the law of diminishing marginal utility \n• Explain how marginal analysis and utility influence choices \nConsider the typical consumer’s budget problem. Consumers have a limited amount of income to spend on the \nthings they need and want. Suppose Alphonso has $10 in spending money each week that he can allocate \nbetween bus tickets for getting to work and the burgers that he eats for lunch. Burgers cost $2 each, and bus \ntickets are 50 cents each. We can see Alphonso's budget problem in Figure 2.2. \n28     2 • Choice in a World of Scarcity\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 26,
+      "original_pdf_page": 50,
+      "text": "2.2 The Production Possibilities Frontier and Social Choices \nLEARNING OBJECTIVES \nBy the end of this section, you will be able to: \n• Interpret production possibilities frontier graphs \n• Contrast a budget constraint and a production possibilities frontier \n• Explain the relationship between a production possibilities frontier and the law of diminishing returns \n• Contrast productive efficiency and allocative efficiency \n• Define comparative advantage \nJust as individuals cannot have everything they want and must instead make choices, society as a whole \ncannot have everything it might want, either. This section of the chapter will explain the constraints society \nfaces, using a model called the production possibilities frontier (PPF). There are more similarities than \ndifferences between individual choice and social choice. As you read this section, focus on the similarities. \nBecause society has limited resources (e.g., labor, land, capital, raw materials) at any point in time, there is a \nlimit to the quantities of goods and services it can produce. Suppose a society desires two products, healthcare \nand education. The production possibilities frontier in Figure 2.3 illustrates this situation. \nFIGURE 2.3 A Healthcare vs. Education Production Possibilities Frontier This production possibilities frontier \nshows a tradeoff between devoting social resources to healthcare and devoting them to education. At A all \nresources go to healthcare and at B, most go to healthcare. At D most resources go to education, and at F, all go to \neducation. \nFigure 2.3 shows healthcare on the vertical axis and education on the horizontal axis. If the society were to \nallocate all of its resources to healthcare, it could produce at point A. However, it would not have any resources \nto produce education. If it were to allocate all of its resources to education, it could produce at point F. \nAlternatively, the society could choose to produce any combination of healthcare and education on the \nproduction possibilities frontier. In effect, the production possibilities frontier plays the same role for society \nas the budget constraint plays for Alphonso. Society can choose any combination of the two goods on or inside \nthe PPF. However, it does not have enough resources to produce outside the PPF. \nMost importantly, the production possibilities frontier clearly shows the tradeoff between healthcare and \neducation. Suppose society has chosen to operate at point B, and it is considering producing more education. \nBecause the PPF is downward sloping from left to right, the only way society can obtain more education is by \ngiving up some healthcare. That is the tradeoff society faces. Suppose it considers moving from point B to \npoint C. What would the opportunity cost be for the additional education? The opportunity cost would be the \nhealthcare society has to forgo. Just as with Alphonso’s budget constraint, the slope of the production \npossibilities frontier shows the opportunity cost. By now you might be saying, “Hey, this PPF is sounding like \nthe budget constraint.” If so, read the following Clear It Up feature. \n34     2 • Choice in a World of Scarcity\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 36,
+      "original_pdf_page": 60,
+      "text": "PPF are wasteful. Over time, a growing economy will tend to shift the PPF outwards. \nThe law of diminishing returns holds that as increments of additional resources are devoted to producing \nsomething, the marginal increase in output will become increasingly smaller. All choices along a production \npossibilities frontier display productive efficiency; that is, it is impossible to use society’s resources to produce \nmore of one good without decreasing production of the other good. The specific choice along a production \npossibilities frontier that reflects the mix of goods society prefers is the choice with allocative efficiency. The \ncurvature of the PPF is likely to differ by country, which results in different countries having comparative \nadvantage in different goods. Total production can increase if countries specialize in the goods in which they \nhave comparative advantage and trade some of their production for the remaining goods. \n2.3 Confronting Objections to the Economic Approach \nThe economic way of thinking provides a useful approach to understanding human behavior. Economists \nmake the careful distinction between positive statements, which describe the world as it is, and normative \nstatements, which describe how the world should be. Even when economics analyzes the gains and losses from \nvarious events or policies, and thus draws normative conclusions about how the world should be, the analysis \nof economics is rooted in a positive analysis of how people, firms, and governments actually behave, not how \nthey should behave. \nSelf-Check Questions \n1 . Suppose Alphonso’s town raised the price of bus tickets from $0.50 per trip to $1 per trip (while the price \nof burgers stayed at $2 and his budget remained $10 per week.) Draw Alphonso’s new budget constraint. \nWhat happens to the opportunity cost of bus tickets? \n2 . Return to the example in Figure 2.4. Suppose there is an improvement in medical technology that enables \nmore healthcare with the same amount of resources. How would this affect the production possibilities \ncurve and, in particular, how would it affect the opportunity cost of education? \n3 . Could a nation be producing in a way that is allocatively efficient, but productively inefficient? \n4 . What are the similarities between a consumer’s budget constraint and society’s production possibilities \nfrontier, not just graphically but analytically? \n5 . Individuals may not act in the rational, calculating way described by the economic model of decision \nmaking, measuring utility and costs at the margin, but can you make a case that they behave \napproximately that way? \n6 . Would an op-ed piece in a newspaper urging the adoption of a particular economic policy be a positive or \nnormative statement? \n7 . Would a research study on the effects of soft drink consumption on children’s cognitive development be a \npositive or normative statement? \nReview Questions \n8 . Explain why scarcity leads to tradeoffs. \n9 . Explain why individuals make choices that are directly on the budget constraint, rather than inside the \nbudget constraint or outside it. \n10 . What is comparative advantage? \n11 . What does a production possibilities frontier illustrate? \n12 . Why is a production possibilities frontier typically drawn as a curve, rather than a straight line? \n13 . Explain why societies cannot make a choice above their production possibilities frontier and should not \n44     2 • Self-Check Questions\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 35,
+      "original_pdf_page": 59,
+      "text": "Key Terms \nallocative efficiency when the mix of goods produced represents the mix that society most desires \nbudget constraint all possible consumption combinations of goods that someone can afford, given the prices \nof goods, when all income is spent; the boundary of the opportunity set \ncomparative advantage when a country can produce a good at a lower cost in terms of other goods; or, when a \ncountry has a lower opportunity cost of production \ninvisible hand Adam Smith's concept that individuals' self-interested behavior can lead to positive social \noutcomes \nlaw of diminishing marginal utility as we consume more of a good or service, the utility we get from \nadditional units of the good or service tends to become smaller than what we received from earlier units \nlaw of diminishing returns as we add additional increments of resources to producing a good or service, the \nmarginal benefit from those additional increments will decline \nmarginal analysis examination of decisions on the margin, meaning a little more or a little less from the \nstatus quo \nnormative statement statement which describes how the world should be \nopportunity cost measures cost by what we give up/forfeit in exchange; opportunity cost measures the value \nof the forgone alternative \nopportunity set all possible combinations of consumption that someone can afford given the prices of goods \nand the individual’s income \npositive statement statement which describes the world as it is \nproduction possibilities frontier (PPF) a diagram that shows the productively efficient combinations of two \nproducts that an economy can produce given the resources it has available. \nproductive efficiency when it is impossible to produce more of one good (or service) without decreasing the \nquantity produced of another good (or service) \nsunk costs costs that we make in the past that we cannot recover \nutility satisfaction, usefulness, or value one obtains from consuming goods and services \nKey Concepts and Summary \n2.1 How Individuals Make Choices Based on Their Budget Constraint \nEconomists see the real world as one of scarcity: that is, a world in which people’s desires exceed what is \npossible. As a result, economic behavior involves tradeoffs in which individuals, firms, and society must forgo \nsomething that they desire to obtain things that they desire more. Individuals face the tradeoff of what \nquantities of goods and services to consume. The budget constraint, which is the frontier of the opportunity \nset, illustrates the range of available choices. The relative price of the choices determines the slope of the \nbudget constraint. Choices beyond the budget constraint are not affordable. \nOpportunity cost measures cost by what we forgo in exchange. Sometimes we can measure opportunity cost in \nmoney, but it is often useful to consider time as well, or to measure it in terms of the actual resources that we \nmust forfeit. \nMost economic decisions and tradeoffs are not all-or-nothing. Instead, they involve marginal analysis, which \nmeans they are about decisions on the margin, involving a little more or a little less. The law of diminishing \nmarginal utility points out that as a person receives more of something—whether it is a specific good or \nanother resource—the additional marginal gains tend to become smaller. Because sunk costs occurred in the \npast and cannot be recovered, they should be disregarded in making current decisions. \n2.2 The Production Possibilities Frontier and Social Choices \nA production possibilities frontier defines the set of choices society faces for the combinations of goods and \nservices it can produce given the resources and the technology that are available. The shape of the PPF is \ntypically curved outward, rather than straight. Choices outside the PPF are unattainable and choices inside the \n2 • Key Terms     43\n"
+    }
+  ],
+  "retrieval_queries": [
+    "Figure 2.2 The Budget Constraint Alphonso’s Consumption Choice Opportunity Frontier point C bus tickets burgers",
+    "\"The Budget Constraint: Alphonso’s Consumption Choice Opportunity Frontier\" Figure 2.2 point C",
+    "Alphonso point C bus tickets burgers budget constraint figure 2.2"
+  ],
+  "ranked_pages": [
+    [
+      21,
+      1.0908301523556092
+    ],
+    [
+      22,
+      1.046875
+    ],
+    [
+      20,
+      1.0464948017542688
+    ],
+    [
+      26,
+      0.08785301183831071
+    ],
+    [
+      36,
+      0.08639454552498031
+    ],
+    [
+      35,
+      0.06604587900362548
+    ],
+    [
+      25,
+      0.06022144399753508
+    ],
+    [
+      24,
+      0.056348625574631765
+    ],
+    [
+      23,
+      0.044425019425019426
+    ],
+    [
+      27,
+      0.04404202995752292
+    ],
+    [
+      37,
+      0.04311675689450307
+    ],
+    [
+      32,
+      0.04273903417739034
+    ],
+    [
+      29,
+      0.03965842123736861
+    ],
+    [
+      28,
+      0.03864490772385509
+    ],
+    [
+      33,
+      0.03813696851671535
+    ],
+    [
+      19,
+      0.025
+    ]
+  ],
+  "status": "success",
+  "calls": [
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": "Search this economics textbook to answer in Vietnamese: Quan sát Hình 2.2 \"The Budget Constraint: Alphonso’s Consumption Choice Opportunity Frontier\". Tại điểm C trên đường ngân sách, Alphonso mua bao nhiêu vé xe buýt và bao nhiêu chiếc burger?"
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "search_book",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_0989dab25b8fc64e016af83655091087d28573ba6fccc2010d",
+        "object": "response",
+        "created_at": 1794651733,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651733,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_0989dab25b8fc64e016af83655652887d286793e50dd603ba7",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"queries\":[\"Figure 2.2 The Budget Constraint Alphonso’s Consumption Choice Opportunity Frontier point C bus tickets burgers\", \"\\\"The Budget Constraint: Alphonso’s Consumption Choice Opportunity Frontier\\\" Figure 2.2 point C\", \"Alphonso point C bus tickets burgers budget constraint figure 2.2\"]}",
+            "call_id": "call_uHvMq0bWa540Wa2aOjAwGrcY",
+            "name": "search_book"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "name": "search_book",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 189,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 76,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 265
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.0781834999943385
+    },
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": [
+              {
+                "type": "input_text",
+                "text": "Answer the question using ONLY supplied source evidence, in Vietnamese. Cite [page N] and Figure/Table ID for all claims. No external facts. If date/place/condition absent, choose abstain with no guessed values. Quan sát Hình 2.2 \"The Budget Constraint: Alphonso’s Consumption Choice Opportunity Frontier\". Tại điểm C trên đường ngân sách, Alphonso mua bao nhiêu vé xe buýt và bao nhiêu chiếc burger?\nSOURCE_CONTEXT:[{\"page\": 21, \"original_pdf_page\": 45, \"text\": \"FIGURE 2.2 The Budget Constraint: Alphonso’s Consumption Choice Opportunity Frontier Each point on the \\nbudget constraint represents a combination of burgers and bus tickets whose total cost adds up to Alphonso’s \\nbudget of $10. The relative price of burgers and bus tickets determines the slope of the budget constraint. All along \\nthe budget set, giving up one burger means gaining four bus tickets. \\nThe vertical axis in the figure shows burger purchases and the horizontal axis shows bus ticket purchases. If \\nAlphonso spends all his money on burgers, he can afford five per week. ($10 per week/$2 per burger = 5 \\nburgers per week.) However, if he does this, he will not be able to afford any bus tickets. Point A in the figure \\nshows the choice (zero bus tickets and five burgers). Alternatively, if Alphonso spends all his money on bus \\ntickets, he can afford 20 per week. ($10 per week/$0.50 per bus ticket = 20 bus tickets per week.) Then, \\nhowever, he will not be able to afford any burgers. Point F shows this alternative choice (20 bus tickets and zero \\nburgers). \\nIf we connect all the points between A and F, we get Alphonso's budget constraint. This indicates all the \\ncombination of burgers and bus tickets Alphonso can afford, given the price of the two goods and his budget \\namount. \\nIf Alphonso is like most people, he will choose some combination that includes both bus tickets and burgers. \\nThat is, he will choose some combination on the budget constraint that is between points A and F. Every point \\non (or inside) the constraint shows a combination of burgers and bus tickets that Alphonso can afford. Any \\npoint outside the constraint is not affordable, because it would cost more money than Alphonso has in his \\nbudget. \\nThe budget constraint clearly shows the tradeoff Alphonso faces in choosing between burgers and bus tickets. \\nSuppose he is currently at point D, where he can afford 12 bus tickets and two burgers. What would it cost \\nAlphonso for one more burger? It would be natural to answer $2, but that’s not the way economists think. \\nInstead they ask, how many bus tickets would Alphonso have to give up to get one more burger, while staying \\nwithin his budget? Since bus tickets cost 50 cents, Alphonso would have to give up four to afford one more \\nburger. That is the true cost to Alphonso. \\nThe Concept of Opportunity Cost \\nEconomists use the term opportunity cost to indicate what people must give up to obtain what they desire. \\nThe idea behind opportunity cost is that the cost of one item is the lost opportunity to do or consume \\nsomething else. In short, opportunity cost is the value of the next best alternative. For Alphonso, the \\nopportunity cost of a burger is the four bus tickets he would have to give up. He would decide whether or not to \\nchoose the burger depending on whether the value of the burger exceeds the value of the forgone \\nalternative—in this case, bus tickets. Since people must choose, they inevitably face tradeoffs in which they \\nhave to give up things they desire to obtain other things they desire more. \\nLINK IT UP \\nView this website (https://openstax.org/l/linestanding) for an example of opportunity cost—paying someone \\nelse to wait in line for you. \\n2.1 • How Individuals Make Choices Based on Their Budget Constraint     29\\n\"}, {\"page\": 22, \"original_pdf_page\": 46, \"text\": \"A fundamental principle of economics is that every choice has an opportunity cost. If you sleep through your \\neconomics class, the opportunity cost is the learning you miss from not attending class. If you spend your \\nincome on video games, you cannot spend it on movies. If you choose to marry one person, you give up the \\nopportunity to marry anyone else. In short, opportunity cost is all around us and part of human existence. \\nThe following Work It Out feature shows a step-by-step analysis of a budget constraint calculation. Read \\nthrough it to understand another important concept—slope—that we further explain in the appendix The Use \\nof Mathematics in Principles of Economics. \\nUnderstanding Budget Constraints \\nBudget constraints are easy to understand if you apply a little math. The appendix The Use of Mathematics in \\nPrinciples of Economics explains all the math you are likely to need in this book. Therefore, if math is not your \\nstrength, you might want to take a look at the appendix. \\nStep 1: The equation for any budget constraint is: \\nwhere P and Q are the price and quantity of items purchased (which we assume here to be two items) and \\nBudget is the amount of income one has to spend. \\nStep 2. Apply the budget constraint equation to the scenario. In Alphonso’s case, this works out to be: \\nStep 3. Using a little algebra, we can turn this into the familiar equation of a line: \\nFor Alphonso, this is: \\nStep 4. Simplify the equation. Begin by multiplying both sides of the equation by 2: \\nStep 5. Subtract one bus ticket from both sides: \\nDivide each side by 4 to yield the answer: \\nStep 6. Notice that this equation fits the budget constraint in Figure 2.2. The vertical intercept is 5 and the slope \\nis –0.25, just as the equation says. If you plug 20 bus tickets into the equation, you get 0 burgers. If you plug \\nother numbers of bus tickets into the equation, you get the results (see Table 2.1), which are the points on \\nAlphonso’s budget constraint. \\nWORK IT OUT \\n30     2 • Choice in a World of Scarcity\\nAccess for free at openstax.org\\n\"}, {\"page\": 20, \"original_pdf_page\": 44, \"text\": \"median weekly earnings for full-time workers aged 25 and over with just a bachelor’s degree: $1,305 weekly and \\n$67,860 a year. What about those with no higher than a high school diploma in 2020? They earn an average of just \\n$781 weekly and $40,612 over 12 months. In other words, data from the BLS indicates that receiving a bachelor’s \\ndegree boosts earnings by 67% over what workers would have earned if they only obtained a high school diploma, \\nand a master’s degree yields average earnings that are nearly double those of workers with a high school diploma. \\nGiven these statistics, we might expect many people to choose to go to college and at least earn a bachelor’s \\ndegree. Assuming that people want to improve their material well-being, it seems like they would make those \\nchoices that provide them with the greatest opportunity to consume goods and services. As it turns out, the analysis \\nis not nearly as simple as this. In fact, in 2019, the BLS reported that while just over 90% of the population aged 25 \\nand over in the United States had a high school diploma, only 36% of those aged 25 and over had a bachelor's or \\nhigher degree, and only 13.5% had earned a master's or higher degree. \\nThis brings us to the subject of this chapter: why people make the choices they make and how economists explain \\nthose choices. \\nYou will learn quickly when you examine the relationship between economics and scarcity that choices involve \\ntradeoffs. Every choice has a cost. \\nIn 1968, the Rolling Stones recorded “You Can’t Always Get What You Want.” Economists chuckled, because \\nthey had been singing a similar tune for decades. English economist Lionel Robbins (1898–1984), in his Essay \\non the Nature and Significance of Economic Science in 1932, described not always getting what you want in \\nthis way: \\nThe time at our disposal is limited. There are only twenty-four hours in the day. We have to choose \\nbetween the different uses to which they may be put. ... Everywhere we turn, if we choose one thing we \\nmust relinquish others which, in different circumstances, we would wish not to have relinquished. \\nScarcity of means to satisfy given ends is an almost ubiquitous condition of human nature. \\nBecause people live in a world of scarcity, they cannot have all the time, money, possessions, and experiences \\nthey wish. Neither can society. \\nThis chapter will continue our discussion of scarcity and the economic way of thinking by first introducing \\nthree critical concepts: opportunity cost, marginal decision making, and diminishing returns. Later, it will \\nconsider whether the economic way of thinking accurately describes either how we make choices and how we \\nshould make them. \\n2.1 How Individuals Make Choices Based on Their Budget Constraint \\nLEARNING OBJECTIVES \\nBy the end of this section, you will be able to: \\n• Calculate and graph budget constraints \\n• Explain opportunity sets and opportunity costs \\n• Evaluate the law of diminishing marginal utility \\n• Explain how marginal analysis and utility influence choices \\nConsider the typical consumer’s budget problem. Consumers have a limited amount of income to spend on the \\nthings they need and want. Suppose Alphonso has $10 in spending money each week that he can allocate \\nbetween bus tickets for getting to work and the burgers that he eats for lunch. Burgers cost $2 each, and bus \\ntickets are 50 cents each. We can see Alphonso's budget problem in Figure 2.2. \\n28     2 • Choice in a World of Scarcity\\nAccess for free at openstax.org\\n\"}, {\"page\": 26, \"original_pdf_page\": 50, \"text\": \"2.2 The Production Possibilities Frontier and Social Choices \\nLEARNING OBJECTIVES \\nBy the end of this section, you will be able to: \\n• Interpret production possibilities frontier graphs \\n• Contrast a budget constraint and a production possibilities frontier \\n• Explain the relationship between a production possibilities frontier and the law of diminishing returns \\n• Contrast productive efficiency and allocative efficiency \\n• Define comparative advantage \\nJust as individuals cannot have everything they want and must instead make choices, society as a whole \\ncannot have everything it might want, either. This section of the chapter will explain the constraints society \\nfaces, using a model called the production possibilities frontier (PPF). There are more similarities than \\ndifferences between individual choice and social choice. As you read this section, focus on the similarities. \\nBecause society has limited resources (e.g., labor, land, capital, raw materials) at any point in time, there is a \\nlimit to the quantities of goods and services it can produce. Suppose a society desires two products, healthcare \\nand education. The production possibilities frontier in Figure 2.3 illustrates this situation. \\nFIGURE 2.3 A Healthcare vs. Education Production Possibilities Frontier This production possibilities frontier \\nshows a tradeoff between devoting social resources to healthcare and devoting them to education. At A all \\nresources go to healthcare and at B, most go to healthcare. At D most resources go to education, and at F, all go to \\neducation. \\nFigure 2.3 shows healthcare on the vertical axis and education on the horizontal axis. If the society were to \\nallocate all of its resources to healthcare, it could produce at point A. However, it would not have any resources \\nto produce education. If it were to allocate all of its resources to education, it could produce at point F. \\nAlternatively, the society could choose to produce any combination of healthcare and education on the \\nproduction possibilities frontier. In effect, the production possibilities frontier plays the same role for society \\nas the budget constraint plays for Alphonso. Society can choose any combination of the two goods on or inside \\nthe PPF. However, it does not have enough resources to produce outside the PPF. \\nMost importantly, the production possibilities frontier clearly shows the tradeoff between healthcare and \\neducation. Suppose society has chosen to operate at point B, and it is considering producing more education. \\nBecause the PPF is downward sloping from left to right, the only way society can obtain more education is by \\ngiving up some healthcare. That is the tradeoff society faces. Suppose it considers moving from point B to \\npoint C. What would the opportunity cost be for the additional education? The opportunity cost would be the \\nhealthcare society has to forgo. Just as with Alphonso’s budget constraint, the slope of the production \\npossibilities frontier shows the opportunity cost. By now you might be saying, “Hey, this PPF is sounding like \\nthe budget constraint.” If so, read the following Clear It Up feature. \\n34     2 • Choice in a World of Scarcity\\nAccess for free at openstax.org\\n\"}, {\"page\": 36, \"original_pdf_page\": 60, \"text\": \"PPF are wasteful. Over time, a growing economy will tend to shift the PPF outwards. \\nThe law of diminishing returns holds that as increments of additional resources are devoted to producing \\nsomething, the marginal increase in output will become increasingly smaller. All choices along a production \\npossibilities frontier display productive efficiency; that is, it is impossible to use society’s resources to produce \\nmore of one good without decreasing production of the other good. The specific choice along a production \\npossibilities frontier that reflects the mix of goods society prefers is the choice with allocative efficiency. The \\ncurvature of the PPF is likely to differ by country, which results in different countries having comparative \\nadvantage in different goods. Total production can increase if countries specialize in the goods in which they \\nhave comparative advantage and trade some of their production for the remaining goods. \\n2.3 Confronting Objections to the Economic Approach \\nThe economic way of thinking provides a useful approach to understanding human behavior. Economists \\nmake the careful distinction between positive statements, which describe the world as it is, and normative \\nstatements, which describe how the world should be. Even when economics analyzes the gains and losses from \\nvarious events or policies, and thus draws normative conclusions about how the world should be, the analysis \\nof economics is rooted in a positive analysis of how people, firms, and governments actually behave, not how \\nthey should behave. \\nSelf-Check Questions \\n1 . Suppose Alphonso’s town raised the price of bus tickets from $0.50 per trip to $1 per trip (while the price \\nof burgers stayed at $2 and his budget remained $10 per week.) Draw Alphonso’s new budget constraint. \\nWhat happens to the opportunity cost of bus tickets? \\n2 . Return to the example in Figure 2.4. Suppose there is an improvement in medical technology that enables \\nmore healthcare with the same amount of resources. How would this affect the production possibilities \\ncurve and, in particular, how would it affect the opportunity cost of education? \\n3 . Could a nation be producing in a way that is allocatively efficient, but productively inefficient? \\n4 . What are the similarities between a consumer’s budget constraint and society’s production possibilities \\nfrontier, not just graphically but analytically? \\n5 . Individuals may not act in the rational, calculating way described by the economic model of decision \\nmaking, measuring utility and costs at the margin, but can you make a case that they behave \\napproximately that way? \\n6 . Would an op-ed piece in a newspaper urging the adoption of a particular economic policy be a positive or \\nnormative statement? \\n7 . Would a research study on the effects of soft drink consumption on children’s cognitive development be a \\npositive or normative statement? \\nReview Questions \\n8 . Explain why scarcity leads to tradeoffs. \\n9 . Explain why individuals make choices that are directly on the budget constraint, rather than inside the \\nbudget constraint or outside it. \\n10 . What is comparative advantage? \\n11 . What does a production possibilities frontier illustrate? \\n12 . Why is a production possibilities frontier typically drawn as a curve, rather than a straight line? \\n13 . Explain why societies cannot make a choice above their production possibilities frontier and should not \\n44     2 • Self-Check Questions\\nAccess for free at openstax.org\\n\"}, {\"page\": 35, \"original_pdf_page\": 59, \"text\": \"Key Terms \\nallocative efficiency when the mix of goods produced represents the mix that society most desires \\nbudget constraint all possible consumption combinations of goods that someone can afford, given the prices \\nof goods, when all income is spent; the boundary of the opportunity set \\ncomparative advantage when a country can produce a good at a lower cost in terms of other goods; or, when a \\ncountry has a lower opportunity cost of production \\ninvisible hand Adam Smith's concept that individuals' self-interested behavior can lead to positive social \\noutcomes \\nlaw of diminishing marginal utility as we consume more of a good or service, the utility we get from \\nadditional units of the good or service tends to become smaller than what we received from earlier units \\nlaw of diminishing returns as we add additional increments of resources to producing a good or service, the \\nmarginal benefit from those additional increments will decline \\nmarginal analysis examination of decisions on the margin, meaning a little more or a little less from the \\nstatus quo \\nnormative statement statement which describes how the world should be \\nopportunity cost measures cost by what we give up/forfeit in exchange; opportunity cost measures the value \\nof the forgone alternative \\nopportunity set all possible combinations of consumption that someone can afford given the prices of goods \\nand the individual’s income \\npositive statement statement which describes the world as it is \\nproduction possibilities frontier (PPF) a diagram that shows the productively efficient combinations of two \\nproducts that an economy can produce given the resources it has available. \\nproductive efficiency when it is impossible to produce more of one good (or service) without decreasing the \\nquantity produced of another good (or service) \\nsunk costs costs that we make in the past that we cannot recover \\nutility satisfaction, usefulness, or value one obtains from consuming goods and services \\nKey Concepts and Summary \\n2.1 How Individuals Make Choices Based on Their Budget Constraint \\nEconomists see the real world as one of scarcity: that is, a world in which people’s desires exceed what is \\npossible. As a result, economic behavior involves tradeoffs in which individuals, firms, and society must forgo \\nsomething that they desire to obtain things that they desire more. Individuals face the tradeoff of what \\nquantities of goods and services to consume. The budget constraint, which is the frontier of the opportunity \\nset, illustrates the range of available choices. The relative price of the choices determines the slope of the \\nbudget constraint. Choices beyond the budget constraint are not affordable. \\nOpportunity cost measures cost by what we forgo in exchange. Sometimes we can measure opportunity cost in \\nmoney, but it is often useful to consider time as well, or to measure it in terms of the actual resources that we \\nmust forfeit. \\nMost economic decisions and tradeoffs are not all-or-nothing. Instead, they involve marginal analysis, which \\nmeans they are about decisions on the margin, involving a little more or a little less. The law of diminishing \\nmarginal utility points out that as a person receives more of something—whether it is a specific good or \\nanother resource—the additional marginal gains tend to become smaller. Because sunk costs occurred in the \\npast and cannot be recovered, they should be disregarded in making current decisions. \\n2.2 The Production Possibilities Frontier and Social Choices \\nA production possibilities frontier defines the set of choices society faces for the combinations of goods and \\nservices it can produce given the resources and the technology that are available. The shape of the PPF is \\ntypically curved outward, rather than straight. Choices outside the PPF are unattainable and choices inside the \\n2 • Key Terms     43\\n\"}]"
+              }
+            ]
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "finish",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_005abd902c666f7a016af83656351087d2a35bde1adcd27652",
+        "object": "response",
+        "created_at": 1794651734,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651735,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_005abd902c666f7a016af83656c24c87d2ad03fb815ebc7430",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"status\":\"answered\",\"answer\":\"Tại điểm C trên Hình 2.2, Alphonso mua 8 vé xe buýt và 3 chiếc burger [page 21, Figure 2.2].\",\"pages\":[21]}",
+            "call_id": "call_RH3y4ONPNdkKBuIdjGX8Ej36",
+            "name": "finish"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "name": "finish",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 4609,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 61,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 4670
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.5246953000023495
+    }
+  ],
+  "usage": {
+    "model_calls": 2,
+    "input_tokens": 4798,
+    "cached_input_tokens": 0,
+    "output_tokens": 137,
+    "estimated_api_cost_usd": 0.004215,
+    "cost_note": "Estimate from published standard GPT-5.4-mini token rates, verified 2026-11-14; actual bill may differ. Unknown model/endpoint rates are not assumed zero.",
+    "pricing_source": "https://developers.openai.com/api/docs/models/gpt-5.4-mini"
+  },
+  "seconds": 2.6272353999956977
+}

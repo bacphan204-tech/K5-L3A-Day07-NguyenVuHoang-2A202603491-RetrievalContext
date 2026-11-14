@@ -1,0 +1,505 @@
+{
+  "id": "adv-dev-diagram-03",
+  "question": "Quan sát Hình 28.7 ở phần “The Pathways of Monetary Policy”, trong sơ đồ (a) về chính sách tiền tệ mở rộng, chuỗi tác động nào được thể hiện từ ô đầu tiên đến ô cuối cùng?",
+  "vision": false,
+  "final": {
+    "status": "answered",
+    "answer": "Sơ đồ (a) ở Hình 28.7 thể hiện chuỗi tác động của chính sách tiền tệ mở rộng như sau: ngân hàng trung ương làm tăng cung tiền và quỹ cho vay, điều này làm giảm lãi suất, kích thích vay mượn thêm cho đầu tư và tiêu dùng, rồi làm dịch chuyển tổng cầu sang phải; kết quả là mức giá cao hơn và, ít nhất trong ngắn hạn, GDP thực cao hơn [page 120, Figure 28.7].",
+    "pages": [
+      120
+    ]
+  },
+  "context": [
+    {
+      "page": 120,
+      "original_pdf_page": 697,
+      "text": "equilibrium (E1) at the potential GDP level of output. \nConversely, if an economy is producing at a quantity of output above its potential GDP, a contractionary \nmonetary policy can reduce the inflationary pressures for a rising price level. In Figure 28.6 (b), the original \nequilibrium (E0) occurs at an output of 750, which is above potential GDP. A contractionary monetary policy \nwill raise interest rates, discourage borrowing for investment and consumption spending, and cause the \noriginal demand curve (AD0) to shift left to AD1, so that the new equilibrium (E1) occurs at the potential GDP \nlevel of 700. \nThese examples suggest that monetary policy should be countercyclical; that is, it should act to \ncounterbalance the business cycles of economic downturns and upswings. The Fed should loosen monetary \npolicy when a recession has caused unemployment to increase and tighten it when inflation threatens. Of \ncourse, countercyclical policy does pose a danger of overreaction. If loose monetary policy seeking to end a \nrecession goes too far, it may push aggregate demand so far to the right that it triggers inflation. If tight \nmonetary policy seeking to reduce inflation goes too far, it may push aggregate demand so far to the left that a \nrecession begins. Figure 28.7 (a) summarizes the chain of effects that connect loose and tight monetary policy \nto changes in output and the price level. \nFIGURE 28.7 The Pathways of Monetary Policy (a) In expansionary monetary policy the central bank causes the \nsupply of money and loanable funds to increase, which lowers the interest rate, stimulating additional borrowing for \ninvestment and consumption, and shifting aggregate demand right. The result is a higher price level and, at least in \nthe short run, higher real GDP. (b) In contractionary monetary policy, the central bank causes the supply of money \nand credit in the economy to decrease, which raises the interest rate, discouraging borrowing for investment and \nconsumption, and shifting aggregate demand left. The result is a lower price level and, at least in the short run, \nlower real GDP. \nFederal Reserve Actions Over Last Four Decades \nFor the period from 1970 through 2020, we can summarize Federal Reserve monetary policy by looking at how \nit targeted the federal funds interest rate using open market operations. \nOf course, telling the story of the U.S. economy since 1970 in terms of Federal Reserve actions leaves out many \nother macroeconomic factors that were influencing unemployment, recession, economic growth, and inflation \nover this time. The ten episodes of Federal Reserve action outlined in the sections below also demonstrate that \nwe should consider the central bank as one of the leading actors influencing the macro economy. As we noted \nearlier, the single person with the greatest power to influence the U.S. economy is probably the Federal Reserve \nchairperson. \nFigure 28.8 shows how the Federal Reserve has carried out monetary policy by targeting the federal funds \ninterest rate in the last few decades. The graph shows the federal funds interest rate (remember, this interest \nrate is set through open market operations), the unemployment rate, and the inflation rate since 1970. \nDifferent episodes of monetary policy during this period are indicated in the figure. \n28.4 • Monetary Policy and Economic Outcomes     681\n"
+    },
+    {
+      "page": 119,
+      "original_pdf_page": 696,
+      "text": "1995, established its target federal funds rate in advance of any open market operations. \nOf course, financial markets display a wide range of interest rates, representing borrowers with different risk \npremiums and loans that they must repay over different periods of time. In general, when the federal funds \nrate drops substantially, other interest rates drop, too, and when the federal funds rate rises, other interest \nrates rise. However, a fall or rise of one percentage point in the federal funds rate—which remember is for \nborrowing overnight—will typically have an effect of less than one percentage point on a 30-year loan to \npurchase a house or a three-year loan to purchase a car. Monetary policy can push the entire spectrum of \ninterest rates higher or lower, but the forces of supply and demand in those specific markets for lending and \nborrowing set the specific interest rates. \nThe Effect of Monetary Policy on Aggregate Demand \nMonetary policy affects interest rates and the available quantity of loanable funds, which in turn affects several \ncomponents of aggregate demand. Tight or contractionary monetary policy that leads to higher interest rates \nand a reduced quantity of loanable funds will reduce two components of aggregate demand. Business \ninvestment will decline because it is less attractive for firms to borrow money, and even firms that have money \nwill notice that, with higher interest rates, it is relatively more attractive to put those funds in a financial \ninvestment than to make an investment in physical capital. In addition, higher interest rates will discourage \nconsumer borrowing for big-ticket items like houses and cars. Conversely, loose or expansionary monetary \npolicy that leads to lower interest rates and a higher quantity of loanable funds will tend to increase business \ninvestment and consumer borrowing for big-ticket items. \nIf the economy is suffering a recession and high unemployment, with output below potential GDP, \nexpansionary monetary policy can help the economy return to potential GDP. Figure 28.6 (a) illustrates this \nsituation. This example uses a short-run upward-sloping Keynesian aggregate supply curve (SRAS). The \noriginal equilibrium during a recession of E0 occurs at an output level of 600. An expansionary monetary \npolicy will reduce interest rates and stimulate investment and consumption spending, causing the original \naggregate demand curve (AD0) to shift right to AD1, so that the new equilibrium (E1) occurs at the potential \nGDP level of 700. \nFIGURE 28.6 Expansionary or Contractionary Monetary Policy (a) The economy is originally in a recession with the \nequilibrium output and price shown at E0. Expansionary monetary policy will reduce interest rates and shift \naggregate demand to the right from AD0 to AD1, leading to the new equilibrium (E1) at the potential GDP level of \noutput with a relatively small rise in the price level. (b) The economy is originally producing above the potential GDP \nlevel of output at the equilibrium E0 and is experiencing pressures for an inflationary rise in the price level. \nContractionary monetary policy will shift aggregate demand to the left from AD0 to AD1, thus leading to a new \n680     28 • Monetary Policy and Bank Regulation\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 118,
+      "original_pdf_page": 686,
+      "text": "Figure 28.3 shows the Federal Reserve districts and the cities where their regional headquarters are located. \nThe commercial banks in each district elect a Board of Directors for each regional Federal Reserve bank, and \nthat board chooses a president for each regional Federal Reserve district. Thus, the Federal Reserve System \nincludes both federally and private-sector appointed leaders. \nFIGURE 28.3 The Twelve Federal Reserve Districts There are twelve regional Federal Reserve banks, each with its \ndistrict. \nWhat Does a Central Bank Do? \nThe Federal Reserve, like most central banks, is designed to perform three important functions: \n1. To conduct monetary policy \n2. To promote stability of the financial system \n3. To provide banking services to commercial banks and other depository institutions, and to provide \nbanking services to the federal government. \nThe first two functions are sufficiently important that we will discuss them in their own modules. The third \nfunction we will discuss here. \nThe Federal Reserve provides many of the same services to banks as banks provide to their customers. For \nexample, all commercial banks have an account at the Fed where they deposit reserves. Similarly, banks can \nobtain loans from the Fed through the “discount window” facility, which we will discuss in more detail later. \nThe Fed is also responsible for check processing. When you write a check, for example, to buy groceries, the \ngrocery store deposits the check in its bank account. Then, the grocery store's bank returns the physical check \n(or an image of that actual check) to your bank, after which it transfers funds from your bank account to the \ngrocery store's account. The Fed is responsible for each of these actions. \nOn a more mundane level, the Federal Reserve ensures that enough currency and coins are circulating \nthrough the financial system to meet public demands. For example, each year the Fed increases the amount of \ncurrency available in banks around the Christmas shopping season and reduces it again in January. \nFinally, the Fed is responsible for assuring that banks are in compliance with a wide variety of consumer \nprotection laws. For example, banks are forbidden from discriminating on the basis of age, race, sex, or marital \nstatus. Banks are also required to disclose publicly information about the loans they make for buying houses \nand how they distribute the loans geographically, as well as by sex and race of the loan applicants. \n670     28 • Monetary Policy and Bank Regulation\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 7,
+      "original_pdf_page": 31,
+      "text": "classmates, co-workers, or political candidates talking about economics, you will be able to distinguish \nbetween common sense and nonsense. You will find new ways of thinking about current events and about \npersonal and business decisions, as well as current events and politics. \nThe study of economics does not dictate the answers, but it can illuminate the different choices. \n1.2 Microeconomics and Macroeconomics \nLEARNING OBJECTIVES \nBy the end of this section, you will be able to: \n• Describe microeconomics \n• Describe macroeconomics \n• Contrast monetary policy and fiscal policy \nEconomics is concerned with the well-being of all people, including those with jobs and those without jobs, as \nwell as those with high incomes and those with low incomes. Economics acknowledges that production of \nuseful goods and services can create problems of environmental pollution. It explores the question of how \ninvesting in education helps to develop workers’ skills. It probes questions like how to tell when big businesses \nor big labor unions are operating in a way that benefits society as a whole and when they are operating in a way \nthat benefits their owners or members at the expense of others. It looks at how government spending, taxes, \nand regulations affect decisions about production and consumption. \nIt should be clear by now that economics covers considerable ground. We can divide that ground into two \nparts: Microeconomics focuses on the actions of individual agents within the economy, like households, \nworkers, and businesses. Macroeconomics looks at the economy as a whole. It focuses on broad issues such as \ngrowth of production, the number of unemployed people, the inflationary increase in prices, government \ndeficits, and levels of exports and imports. Microeconomics and macroeconomics are not separate subjects, \nbut rather complementary perspectives on the overall subject of the economy. \nTo understand why both microeconomic and macroeconomic perspectives are useful, consider the problem of \nstudying a biological ecosystem like a lake. One person who sets out to study the lake might focus on specific \ntopics: certain kinds of algae or plant life; the characteristics of particular fish or snails; or the trees \nsurrounding the lake. Another person might take an overall view and instead consider the lake's ecosystem \nfrom top to bottom; what eats what, how the system stays in a rough balance, and what environmental stresses \naffect this balance. Both approaches are useful, and both examine the same lake, but the viewpoints are \ndifferent. In a similar way, both microeconomics and macroeconomics study the same economy, but each has \na different viewpoint. \nWhether you are scrutinizing lakes or economics, the micro and the macro insights should blend with each \nother. In studying a lake, the micro insights about particular plants and animals help to understand the overall \nfood chain, while the macro insights about the overall food chain help to explain the environment in which \nindividual plants and animals live. \nIn economics, the micro decisions of individual businesses are influenced by whether the macroeconomy is \nhealthy. For example, firms will be more likely to hire workers if the overall economy is growing. In turn, \nmacroeconomy's performance ultimately depends on the microeconomic decisions that individual \nhouseholds and businesses make. \nMicroeconomics \nWhat determines how households and individuals spend their budgets? What combination of goods and \nservices will best fit their needs and wants, given the budget they have to spend? How do people decide \nwhether to work, and if so, whether to work full time or part time? How do people decide how much to save for \nthe future, or whether they should borrow to spend beyond their current means? \nWhat determines the products, and how many of each, a firm will produce and sell? What determines the \n1.2 • Microeconomics and Macroeconomics     15\n"
+    },
+    {
+      "page": 17,
+      "original_pdf_page": 41,
+      "text": "1.2 Microeconomics and Macroeconomics \nMicroeconomics and macroeconomics are two different perspectives on the economy. The microeconomic \nperspective focuses on parts of the economy: individuals, firms, and industries. The macroeconomic \nperspective looks at the economy as a whole, focusing on goals like growth in the standard of living, \nunemployment, and inflation. Macroeconomics has two types of policies for pursuing these goals: monetary \npolicy and fiscal policy. \n1.3 How Economists Use Theories and Models to Understand Economic Issues \nEconomists analyze problems differently than do other disciplinary experts. The main tools economists use \nare economic theories or models. A theory is not an illustration of the answer to a problem. Rather, a theory is a \ntool for determining the answer. \n1.4 How To Organize Economies: An Overview of Economic Systems \nWe can organize societies as traditional, command, or market-oriented economies. Most societies are a mix. \nThe last few decades have seen globalization evolve as a result of growth in commercial and financial networks \nthat cross national borders, making businesses and workers from different economies increasingly \ninterdependent. \nSelf-Check Questions \n1 . What is scarcity? Can you think of two causes of scarcity? \n2 . Residents of the town of Smithfield like to consume hams, but each ham requires 10 people to produce it \nand takes a month. If the town has a total of 100 people, what is the maximum amount of ham the \nresidents can consume in a month? \n3 . A consultant works for $200 per hour. She likes to eat vegetables, but is not very good at growing them. \nWhy does it make more economic sense for her to spend her time at the consulting job and shop for her \nvegetables? \n4 . A computer systems engineer could paint her house, but it makes more sense for her to hire a painter to \ndo it. Explain why. \n5 . What would be another example of a “system” in the real world that could serve as a metaphor for micro \nand macroeconomics? \n6 . Suppose we extend the circular flow model to add imports and exports. Copy the circular flow diagram \nonto a sheet of paper and then add a foreign country as a third agent. Draw a rough sketch of the flows of \nimports, exports, and the payments for each on your diagram. \n7 . What is an example of a problem in the world today, not mentioned in the chapter, that has an economic \ndimension? \n8 . The chapter defines private enterprise as a characteristic of market-oriented economies. What would \npublic enterprise be? Hint: It is a characteristic of command economies. \n9 . Why might Belgium, France, Italy, and Sweden have a higher export to GDP ratio than the United States? \nReview Questions \n10 . Give the three reasons that explain why the division of labor increases an economy’s level of production. \n11 . What are three reasons to study economics? \n12 . What is the difference between microeconomics and macroeconomics? \n13 . What are examples of individual economic agents? \n1 • Self-Check Questions     25\n"
+    },
+    {
+      "page": 14,
+      "original_pdf_page": 38,
+      "text": "ship in Figure 1.10, and air cargo have driven down transportation costs. Innovations in computing and \ntelecommunications have made it easier and cheaper to manage long-distance economic connections of \nproduction and sales. Many valuable products and services in the modern economy can take the form of \ninformation—for example: computer software; financial advice; travel planning; music, books and movies; and \nblueprints for designing a building. These products and many others can be transported over telephones and \ncomputer networks at ever-lower costs. Finally, international agreements and treaties between countries have \nencouraged greater trade. \nTable 1.2 presents one measure of globalization. It shows the percentage of domestic economic production \nthat was exported for a selection of countries from 2010 to 2015, according to an entity known as The World \nBank. Exports are the goods and services that one produces domestically and sells abroad. Imports are the \ngoods and services that one produces abroad and then sells domestically. Gross domestic product (GDP) \nmeasures the size of total production in an economy. Thus, the ratio of exports divided by GDP measures what \nshare of a country’s total economic production is sold in other countries. \nCountry \n2010 2011 2012 2013 2014 2015 \nHigher Income Countries \nUnited States 12.4 \n13.6 \n13.6 \n13.5 \n13.5 \n12.6 \nBelgium \n76.2 \n81.4 \n82.2 \n82.8 \n84.0 \n84.4 \nCanada \n29.1 \n30.7 \n30.0 \n30.1 \n31.7 \n31.5 \nFrance \n26.0 \n27.8 \n28.1 \n28.3 \n29.0 \n30.0 \nMiddle Income Countries \nChina \n29.4 \n28.5 \n27.3 \n26.4 \n23.9 \n22.4 \nBrazil \n10.9 \n11.9 \n12.6 \n12.6 \n11.2 \n13.0 \nMexico \n29.9 \n31.2 \n32.6 \n31.7 \n32.3 \n35.3 \nSouth Korea \n49.4 \n55.7 \n56.3 \n53.9 \n50.3 \n45.9 \nLower Income Countries \nChad \n36.8 \n38.9 \n36.9 \n32.2 \n34.2 \n29.8 \nIndia \n22.0 \n23.9 \n24.0 \n24.8 \n22.9 \n- \nNigeria \n25.3 \n31.3 \n31.4 \n18.0 \n18.4 \n- \nTABLE 1.2 The Extent of Globalization (exports/GDP) \n(Source: http://databank.worldbank.org/data/) \nIn recent decades, the export/GDP ratio has generally risen, both worldwide and for the U.S. economy. \nInterestingly, the share of U.S. exports in proportion to the U.S. economy is well below the global average, in \npart because large economies like the United States can contain more of the division of labor inside their \nnational borders. However, smaller economies like Belgium, Korea, and Canada need to trade across their \nborders with other countries to take full advantage of division of labor, specialization, and economies of scale. \nIn this sense, the enormous U.S. economy is less affected by globalization than most other countries. \n22     1 • Welcome to Economics!\nAccess for free at openstax.org\n"
+    }
+  ],
+  "retrieval_queries": [
+    "Figure 28.7 The Pathways of Monetary Policy expansionary monetary policy panel (a)",
+    "\"The Pathways of Monetary Policy\" Figure 28.7 expansionary monetary policy",
+    "economics textbook Figure 28.7 panel (a) expansionary monetary policy chain"
+  ],
+  "ranked_pages": [
+    [
+      120,
+      1.0960553278688525
+    ],
+    [
+      119,
+      0.09600614439324116
+    ],
+    [
+      118,
+      0.09160839160839161
+    ],
+    [
+      7,
+      0.056579115664530645
+    ],
+    [
+      17,
+      0.055958881442872505
+    ],
+    [
+      14,
+      0.043935253310910236
+    ],
+    [
+      8,
+      0.04391088038070517
+    ],
+    [
+      16,
+      0.043064182194616975
+    ],
+    [
+      23,
+      0.04132690882134915
+    ],
+    [
+      65,
+      0.04040803184638801
+    ],
+    [
+      36,
+      0.03934684684684685
+    ],
+    [
+      50,
+      0.02649122807017544
+    ],
+    [
+      54,
+      0.026144907723855092
+    ],
+    [
+      90,
+      0.025807525807525808
+    ],
+    [
+      9,
+      0.02548701298701299
+    ],
+    [
+      76,
+      0.025478740668614087
+    ],
+    [
+      20,
+      0.025158227848101268
+    ],
+    [
+      102,
+      0.0136986301369863
+    ],
+    [
+      60,
+      0.013513513513513514
+    ],
+    [
+      12,
+      0.013513513513513514
+    ],
+    [
+      57,
+      0.013333333333333334
+    ]
+  ],
+  "status": "success",
+  "calls": [
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": "Search this economics textbook to answer in Vietnamese: Quan sát Hình 28.7 ở phần “The Pathways of Monetary Policy”, trong sơ đồ (a) về chính sách tiền tệ mở rộng, chuỗi tác động nào được thể hiện từ ô đầu tiên đến ô cuối cùng?"
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "search_book",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_0262306bb70bf932016af83652322087d2a54eb9cad2f4b71c",
+        "object": "response",
+        "created_at": 1794651730,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651730,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_0262306bb70bf932016af83652883c87d284b3c488621be7ff",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"queries\":[\"Figure 28.7 The Pathways of Monetary Policy expansionary monetary policy panel (a)\", \"\\\"The Pathways of Monetary Policy\\\" Figure 28.7 expansionary monetary policy\", \"economics textbook Figure 28.7 panel (a) expansionary monetary policy chain\"]}",
+            "call_id": "call_OPQLjuF5HwBVjdjn4xhXaEC8",
+            "name": "search_book"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "name": "search_book",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 192,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 73,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 265
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.53495539999858
+    },
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": [
+              {
+                "type": "input_text",
+                "text": "Answer the question using ONLY supplied source evidence, in Vietnamese. Cite [page N] and Figure/Table ID for all claims. No external facts. If date/place/condition absent, choose abstain with no guessed values. Quan sát Hình 28.7 ở phần “The Pathways of Monetary Policy”, trong sơ đồ (a) về chính sách tiền tệ mở rộng, chuỗi tác động nào được thể hiện từ ô đầu tiên đến ô cuối cùng?\nSOURCE_CONTEXT:[{\"page\": 120, \"original_pdf_page\": 697, \"text\": \"equilibrium (E1) at the potential GDP level of output. \\nConversely, if an economy is producing at a quantity of output above its potential GDP, a contractionary \\nmonetary policy can reduce the inflationary pressures for a rising price level. In Figure 28.6 (b), the original \\nequilibrium (E0) occurs at an output of 750, which is above potential GDP. A contractionary monetary policy \\nwill raise interest rates, discourage borrowing for investment and consumption spending, and cause the \\noriginal demand curve (AD0) to shift left to AD1, so that the new equilibrium (E1) occurs at the potential GDP \\nlevel of 700. \\nThese examples suggest that monetary policy should be countercyclical; that is, it should act to \\ncounterbalance the business cycles of economic downturns and upswings. The Fed should loosen monetary \\npolicy when a recession has caused unemployment to increase and tighten it when inflation threatens. Of \\ncourse, countercyclical policy does pose a danger of overreaction. If loose monetary policy seeking to end a \\nrecession goes too far, it may push aggregate demand so far to the right that it triggers inflation. If tight \\nmonetary policy seeking to reduce inflation goes too far, it may push aggregate demand so far to the left that a \\nrecession begins. Figure 28.7 (a) summarizes the chain of effects that connect loose and tight monetary policy \\nto changes in output and the price level. \\nFIGURE 28.7 The Pathways of Monetary Policy (a) In expansionary monetary policy the central bank causes the \\nsupply of money and loanable funds to increase, which lowers the interest rate, stimulating additional borrowing for \\ninvestment and consumption, and shifting aggregate demand right. The result is a higher price level and, at least in \\nthe short run, higher real GDP. (b) In contractionary monetary policy, the central bank causes the supply of money \\nand credit in the economy to decrease, which raises the interest rate, discouraging borrowing for investment and \\nconsumption, and shifting aggregate demand left. The result is a lower price level and, at least in the short run, \\nlower real GDP. \\nFederal Reserve Actions Over Last Four Decades \\nFor the period from 1970 through 2020, we can summarize Federal Reserve monetary policy by looking at how \\nit targeted the federal funds interest rate using open market operations. \\nOf course, telling the story of the U.S. economy since 1970 in terms of Federal Reserve actions leaves out many \\nother macroeconomic factors that were influencing unemployment, recession, economic growth, and inflation \\nover this time. The ten episodes of Federal Reserve action outlined in the sections below also demonstrate that \\nwe should consider the central bank as one of the leading actors influencing the macro economy. As we noted \\nearlier, the single person with the greatest power to influence the U.S. economy is probably the Federal Reserve \\nchairperson. \\nFigure 28.8 shows how the Federal Reserve has carried out monetary policy by targeting the federal funds \\ninterest rate in the last few decades. The graph shows the federal funds interest rate (remember, this interest \\nrate is set through open market operations), the unemployment rate, and the inflation rate since 1970. \\nDifferent episodes of monetary policy during this period are indicated in the figure. \\n28.4 • Monetary Policy and Economic Outcomes     681\\n\"}, {\"page\": 119, \"original_pdf_page\": 696, \"text\": \"1995, established its target federal funds rate in advance of any open market operations. \\nOf course, financial markets display a wide range of interest rates, representing borrowers with different risk \\npremiums and loans that they must repay over different periods of time. In general, when the federal funds \\nrate drops substantially, other interest rates drop, too, and when the federal funds rate rises, other interest \\nrates rise. However, a fall or rise of one percentage point in the federal funds rate—which remember is for \\nborrowing overnight—will typically have an effect of less than one percentage point on a 30-year loan to \\npurchase a house or a three-year loan to purchase a car. Monetary policy can push the entire spectrum of \\ninterest rates higher or lower, but the forces of supply and demand in those specific markets for lending and \\nborrowing set the specific interest rates. \\nThe Effect of Monetary Policy on Aggregate Demand \\nMonetary policy affects interest rates and the available quantity of loanable funds, which in turn affects several \\ncomponents of aggregate demand. Tight or contractionary monetary policy that leads to higher interest rates \\nand a reduced quantity of loanable funds will reduce two components of aggregate demand. Business \\ninvestment will decline because it is less attractive for firms to borrow money, and even firms that have money \\nwill notice that, with higher interest rates, it is relatively more attractive to put those funds in a financial \\ninvestment than to make an investment in physical capital. In addition, higher interest rates will discourage \\nconsumer borrowing for big-ticket items like houses and cars. Conversely, loose or expansionary monetary \\npolicy that leads to lower interest rates and a higher quantity of loanable funds will tend to increase business \\ninvestment and consumer borrowing for big-ticket items. \\nIf the economy is suffering a recession and high unemployment, with output below potential GDP, \\nexpansionary monetary policy can help the economy return to potential GDP. Figure 28.6 (a) illustrates this \\nsituation. This example uses a short-run upward-sloping Keynesian aggregate supply curve (SRAS). The \\noriginal equilibrium during a recession of E0 occurs at an output level of 600. An expansionary monetary \\npolicy will reduce interest rates and stimulate investment and consumption spending, causing the original \\naggregate demand curve (AD0) to shift right to AD1, so that the new equilibrium (E1) occurs at the potential \\nGDP level of 700. \\nFIGURE 28.6 Expansionary or Contractionary Monetary Policy (a) The economy is originally in a recession with the \\nequilibrium output and price shown at E0. Expansionary monetary policy will reduce interest rates and shift \\naggregate demand to the right from AD0 to AD1, leading to the new equilibrium (E1) at the potential GDP level of \\noutput with a relatively small rise in the price level. (b) The economy is originally producing above the potential GDP \\nlevel of output at the equilibrium E0 and is experiencing pressures for an inflationary rise in the price level. \\nContractionary monetary policy will shift aggregate demand to the left from AD0 to AD1, thus leading to a new \\n680     28 • Monetary Policy and Bank Regulation\\nAccess for free at openstax.org\\n\"}, {\"page\": 118, \"original_pdf_page\": 686, \"text\": \"Figure 28.3 shows the Federal Reserve districts and the cities where their regional headquarters are located. \\nThe commercial banks in each district elect a Board of Directors for each regional Federal Reserve bank, and \\nthat board chooses a president for each regional Federal Reserve district. Thus, the Federal Reserve System \\nincludes both federally and private-sector appointed leaders. \\nFIGURE 28.3 The Twelve Federal Reserve Districts There are twelve regional Federal Reserve banks, each with its \\ndistrict. \\nWhat Does a Central Bank Do? \\nThe Federal Reserve, like most central banks, is designed to perform three important functions: \\n1. To conduct monetary policy \\n2. To promote stability of the financial system \\n3. To provide banking services to commercial banks and other depository institutions, and to provide \\nbanking services to the federal government. \\nThe first two functions are sufficiently important that we will discuss them in their own modules. The third \\nfunction we will discuss here. \\nThe Federal Reserve provides many of the same services to banks as banks provide to their customers. For \\nexample, all commercial banks have an account at the Fed where they deposit reserves. Similarly, banks can \\nobtain loans from the Fed through the “discount window” facility, which we will discuss in more detail later. \\nThe Fed is also responsible for check processing. When you write a check, for example, to buy groceries, the \\ngrocery store deposits the check in its bank account. Then, the grocery store's bank returns the physical check \\n(or an image of that actual check) to your bank, after which it transfers funds from your bank account to the \\ngrocery store's account. The Fed is responsible for each of these actions. \\nOn a more mundane level, the Federal Reserve ensures that enough currency and coins are circulating \\nthrough the financial system to meet public demands. For example, each year the Fed increases the amount of \\ncurrency available in banks around the Christmas shopping season and reduces it again in January. \\nFinally, the Fed is responsible for assuring that banks are in compliance with a wide variety of consumer \\nprotection laws. For example, banks are forbidden from discriminating on the basis of age, race, sex, or marital \\nstatus. Banks are also required to disclose publicly information about the loans they make for buying houses \\nand how they distribute the loans geographically, as well as by sex and race of the loan applicants. \\n670     28 • Monetary Policy and Bank Regulation\\nAccess for free at openstax.org\\n\"}, {\"page\": 7, \"original_pdf_page\": 31, \"text\": \"classmates, co-workers, or political candidates talking about economics, you will be able to distinguish \\nbetween common sense and nonsense. You will find new ways of thinking about current events and about \\npersonal and business decisions, as well as current events and politics. \\nThe study of economics does not dictate the answers, but it can illuminate the different choices. \\n1.2 Microeconomics and Macroeconomics \\nLEARNING OBJECTIVES \\nBy the end of this section, you will be able to: \\n• Describe microeconomics \\n• Describe macroeconomics \\n• Contrast monetary policy and fiscal policy \\nEconomics is concerned with the well-being of all people, including those with jobs and those without jobs, as \\nwell as those with high incomes and those with low incomes. Economics acknowledges that production of \\nuseful goods and services can create problems of environmental pollution. It explores the question of how \\ninvesting in education helps to develop workers’ skills. It probes questions like how to tell when big businesses \\nor big labor unions are operating in a way that benefits society as a whole and when they are operating in a way \\nthat benefits their owners or members at the expense of others. It looks at how government spending, taxes, \\nand regulations affect decisions about production and consumption. \\nIt should be clear by now that economics covers considerable ground. We can divide that ground into two \\nparts: Microeconomics focuses on the actions of individual agents within the economy, like households, \\nworkers, and businesses. Macroeconomics looks at the economy as a whole. It focuses on broad issues such as \\ngrowth of production, the number of unemployed people, the inflationary increase in prices, government \\ndeficits, and levels of exports and imports. Microeconomics and macroeconomics are not separate subjects, \\nbut rather complementary perspectives on the overall subject of the economy. \\nTo understand why both microeconomic and macroeconomic perspectives are useful, consider the problem of \\nstudying a biological ecosystem like a lake. One person who sets out to study the lake might focus on specific \\ntopics: certain kinds of algae or plant life; the characteristics of particular fish or snails; or the trees \\nsurrounding the lake. Another person might take an overall view and instead consider the lake's ecosystem \\nfrom top to bottom; what eats what, how the system stays in a rough balance, and what environmental stresses \\naffect this balance. Both approaches are useful, and both examine the same lake, but the viewpoints are \\ndifferent. In a similar way, both microeconomics and macroeconomics study the same economy, but each has \\na different viewpoint. \\nWhether you are scrutinizing lakes or economics, the micro and the macro insights should blend with each \\nother. In studying a lake, the micro insights about particular plants and animals help to understand the overall \\nfood chain, while the macro insights about the overall food chain help to explain the environment in which \\nindividual plants and animals live. \\nIn economics, the micro decisions of individual businesses are influenced by whether the macroeconomy is \\nhealthy. For example, firms will be more likely to hire workers if the overall economy is growing. In turn, \\nmacroeconomy's performance ultimately depends on the microeconomic decisions that individual \\nhouseholds and businesses make. \\nMicroeconomics \\nWhat determines how households and individuals spend their budgets? What combination of goods and \\nservices will best fit their needs and wants, given the budget they have to spend? How do people decide \\nwhether to work, and if so, whether to work full time or part time? How do people decide how much to save for \\nthe future, or whether they should borrow to spend beyond their current means? \\nWhat determines the products, and how many of each, a firm will produce and sell? What determines the \\n1.2 • Microeconomics and Macroeconomics     15\\n\"}, {\"page\": 17, \"original_pdf_page\": 41, \"text\": \"1.2 Microeconomics and Macroeconomics \\nMicroeconomics and macroeconomics are two different perspectives on the economy. The microeconomic \\nperspective focuses on parts of the economy: individuals, firms, and industries. The macroeconomic \\nperspective looks at the economy as a whole, focusing on goals like growth in the standard of living, \\nunemployment, and inflation. Macroeconomics has two types of policies for pursuing these goals: monetary \\npolicy and fiscal policy. \\n1.3 How Economists Use Theories and Models to Understand Economic Issues \\nEconomists analyze problems differently than do other disciplinary experts. The main tools economists use \\nare economic theories or models. A theory is not an illustration of the answer to a problem. Rather, a theory is a \\ntool for determining the answer. \\n1.4 How To Organize Economies: An Overview of Economic Systems \\nWe can organize societies as traditional, command, or market-oriented economies. Most societies are a mix. \\nThe last few decades have seen globalization evolve as a result of growth in commercial and financial networks \\nthat cross national borders, making businesses and workers from different economies increasingly \\ninterdependent. \\nSelf-Check Questions \\n1 . What is scarcity? Can you think of two causes of scarcity? \\n2 . Residents of the town of Smithfield like to consume hams, but each ham requires 10 people to produce it \\nand takes a month. If the town has a total of 100 people, what is the maximum amount of ham the \\nresidents can consume in a month? \\n3 . A consultant works for $200 per hour. She likes to eat vegetables, but is not very good at growing them. \\nWhy does it make more economic sense for her to spend her time at the consulting job and shop for her \\nvegetables? \\n4 . A computer systems engineer could paint her house, but it makes more sense for her to hire a painter to \\ndo it. Explain why. \\n5 . What would be another example of a “system” in the real world that could serve as a metaphor for micro \\nand macroeconomics? \\n6 . Suppose we extend the circular flow model to add imports and exports. Copy the circular flow diagram \\nonto a sheet of paper and then add a foreign country as a third agent. Draw a rough sketch of the flows of \\nimports, exports, and the payments for each on your diagram. \\n7 . What is an example of a problem in the world today, not mentioned in the chapter, that has an economic \\ndimension? \\n8 . The chapter defines private enterprise as a characteristic of market-oriented economies. What would \\npublic enterprise be? Hint: It is a characteristic of command economies. \\n9 . Why might Belgium, France, Italy, and Sweden have a higher export to GDP ratio than the United States? \\nReview Questions \\n10 . Give the three reasons that explain why the division of labor increases an economy’s level of production. \\n11 . What are three reasons to study economics? \\n12 . What is the difference between microeconomics and macroeconomics? \\n13 . What are examples of individual economic agents? \\n1 • Self-Check Questions     25\\n\"}, {\"page\": 14, \"original_pdf_page\": 38, \"text\": \"ship in Figure 1.10, and air cargo have driven down transportation costs. Innovations in computing and \\ntelecommunications have made it easier and cheaper to manage long-distance economic connections of \\nproduction and sales. Many valuable products and services in the modern economy can take the form of \\ninformation—for example: computer software; financial advice; travel planning; music, books and movies; and \\nblueprints for designing a building. These products and many others can be transported over telephones and \\ncomputer networks at ever-lower costs. Finally, international agreements and treaties between countries have \\nencouraged greater trade. \\nTable 1.2 presents one measure of globalization. It shows the percentage of domestic economic production \\nthat was exported for a selection of countries from 2010 to 2015, according to an entity known as The World \\nBank. Exports are the goods and services that one produces domestically and sells abroad. Imports are the \\ngoods and services that one produces abroad and then sells domestically. Gross domestic product (GDP) \\nmeasures the size of total production in an economy. Thus, the ratio of exports divided by GDP measures what \\nshare of a country’s total economic production is sold in other countries. \\nCountry \\n2010 2011 2012 2013 2014 2015 \\nHigher Income Countries \\nUnited States 12.4 \\n13.6 \\n13.6 \\n13.5 \\n13.5 \\n12.6 \\nBelgium \\n76.2 \\n81.4 \\n82.2 \\n82.8 \\n84.0 \\n84.4 \\nCanada \\n29.1 \\n30.7 \\n30.0 \\n30.1 \\n31.7 \\n31.5 \\nFrance \\n26.0 \\n27.8 \\n28.1 \\n28.3 \\n29.0 \\n30.0 \\nMiddle Income Countries \\nChina \\n29.4 \\n28.5 \\n27.3 \\n26.4 \\n23.9 \\n22.4 \\nBrazil \\n10.9 \\n11.9 \\n12.6 \\n12.6 \\n11.2 \\n13.0 \\nMexico \\n29.9 \\n31.2 \\n32.6 \\n31.7 \\n32.3 \\n35.3 \\nSouth Korea \\n49.4 \\n55.7 \\n56.3 \\n53.9 \\n50.3 \\n45.9 \\nLower Income Countries \\nChad \\n36.8 \\n38.9 \\n36.9 \\n32.2 \\n34.2 \\n29.8 \\nIndia \\n22.0 \\n23.9 \\n24.0 \\n24.8 \\n22.9 \\n- \\nNigeria \\n25.3 \\n31.3 \\n31.4 \\n18.0 \\n18.4 \\n- \\nTABLE 1.2 The Extent of Globalization (exports/GDP) \\n(Source: http://databank.worldbank.org/data/) \\nIn recent decades, the export/GDP ratio has generally risen, both worldwide and for the U.S. economy. \\nInterestingly, the share of U.S. exports in proportion to the U.S. economy is well below the global average, in \\npart because large economies like the United States can contain more of the division of labor inside their \\nnational borders. However, smaller economies like Belgium, Korea, and Canada need to trade across their \\nborders with other countries to take full advantage of division of labor, specialization, and economies of scale. \\nIn this sense, the enormous U.S. economy is less affected by globalization than most other countries. \\n22     1 • Welcome to Economics!\\nAccess for free at openstax.org\\n\"}]"
+              }
+            ]
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "finish",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_0f8eb77205f61c8e016af8365369ac87d28912b07e9c5c12c8",
+        "object": "response",
+        "created_at": 1794651731,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651732,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_0f8eb77205f61c8e016af83653f0fc87d29ca39f8cf1a34c4f",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"status\":\"answered\",\"answer\":\"Sơ đồ (a) ở Hình 28.7 thể hiện chuỗi tác động của chính sách tiền tệ mở rộng như sau: ngân hàng trung ương làm tăng cung tiền và quỹ cho vay, điều này làm giảm lãi suất, kích thích vay mượn thêm cho đầu tư và tiêu dùng, rồi làm dịch chuyển tổng cầu sang phải; kết quả là mức giá cao hơn và, ít nhất trong ngắn hạn, GDP thực cao hơn [page 120, Figure 28.7].\",\"pages\":[120]}",
+            "call_id": "call_CXSiA2Ut0Qld9ZBLGMwAts2b",
+            "name": "finish"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "name": "finish",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 4707,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 131,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 4838
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.6664373000094201
+    }
+  ],
+  "usage": {
+    "model_calls": 2,
+    "input_tokens": 4899,
+    "cached_input_tokens": 0,
+    "output_tokens": 204,
+    "estimated_api_cost_usd": 0.00459225,
+    "cost_note": "Estimate from published standard GPT-5.4-mini token rates, verified 2026-11-14; actual bill may differ. Unknown model/endpoint rates are not assumed zero.",
+    "pricing_source": "https://developers.openai.com/api/docs/models/gpt-5.4-mini"
+  },
+  "seconds": 3.221560899997712
+}

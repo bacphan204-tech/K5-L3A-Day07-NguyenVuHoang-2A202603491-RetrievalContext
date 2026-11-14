@@ -1,0 +1,538 @@
+{
+  "id": "adv-dev-chart-02",
+  "question": "Dựa vào Hình 3.16 và Bảng 3.6 về thị trường cá hồi, tại mức giá nào thì lượng cung năm 2015 bằng đúng lượng cầu, và khi đó giá và lượng cân bằng được ghi trên hình là bao nhiêu? Hãy trả lời kèm đơn vị theo đúng chú thích trục của hình.",
+  "vision": false,
+  "final": {
+    "status": "answered",
+    "answer": "Theo Hình 3.16 và Bảng 3.6, lượng cung năm 2015 bằng đúng lượng cầu tại mức giá **$2.50 per pound**; ở mức này, bảng cho thấy **Quantity Supplied in 2015 = 550** và **Quantity Demanded = 550** [page 57, Figure 3.16, Table 3.6]. Khi đó, Hình 3.16/Bảng 3.6 ghi **giá cân bằng là $2.50 per pound** và **lượng cân bằng là 550,000 salmon** [page 58, Figure 3.16, Table 3.6].",
+    "pages": [
+      57,
+      58
+    ]
+  },
+  "context": [
+    {
+      "page": 57,
+      "original_pdf_page": 81,
+      "text": "Let’s consider one example that involves a shift in supply and one that involves a shift in demand. Then we will \nconsider an example where both supply and demand shift. \nGood Weather for Salmon Fishing \nSuppose that during the summer of 2015, weather conditions were excellent for commercial salmon fishing off \nthe California coast. Heavy rains meant higher than normal levels of water in the rivers, which helps the \nsalmon to breed. Slightly cooler ocean temperatures stimulated the growth of plankton, the microscopic \norganisms at the bottom of the ocean food chain, providing everything in the ocean with a hearty food supply. \nThe ocean stayed calm during fishing season, so commercial fishing operations did not lose many days to bad \nweather. How did these climate conditions affect the quantity and price of salmon? Figure 3.16 illustrates the \nfour-step approach, which we explain below, to work through this problem. Table 3.6 also provides the \ninformation to work the problem. \nFIGURE 3.16 Good Weather for Salmon Fishing: The Four-Step Process Unusually good weather leads to changes \nin the price and quantity of salmon. \nPrice per Pound Quantity Supplied in 2014 Quantity Supplied in 2015 Quantity Demanded \n$2.00 \n80 \n400 \n840 \n$2.25 \n120 \n480 \n680 \n$2.50 \n160 \n550 \n550 \n$2.75 \n200 \n600 \n450 \n$3.00 \n230 \n640 \n350 \n$3.25 \n250 \n670 \n250 \n$3.50 \n270 \n700 \n200 \nTABLE 3.6 Salmon Fishing \nStep 1. Draw a demand and supply model to illustrate the market for salmon in the year before the good \nweather conditions began. The demand curve D0 and the supply curve S0 show that the original equilibrium \n3.3 • Changes in Equilibrium Price and Quantity: The Four-Step Process     65\n"
+    },
+    {
+      "page": 58,
+      "original_pdf_page": 82,
+      "text": "price is $3.25 per pound and the original equilibrium quantity is 250,000 fish. (This price per pound is what \ncommercial buyers pay at the fishing docks. What consumers pay at the grocery is higher.) \nStep 2. Did the economic event affect supply or demand? Good weather is an example of a natural condition \nthat affects supply. \nStep 3. Was the effect on supply an increase or a decrease? Good weather is a change in natural conditions that \nincreases the quantity supplied at any given price. The supply curve shifts to the right, moving from the \noriginal supply curve S0 to the new supply curve S1, which Figure 3.16 and Table 3.6 show. \nStep 4. Compare the new equilibrium price and quantity to the original equilibrium. At the new equilibrium E1, \nthe equilibrium price falls from $3.25 to $2.50, but the equilibrium quantity increases from 250,000 to \n550,000 salmon. Notice that the equilibrium quantity demanded increased, even though the demand curve \ndid not move. \nIn short, good weather conditions increased supply of the California commercial salmon. The result was a \nhigher equilibrium quantity of salmon bought and sold in the market at a lower price. \nNewspapers and the Internet \nAccording to the Pew Research Center for People and the Press, increasingly more people, especially younger \npeople, are obtaining their news from online and digital sources. The majority of U.S. adults now own \nsmartphones or tablets, and most of those Americans say they use them in part to access the news. From 2004 \nto 2012, the share of Americans who reported obtaining their news from digital sources increased from 24% to \n39%. How has this affected consumption of print news media, and radio and television news? Figure 3.17 and \nthe text below illustrates using the four-step analysis to answer this question. \nFIGURE 3.17 The Print News Market: A Four-Step Analysis A change in tastes from print news sources to digital \nsources results in a leftward shift in demand for the former. The result is a decrease in both equilibrium price and \nquantity. \nStep 1. Develop a demand and supply model to think about what the market looked like before the event. The \ndemand curve D0 and the supply curve S0 show the original relationships. In this case, we perform the analysis \nwithout specific numbers on the price and quantity axis. \nStep 2. Did the described change affect supply or demand? A change in tastes, from traditional news sources \n(print, radio, and television) to digital sources, caused a change in demand for the former. \nStep 3. Was the effect on demand positive or negative? A shift to digital news sources will tend to mean a lower \n66     3 • Demand and Supply\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 50,
+      "original_pdf_page": 74,
+      "text": "the store to stock up on coffee now. We show these changes in demand as shifts in the curve. Therefore, a shift \nin demand happens when a change in some economic factor (other than price) causes a different quantity to \nbe demanded at every price. The following Work It Out feature shows how this happens. \nShift in Demand \nA shift in demand means that at any price (and at every price), the quantity demanded will be different than it \nwas before. Following is an example of a shift in demand due to an income increase. \nStep 1. Draw the graph of a demand curve for a normal good like pizza. Pick a price (like P0). Identify the \ncorresponding Q0. See an example in Figure 3.6. \nFIGURE 3.6 Demand Curve We can use the demand curve to identify how much consumers would buy at any \ngiven price. \nStep 2. Suppose income increases. As a result of the change, are consumers going to buy more or less pizza? The \nanswer is more. Draw a dotted horizontal line from the chosen price, through the original quantity demanded, to \nthe new point with the new Q1. Draw a dotted vertical line down to the horizontal axis and label the new Q1. \nFigure 3.7 provides an example. \nFIGURE 3.7 Demand Curve with Income Increase With an increase in income, consumers will purchase larger \nquantities, pushing demand to the right. \nStep 3. Now, shift the curve through the new point. You will see that an increase in income causes an upward (or \nrightward) shift in the demand curve, so that at any price the quantities demanded will be higher, as Figure 3.8 \nillustrates. \nWORK IT OUT \n58     3 • Demand and Supply\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 72,
+      "original_pdf_page": 96,
+      "text": "3.5 Demand, Supply, and Efficiency \nConsumer surplus is the gap between the price that consumers are willing to pay, based on their preferences, \nand the market equilibrium price. Producer surplus is the gap between the price for which producers are \nwilling to sell a product, based on their costs, and the market equilibrium price. Social surplus is the sum of \nconsumer surplus and producer surplus. Total surplus is larger at the equilibrium quantity and price than it \nwill be at any other quantity and price. Deadweight loss is loss in total surplus that occurs when the economy \nproduces at an inefficient quantity. \nSelf-Check Questions \n1 . Review Figure 3.4. Suppose the price of gasoline is $1.60 per gallon. Is the quantity demanded higher or \nlower than at the equilibrium price of $1.40 per gallon? What about the quantity supplied? Is there a \nshortage or a surplus in the market? If so, how much? \n2 . Why do economists use the ceteris paribus assumption? \n3 . In an analysis of the market for paint, an economist discovers the facts listed below. State whether each of \nthese changes will affect supply or demand, and in what direction. \na. There have recently been some important cost-saving inventions in the technology for making paint. \nb. Paint is lasting longer, so that property owners need not repaint as often. \nc. Because of severe hailstorms, many people need to repaint now. \nd. The hailstorms damaged several factories that make paint, forcing them to close down for several \nmonths. \n4 . Many changes are affecting the market for oil. Predict how each of the following events will affect the \nequilibrium price and quantity in the market for oil. In each case, state how the event will affect the supply \nand demand diagram. Create a sketch of the diagram if necessary. \na. Cars are becoming more fuel efficient, and therefore get more miles to the gallon. \nb. The winter is exceptionally cold. \nc. A major discovery of new oil is made off the coast of Norway. \nd. The economies of some major oil-using nations, like Japan, slow down. \ne. A war in the Middle East disrupts oil-pumping schedules. \nf. Landlords install additional insulation in buildings. \ng. The price of solar energy falls dramatically. \nh. Chemical companies invent a new, popular kind of plastic made from oil. \n5 . Let’s think about the market for air travel. From August 2014 to January 2015, the price of jet fuel \nincreased roughly 47%. Using the four-step analysis, how do you think this fuel price increase affected the \nequilibrium price and quantity of air travel? \n6 . A tariff is a tax on imported goods. Suppose the U.S. government cuts the tariff on imported flat screen \ntelevisions. Using the four-step analysis, how do you think the tariff reduction will affect the equilibrium \nprice and quantity of flat screen TVs? \n7 . What is the effect of a price ceiling on the quantity demanded of the product? What is the effect of a price \nceiling on the quantity supplied? Why exactly does a price ceiling cause a shortage? \n8 . Does a price ceiling change the equilibrium price? \n9 . What would be the impact of imposing a price floor below the equilibrium price? \n10 . Does a price ceiling increase or decrease the number of transactions in a market? Why? What about a \nprice floor? \n11 . If a price floor benefits producers, why does a price floor reduce social surplus? \n80     3 • Self-Check Questions\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 76,
+      "original_pdf_page": 100,
+      "text": "Price per Pound \nQd \nQs \n$3.80 \n600 720 \n$4.00 \n590 730 \nTABLE 3.9 \n56 . Table 3.10 shows the supply and demand for movie tickets in a city. Graph demand and supply and \nidentify the equilibrium. Then calculate in a table and graph the effect of the following two changes. \na. Three new nightclubs open. They offer decent bands and have no cover charge, but make their money \nby selling food and drink. As a result, demand for movie tickets falls by six units at every price. \nb. The city eliminates a tax that it placed on all local entertainment businesses. The result is that the \nquantity supplied of movies at any given price increases by 10%. \nPrice per Ticket Qd Qs \n$5.00 \n26 \n16 \n$6.00 \n24 \n18 \n$7.00 \n22 \n20 \n$8.00 \n21 \n21 \n$9.00 \n20 \n22 \nTABLE 3.10 \n57 . A low-income country decides to set a price ceiling on bread so it can make sure that bread is affordable to \nthe poor. Table 3.11 provides the conditions of demand and supply. What are the equilibrium price and \nequilibrium quantity before the price ceiling? What will the excess demand or the shortage (that is, \nquantity demanded minus quantity supplied) be if the price ceiling is set at $2.40? At $2.00? At $3.60? \nPrice \nQd \nQs \n$1.60 \n9,000 \n5,000 \n$2.00 \n8,500 \n5,500 \n$2.40 \n8,000 \n6,400 \n$2.80 7,500 7,500 \n$3.20 \n7,000 \n9,000 \n$3.60 \n6,500 \n11,000 \n$4.00 \n6,000 \n15,000 \nTABLE 3.11 \n84     3 • Problems\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 48,
+      "original_pdf_page": 72,
+      "text": "FIGURE 3.5 Shifts in Demand: A Car Example Increased demand means that at every given price, the quantity \ndemanded is higher, so that the demand curve shifts to the right from D0 to D1. Decreased demand means that at \nevery given price, the quantity demanded is lower, so that the demand curve shifts to the left from D0 to D2. \nPrice \nDecrease to D2 \nOriginal Quantity Demanded D0 \nIncrease to D1 \n$16,000 17.6 million \n22.0 million \n24.0 million \n$18,000 16.0 million \n20.0 million \n22.0 million \n$20,000 14.4 million \n18.0 million \n20.0 million \n$22,000 13.6 million \n17.0 million \n19.0 million \n$24,000 13.2 million \n16.5 million \n18.5 million \n$26,000 12.8 million \n16.0 million \n18.0 million \nTABLE 3.4 Price and Demand Shifts: A Car Example \nNow, imagine that the economy slows down so that many people lose their jobs or work fewer hours, reducing \ntheir incomes. In this case, the decrease in income would lead to a lower quantity of cars demanded at every \ngiven price, and the original demand curve D0 would shift left to D2. The shift from D0 to D2 represents such a \ndecrease in demand: At any given price level, the quantity demanded is now lower. In this example, a price of \n$20,000 means 18 million cars sold along the original demand curve, but only 14.4 million sold after demand \nfell. \nWhen a demand curve shifts, it does not mean that the quantity demanded by every individual buyer changes \nby the same amount. In this example, not everyone would have higher or lower income and not everyone \nwould buy or not buy an additional car. Instead, a shift in a demand curve captures a pattern for the market as \na whole. \nIn the previous section, we argued that higher income causes greater demand at every price. This is true for \nmost goods and services. For some—luxury cars, vacations in Europe, and fine jewelry—the effect of a rise in \nincome can be especially pronounced. A product whose demand rises when income rises, and vice versa, is \ncalled a normal good. A few exceptions to this pattern do exist. As incomes rise, many people will buy fewer \n56     3 • Demand and Supply\nAccess for free at openstax.org\n"
+    }
+  ],
+  "retrieval_queries": [
+    "Figure 3.16 Table 3.6 salmon market 2015 supply demand equilibrium price quantity",
+    "\"Hình 3.16\" \"Bảng 3.6\" cá hồi",
+    "salmon market 2015 equilibrium price quantity figure 3.16 table 3.6"
+  ],
+  "ranked_pages": [
+    [
+      57,
+      2.0491803278688527
+    ],
+    [
+      58,
+      2.047409579667644
+    ],
+    [
+      50,
+      1.0147058823529411
+    ],
+    [
+      72,
+      0.08664805460580109
+    ],
+    [
+      76,
+      0.047619047619047616
+    ],
+    [
+      48,
+      0.047379032258064516
+    ],
+    [
+      52,
+      0.04412400911045794
+    ],
+    [
+      14,
+      0.04324839247439867
+    ],
+    [
+      99,
+      0.04191059399877526
+    ],
+    [
+      44,
+      0.030309988518943745
+    ],
+    [
+      8,
+      0.0293236301369863
+    ],
+    [
+      75,
+      0.029211087420042643
+    ],
+    [
+      43,
+      0.027984344422700584
+    ],
+    [
+      45,
+      0.027777777777777776
+    ],
+    [
+      41,
+      0.02702702702702703
+    ],
+    [
+      71,
+      0.026856524873828405
+    ],
+    [
+      105,
+      0.02667140825035562
+    ],
+    [
+      74,
+      0.02666666666666667
+    ],
+    [
+      63,
+      0.025974025974025976
+    ],
+    [
+      64,
+      0.025478740668614087
+    ],
+    [
+      78,
+      0.02532051282051282
+    ],
+    [
+      106,
+      0.014492753623188406
+    ],
+    [
+      12,
+      0.014285714285714285
+    ],
+    [
+      114,
+      0.014084507042253521
+    ],
+    [
+      90,
+      0.01282051282051282
+    ],
+    [
+      17,
+      0.012658227848101266
+    ],
+    [
+      67,
+      0.012658227848101266
+    ],
+    [
+      73,
+      0.0125
+    ],
+    [
+      40,
+      0.0125
+    ]
+  ],
+  "status": "success",
+  "calls": [
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": "Search this economics textbook to answer in Vietnamese: Dựa vào Hình 3.16 và Bảng 3.6 về thị trường cá hồi, tại mức giá nào thì lượng cung năm 2015 bằng đúng lượng cầu, và khi đó giá và lượng cân bằng được ghi trên hình là bao nhiêu? Hãy trả lời kèm đơn vị theo đúng chú thích trục của hình."
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "search_book",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_0bffaa5a32e18462016af83657bd1487d2b863191888b998c3",
+        "object": "response",
+        "created_at": 1794651735,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651736,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_0bffaa5a32e18462016af8365816b887d28f85360322094e5b",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"queries\":[\"Figure 3.16 Table 3.6 salmon market 2015 supply demand equilibrium price quantity\", \"\\\"Hình 3.16\\\" \\\"Bảng 3.6\\\" cá hồi\", \"salmon market 2015 equilibrium price quantity figure 3.16 table 3.6\"]}",
+            "call_id": "call_4ODgFXy26Z18VNBaGHgpoFXu",
+            "name": "search_book"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "name": "search_book",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 214,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 78,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 292
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.5799858999962453
+    },
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": [
+              {
+                "type": "input_text",
+                "text": "Answer the question using ONLY supplied source evidence, in Vietnamese. Cite [page N] and Figure/Table ID for all claims. No external facts. If date/place/condition absent, choose abstain with no guessed values. Dựa vào Hình 3.16 và Bảng 3.6 về thị trường cá hồi, tại mức giá nào thì lượng cung năm 2015 bằng đúng lượng cầu, và khi đó giá và lượng cân bằng được ghi trên hình là bao nhiêu? Hãy trả lời kèm đơn vị theo đúng chú thích trục của hình.\nSOURCE_CONTEXT:[{\"page\": 57, \"original_pdf_page\": 81, \"text\": \"Let’s consider one example that involves a shift in supply and one that involves a shift in demand. Then we will \\nconsider an example where both supply and demand shift. \\nGood Weather for Salmon Fishing \\nSuppose that during the summer of 2015, weather conditions were excellent for commercial salmon fishing off \\nthe California coast. Heavy rains meant higher than normal levels of water in the rivers, which helps the \\nsalmon to breed. Slightly cooler ocean temperatures stimulated the growth of plankton, the microscopic \\norganisms at the bottom of the ocean food chain, providing everything in the ocean with a hearty food supply. \\nThe ocean stayed calm during fishing season, so commercial fishing operations did not lose many days to bad \\nweather. How did these climate conditions affect the quantity and price of salmon? Figure 3.16 illustrates the \\nfour-step approach, which we explain below, to work through this problem. Table 3.6 also provides the \\ninformation to work the problem. \\nFIGURE 3.16 Good Weather for Salmon Fishing: The Four-Step Process Unusually good weather leads to changes \\nin the price and quantity of salmon. \\nPrice per Pound Quantity Supplied in 2014 Quantity Supplied in 2015 Quantity Demanded \\n$2.00 \\n80 \\n400 \\n840 \\n$2.25 \\n120 \\n480 \\n680 \\n$2.50 \\n160 \\n550 \\n550 \\n$2.75 \\n200 \\n600 \\n450 \\n$3.00 \\n230 \\n640 \\n350 \\n$3.25 \\n250 \\n670 \\n250 \\n$3.50 \\n270 \\n700 \\n200 \\nTABLE 3.6 Salmon Fishing \\nStep 1. Draw a demand and supply model to illustrate the market for salmon in the year before the good \\nweather conditions began. The demand curve D0 and the supply curve S0 show that the original equilibrium \\n3.3 • Changes in Equilibrium Price and Quantity: The Four-Step Process     65\\n\"}, {\"page\": 58, \"original_pdf_page\": 82, \"text\": \"price is $3.25 per pound and the original equilibrium quantity is 250,000 fish. (This price per pound is what \\ncommercial buyers pay at the fishing docks. What consumers pay at the grocery is higher.) \\nStep 2. Did the economic event affect supply or demand? Good weather is an example of a natural condition \\nthat affects supply. \\nStep 3. Was the effect on supply an increase or a decrease? Good weather is a change in natural conditions that \\nincreases the quantity supplied at any given price. The supply curve shifts to the right, moving from the \\noriginal supply curve S0 to the new supply curve S1, which Figure 3.16 and Table 3.6 show. \\nStep 4. Compare the new equilibrium price and quantity to the original equilibrium. At the new equilibrium E1, \\nthe equilibrium price falls from $3.25 to $2.50, but the equilibrium quantity increases from 250,000 to \\n550,000 salmon. Notice that the equilibrium quantity demanded increased, even though the demand curve \\ndid not move. \\nIn short, good weather conditions increased supply of the California commercial salmon. The result was a \\nhigher equilibrium quantity of salmon bought and sold in the market at a lower price. \\nNewspapers and the Internet \\nAccording to the Pew Research Center for People and the Press, increasingly more people, especially younger \\npeople, are obtaining their news from online and digital sources. The majority of U.S. adults now own \\nsmartphones or tablets, and most of those Americans say they use them in part to access the news. From 2004 \\nto 2012, the share of Americans who reported obtaining their news from digital sources increased from 24% to \\n39%. How has this affected consumption of print news media, and radio and television news? Figure 3.17 and \\nthe text below illustrates using the four-step analysis to answer this question. \\nFIGURE 3.17 The Print News Market: A Four-Step Analysis A change in tastes from print news sources to digital \\nsources results in a leftward shift in demand for the former. The result is a decrease in both equilibrium price and \\nquantity. \\nStep 1. Develop a demand and supply model to think about what the market looked like before the event. The \\ndemand curve D0 and the supply curve S0 show the original relationships. In this case, we perform the analysis \\nwithout specific numbers on the price and quantity axis. \\nStep 2. Did the described change affect supply or demand? A change in tastes, from traditional news sources \\n(print, radio, and television) to digital sources, caused a change in demand for the former. \\nStep 3. Was the effect on demand positive or negative? A shift to digital news sources will tend to mean a lower \\n66     3 • Demand and Supply\\nAccess for free at openstax.org\\n\"}, {\"page\": 50, \"original_pdf_page\": 74, \"text\": \"the store to stock up on coffee now. We show these changes in demand as shifts in the curve. Therefore, a shift \\nin demand happens when a change in some economic factor (other than price) causes a different quantity to \\nbe demanded at every price. The following Work It Out feature shows how this happens. \\nShift in Demand \\nA shift in demand means that at any price (and at every price), the quantity demanded will be different than it \\nwas before. Following is an example of a shift in demand due to an income increase. \\nStep 1. Draw the graph of a demand curve for a normal good like pizza. Pick a price (like P0). Identify the \\ncorresponding Q0. See an example in Figure 3.6. \\nFIGURE 3.6 Demand Curve We can use the demand curve to identify how much consumers would buy at any \\ngiven price. \\nStep 2. Suppose income increases. As a result of the change, are consumers going to buy more or less pizza? The \\nanswer is more. Draw a dotted horizontal line from the chosen price, through the original quantity demanded, to \\nthe new point with the new Q1. Draw a dotted vertical line down to the horizontal axis and label the new Q1. \\nFigure 3.7 provides an example. \\nFIGURE 3.7 Demand Curve with Income Increase With an increase in income, consumers will purchase larger \\nquantities, pushing demand to the right. \\nStep 3. Now, shift the curve through the new point. You will see that an increase in income causes an upward (or \\nrightward) shift in the demand curve, so that at any price the quantities demanded will be higher, as Figure 3.8 \\nillustrates. \\nWORK IT OUT \\n58     3 • Demand and Supply\\nAccess for free at openstax.org\\n\"}, {\"page\": 72, \"original_pdf_page\": 96, \"text\": \"3.5 Demand, Supply, and Efficiency \\nConsumer surplus is the gap between the price that consumers are willing to pay, based on their preferences, \\nand the market equilibrium price. Producer surplus is the gap between the price for which producers are \\nwilling to sell a product, based on their costs, and the market equilibrium price. Social surplus is the sum of \\nconsumer surplus and producer surplus. Total surplus is larger at the equilibrium quantity and price than it \\nwill be at any other quantity and price. Deadweight loss is loss in total surplus that occurs when the economy \\nproduces at an inefficient quantity. \\nSelf-Check Questions \\n1 . Review Figure 3.4. Suppose the price of gasoline is $1.60 per gallon. Is the quantity demanded higher or \\nlower than at the equilibrium price of $1.40 per gallon? What about the quantity supplied? Is there a \\nshortage or a surplus in the market? If so, how much? \\n2 . Why do economists use the ceteris paribus assumption? \\n3 . In an analysis of the market for paint, an economist discovers the facts listed below. State whether each of \\nthese changes will affect supply or demand, and in what direction. \\na. There have recently been some important cost-saving inventions in the technology for making paint. \\nb. Paint is lasting longer, so that property owners need not repaint as often. \\nc. Because of severe hailstorms, many people need to repaint now. \\nd. The hailstorms damaged several factories that make paint, forcing them to close down for several \\nmonths. \\n4 . Many changes are affecting the market for oil. Predict how each of the following events will affect the \\nequilibrium price and quantity in the market for oil. In each case, state how the event will affect the supply \\nand demand diagram. Create a sketch of the diagram if necessary. \\na. Cars are becoming more fuel efficient, and therefore get more miles to the gallon. \\nb. The winter is exceptionally cold. \\nc. A major discovery of new oil is made off the coast of Norway. \\nd. The economies of some major oil-using nations, like Japan, slow down. \\ne. A war in the Middle East disrupts oil-pumping schedules. \\nf. Landlords install additional insulation in buildings. \\ng. The price of solar energy falls dramatically. \\nh. Chemical companies invent a new, popular kind of plastic made from oil. \\n5 . Let’s think about the market for air travel. From August 2014 to January 2015, the price of jet fuel \\nincreased roughly 47%. Using the four-step analysis, how do you think this fuel price increase affected the \\nequilibrium price and quantity of air travel? \\n6 . A tariff is a tax on imported goods. Suppose the U.S. government cuts the tariff on imported flat screen \\ntelevisions. Using the four-step analysis, how do you think the tariff reduction will affect the equilibrium \\nprice and quantity of flat screen TVs? \\n7 . What is the effect of a price ceiling on the quantity demanded of the product? What is the effect of a price \\nceiling on the quantity supplied? Why exactly does a price ceiling cause a shortage? \\n8 . Does a price ceiling change the equilibrium price? \\n9 . What would be the impact of imposing a price floor below the equilibrium price? \\n10 . Does a price ceiling increase or decrease the number of transactions in a market? Why? What about a \\nprice floor? \\n11 . If a price floor benefits producers, why does a price floor reduce social surplus? \\n80     3 • Self-Check Questions\\nAccess for free at openstax.org\\n\"}, {\"page\": 76, \"original_pdf_page\": 100, \"text\": \"Price per Pound \\nQd \\nQs \\n$3.80 \\n600 720 \\n$4.00 \\n590 730 \\nTABLE 3.9 \\n56 . Table 3.10 shows the supply and demand for movie tickets in a city. Graph demand and supply and \\nidentify the equilibrium. Then calculate in a table and graph the effect of the following two changes. \\na. Three new nightclubs open. They offer decent bands and have no cover charge, but make their money \\nby selling food and drink. As a result, demand for movie tickets falls by six units at every price. \\nb. The city eliminates a tax that it placed on all local entertainment businesses. The result is that the \\nquantity supplied of movies at any given price increases by 10%. \\nPrice per Ticket Qd Qs \\n$5.00 \\n26 \\n16 \\n$6.00 \\n24 \\n18 \\n$7.00 \\n22 \\n20 \\n$8.00 \\n21 \\n21 \\n$9.00 \\n20 \\n22 \\nTABLE 3.10 \\n57 . A low-income country decides to set a price ceiling on bread so it can make sure that bread is affordable to \\nthe poor. Table 3.11 provides the conditions of demand and supply. What are the equilibrium price and \\nequilibrium quantity before the price ceiling? What will the excess demand or the shortage (that is, \\nquantity demanded minus quantity supplied) be if the price ceiling is set at $2.40? At $2.00? At $3.60? \\nPrice \\nQd \\nQs \\n$1.60 \\n9,000 \\n5,000 \\n$2.00 \\n8,500 \\n5,500 \\n$2.40 \\n8,000 \\n6,400 \\n$2.80 7,500 7,500 \\n$3.20 \\n7,000 \\n9,000 \\n$3.60 \\n6,500 \\n11,000 \\n$4.00 \\n6,000 \\n15,000 \\nTABLE 3.11 \\n84     3 • Problems\\nAccess for free at openstax.org\\n\"}, {\"page\": 48, \"original_pdf_page\": 72, \"text\": \"FIGURE 3.5 Shifts in Demand: A Car Example Increased demand means that at every given price, the quantity \\ndemanded is higher, so that the demand curve shifts to the right from D0 to D1. Decreased demand means that at \\nevery given price, the quantity demanded is lower, so that the demand curve shifts to the left from D0 to D2. \\nPrice \\nDecrease to D2 \\nOriginal Quantity Demanded D0 \\nIncrease to D1 \\n$16,000 17.6 million \\n22.0 million \\n24.0 million \\n$18,000 16.0 million \\n20.0 million \\n22.0 million \\n$20,000 14.4 million \\n18.0 million \\n20.0 million \\n$22,000 13.6 million \\n17.0 million \\n19.0 million \\n$24,000 13.2 million \\n16.5 million \\n18.5 million \\n$26,000 12.8 million \\n16.0 million \\n18.0 million \\nTABLE 3.4 Price and Demand Shifts: A Car Example \\nNow, imagine that the economy slows down so that many people lose their jobs or work fewer hours, reducing \\ntheir incomes. In this case, the decrease in income would lead to a lower quantity of cars demanded at every \\ngiven price, and the original demand curve D0 would shift left to D2. The shift from D0 to D2 represents such a \\ndecrease in demand: At any given price level, the quantity demanded is now lower. In this example, a price of \\n$20,000 means 18 million cars sold along the original demand curve, but only 14.4 million sold after demand \\nfell. \\nWhen a demand curve shifts, it does not mean that the quantity demanded by every individual buyer changes \\nby the same amount. In this example, not everyone would have higher or lower income and not everyone \\nwould buy or not buy an additional car. Instead, a shift in a demand curve captures a pattern for the market as \\na whole. \\nIn the previous section, we argued that higher income causes greater demand at every price. This is true for \\nmost goods and services. For some—luxury cars, vacations in Europe, and fine jewelry—the effect of a rise in \\nincome can be especially pronounced. A product whose demand rises when income rises, and vice versa, is \\ncalled a normal good. A few exceptions to this pattern do exist. As incomes rise, many people will buy fewer \\n56     3 • Demand and Supply\\nAccess for free at openstax.org\\n\"}]"
+              }
+            ]
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "finish",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_07e908c759051b4c016af836597e7c87d2a3c37c59380d1f77",
+        "object": "response",
+        "created_at": 1794651737,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651739,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_07e908c759051b4c016af8365a395087d2a2016db38db6bdb2",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"status\":\"answered\",\"answer\":\"Theo Hình 3.16 và Bảng 3.6, lượng cung năm 2015 bằng đúng lượng cầu tại mức giá **$2.50 per pound**; ở mức này, bảng cho thấy **Quantity Supplied in 2015 = 550** và **Quantity Demanded = 550** [page 57, Figure 3.16, Table 3.6]. Khi đó, Hình 3.16/Bảng 3.6 ghi **giá cân bằng là $2.50 per pound** và **lượng cân bằng là 550,000 salmon** [page 58, Figure 3.16, Table 3.6].\",\"pages\":[57,58]}",
+            "call_id": "call_Bt3jlVp0M9pFyoXviwvAxT0B",
+            "name": "finish"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "name": "finish",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 3728,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 167,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 3895
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 2.1333321999991313
+    }
+  ],
+  "usage": {
+    "model_calls": 2,
+    "input_tokens": 3942,
+    "cached_input_tokens": 0,
+    "output_tokens": 245,
+    "estimated_api_cost_usd": 0.004059,
+    "cost_note": "Estimate from published standard GPT-5.4-mini token rates, verified 2026-11-14; actual bill may differ. Unknown model/endpoint rates are not assumed zero.",
+    "pricing_source": "https://developers.openai.com/api/docs/models/gpt-5.4-mini"
+  },
+  "seconds": 3.7550989000010304
+}

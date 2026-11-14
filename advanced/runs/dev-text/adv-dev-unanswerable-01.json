@@ -1,0 +1,514 @@
+{
+  "id": "adv-dev-unanswerable-01",
+  "question": "Dựa riêng vào tài liệu, mức lương tối thiểu vùng I Việt Nam năm 2026 chính xác là bao nhiêu?",
+  "vision": false,
+  "final": {
+    "status": "abstain",
+    "answer": "Tài liệu nguồn được cung cấp không có thông tin về mức lương tối thiểu vùng I Việt Nam năm 2026, nên không thể xác định chính xác từ nguồn này.",
+    "pages": [
+      68,
+      24,
+      86,
+      85,
+      10,
+      112
+    ]
+  },
+  "context": [
+    {
+      "page": 68,
+      "original_pdf_page": 92,
+      "text": "As a result, two changes occur. First, an inefficient outcome occurs and the total surplus of society is reduced. \nThe loss in social surplus that occurs when the economy produces at an inefficient quantity is called \ndeadweight loss. In a very real sense, it is like money thrown away that benefits no one. In Figure 3.24 (a), the \ndeadweight loss is the area U + W. When deadweight loss exists, it is possible for both consumer and producer \nsurplus to be higher, in this case because the price control is blocking some suppliers and demanders from \ntransactions they would both be willing to make. \nA second change from the price ceiling is that some of the producer surplus is transferred to consumers. After \nthe price ceiling is imposed, the new consumer surplus is T + V, while the new producer surplus is X. In other \nwords, the price ceiling transfers the area of surplus (V) from producers to consumers. Note that the gain to \nconsumers is less than the loss to producers, which is just another way of seeing the deadweight loss. \nFIGURE 3.24 Efficiency and Price Floors and Ceilings (a) The original equilibrium price is $600 with a quantity of \n20,000. Consumer surplus is T + U, and producer surplus is V + W + X. A price ceiling is imposed at $400, so firms in \nthe market now produce only a quantity of 15,000. As a result, the new consumer surplus is T + V, while the new \nproducer surplus is X. (b) The original equilibrium is $8 at a quantity of 1,800. Consumer surplus is G + H + J, and \nproducer surplus is I + K. A price floor is imposed at $12, which means that quantity demanded falls to 1,400. As a \nresult, the new consumer surplus is G, and the new producer surplus is H + I. \nFigure 3.24 (b) shows a price floor example using a string of struggling movie theaters, all in the same city. The \ncurrent equilibrium is $8 per movie ticket, with 1,800 people attending movies. The original consumer surplus \nis G + H + J, and producer surplus is I + K. The city government is worried that movie theaters will go out of \nbusiness, reducing the entertainment options available to citizens, so it decides to impose a price floor of $12 \nper ticket. As a result, the quantity demanded of movie tickets falls to 1,400. The new consumer surplus is G, \nand the new producer surplus is H + I. In effect, the price floor causes the area H to be transferred from \nconsumer to producer surplus, but also causes a deadweight loss of J + K. \nThis analysis shows that a price ceiling, like a law establishing rent controls, will transfer some producer \nsurplus to consumers—which helps to explain why consumers often favor them. Conversely, a price floor like a \nguarantee that farmers will receive a certain price for their crops will transfer some consumer surplus to \nproducers, which explains why producers often favor them. However, both price floors and price ceilings block \nsome transactions that buyers and sellers would have been willing to make, and creates deadweight loss. \nRemoving such barriers, so that prices and quantities can adjust to their equilibrium level, will increase the \neconomy’s social surplus. \nDemand and Supply as a Social Adjustment Mechanism \nThe demand and supply model emphasizes that prices are not set only by demand or only by supply, but by the \n76     3 • Demand and Supply\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 24,
+      "original_pdf_page": 48,
+      "text": "Retrofitting all U.S. planes with reinforced cockpit doors to make it harder for terrorists to take over the plane would \nhave a price tag of $450 million. Buying more sophisticated security equipment for airports, like three-dimensional \nbaggage scanners and cameras linked to face recognition software, could cost another $2 billion. \nHowever, the single biggest cost of greater airline security does not involve spending money. It is the opportunity \ncost of additional waiting time at the airport. According to the United States Department of Transportation (DOT), \nthere were 895.5 million systemwide (domestic and international) scheduled service passengers in 2015. Since the \n9/11 hijackings, security screening has become more intensive, and consequently, the procedure takes longer than \nin the past. Say that, on average, each air passenger spends an extra 30 minutes in the airport per trip. Economists \ncommonly place a value on time to convert an opportunity cost in time into a monetary figure. Because many air \ntravelers are relatively high-paid business people, conservative estimates set the average price of time for air \ntravelers at $20 per hour. By these back-of-the-envelope calculations, the opportunity cost of delays in airports \ncould be as much as 800 million × 0.5 hours × $20/hour, or $8 billion per year. Clearly, the opportunity costs of \nwaiting time can be just as important as costs that involve direct spending. \nIn some cases, realizing the opportunity cost can alter behavior. Imagine, for example, that you spend $8 on \nlunch every day at work. You may know perfectly well that bringing a lunch from home would cost only $3 a \nday, so the opportunity cost of buying lunch at the restaurant is $5 each day (that is, the $8 buying lunch costs \nminus the $3 your lunch from home would cost). Five dollars each day does not seem to be that much. \nHowever, if you project what that adds up to in a year—250 days a year × $5 per day equals $1,250, the cost, \nperhaps, of a decent vacation. If you describe the opportunity cost as “a nice vacation” instead of “$5 a day,” \nyou might make different choices. \nMarginal Decision-Making and Diminishing Marginal Utility \nThe budget constraint framework helps to emphasize that most choices in the real world are not about getting \nall of one thing or all of another; that is, they are not about choosing either the point at one end of the budget \nconstraint or else the point all the way at the other end. Instead, most choices involve marginal analysis, \nwhich means examining the benefits and costs of choosing a little more or a little less of a good. People \nnaturally compare costs and benefits, but often we look at total costs and total benefits, when the optimal \nchoice necessitates comparing how costs and benefits change from one option to another. You might think of \nmarginal analysis as “change analysis.” Marginal analysis is used throughout economics. \nWe now turn to the notion of utility. People desire goods and services for the satisfaction or utility those goods \nand services provide. Utility, as we will see in the chapter on Consumer Choices, is subjective but that does not \nmake it less real. Economists typically assume that the more of some good one consumes (for example, slices \nof pizza), the more utility one obtains. At the same time, the utility a person receives from consuming the first \nunit of a good is typically more than the utility received from consuming the fifth or the tenth unit of that same \ngood. When Alphonso chooses between burgers and bus tickets, for example, the first few bus rides that he \nchooses might provide him with a great deal of utility—perhaps they help him get to a job interview or a \ndoctor’s appointment. However, later bus rides might provide much less utility—they may only serve to kill \ntime on a rainy day. Similarly, the first burger that Alphonso chooses to buy may be on a day when he missed \nbreakfast and is ravenously hungry. However, if Alphonso has multiple burgers every day, the last few burgers \nmay taste pretty boring. The general pattern that consumption of the first few units of any good tends to bring \na higher level of utility to a person than consumption of later units is a common pattern. Economists refer to \nthis pattern as the law of diminishing marginal utility, which means that as a person receives more of a good, \nthe additional (or marginal) utility from each additional unit of the good declines. In other words, the first slice \nof pizza brings more satisfaction than the sixth. \nThe law of diminishing marginal utility explains why people and societies rarely make all-or-nothing choices. \nYou would not say, “My favorite food is ice cream, so I will eat nothing but ice cream from now on.” Instead, \neven if you get a very high level of utility from your favorite food, if you ate it exclusively, the additional or \n32     2 • Choice in a World of Scarcity\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 86,
+      "original_pdf_page": 110,
+      "text": "What’s the harm in raising the minimum wage? \nBecause of the law of demand, a higher required wage will reduce the amount of low-skill employment either in \nterms of employees or in terms of work hours. Although there is controversy over the numbers, let’s say for the sake \nof the argument that a 10% rise in the minimum wage will reduce the employment of low-skill workers by 2%. Does \nthis outcome mean that raising the minimum wage by 10% is bad public policy? Not necessarily. \nIf 98% of those receiving the minimum wage have a pay increase of 10%, but 2% of those receiving the minimum \nwage lose their jobs, are the gains for society as a whole greater than the losses? The answer is not clear, because \njob losses, even for a small group, may cause more pain than modest income gains for others. For one thing, we \nneed to consider which minimum wage workers are losing their jobs. If the 2% of minimum wage workers who lose \ntheir jobs are struggling to support families, that is one thing. If those who lose their job are high school students \npicking up spending money over summer vacation, that is something else. \nAnother complexity is that many minimum wage workers do not work full-time for an entire year. Imagine a \nminimum wage worker who holds different part-time jobs for a few months at a time, with bouts of unemployment \nin between. The worker in this situation receives the 10% raise in the minimum wage when working, but also ends \nup working 2% fewer hours during the year because the higher minimum wage reduces how much employers want \npeople to work. Overall, this worker’s income would rise because the 10% pay raise would more than offset the 2% \nfewer hours worked. \nOf course, these arguments do not prove that raising the minimum wage is necessarily a good idea either. There may \nwell be other, better public policy options for helping low-wage workers. (The Poverty and Economic Inequality \nchapter discusses some possibilities.) The lesson from this maze of minimum wage arguments is that complex \nsocial problems rarely have simple answers. Even those who agree on how a proposed economic policy affects \nquantity demanded and quantity supplied may still disagree on whether the policy is a good idea. \n4.2 Demand and Supply in Financial Markets \nLEARNING OBJECTIVES \nBy the end of this section, you will be able to: \n• Identify the demanders and suppliers in a financial market \n• Explain how interest rates can affect supply and demand \n• Analyze the economic effects of U.S. debt in terms of domestic financial markets \n• Explain the role of price ceilings and usury laws in the U.S. \nUnited States' households, institutions, and domestic businesses saved almost $1.3 trillion in 2015. Where did \nthat savings go and how was it used? Some of the savings ended up in banks, which in turn loaned the money \nto individuals or businesses that wanted to borrow money. Some was invested in private companies or loaned \nto government agencies that wanted to borrow money to raise funds for purposes like building roads or mass \ntransit. Some firms reinvested their savings in their own businesses. \nIn this section, we will determine how the demand and supply model links those who wish to supply financial \ncapital (i.e., savings) with those who demand financial capital (i.e., borrowing). Those who save money (or \nmake financial investments, which is the same thing), whether individuals or businesses, are on the supply \nside of the financial market. Those who borrow money are on the demand side of the financial market. For a \nmore detailed treatment of the different kinds of financial investments like bank accounts, stocks and bonds, \nsee the Financial Markets chapter. \nWho Demands and Who Supplies in Financial Markets? \nIn any market, the price is what suppliers receive and what demanders pay. In financial markets, those who \n CLEAR IT UP \n94     4 • Labor and Financial Markets\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 112,
+      "original_pdf_page": 584,
+      "text": "capital—in the context of the overall levels of savings and financial investment in the economy. \nUnderstanding the Determinants of the Trade and Current Account Balance \nThe national saving and investment identity provides a useful way to understand the determinants of the \ntrade and current account balance. In a nation’s financial capital market, the quantity of financial capital \nsupplied at any given time must equal the quantity of financial capital demanded for purposes of making \ninvestments. What is on the supply and demand sides of financial capital? See the following Clear It Up feature \nfor the answer to this question. \nWhat comprises the supply and demand of financial capital? \nA country’s national savings is the total of its domestic savings by household and companies (private savings) as \nwell as the government (public savings). If a country is running a trade deficit, it means money from abroad is \nentering the country and the government considers it part of the supply of financial capital. \nThe demand for financial capital (money) represents groups that are borrowing the money. Businesses need to \nborrow to finance their investments in factories, materials, and personnel. When the federal government runs a \nbudget deficit, it is also borrowing money from investors by selling Treasury bonds. Therefore, both business \ninvestment and the federal government can demand (or borrow) the supply of savings. \nThere are two main sources for the supply of financial capital in the U.S. economy: saving by individuals and \nfirms, called S, and the inflow of financial capital from foreign investors, which is equal to the trade deficit (M – \nX), or imports minus exports. There are also two main sources of demand for financial capital in the U.S. \neconomy: private sector investment, I, and government borrowing, where the government needs to borrow \nwhen government spending, G, is higher than the taxes collected, T. We can express this national savings and \ninvestment identity in algebraic terms: \nAgain, in this equation, S is private savings, T is taxes, G is government spending, M is imports, X is exports, \nand I is investment. This relationship is true as a matter of definition because, for the macro economy, the \nquantity supplied of financial capital must be equal to the quantity demanded. \nHowever, certain components of the national savings and investment identity can switch between the supply \nside and the demand side. Some countries, like the United States in most years since the 1970s, have budget \ndeficits, which mean the government is spending more than it collects in taxes, and so the government needs \nto borrow funds. In this case, the government term would be G – T > 0, showing that spending is larger than \ntaxes, and the government would be a demander of financial capital on the right-hand side of the equation \n(that is, a borrower), not a supplier of financial capital on the left-hand side. However, if the government runs a \nbudget surplus so that the taxes exceed spending, as the U.S. government did from 1998 to 2001, then the \ngovernment in that year was contributing to the supply of financial capital (T – G > 0), and would appear on the \nleft (supplier or saving) side of the national savings and investment identity. \nSimilarly, if a national economy runs a trade surplus, the trade sector will involve an outflow of financial capital \nto other countries. A trade surplus means that the domestic financial capital is in surplus within a country and \ncan be invested in other countries. \nThe fundamental notion that total quantity of financial capital demanded equals total quantity of financial \ncapital supplied must always remain true. Domestic savings will always appear as part of the supply of \nfinancial capital and domestic investment will always appear as part of the demand for financial capital. \n CLEAR IT UP \n568     23 • The International Trade and Capital Flows\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 85,
+      "original_pdf_page": 109,
+      "text": "Wage \nQuantity Labor Demanded Quantity Labor Supplied \n$8/hr \n1,900 \n500 \n$9/hr \n1,500 \n900 \n$10/hr 1,200 \n1,200 \n$11/hr 900 \n1,400 \n$12/hr 700 \n1,600 \n$13/hr 500 \n1,800 \n$14/hr 400 \n1,900 \nTABLE 4.4 Living Wage: Example of a Price Floor \nThe Minimum Wage as an Example of a Price Floor \nThe U.S. minimum wage is a price floor that is set either very close to the equilibrium wage or even slightly \nbelow it. About 1.5% of hourly workers in the U.S. are paid the minimum wage. In other words, the vast \nmajority of the U.S. labor force has its wages determined in the labor market, not as a result of the government \nprice floor. However, for workers with low skills and little experience, like those without a high school diploma \nor teenagers, the minimum wage is quite important. In many cities, the federal minimum wage is apparently \nbelow the market price for unskilled labor, because employers offer more than the minimum wage to checkout \nclerks and other low-skill workers without any government prodding. \nEconomists have attempted to estimate how much the minimum wage reduces the quantity demanded of low-\nskill labor. A typical result of such studies is that a 10% increase in the minimum wage would decrease the \nhiring of unskilled workers by 1 to 2%, which seems a relatively small reduction. In fact, some studies have \neven found no effect of a higher minimum wage on employment at certain times and places—although these \nstudies are controversial. Well-known economists Walter Williams and Thomas Sowell, who both focus on the \nintersections of race and economics, argue that minimum wages increase discrimination and limit economic \nmobility. Williams, for example, indicates that higher minimum wages would increase employment barriers \nfor lower-skilled workers, reducing the opportunity for them to learn on the job and gain experience that \nwould give them more choice in employment. \nLet’s suppose that the minimum wage lies just slightly below the equilibrium wage level. Wages could fluctuate \naccording to market forces above this price floor, but they would not be allowed to move beneath the floor. In \nthis situation, the price floor minimum wage is nonbinding —that is, the price floor is not determining the \nmarket outcome. Even if the minimum wage moves just a little higher, it will still have no effect on the quantity \nof employment in the economy, as long as it remains below the equilibrium wage. Even if the government \nincreases the minimum wage by enough so that it rises slightly above the equilibrium wage and becomes \nbinding, there will be only a small excess supply gap between the quantity demanded and quantity supplied. \nThese insights help to explain why U.S. minimum wage laws have historically had only a small impact on \nemployment. Since the minimum wage has typically been set close to the equilibrium wage for low-skill labor \nand sometimes even below it, it has not had a large effect in creating an excess supply of labor. However, if the \nminimum wage increased dramatically—say, if it doubled to match the living wages that some U.S. cities have \nconsidered—then its impact on reducing the quantity demanded of employment would be far greater. The \nfollowing Clear It Up feature describes in greater detail some of the arguments for and against changes to the \nminimum wage. \n4.1 • Demand and Supply at Work in Labor Markets     93\n"
+    },
+    {
+      "page": 10,
+      "original_pdf_page": 34,
+      "text": "services) in which households demand and firms supply. Households sell their labor as workers to firms in \nreturn for wages, salaries, and benefits. The inner circle shows this and represents the two sides of the labor \nmarket in which households supply and firms demand. \nThis version of the circular flow model is stripped down to the essentials, but it has enough features to explain \nhow the product and labor markets work in the economy. We could easily add details to this basic model if we \nwanted to introduce more real-world elements, like financial markets, governments, and interactions with the \nrest of the globe (imports and exports). \nEconomists carry a set of theories in their heads like a carpenter carries around a toolkit. When they see an \neconomic issue or problem, they go through the theories they know to see if they can find one that fits. Then \nthey use the theory to derive insights about the issue or problem. Economists express theories as diagrams, \ngraphs, or even as mathematical equations. (Do not worry. In this course, we will mostly use graphs.) \nEconomists do not figure out the answer to the problem first and then draw the graph to illustrate. Rather, they \nuse the graph of the theory to help them figure out the answer. Although at the introductory level, you can \nsometimes figure out the right answer without applying a model, if you keep studying economics, before too \nlong you will run into issues and problems that you will need to graph to solve. We explain both micro and \nmacroeconomics in terms of theories and models. The most well-known theories are probably those of supply \nand demand, but you will learn a number of others. \n1.4 How To Organize Economies: An Overview of Economic Systems \nLEARNING OBJECTIVES \nBy the end of this section, you will be able to: \n• Contrast traditional economies, command economies, and market economies \n• Explain gross domestic product (GDP) \n• Assess the importance and effects of globalization \nThink about what a complex system a modern economy is. It includes all production of goods and services, all \nbuying and selling, all employment. The economic life of every individual is interrelated, at least to a small \nextent, with the economic lives of thousands or even millions of other individuals. Who organizes and \ncoordinates this system? Who ensures that, for example, the number of televisions a society provides is the \nsame as the amount it needs and wants? Who ensures that the right number of employees work in the \nelectronics industry? Who ensures that televisions are produced in the best way possible? How does it all get \ndone? \nThere are at least three ways that societies organize an economy. The first is the traditional economy, which is \nthe oldest economic system and is used in parts of Asia, Africa, and South America. Traditional economies \norganize their economic affairs the way they have always done (i.e., tradition). Occupations stay in the family. \nMost families are farmers who grow the crops using traditional methods. What you produce is what you \nconsume. Because tradition drives the way of life, there is little economic progress or development. \n18     1 • Welcome to Economics!\nAccess for free at openstax.org\n"
+    }
+  ],
+  "retrieval_queries": [
+    "\"mức lương tối thiểu vùng I\" Việt Nam 2026",
+    "\"lương tối thiểu vùng I\" 2026 Việt Nam",
+    "\"Vietnam\" minimum wage region I 2026"
+  ],
+  "ranked_pages": [
+    [
+      68,
+      0.07615114502807187
+    ],
+    [
+      24,
+      0.07213030500701734
+    ],
+    [
+      86,
+      0.06154499151103565
+    ],
+    [
+      112,
+      0.04375
+    ],
+    [
+      85,
+      0.032266458495966696
+    ],
+    [
+      10,
+      0.03076923076923077
+    ],
+    [
+      25,
+      0.030303030303030304
+    ],
+    [
+      83,
+      0.029437229437229435
+    ],
+    [
+      1,
+      0.029411764705882353
+    ],
+    [
+      84,
+      0.0293236301369863
+    ],
+    [
+      78,
+      0.02900988017658188
+    ],
+    [
+      37,
+      0.028985507246376812
+    ],
+    [
+      15,
+      0.02857142857142857
+    ],
+    [
+      72,
+      0.028169014084507043
+    ],
+    [
+      61,
+      0.027777777777777776
+    ],
+    [
+      65,
+      0.015384615384615385
+    ],
+    [
+      98,
+      0.014705882352941176
+    ],
+    [
+      39,
+      0.014492753623188406
+    ],
+    [
+      96,
+      0.013888888888888888
+    ],
+    [
+      97,
+      0.013333333333333334
+    ],
+    [
+      74,
+      0.01282051282051282
+    ],
+    [
+      80,
+      0.012658227848101266
+    ]
+  ],
+  "status": "success",
+  "calls": [
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": "Search this economics textbook to answer in Vietnamese: Dựa riêng vào tài liệu, mức lương tối thiểu vùng I Việt Nam năm 2026 chính xác là bao nhiêu?"
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "search_book",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_08e5ec24d4f8fe5b016af83673b25487d2a2dcdd6aa7a2478d",
+        "object": "response",
+        "created_at": 1794651763,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651764,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_08e5ec24d4f8fe5b016af83674095c87d29e73ecab68634d7a",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"queries\":[\"\\\"mức lương tối thiểu vùng I\\\" Việt Nam 2026\", \"\\\"lương tối thiểu vùng I\\\" 2026 Việt Nam\", \"\\\"Vietnam\\\" minimum wage region I 2026\"]}",
+            "call_id": "call_aQRmOomJFlZFk1ilzxBWJZyn",
+            "name": "search_book"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "name": "search_book",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 170,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 60,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 230
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.103279199989629
+    },
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": [
+              {
+                "type": "input_text",
+                "text": "Answer the question using ONLY supplied source evidence, in Vietnamese. Cite [page N] and Figure/Table ID for all claims. No external facts. If date/place/condition absent, choose abstain with no guessed values. Dựa riêng vào tài liệu, mức lương tối thiểu vùng I Việt Nam năm 2026 chính xác là bao nhiêu?\nSOURCE_CONTEXT:[{\"page\": 68, \"original_pdf_page\": 92, \"text\": \"As a result, two changes occur. First, an inefficient outcome occurs and the total surplus of society is reduced. \\nThe loss in social surplus that occurs when the economy produces at an inefficient quantity is called \\ndeadweight loss. In a very real sense, it is like money thrown away that benefits no one. In Figure 3.24 (a), the \\ndeadweight loss is the area U + W. When deadweight loss exists, it is possible for both consumer and producer \\nsurplus to be higher, in this case because the price control is blocking some suppliers and demanders from \\ntransactions they would both be willing to make. \\nA second change from the price ceiling is that some of the producer surplus is transferred to consumers. After \\nthe price ceiling is imposed, the new consumer surplus is T + V, while the new producer surplus is X. In other \\nwords, the price ceiling transfers the area of surplus (V) from producers to consumers. Note that the gain to \\nconsumers is less than the loss to producers, which is just another way of seeing the deadweight loss. \\nFIGURE 3.24 Efficiency and Price Floors and Ceilings (a) The original equilibrium price is $600 with a quantity of \\n20,000. Consumer surplus is T + U, and producer surplus is V + W + X. A price ceiling is imposed at $400, so firms in \\nthe market now produce only a quantity of 15,000. As a result, the new consumer surplus is T + V, while the new \\nproducer surplus is X. (b) The original equilibrium is $8 at a quantity of 1,800. Consumer surplus is G + H + J, and \\nproducer surplus is I + K. A price floor is imposed at $12, which means that quantity demanded falls to 1,400. As a \\nresult, the new consumer surplus is G, and the new producer surplus is H + I. \\nFigure 3.24 (b) shows a price floor example using a string of struggling movie theaters, all in the same city. The \\ncurrent equilibrium is $8 per movie ticket, with 1,800 people attending movies. The original consumer surplus \\nis G + H + J, and producer surplus is I + K. The city government is worried that movie theaters will go out of \\nbusiness, reducing the entertainment options available to citizens, so it decides to impose a price floor of $12 \\nper ticket. As a result, the quantity demanded of movie tickets falls to 1,400. The new consumer surplus is G, \\nand the new producer surplus is H + I. In effect, the price floor causes the area H to be transferred from \\nconsumer to producer surplus, but also causes a deadweight loss of J + K. \\nThis analysis shows that a price ceiling, like a law establishing rent controls, will transfer some producer \\nsurplus to consumers—which helps to explain why consumers often favor them. Conversely, a price floor like a \\nguarantee that farmers will receive a certain price for their crops will transfer some consumer surplus to \\nproducers, which explains why producers often favor them. However, both price floors and price ceilings block \\nsome transactions that buyers and sellers would have been willing to make, and creates deadweight loss. \\nRemoving such barriers, so that prices and quantities can adjust to their equilibrium level, will increase the \\neconomy’s social surplus. \\nDemand and Supply as a Social Adjustment Mechanism \\nThe demand and supply model emphasizes that prices are not set only by demand or only by supply, but by the \\n76     3 • Demand and Supply\\nAccess for free at openstax.org\\n\"}, {\"page\": 24, \"original_pdf_page\": 48, \"text\": \"Retrofitting all U.S. planes with reinforced cockpit doors to make it harder for terrorists to take over the plane would \\nhave a price tag of $450 million. Buying more sophisticated security equipment for airports, like three-dimensional \\nbaggage scanners and cameras linked to face recognition software, could cost another $2 billion. \\nHowever, the single biggest cost of greater airline security does not involve spending money. It is the opportunity \\ncost of additional waiting time at the airport. According to the United States Department of Transportation (DOT), \\nthere were 895.5 million systemwide (domestic and international) scheduled service passengers in 2015. Since the \\n9/11 hijackings, security screening has become more intensive, and consequently, the procedure takes longer than \\nin the past. Say that, on average, each air passenger spends an extra 30 minutes in the airport per trip. Economists \\ncommonly place a value on time to convert an opportunity cost in time into a monetary figure. Because many air \\ntravelers are relatively high-paid business people, conservative estimates set the average price of time for air \\ntravelers at $20 per hour. By these back-of-the-envelope calculations, the opportunity cost of delays in airports \\ncould be as much as 800 million × 0.5 hours × $20/hour, or $8 billion per year. Clearly, the opportunity costs of \\nwaiting time can be just as important as costs that involve direct spending. \\nIn some cases, realizing the opportunity cost can alter behavior. Imagine, for example, that you spend $8 on \\nlunch every day at work. You may know perfectly well that bringing a lunch from home would cost only $3 a \\nday, so the opportunity cost of buying lunch at the restaurant is $5 each day (that is, the $8 buying lunch costs \\nminus the $3 your lunch from home would cost). Five dollars each day does not seem to be that much. \\nHowever, if you project what that adds up to in a year—250 days a year × $5 per day equals $1,250, the cost, \\nperhaps, of a decent vacation. If you describe the opportunity cost as “a nice vacation” instead of “$5 a day,” \\nyou might make different choices. \\nMarginal Decision-Making and Diminishing Marginal Utility \\nThe budget constraint framework helps to emphasize that most choices in the real world are not about getting \\nall of one thing or all of another; that is, they are not about choosing either the point at one end of the budget \\nconstraint or else the point all the way at the other end. Instead, most choices involve marginal analysis, \\nwhich means examining the benefits and costs of choosing a little more or a little less of a good. People \\nnaturally compare costs and benefits, but often we look at total costs and total benefits, when the optimal \\nchoice necessitates comparing how costs and benefits change from one option to another. You might think of \\nmarginal analysis as “change analysis.” Marginal analysis is used throughout economics. \\nWe now turn to the notion of utility. People desire goods and services for the satisfaction or utility those goods \\nand services provide. Utility, as we will see in the chapter on Consumer Choices, is subjective but that does not \\nmake it less real. Economists typically assume that the more of some good one consumes (for example, slices \\nof pizza), the more utility one obtains. At the same time, the utility a person receives from consuming the first \\nunit of a good is typically more than the utility received from consuming the fifth or the tenth unit of that same \\ngood. When Alphonso chooses between burgers and bus tickets, for example, the first few bus rides that he \\nchooses might provide him with a great deal of utility—perhaps they help him get to a job interview or a \\ndoctor’s appointment. However, later bus rides might provide much less utility—they may only serve to kill \\ntime on a rainy day. Similarly, the first burger that Alphonso chooses to buy may be on a day when he missed \\nbreakfast and is ravenously hungry. However, if Alphonso has multiple burgers every day, the last few burgers \\nmay taste pretty boring. The general pattern that consumption of the first few units of any good tends to bring \\na higher level of utility to a person than consumption of later units is a common pattern. Economists refer to \\nthis pattern as the law of diminishing marginal utility, which means that as a person receives more of a good, \\nthe additional (or marginal) utility from each additional unit of the good declines. In other words, the first slice \\nof pizza brings more satisfaction than the sixth. \\nThe law of diminishing marginal utility explains why people and societies rarely make all-or-nothing choices. \\nYou would not say, “My favorite food is ice cream, so I will eat nothing but ice cream from now on.” Instead, \\neven if you get a very high level of utility from your favorite food, if you ate it exclusively, the additional or \\n32     2 • Choice in a World of Scarcity\\nAccess for free at openstax.org\\n\"}, {\"page\": 86, \"original_pdf_page\": 110, \"text\": \"What’s the harm in raising the minimum wage? \\nBecause of the law of demand, a higher required wage will reduce the amount of low-skill employment either in \\nterms of employees or in terms of work hours. Although there is controversy over the numbers, let’s say for the sake \\nof the argument that a 10% rise in the minimum wage will reduce the employment of low-skill workers by 2%. Does \\nthis outcome mean that raising the minimum wage by 10% is bad public policy? Not necessarily. \\nIf 98% of those receiving the minimum wage have a pay increase of 10%, but 2% of those receiving the minimum \\nwage lose their jobs, are the gains for society as a whole greater than the losses? The answer is not clear, because \\njob losses, even for a small group, may cause more pain than modest income gains for others. For one thing, we \\nneed to consider which minimum wage workers are losing their jobs. If the 2% of minimum wage workers who lose \\ntheir jobs are struggling to support families, that is one thing. If those who lose their job are high school students \\npicking up spending money over summer vacation, that is something else. \\nAnother complexity is that many minimum wage workers do not work full-time for an entire year. Imagine a \\nminimum wage worker who holds different part-time jobs for a few months at a time, with bouts of unemployment \\nin between. The worker in this situation receives the 10% raise in the minimum wage when working, but also ends \\nup working 2% fewer hours during the year because the higher minimum wage reduces how much employers want \\npeople to work. Overall, this worker’s income would rise because the 10% pay raise would more than offset the 2% \\nfewer hours worked. \\nOf course, these arguments do not prove that raising the minimum wage is necessarily a good idea either. There may \\nwell be other, better public policy options for helping low-wage workers. (The Poverty and Economic Inequality \\nchapter discusses some possibilities.) The lesson from this maze of minimum wage arguments is that complex \\nsocial problems rarely have simple answers. Even those who agree on how a proposed economic policy affects \\nquantity demanded and quantity supplied may still disagree on whether the policy is a good idea. \\n4.2 Demand and Supply in Financial Markets \\nLEARNING OBJECTIVES \\nBy the end of this section, you will be able to: \\n• Identify the demanders and suppliers in a financial market \\n• Explain how interest rates can affect supply and demand \\n• Analyze the economic effects of U.S. debt in terms of domestic financial markets \\n• Explain the role of price ceilings and usury laws in the U.S. \\nUnited States' households, institutions, and domestic businesses saved almost $1.3 trillion in 2015. Where did \\nthat savings go and how was it used? Some of the savings ended up in banks, which in turn loaned the money \\nto individuals or businesses that wanted to borrow money. Some was invested in private companies or loaned \\nto government agencies that wanted to borrow money to raise funds for purposes like building roads or mass \\ntransit. Some firms reinvested their savings in their own businesses. \\nIn this section, we will determine how the demand and supply model links those who wish to supply financial \\ncapital (i.e., savings) with those who demand financial capital (i.e., borrowing). Those who save money (or \\nmake financial investments, which is the same thing), whether individuals or businesses, are on the supply \\nside of the financial market. Those who borrow money are on the demand side of the financial market. For a \\nmore detailed treatment of the different kinds of financial investments like bank accounts, stocks and bonds, \\nsee the Financial Markets chapter. \\nWho Demands and Who Supplies in Financial Markets? \\nIn any market, the price is what suppliers receive and what demanders pay. In financial markets, those who \\n CLEAR IT UP \\n94     4 • Labor and Financial Markets\\nAccess for free at openstax.org\\n\"}, {\"page\": 112, \"original_pdf_page\": 584, \"text\": \"capital—in the context of the overall levels of savings and financial investment in the economy. \\nUnderstanding the Determinants of the Trade and Current Account Balance \\nThe national saving and investment identity provides a useful way to understand the determinants of the \\ntrade and current account balance. In a nation’s financial capital market, the quantity of financial capital \\nsupplied at any given time must equal the quantity of financial capital demanded for purposes of making \\ninvestments. What is on the supply and demand sides of financial capital? See the following Clear It Up feature \\nfor the answer to this question. \\nWhat comprises the supply and demand of financial capital? \\nA country’s national savings is the total of its domestic savings by household and companies (private savings) as \\nwell as the government (public savings). If a country is running a trade deficit, it means money from abroad is \\nentering the country and the government considers it part of the supply of financial capital. \\nThe demand for financial capital (money) represents groups that are borrowing the money. Businesses need to \\nborrow to finance their investments in factories, materials, and personnel. When the federal government runs a \\nbudget deficit, it is also borrowing money from investors by selling Treasury bonds. Therefore, both business \\ninvestment and the federal government can demand (or borrow) the supply of savings. \\nThere are two main sources for the supply of financial capital in the U.S. economy: saving by individuals and \\nfirms, called S, and the inflow of financial capital from foreign investors, which is equal to the trade deficit (M – \\nX), or imports minus exports. There are also two main sources of demand for financial capital in the U.S. \\neconomy: private sector investment, I, and government borrowing, where the government needs to borrow \\nwhen government spending, G, is higher than the taxes collected, T. We can express this national savings and \\ninvestment identity in algebraic terms: \\nAgain, in this equation, S is private savings, T is taxes, G is government spending, M is imports, X is exports, \\nand I is investment. This relationship is true as a matter of definition because, for the macro economy, the \\nquantity supplied of financial capital must be equal to the quantity demanded. \\nHowever, certain components of the national savings and investment identity can switch between the supply \\nside and the demand side. Some countries, like the United States in most years since the 1970s, have budget \\ndeficits, which mean the government is spending more than it collects in taxes, and so the government needs \\nto borrow funds. In this case, the government term would be G – T > 0, showing that spending is larger than \\ntaxes, and the government would be a demander of financial capital on the right-hand side of the equation \\n(that is, a borrower), not a supplier of financial capital on the left-hand side. However, if the government runs a \\nbudget surplus so that the taxes exceed spending, as the U.S. government did from 1998 to 2001, then the \\ngovernment in that year was contributing to the supply of financial capital (T – G > 0), and would appear on the \\nleft (supplier or saving) side of the national savings and investment identity. \\nSimilarly, if a national economy runs a trade surplus, the trade sector will involve an outflow of financial capital \\nto other countries. A trade surplus means that the domestic financial capital is in surplus within a country and \\ncan be invested in other countries. \\nThe fundamental notion that total quantity of financial capital demanded equals total quantity of financial \\ncapital supplied must always remain true. Domestic savings will always appear as part of the supply of \\nfinancial capital and domestic investment will always appear as part of the demand for financial capital. \\n CLEAR IT UP \\n568     23 • The International Trade and Capital Flows\\nAccess for free at openstax.org\\n\"}, {\"page\": 85, \"original_pdf_page\": 109, \"text\": \"Wage \\nQuantity Labor Demanded Quantity Labor Supplied \\n$8/hr \\n1,900 \\n500 \\n$9/hr \\n1,500 \\n900 \\n$10/hr 1,200 \\n1,200 \\n$11/hr 900 \\n1,400 \\n$12/hr 700 \\n1,600 \\n$13/hr 500 \\n1,800 \\n$14/hr 400 \\n1,900 \\nTABLE 4.4 Living Wage: Example of a Price Floor \\nThe Minimum Wage as an Example of a Price Floor \\nThe U.S. minimum wage is a price floor that is set either very close to the equilibrium wage or even slightly \\nbelow it. About 1.5% of hourly workers in the U.S. are paid the minimum wage. In other words, the vast \\nmajority of the U.S. labor force has its wages determined in the labor market, not as a result of the government \\nprice floor. However, for workers with low skills and little experience, like those without a high school diploma \\nor teenagers, the minimum wage is quite important. In many cities, the federal minimum wage is apparently \\nbelow the market price for unskilled labor, because employers offer more than the minimum wage to checkout \\nclerks and other low-skill workers without any government prodding. \\nEconomists have attempted to estimate how much the minimum wage reduces the quantity demanded of low-\\nskill labor. A typical result of such studies is that a 10% increase in the minimum wage would decrease the \\nhiring of unskilled workers by 1 to 2%, which seems a relatively small reduction. In fact, some studies have \\neven found no effect of a higher minimum wage on employment at certain times and places—although these \\nstudies are controversial. Well-known economists Walter Williams and Thomas Sowell, who both focus on the \\nintersections of race and economics, argue that minimum wages increase discrimination and limit economic \\nmobility. Williams, for example, indicates that higher minimum wages would increase employment barriers \\nfor lower-skilled workers, reducing the opportunity for them to learn on the job and gain experience that \\nwould give them more choice in employment. \\nLet’s suppose that the minimum wage lies just slightly below the equilibrium wage level. Wages could fluctuate \\naccording to market forces above this price floor, but they would not be allowed to move beneath the floor. In \\nthis situation, the price floor minimum wage is nonbinding —that is, the price floor is not determining the \\nmarket outcome. Even if the minimum wage moves just a little higher, it will still have no effect on the quantity \\nof employment in the economy, as long as it remains below the equilibrium wage. Even if the government \\nincreases the minimum wage by enough so that it rises slightly above the equilibrium wage and becomes \\nbinding, there will be only a small excess supply gap between the quantity demanded and quantity supplied. \\nThese insights help to explain why U.S. minimum wage laws have historically had only a small impact on \\nemployment. Since the minimum wage has typically been set close to the equilibrium wage for low-skill labor \\nand sometimes even below it, it has not had a large effect in creating an excess supply of labor. However, if the \\nminimum wage increased dramatically—say, if it doubled to match the living wages that some U.S. cities have \\nconsidered—then its impact on reducing the quantity demanded of employment would be far greater. The \\nfollowing Clear It Up feature describes in greater detail some of the arguments for and against changes to the \\nminimum wage. \\n4.1 • Demand and Supply at Work in Labor Markets     93\\n\"}, {\"page\": 10, \"original_pdf_page\": 34, \"text\": \"services) in which households demand and firms supply. Households sell their labor as workers to firms in \\nreturn for wages, salaries, and benefits. The inner circle shows this and represents the two sides of the labor \\nmarket in which households supply and firms demand. \\nThis version of the circular flow model is stripped down to the essentials, but it has enough features to explain \\nhow the product and labor markets work in the economy. We could easily add details to this basic model if we \\nwanted to introduce more real-world elements, like financial markets, governments, and interactions with the \\nrest of the globe (imports and exports). \\nEconomists carry a set of theories in their heads like a carpenter carries around a toolkit. When they see an \\neconomic issue or problem, they go through the theories they know to see if they can find one that fits. Then \\nthey use the theory to derive insights about the issue or problem. Economists express theories as diagrams, \\ngraphs, or even as mathematical equations. (Do not worry. In this course, we will mostly use graphs.) \\nEconomists do not figure out the answer to the problem first and then draw the graph to illustrate. Rather, they \\nuse the graph of the theory to help them figure out the answer. Although at the introductory level, you can \\nsometimes figure out the right answer without applying a model, if you keep studying economics, before too \\nlong you will run into issues and problems that you will need to graph to solve. We explain both micro and \\nmacroeconomics in terms of theories and models. The most well-known theories are probably those of supply \\nand demand, but you will learn a number of others. \\n1.4 How To Organize Economies: An Overview of Economic Systems \\nLEARNING OBJECTIVES \\nBy the end of this section, you will be able to: \\n• Contrast traditional economies, command economies, and market economies \\n• Explain gross domestic product (GDP) \\n• Assess the importance and effects of globalization \\nThink about what a complex system a modern economy is. It includes all production of goods and services, all \\nbuying and selling, all employment. The economic life of every individual is interrelated, at least to a small \\nextent, with the economic lives of thousands or even millions of other individuals. Who organizes and \\ncoordinates this system? Who ensures that, for example, the number of televisions a society provides is the \\nsame as the amount it needs and wants? Who ensures that the right number of employees work in the \\nelectronics industry? Who ensures that televisions are produced in the best way possible? How does it all get \\ndone? \\nThere are at least three ways that societies organize an economy. The first is the traditional economy, which is \\nthe oldest economic system and is used in parts of Asia, Africa, and South America. Traditional economies \\norganize their economic affairs the way they have always done (i.e., tradition). Occupations stay in the family. \\nMost families are farmers who grow the crops using traditional methods. What you produce is what you \\nconsume. Because tradition drives the way of life, there is little economic progress or development. \\n18     1 • Welcome to Economics!\\nAccess for free at openstax.org\\n\"}]"
+              }
+            ]
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "finish",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_038b3c3345e7978d016af83674ddf487d2ac0b8b15cad63b22",
+        "object": "response",
+        "created_at": 1794651765,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651766,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_038b3c3345e7978d016af83675af1087d2b64b63a2774243c3",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"status\":\"abstain\",\"answer\":\"Tài liệu nguồn được cung cấp không có thông tin về mức lương tối thiểu vùng I Việt Nam năm 2026, nên không thể xác định chính xác từ nguồn này.\",\"pages\":[68,24,86,85,10,112]}",
+            "call_id": "call_uDdERJZ2S1zjnEeB3IQwbYAC",
+            "name": "finish"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "name": "finish",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 5436,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 73,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 5509
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 2.1059947999892756
+    }
+  ],
+  "usage": {
+    "model_calls": 2,
+    "input_tokens": 5606,
+    "cached_input_tokens": 0,
+    "output_tokens": 133,
+    "estimated_api_cost_usd": 0.004803,
+    "cost_note": "Estimate from published standard GPT-5.4-mini token rates, verified 2026-11-14; actual bill may differ. Unknown model/endpoint rates are not assumed zero.",
+    "pricing_source": "https://developers.openai.com/api/docs/models/gpt-5.4-mini"
+  },
+  "seconds": 3.212437599999248
+}

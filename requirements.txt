@@ -3,3 +3,4 @@ sentence-transformers==6.3.0
 chromadb==1.5.9
 torch==2.15.0
 pypdf==6.21.4
+pymupdf==2.1

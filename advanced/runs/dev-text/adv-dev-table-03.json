@@ -1,0 +1,545 @@
+{
+  "id": "adv-dev-table-03",
+  "question": "Dựa vào Hình 3.21 và Bảng 3.7 về kiểm soát tiền thuê, nếu chính quyền thành phố ấn định mức giá trần ở $500 cho một căn hộ điển hình, thì tại mức giá đó lượng cầu mới và lượng cung ban đầu lần lượt là bao nhiêu, và chênh lệch giữa chúng (tức mức thiếu hụt) là bao nhiêu căn hộ thuê?",
+  "vision": false,
+  "final": {
+    "status": "answered",
+    "answer": "Theo Hình 3.21 và Bảng 3.7, tại mức giá trần $500, lượng cầu mới là 19.000 căn hộ thuê và lượng cung ban đầu là 15.000 căn hộ thuê; do đó mức thiếu hụt là 4.000 căn hộ thuê [page 64, Figure 3.21; Table 3.7].",
+    "pages": [
+      64
+    ]
+  },
+  "context": [
+    {
+      "page": 63,
+      "original_pdf_page": 87,
+      "text": "demand and supply. \nGovernments can pass laws affecting market outcomes, but no law can negate these economic principles. \nRather, the principles will become apparent in sometimes unexpected ways, which may undermine the intent \nof the government policy. This is one of the major conclusions of this section. \nControversy sometimes surrounds the prices and quantities established by demand and supply, especially for \nproducts that are considered necessities. In some cases, discontent over prices turns into public pressure on \npoliticians, who may then pass legislation to prevent a certain price from climbing “too high” or falling “too \nlow.” \nThe demand and supply model shows how people and firms will react to the incentives that these laws provide \nto control prices, in ways that will often lead to undesirable consequences. Alternative policy tools can often \nachieve the desired goals of price control laws, while avoiding at least some of their costs and tradeoffs. \nPrice Ceilings \nLaws that governments enact to regulate prices are called price controls. Price controls come in two flavors. A \nprice ceiling keeps a price from rising above a certain level (the “ceiling”), while a price floor keeps a price \nfrom falling below a given level (the “floor”). This section uses the demand and supply framework to analyze \nprice ceilings. The next section discusses price floors. \nA price ceiling is a legal maximum price that one pays for some good or service. A government imposes price \nceilings in order to keep the price of some necessary good or service affordable. For example, in 2005 during \nHurricane Katrina, the price of bottled water increased above $5 per gallon. As a result, many people called for \nprice controls on bottled water to prevent the price from rising so high. In this particular case, the government \ndid not impose a price ceiling, but there are other examples of where price ceilings did occur. \nIn many markets for goods and services, demanders outnumber suppliers. Consumers, who are also potential \nvoters, sometimes unite behind a political proposal to hold down a certain price. In some cities, such as \nAlbany, renters have pressed political leaders to pass rent control laws, a price ceiling that usually works by \nstating that landlords can raise rents by only a certain maximum percentage each year. Some of the best \nexamples of rent control occur in urban areas such as New York, Washington D.C., or San Francisco. \nRent control becomes a politically hot topic when rents begin to rise rapidly. Everyone needs an affordable \nplace to live. Perhaps a change in tastes makes a certain suburb or town a more popular place to live. Perhaps \nlocally-based businesses expand, bringing higher incomes and more people into the area. Such changes can \ncause a change in the demand for rental housing, as Figure 3.21 illustrates. The original equilibrium (E0) lies at \nthe intersection of supply curve S0 and demand curve D0, corresponding to an equilibrium price of $500 and \nan equilibrium quantity of 15,000 units of rental housing. The effect of greater income or a change in tastes is \nto shift the demand curve for rental housing to the right, as the data in Table 3.7 shows and the shift from D0 to \nD1 on the graph. In this market, at the new equilibrium E1, the price of a rental unit would rise to $600 and the \nequilibrium quantity would increase to 17,000 units. \n3.4 • Price Ceilings and Price Floors     71\n"
+    },
+    {
+      "page": 64,
+      "original_pdf_page": 88,
+      "text": "FIGURE 3.21 A Price Ceiling Example—Rent Control The original intersection of demand and supply occurs at E0. If \ndemand shifts from D0 to D1, the new equilibrium would be at E1—unless a price ceiling prevents the price from \nrising. If the price is not permitted to rise, the quantity supplied remains at 15,000. However, after the change in \ndemand, the quantity demanded rises to 19,000, resulting in a shortage. \nPrice Original Quantity Supplied Original Quantity Demanded New Quantity Demanded \n$400 12,000 \n18,000 \n23,000 \n$500 15,000 \n15,000 \n19,000 \n$600 17,000 \n13,000 \n17,000 \n$700 19,000 \n11,000 \n15,000 \n$800 20,000 \n10,000 \n14,000 \nTABLE 3.7 Rent Control \nSuppose that a city government passes a rent control law to keep the price at the original equilibrium of $500 \nfor a typical apartment. In Figure 3.21, the horizontal line at the price of $500 shows the legally fixed \nmaximum price set by the rent control law. However, the underlying forces that shifted the demand curve to \nthe right are still there. At that price ($500), the quantity supplied remains at the same 15,000 rental units, but \nthe quantity demanded is 19,000 rental units. In other words, the quantity demanded exceeds the quantity \nsupplied, so there is a shortage of rental housing. One of the ironies of price ceilings is that while the price \nceiling was intended to help renters, there are actually fewer apartments rented out under the price ceiling \n(15,000 rental units) than would be the case at the market rent of $600 (17,000 rental units). \nPrice ceilings do not simply benefit renters at the expense of landlords. Rather, some renters (or potential \nrenters) lose their housing as landlords convert apartments to co-ops and condos. Even when the housing \nremains in the rental market, landlords tend to spend less on maintenance and on essentials like heating, \ncooling, hot water, and lighting. The first rule of economics is you do not get something for nothing—everything \nhas an opportunity cost. Thus, if renters obtain “cheaper” housing than the market requires, they tend to also \nend up with lower quality housing. \nPrice ceilings are enacted in an attempt to keep prices low for those who need the product. However, when the \nmarket price is not allowed to rise to the equilibrium level, quantity demanded exceeds quantity supplied, and \nthus a shortage occurs. Those who manage to purchase the product at the lower price given by the price ceiling \nwill benefit, but sellers of the product will suffer, along with those who are not able to purchase the product at \n72     3 • Demand and Supply\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 50,
+      "original_pdf_page": 74,
+      "text": "the store to stock up on coffee now. We show these changes in demand as shifts in the curve. Therefore, a shift \nin demand happens when a change in some economic factor (other than price) causes a different quantity to \nbe demanded at every price. The following Work It Out feature shows how this happens. \nShift in Demand \nA shift in demand means that at any price (and at every price), the quantity demanded will be different than it \nwas before. Following is an example of a shift in demand due to an income increase. \nStep 1. Draw the graph of a demand curve for a normal good like pizza. Pick a price (like P0). Identify the \ncorresponding Q0. See an example in Figure 3.6. \nFIGURE 3.6 Demand Curve We can use the demand curve to identify how much consumers would buy at any \ngiven price. \nStep 2. Suppose income increases. As a result of the change, are consumers going to buy more or less pizza? The \nanswer is more. Draw a dotted horizontal line from the chosen price, through the original quantity demanded, to \nthe new point with the new Q1. Draw a dotted vertical line down to the horizontal axis and label the new Q1. \nFigure 3.7 provides an example. \nFIGURE 3.7 Demand Curve with Income Increase With an increase in income, consumers will purchase larger \nquantities, pushing demand to the right. \nStep 3. Now, shift the curve through the new point. You will see that an increase in income causes an upward (or \nrightward) shift in the demand curve, so that at any price the quantities demanded will be higher, as Figure 3.8 \nillustrates. \nWORK IT OUT \n58     3 • Demand and Supply\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 45,
+      "original_pdf_page": 69,
+      "text": "Price (per gallon) Quantity demanded (millions of gallons) Quantity supplied (millions of gallons) \n$1.60 \n550 \n640 \n$1.80 \n500 \n680 \n$2.00 \n460 \n700 \n$2.20 \n420 \n720 \nTABLE 3.3 Price, Quantity Demanded, and Quantity Supplied \nRemember this: When two lines on a diagram cross, this intersection usually means something. The point \nwhere the supply curve (S) and the demand curve (D) cross, designated by point E in Figure 3.4, is called the \nequilibrium. The equilibrium price is the only price where the plans of consumers and the plans of producers \nagree—that is, where the amount of the product consumers want to buy (quantity demanded) is equal to the \namount producers want to sell (quantity supplied). Economists call this common quantity the equilibrium \nquantity. At any other price, the quantity demanded does not equal the quantity supplied, so the market is not \nin equilibrium at that price. \nIn Figure 3.4, the equilibrium price is $1.40 per gallon of gasoline and the equilibrium quantity is 600 million \ngallons. If you had only the demand and supply schedules, and not the graph, you could find the equilibrium by \nlooking for the price level on the tables where the quantity demanded and the quantity supplied are equal. \nThe word “equilibrium” means “balance.” If a market is at its equilibrium price and quantity, then it has no \nreason to move away from that point. However, if a market is not at equilibrium, then economic pressures arise \nto move the market toward the equilibrium price and the equilibrium quantity. \nImagine, for example, that the price of a gallon of gasoline was above the equilibrium price—that is, instead of \n$1.40 per gallon, the price is $1.80 per gallon. The dashed horizontal line at the price of $1.80 in Figure 3.4 \nillustrates this above-equilibrium price. At this higher price, the quantity demanded drops from 600 to 500. \nThis decline in quantity reflects how consumers react to the higher price by finding ways to use less gasoline. \nMoreover, at this higher price of $1.80, the quantity of gasoline supplied rises from 600 to 680, as the higher \nprice makes it more profitable for gasoline producers to expand their output. Now, consider how quantity \ndemanded and quantity supplied are related at this above-equilibrium price. Quantity demanded has fallen to \n500 gallons, while quantity supplied has risen to 680 gallons. In fact, at any above-equilibrium price, the \nquantity supplied exceeds the quantity demanded. We call this an excess supply or a surplus. \nWith a surplus, gasoline accumulates at gas stations, in tanker trucks, in pipelines, and at oil refineries. This \naccumulation puts pressure on gasoline sellers. If a surplus remains unsold, those firms involved in making \nand selling gasoline are not receiving enough cash to pay their workers and to cover their expenses. In this \nsituation, some producers and sellers will want to cut prices, because it is better to sell at a lower price than not \nto sell at all. Once some sellers start cutting prices, others will follow to avoid losing sales. These price \nreductions in turn will stimulate a higher quantity demanded. Therefore, if the price is above the equilibrium \nlevel, incentives built into the structure of demand and supply will create pressures for the price to fall toward \nthe equilibrium. \nNow suppose that the price is below its equilibrium level at $1.20 per gallon, as the dashed horizontal line at \nthis price in Figure 3.4 shows. At this lower price, the quantity demanded increases from 600 to 700 as drivers \ntake longer trips, spend more minutes warming up the car in the driveway in wintertime, stop sharing rides to \nwork, and buy larger cars that get fewer miles to the gallon. However, the below-equilibrium price reduces \ngasoline producers’ incentives to produce and sell gasoline, and the quantity supplied falls from 600 to 550. \n3.1 • Demand, Supply, and Equilibrium in Markets for Goods and Services     53\n"
+    },
+    {
+      "page": 76,
+      "original_pdf_page": 100,
+      "text": "Price per Pound \nQd \nQs \n$3.80 \n600 720 \n$4.00 \n590 730 \nTABLE 3.9 \n56 . Table 3.10 shows the supply and demand for movie tickets in a city. Graph demand and supply and \nidentify the equilibrium. Then calculate in a table and graph the effect of the following two changes. \na. Three new nightclubs open. They offer decent bands and have no cover charge, but make their money \nby selling food and drink. As a result, demand for movie tickets falls by six units at every price. \nb. The city eliminates a tax that it placed on all local entertainment businesses. The result is that the \nquantity supplied of movies at any given price increases by 10%. \nPrice per Ticket Qd Qs \n$5.00 \n26 \n16 \n$6.00 \n24 \n18 \n$7.00 \n22 \n20 \n$8.00 \n21 \n21 \n$9.00 \n20 \n22 \nTABLE 3.10 \n57 . A low-income country decides to set a price ceiling on bread so it can make sure that bread is affordable to \nthe poor. Table 3.11 provides the conditions of demand and supply. What are the equilibrium price and \nequilibrium quantity before the price ceiling? What will the excess demand or the shortage (that is, \nquantity demanded minus quantity supplied) be if the price ceiling is set at $2.40? At $2.00? At $3.60? \nPrice \nQd \nQs \n$1.60 \n9,000 \n5,000 \n$2.00 \n8,500 \n5,500 \n$2.40 \n8,000 \n6,400 \n$2.80 7,500 7,500 \n$3.20 \n7,000 \n9,000 \n$3.60 \n6,500 \n11,000 \n$4.00 \n6,000 \n15,000 \nTABLE 3.11 \n84     3 • Problems\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 88,
+      "original_pdf_page": 112,
+      "text": "Interest \nRate (%) \nQuantity of Financial Capital Demanded \n(Borrowing) ($ billions) \nQuantity of Financial Capital Supplied \n(Lending) ($ billions) \n11 \n$800 \n$420 \n13 \n$700 \n$510 \n15 \n$600 \n$600 \n17 \n$550 \n$660 \n19 \n$500 \n$720 \n21 \n$480 \n$750 \nTABLE 4.5 Demand and Supply for Borrowing Money with Credit Cards \nThe laws of demand and supply continue to apply in the financial markets. According to the law of demand, a \nhigher rate of return (that is, a higher price) will decrease the quantity demanded. As the interest rate rises, \nconsumers will reduce the quantity that they borrow. According to the law of supply, a higher price increases \nthe quantity supplied. Consequently, as the interest rate paid on credit card borrowing rises, more firms will be \neager to issue credit cards and to encourage customers to use them. Conversely, if the interest rate on credit \ncards falls, the quantity of financial capital supplied in the credit card market will decrease and the quantity \ndemanded will increase. \nEquilibrium in Financial Markets \nIn the financial market for credit cards in Figure 4.5, the supply curve (S) and the demand curve (D) cross at \nthe equilibrium point (E). The equilibrium occurs at an interest rate of 15%, where the quantity of funds \ndemanded and the quantity supplied are equal at an equilibrium quantity of $600 billion. \nIf the interest rate (remember, this measures the “price” in the financial market) is above the equilibrium level, \nthen an excess supply, or a surplus, of financial capital will arise in this market. For example, at an interest rate \nof 21%, the quantity of funds supplied increases to $750 billion, while the quantity demanded decreases to \n$480 billion. At this above-equilibrium interest rate, firms are eager to supply loans to credit card borrowers, \nbut relatively few people or businesses wish to borrow. As a result, some credit card firms will lower the \ninterest rates (or other fees) they charge to attract more business. This strategy will push the interest rate down \ntoward the equilibrium level. \nIf the interest rate is below the equilibrium, then excess demand or a shortage of funds occurs in this market. \nAt an interest rate of 13%, the quantity of funds credit card borrowers demand increases to $700 billion, but \nthe quantity credit card firms are willing to supply is only $510 billion. In this situation, credit card firms will \nperceive that they are overloaded with eager borrowers and conclude that they have an opportunity to raise \ninterest rates or fees. The interest rate will face economic pressures to creep up toward the equilibrium level. \nThe FRED database publishes some two dozen measures of interest rates, including interest rates on credit \ncards, automobile loans, personal loans, mortgage loans, and more. You can find these at the FRED website \n(https://openstax.org/l/FRED_stlouis). \nShifts in Demand and Supply in Financial Markets \nThose who supply financial capital face two broad decisions: how much to save, and how to divide up their \nsavings among different forms of financial investments. We will discuss each of these in turn. \nParticipants in financial markets must decide when they prefer to consume goods: now or in the future. \n96     4 • Labor and Financial Markets\nAccess for free at openstax.org\n"
+    }
+  ],
+  "retrieval_queries": [
+    "Hình 3.21 Bảng 3.7 kiểm soát tiền thuê giá trần 500 lượng cầu lượng cung thiếu hụt căn hộ thuê",
+    "rent control Figure 3.21 Table 3.7 price ceiling $500 quantity demanded quantity supplied shortage apartments",
+    "Hình 3.21 rent control 500 apartment typical demand supply shortage"
+  ],
+  "ranked_pages": [
+    [
+      63,
+      2.0782059463570377
+    ],
+    [
+      64,
+      2.0624294310174798
+    ],
+    [
+      50,
+      1.0142857142857142
+    ],
+    [
+      45,
+      0.06916697731459721
+    ],
+    [
+      76,
+      0.04839549075403121
+    ],
+    [
+      88,
+      0.04569460390355913
+    ],
+    [
+      44,
+      0.04547574626865672
+    ],
+    [
+      43,
+      0.03985247629083245
+    ],
+    [
+      70,
+      0.030536130536130537
+    ],
+    [
+      73,
+      0.028404512489927477
+    ],
+    [
+      75,
+      0.028381642512077296
+    ],
+    [
+      114,
+      0.02803921568627451
+    ],
+    [
+      68,
+      0.027783137179239824
+    ],
+    [
+      85,
+      0.02667140825035562
+    ],
+    [
+      87,
+      0.026547116736990152
+    ],
+    [
+      54,
+      0.02638888888888889
+    ],
+    [
+      41,
+      0.026144907723855092
+    ],
+    [
+      52,
+      0.025
+    ],
+    [
+      84,
+      0.015625
+    ],
+    [
+      91,
+      0.015151515151515152
+    ],
+    [
+      14,
+      0.014492753623188406
+    ],
+    [
+      72,
+      0.014492753623188406
+    ],
+    [
+      98,
+      0.014285714285714285
+    ],
+    [
+      13,
+      0.014084507042253521
+    ],
+    [
+      49,
+      0.013513513513513514
+    ],
+    [
+      12,
+      0.013333333333333334
+    ],
+    [
+      71,
+      0.013157894736842105
+    ],
+    [
+      66,
+      0.012987012987012988
+    ],
+    [
+      90,
+      0.01282051282051282
+    ],
+    [
+      74,
+      0.01282051282051282
+    ],
+    [
+      33,
+      0.012658227848101266
+    ]
+  ],
+  "status": "success",
+  "calls": [
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": "Search this economics textbook to answer in Vietnamese: Dựa vào Hình 3.21 và Bảng 3.7 về kiểm soát tiền thuê, nếu chính quyền thành phố ấn định mức giá trần ở $500 cho một căn hộ điển hình, thì tại mức giá đó lượng cầu mới và lượng cung ban đầu lần lượt là bao nhiêu, và chênh lệch giữa chúng (tức mức thiếu hụt) là bao nhiêu căn hộ thuê?"
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "search_book",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_0aca0d10bca5b9ea016af836474f6887d2b2e1e9413be182c6",
+        "object": "response",
+        "created_at": 1794651719,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651720,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_0aca0d10bca5b9ea016af83647b2e087d28884b9acc691905f",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"queries\":[\"Hình 3.21 Bảng 3.7 kiểm soát tiền thuê giá trần 500 lượng cầu lượng cung thiếu hụt căn hộ thuê\",\"rent control Figure 3.21 Table 3.7 price ceiling $500 quantity demanded quantity supplied shortage apartments\",\"Hình 3.21 rent control 500 apartment typical demand supply shortage\"]}",
+            "call_id": "call_PZF52o1NtFaN0v8NjIvWSRp7",
+            "name": "search_book"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "name": "search_book",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 232,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 89,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 321
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.3925705000001471
+    },
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": [
+              {
+                "type": "input_text",
+                "text": "Answer the question using ONLY supplied source evidence, in Vietnamese. Cite [page N] and Figure/Table ID for all claims. No external facts. If date/place/condition absent, choose abstain with no guessed values. Dựa vào Hình 3.21 và Bảng 3.7 về kiểm soát tiền thuê, nếu chính quyền thành phố ấn định mức giá trần ở $500 cho một căn hộ điển hình, thì tại mức giá đó lượng cầu mới và lượng cung ban đầu lần lượt là bao nhiêu, và chênh lệch giữa chúng (tức mức thiếu hụt) là bao nhiêu căn hộ thuê?\nSOURCE_CONTEXT:[{\"page\": 63, \"original_pdf_page\": 87, \"text\": \"demand and supply. \\nGovernments can pass laws affecting market outcomes, but no law can negate these economic principles. \\nRather, the principles will become apparent in sometimes unexpected ways, which may undermine the intent \\nof the government policy. This is one of the major conclusions of this section. \\nControversy sometimes surrounds the prices and quantities established by demand and supply, especially for \\nproducts that are considered necessities. In some cases, discontent over prices turns into public pressure on \\npoliticians, who may then pass legislation to prevent a certain price from climbing “too high” or falling “too \\nlow.” \\nThe demand and supply model shows how people and firms will react to the incentives that these laws provide \\nto control prices, in ways that will often lead to undesirable consequences. Alternative policy tools can often \\nachieve the desired goals of price control laws, while avoiding at least some of their costs and tradeoffs. \\nPrice Ceilings \\nLaws that governments enact to regulate prices are called price controls. Price controls come in two flavors. A \\nprice ceiling keeps a price from rising above a certain level (the “ceiling”), while a price floor keeps a price \\nfrom falling below a given level (the “floor”). This section uses the demand and supply framework to analyze \\nprice ceilings. The next section discusses price floors. \\nA price ceiling is a legal maximum price that one pays for some good or service. A government imposes price \\nceilings in order to keep the price of some necessary good or service affordable. For example, in 2005 during \\nHurricane Katrina, the price of bottled water increased above $5 per gallon. As a result, many people called for \\nprice controls on bottled water to prevent the price from rising so high. In this particular case, the government \\ndid not impose a price ceiling, but there are other examples of where price ceilings did occur. \\nIn many markets for goods and services, demanders outnumber suppliers. Consumers, who are also potential \\nvoters, sometimes unite behind a political proposal to hold down a certain price. In some cities, such as \\nAlbany, renters have pressed political leaders to pass rent control laws, a price ceiling that usually works by \\nstating that landlords can raise rents by only a certain maximum percentage each year. Some of the best \\nexamples of rent control occur in urban areas such as New York, Washington D.C., or San Francisco. \\nRent control becomes a politically hot topic when rents begin to rise rapidly. Everyone needs an affordable \\nplace to live. Perhaps a change in tastes makes a certain suburb or town a more popular place to live. Perhaps \\nlocally-based businesses expand, bringing higher incomes and more people into the area. Such changes can \\ncause a change in the demand for rental housing, as Figure 3.21 illustrates. The original equilibrium (E0) lies at \\nthe intersection of supply curve S0 and demand curve D0, corresponding to an equilibrium price of $500 and \\nan equilibrium quantity of 15,000 units of rental housing. The effect of greater income or a change in tastes is \\nto shift the demand curve for rental housing to the right, as the data in Table 3.7 shows and the shift from D0 to \\nD1 on the graph. In this market, at the new equilibrium E1, the price of a rental unit would rise to $600 and the \\nequilibrium quantity would increase to 17,000 units. \\n3.4 • Price Ceilings and Price Floors     71\\n\"}, {\"page\": 64, \"original_pdf_page\": 88, \"text\": \"FIGURE 3.21 A Price Ceiling Example—Rent Control The original intersection of demand and supply occurs at E0. If \\ndemand shifts from D0 to D1, the new equilibrium would be at E1—unless a price ceiling prevents the price from \\nrising. If the price is not permitted to rise, the quantity supplied remains at 15,000. However, after the change in \\ndemand, the quantity demanded rises to 19,000, resulting in a shortage. \\nPrice Original Quantity Supplied Original Quantity Demanded New Quantity Demanded \\n$400 12,000 \\n18,000 \\n23,000 \\n$500 15,000 \\n15,000 \\n19,000 \\n$600 17,000 \\n13,000 \\n17,000 \\n$700 19,000 \\n11,000 \\n15,000 \\n$800 20,000 \\n10,000 \\n14,000 \\nTABLE 3.7 Rent Control \\nSuppose that a city government passes a rent control law to keep the price at the original equilibrium of $500 \\nfor a typical apartment. In Figure 3.21, the horizontal line at the price of $500 shows the legally fixed \\nmaximum price set by the rent control law. However, the underlying forces that shifted the demand curve to \\nthe right are still there. At that price ($500), the quantity supplied remains at the same 15,000 rental units, but \\nthe quantity demanded is 19,000 rental units. In other words, the quantity demanded exceeds the quantity \\nsupplied, so there is a shortage of rental housing. One of the ironies of price ceilings is that while the price \\nceiling was intended to help renters, there are actually fewer apartments rented out under the price ceiling \\n(15,000 rental units) than would be the case at the market rent of $600 (17,000 rental units). \\nPrice ceilings do not simply benefit renters at the expense of landlords. Rather, some renters (or potential \\nrenters) lose their housing as landlords convert apartments to co-ops and condos. Even when the housing \\nremains in the rental market, landlords tend to spend less on maintenance and on essentials like heating, \\ncooling, hot water, and lighting. The first rule of economics is you do not get something for nothing—everything \\nhas an opportunity cost. Thus, if renters obtain “cheaper” housing than the market requires, they tend to also \\nend up with lower quality housing. \\nPrice ceilings are enacted in an attempt to keep prices low for those who need the product. However, when the \\nmarket price is not allowed to rise to the equilibrium level, quantity demanded exceeds quantity supplied, and \\nthus a shortage occurs. Those who manage to purchase the product at the lower price given by the price ceiling \\nwill benefit, but sellers of the product will suffer, along with those who are not able to purchase the product at \\n72     3 • Demand and Supply\\nAccess for free at openstax.org\\n\"}, {\"page\": 50, \"original_pdf_page\": 74, \"text\": \"the store to stock up on coffee now. We show these changes in demand as shifts in the curve. Therefore, a shift \\nin demand happens when a change in some economic factor (other than price) causes a different quantity to \\nbe demanded at every price. The following Work It Out feature shows how this happens. \\nShift in Demand \\nA shift in demand means that at any price (and at every price), the quantity demanded will be different than it \\nwas before. Following is an example of a shift in demand due to an income increase. \\nStep 1. Draw the graph of a demand curve for a normal good like pizza. Pick a price (like P0). Identify the \\ncorresponding Q0. See an example in Figure 3.6. \\nFIGURE 3.6 Demand Curve We can use the demand curve to identify how much consumers would buy at any \\ngiven price. \\nStep 2. Suppose income increases. As a result of the change, are consumers going to buy more or less pizza? The \\nanswer is more. Draw a dotted horizontal line from the chosen price, through the original quantity demanded, to \\nthe new point with the new Q1. Draw a dotted vertical line down to the horizontal axis and label the new Q1. \\nFigure 3.7 provides an example. \\nFIGURE 3.7 Demand Curve with Income Increase With an increase in income, consumers will purchase larger \\nquantities, pushing demand to the right. \\nStep 3. Now, shift the curve through the new point. You will see that an increase in income causes an upward (or \\nrightward) shift in the demand curve, so that at any price the quantities demanded will be higher, as Figure 3.8 \\nillustrates. \\nWORK IT OUT \\n58     3 • Demand and Supply\\nAccess for free at openstax.org\\n\"}, {\"page\": 45, \"original_pdf_page\": 69, \"text\": \"Price (per gallon) Quantity demanded (millions of gallons) Quantity supplied (millions of gallons) \\n$1.60 \\n550 \\n640 \\n$1.80 \\n500 \\n680 \\n$2.00 \\n460 \\n700 \\n$2.20 \\n420 \\n720 \\nTABLE 3.3 Price, Quantity Demanded, and Quantity Supplied \\nRemember this: When two lines on a diagram cross, this intersection usually means something. The point \\nwhere the supply curve (S) and the demand curve (D) cross, designated by point E in Figure 3.4, is called the \\nequilibrium. The equilibrium price is the only price where the plans of consumers and the plans of producers \\nagree—that is, where the amount of the product consumers want to buy (quantity demanded) is equal to the \\namount producers want to sell (quantity supplied). Economists call this common quantity the equilibrium \\nquantity. At any other price, the quantity demanded does not equal the quantity supplied, so the market is not \\nin equilibrium at that price. \\nIn Figure 3.4, the equilibrium price is $1.40 per gallon of gasoline and the equilibrium quantity is 600 million \\ngallons. If you had only the demand and supply schedules, and not the graph, you could find the equilibrium by \\nlooking for the price level on the tables where the quantity demanded and the quantity supplied are equal. \\nThe word “equilibrium” means “balance.” If a market is at its equilibrium price and quantity, then it has no \\nreason to move away from that point. However, if a market is not at equilibrium, then economic pressures arise \\nto move the market toward the equilibrium price and the equilibrium quantity. \\nImagine, for example, that the price of a gallon of gasoline was above the equilibrium price—that is, instead of \\n$1.40 per gallon, the price is $1.80 per gallon. The dashed horizontal line at the price of $1.80 in Figure 3.4 \\nillustrates this above-equilibrium price. At this higher price, the quantity demanded drops from 600 to 500. \\nThis decline in quantity reflects how consumers react to the higher price by finding ways to use less gasoline. \\nMoreover, at this higher price of $1.80, the quantity of gasoline supplied rises from 600 to 680, as the higher \\nprice makes it more profitable for gasoline producers to expand their output. Now, consider how quantity \\ndemanded and quantity supplied are related at this above-equilibrium price. Quantity demanded has fallen to \\n500 gallons, while quantity supplied has risen to 680 gallons. In fact, at any above-equilibrium price, the \\nquantity supplied exceeds the quantity demanded. We call this an excess supply or a surplus. \\nWith a surplus, gasoline accumulates at gas stations, in tanker trucks, in pipelines, and at oil refineries. This \\naccumulation puts pressure on gasoline sellers. If a surplus remains unsold, those firms involved in making \\nand selling gasoline are not receiving enough cash to pay their workers and to cover their expenses. In this \\nsituation, some producers and sellers will want to cut prices, because it is better to sell at a lower price than not \\nto sell at all. Once some sellers start cutting prices, others will follow to avoid losing sales. These price \\nreductions in turn will stimulate a higher quantity demanded. Therefore, if the price is above the equilibrium \\nlevel, incentives built into the structure of demand and supply will create pressures for the price to fall toward \\nthe equilibrium. \\nNow suppose that the price is below its equilibrium level at $1.20 per gallon, as the dashed horizontal line at \\nthis price in Figure 3.4 shows. At this lower price, the quantity demanded increases from 600 to 700 as drivers \\ntake longer trips, spend more minutes warming up the car in the driveway in wintertime, stop sharing rides to \\nwork, and buy larger cars that get fewer miles to the gallon. However, the below-equilibrium price reduces \\ngasoline producers’ incentives to produce and sell gasoline, and the quantity supplied falls from 600 to 550. \\n3.1 • Demand, Supply, and Equilibrium in Markets for Goods and Services     53\\n\"}, {\"page\": 76, \"original_pdf_page\": 100, \"text\": \"Price per Pound \\nQd \\nQs \\n$3.80 \\n600 720 \\n$4.00 \\n590 730 \\nTABLE 3.9 \\n56 . Table 3.10 shows the supply and demand for movie tickets in a city. Graph demand and supply and \\nidentify the equilibrium. Then calculate in a table and graph the effect of the following two changes. \\na. Three new nightclubs open. They offer decent bands and have no cover charge, but make their money \\nby selling food and drink. As a result, demand for movie tickets falls by six units at every price. \\nb. The city eliminates a tax that it placed on all local entertainment businesses. The result is that the \\nquantity supplied of movies at any given price increases by 10%. \\nPrice per Ticket Qd Qs \\n$5.00 \\n26 \\n16 \\n$6.00 \\n24 \\n18 \\n$7.00 \\n22 \\n20 \\n$8.00 \\n21 \\n21 \\n$9.00 \\n20 \\n22 \\nTABLE 3.10 \\n57 . A low-income country decides to set a price ceiling on bread so it can make sure that bread is affordable to \\nthe poor. Table 3.11 provides the conditions of demand and supply. What are the equilibrium price and \\nequilibrium quantity before the price ceiling? What will the excess demand or the shortage (that is, \\nquantity demanded minus quantity supplied) be if the price ceiling is set at $2.40? At $2.00? At $3.60? \\nPrice \\nQd \\nQs \\n$1.60 \\n9,000 \\n5,000 \\n$2.00 \\n8,500 \\n5,500 \\n$2.40 \\n8,000 \\n6,400 \\n$2.80 7,500 7,500 \\n$3.20 \\n7,000 \\n9,000 \\n$3.60 \\n6,500 \\n11,000 \\n$4.00 \\n6,000 \\n15,000 \\nTABLE 3.11 \\n84     3 • Problems\\nAccess for free at openstax.org\\n\"}, {\"page\": 88, \"original_pdf_page\": 112, \"text\": \"Interest \\nRate (%) \\nQuantity of Financial Capital Demanded \\n(Borrowing) ($ billions) \\nQuantity of Financial Capital Supplied \\n(Lending) ($ billions) \\n11 \\n$800 \\n$420 \\n13 \\n$700 \\n$510 \\n15 \\n$600 \\n$600 \\n17 \\n$550 \\n$660 \\n19 \\n$500 \\n$720 \\n21 \\n$480 \\n$750 \\nTABLE 4.5 Demand and Supply for Borrowing Money with Credit Cards \\nThe laws of demand and supply continue to apply in the financial markets. According to the law of demand, a \\nhigher rate of return (that is, a higher price) will decrease the quantity demanded. As the interest rate rises, \\nconsumers will reduce the quantity that they borrow. According to the law of supply, a higher price increases \\nthe quantity supplied. Consequently, as the interest rate paid on credit card borrowing rises, more firms will be \\neager to issue credit cards and to encourage customers to use them. Conversely, if the interest rate on credit \\ncards falls, the quantity of financial capital supplied in the credit card market will decrease and the quantity \\ndemanded will increase. \\nEquilibrium in Financial Markets \\nIn the financial market for credit cards in Figure 4.5, the supply curve (S) and the demand curve (D) cross at \\nthe equilibrium point (E). The equilibrium occurs at an interest rate of 15%, where the quantity of funds \\ndemanded and the quantity supplied are equal at an equilibrium quantity of $600 billion. \\nIf the interest rate (remember, this measures the “price” in the financial market) is above the equilibrium level, \\nthen an excess supply, or a surplus, of financial capital will arise in this market. For example, at an interest rate \\nof 21%, the quantity of funds supplied increases to $750 billion, while the quantity demanded decreases to \\n$480 billion. At this above-equilibrium interest rate, firms are eager to supply loans to credit card borrowers, \\nbut relatively few people or businesses wish to borrow. As a result, some credit card firms will lower the \\ninterest rates (or other fees) they charge to attract more business. This strategy will push the interest rate down \\ntoward the equilibrium level. \\nIf the interest rate is below the equilibrium, then excess demand or a shortage of funds occurs in this market. \\nAt an interest rate of 13%, the quantity of funds credit card borrowers demand increases to $700 billion, but \\nthe quantity credit card firms are willing to supply is only $510 billion. In this situation, credit card firms will \\nperceive that they are overloaded with eager borrowers and conclude that they have an opportunity to raise \\ninterest rates or fees. The interest rate will face economic pressures to creep up toward the equilibrium level. \\nThe FRED database publishes some two dozen measures of interest rates, including interest rates on credit \\ncards, automobile loans, personal loans, mortgage loans, and more. You can find these at the FRED website \\n(https://openstax.org/l/FRED_stlouis). \\nShifts in Demand and Supply in Financial Markets \\nThose who supply financial capital face two broad decisions: how much to save, and how to divide up their \\nsavings among different forms of financial investments. We will discuss each of these in turn. \\nParticipants in financial markets must decide when they prefer to consume goods: now or in the future. \\n96     4 • Labor and Financial Markets\\nAccess for free at openstax.org\\n\"}]"
+              }
+            ]
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "finish",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_0c63eec76b7f6da5016af83648bfbc87d2a77a948e4ea98c71",
+        "object": "response",
+        "created_at": 1794651720,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651721,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_0c63eec76b7f6da5016af83649527887d2b40fdbb250eca41d",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"status\":\"answered\",\"answer\":\"Theo Hình 3.21 và Bảng 3.7, tại mức giá trần $500, lượng cầu mới là 19.000 căn hộ thuê và lượng cung ban đầu là 15.000 căn hộ thuê; do đó mức thiếu hụt là 4.000 căn hộ thuê [page 64, Figure 3.21; Table 3.7].\",\"pages\":[64]}",
+            "call_id": "call_zCIsVbLv62fXirEdfmlYqRLW",
+            "name": "finish"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "name": "finish",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 4412,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 103,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 4515
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.509712800005218
+    }
+  ],
+  "usage": {
+    "model_calls": 2,
+    "input_tokens": 4644,
+    "cached_input_tokens": 0,
+    "output_tokens": 192,
+    "estimated_api_cost_usd": 0.004347,
+    "cost_note": "Estimate from published standard GPT-5.4-mini token rates, verified 2026-11-14; actual bill may differ. Unknown model/endpoint rates are not assumed zero.",
+    "pricing_source": "https://developers.openai.com/api/docs/models/gpt-5.4-mini"
+  },
+  "seconds": 2.9376487999979872
+}

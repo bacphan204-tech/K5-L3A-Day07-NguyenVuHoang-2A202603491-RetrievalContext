@@ -1,0 +1,212 @@
+[
+  {
+    "id": "adv-test-table-01",
+    "decision": "pass",
+    "reason": "Correct demand value and quantity units; the table citation identifies the supporting row.",
+    "source_check": "Excerpt page 41, original PDF page 65, Table 3.1: $1.80 maps to 500 million gallons.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-table-02",
+    "decision": "pass",
+    "reason": "Both D0 and D2 values and the million-cars unit are correct, with the correct figure/table citation.",
+    "source_check": "Excerpt page 48, original PDF page 72, Figure 3.5 and Table 3.4: at $20,000, D0=18.0 million and D2=14.4 million.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-table-03",
+    "decision": "fail",
+    "reason": "The answer gives 550 and 550 but omits the required unit, thousands of fish.",
+    "source_check": "Excerpt page 57, original PDF page 81, Figure 3.16 axis says thousands of fish; Table 3.6 has demand and 2015 supply both 550 at $2.50.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-table-04",
+    "decision": "pass",
+    "reason": "Both quantities match the requested salary row and the answer cites the right table.",
+    "source_check": "Excerpt page 79, original PDF page 103, Table 4.1: $80,000 row gives 44,000 demanded and 38,000 supplied.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-table-05",
+    "decision": "pass",
+    "reason": "The answer correctly computes 1,400 minus 900 as 500 workers and cites Table 4.4.",
+    "source_check": "Excerpt page 85, original PDF page 109, Table 4.4: at $11/hour, labor demanded is 900 and supplied is 1,400.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-table-06",
+    "decision": "pass",
+    "reason": "The equilibrium rate and both equal quantities are correct and cited to Table 4.5.",
+    "source_check": "Excerpt page 88, original PDF page 112, Table 4.5: 15% has $600 billion demanded and supplied.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-diagram-01",
+    "decision": "pass",
+    "reason": "Correct arrow and label are identified with the figure citation.",
+    "source_check": "Excerpt page 9, original PDF page 33, Figure 1.7 labels the firms-to-households wage flow as D.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-diagram-02",
+    "decision": "pass",
+    "reason": "All two incoming and three outgoing flows match the diagram labels.",
+    "source_check": "Excerpt page 105, original PDF page 409, Figure 16.2 shows premiums and investment income entering; payments, expenses, and profits or losses leaving.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-diagram-03",
+    "decision": "pass",
+    "reason": "The answer names deposits into the bank and both withdrawals and interest payments back to savers.",
+    "source_check": "Excerpt page 108, original PDF page 428, Figure 17.3 shows Deposits toward Banks and Withdrawals/Interest payments toward Savers.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-diagram-04",
+    "decision": "pass",
+    "reason": "All three Framework entries are stated correctly.",
+    "source_check": "Excerpt page 110, original PDF page 464, Figure 19.2 lists aggregate demand/aggregate supply, Keynesian model, and Neoclassical model.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-diagram-05",
+    "decision": "pass",
+    "reason": "All three components inside M1 are identified correctly and the figure is cited.",
+    "source_check": "Excerpt page 114, original PDF page 668, Figure 27.3 lists currency, checkable deposits, and savings deposits in M1.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-chart-01",
+    "decision": "fail",
+    "reason": "The qualitative answer is supported, but the cited page is wrong: Figure 2.3 is on excerpt page 26, not page 27.",
+    "source_check": "Excerpt page 26, original PDF page 50, Figure 2.3 labels Healthcare on the vertical axis and Education on the horizontal axis; the B-to-C opportunity cost is healthcare forgone.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-chart-02",
+    "decision": "fail",
+    "reason": "The equilibrium answer is right, but the response also cites Figure 3.4/Table 3.3 on excerpt page 45; the cited chart and table are on page 44.",
+    "source_check": "Excerpt page 44, original PDF page 68, Figure 3.4 shows equilibrium at $1.40 and 600 million gallons; the rendered page places Figure 3.4 and Table 3.3 on page 44.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-chart-03",
+    "decision": "pass",
+    "reason": "Q3 is correctly identified and cited to Figure 3.19.",
+    "source_check": "Excerpt page 61, original PDF page 85, Figure 3.19 labels the new equilibrium quantity Q3.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-chart-04",
+    "decision": "pass",
+    "reason": "The $600 billion equilibrium quantity is correct and cited to Figure 4.5.",
+    "source_check": "Excerpt page 87-88, original PDF page 111-112, Figure 4.5 marks 15% and $600 billion at equilibrium; page 88 contains the figure.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-chart-05",
+    "decision": "pass",
+    "reason": "The elasticity value 0.45 is correct, with the requested points and figure citation.",
+    "source_check": "Excerpt page 104, original PDF page 128, Figure 5.2 calculates elasticity between B ($70, Q=2,800) and A ($60, Q=3,000) as 0.45.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-multi_hop-01",
+    "decision": "fail",
+    "reason": "The system rejected the answer because it cited printed book pages 17 and 412 instead of excerpt-page IDs 9 and 108; no successful result/context was emitted. Per rubric, system errors fail.",
+    "source_check": "The two source facts are correct in excerpt page 9/Figure 1.7 and excerpt page 108/Figure 17.3, mapped to original PDF pages 33 and 428.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-multi_hop-02",
+    "decision": "pass",
+    "reason": "Both requested quantities and units are correct, with separate citations to each table.",
+    "source_check": "Excerpt pages 41 and 88, original PDF pages 65 and 112: Table 3.1 gives 550 million gallons at $1.60; Table 4.5 gives $600 billion demanded at 15%.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-multi_hop-03",
+    "decision": "pass",
+    "reason": "Both facts are correct and each is cited to its own source figure.",
+    "source_check": "Excerpt page 26/Figure 2.3 identifies A as all resources devoted to healthcare; excerpt page 110/Figure 19.2 names the Policy Tools box.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-multi_hop-04",
+    "decision": "pass",
+    "reason": "The M2 additions and expansionary-policy effects are complete and correctly cited to two different pages.",
+    "source_check": "Excerpt page 114/Figure 27.3 lists the three M2 additions; excerpt page 120/Figure 28.7(a) shows P and real GDP increasing, with GDP effect qualified as short run.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-text-01",
+    "decision": "fail",
+    "reason": "The content is correct, but the citation names Figure 1.5, whose image/caption does not support the writer-argument claim.",
+    "source_check": "Excerpt page 6, original PDF page 30, the Why Study Economics? bullet below Figure 1.5 says readers can understand and evaluate an article writer's argument.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-text-02",
+    "decision": "fail",
+    "reason": "The answer is correct, but Figure 1.8 is a pyramid photo and its caption does not support the four command-economy decisions cited in the answer.",
+    "source_check": "Excerpt page 11, original PDF page 35, the paragraph after Figure 1.8 says the government decides output, prices, production methods, and wages.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-text-03",
+    "decision": "fail",
+    "reason": "The answer gives $14,500, which is incorrect; the source's stated annual income is $15,080.",
+    "source_check": "Excerpt page 65, original PDF page 89, the Price Floors paragraph states $7.25/hour yields $15,080 annual income.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-text-04",
+    "decision": "pass",
+    "reason": "The shortage condition and the employer-demand/worker-supply counts are correct, with a relevant table/figure citation.",
+    "source_check": "Excerpt page 79/Table 4.1 gives demanded 52,000 and supplied 27,000 at $70,000; page 80 explains this is excess demand or a shortage.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-unanswerable-01",
+    "decision": "pass",
+    "reason": "The response clearly abstains and adds no exchange-rate estimate.",
+    "source_check": "All 120 indexed pages were searched; the source is a U.S.-focused textbook excerpt and contains no USD/VND observation for 14 November 2026.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-unanswerable-02",
+    "decision": "pass",
+    "reason": "The response clearly abstains and adds no gold-price estimate.",
+    "source_check": "All 120 indexed pages were searched; no SJC or contemporary Vietnamese gold-price series is in the excerpt.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-unanswerable-03",
+    "decision": "pass",
+    "reason": "The response clearly abstains and adds no coffee-output estimate.",
+    "source_check": "All 120 indexed pages were searched; no Vietnamese coffee production series for crop year 2025-2026 is in the excerpt.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-unanswerable-04",
+    "decision": "pass",
+    "reason": "The response says the requested statistic is unavailable and gives no inflation estimate.",
+    "source_check": "All 120 indexed pages were searched; no Vietnam October 2026 inflation observation is in the excerpt.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-unanswerable-05",
+    "decision": "pass",
+    "reason": "The response says there is insufficient evidence and gives no GDP estimate.",
+    "source_check": "All 120 indexed pages were searched; no Vietnam 2026 Q3 GDP observation is in the excerpt.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-unanswerable-06",
+    "decision": "pass",
+    "reason": "The response clearly abstains and adds no unemployment estimate.",
+    "source_check": "All 120 indexed pages were searched; no Hanoi 2026 unemployment observation is in the excerpt.",
+    "reviewer": "AI reviewer; compared trace with original PDF; learner confirmation pending"
+  }
+]

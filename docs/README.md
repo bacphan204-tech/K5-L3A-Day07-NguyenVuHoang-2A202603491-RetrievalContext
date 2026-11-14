@@ -16,7 +16,7 @@
 - `48/48 unit tests` và `check_submission.py: PASS` xác nhận code/cấu trúc/minh chứng, không xác nhận mọi câu trả lời đúng hoặc chắc chắn nhận đủ 85 điểm.
 - Tập test chỉ 7 câu. Nhãn do Codex AI đối chiếu text nguồn, cùng AI tham gia triển khai; `student_confirmed=false` được giữ đúng thực tế.
 - Ca demo `results/part07/20261114T100017Z-02e9bc/trace.json` trả lời lệch câu hỏi dù `answered`. Báo cáo đã ghi nhận, không chỉnh pipeline sau test.
-- Không làm thử thách 100 trang, không yêu cầu 15 điểm bonus.
+- Bonus corpus 120 trang đã được thử, nhưng test khóa v1 đạt 23/30 (76,7%), dưới ngưỡng 90%. Bản v1 được giữ nguyên; các lần chạy trên câu đã xem chỉ dùng chẩn đoán, không phải holdout mới. Chưa có test độc lập mới nên chưa thể xác nhận đạt bonus. Xem [`advanced/README.md`](../advanced/README.md) và báo cáo v1.
 - Học viên cần đọc hiểu báo cáo, xác nhận các nhãn đã tự kiểm tra, đảm bảo giảng viên truy cập được repo và nộp link theo thông báo lớp. Việc push GitHub không tự gửi bài cho giảng viên.
 
 ## Kiểm tra nhanh

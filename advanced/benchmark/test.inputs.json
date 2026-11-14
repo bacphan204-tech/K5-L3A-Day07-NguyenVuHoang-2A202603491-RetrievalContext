@@ -1,0 +1,152 @@
+[
+  {
+    "id": "adv-test-table-01",
+    "question": "Dựa vào Bảng 3.1 \"Price and Quantity Demanded of Gasoline\" trong trang này, khi giá xăng là $1.80 mỗi gallon thì lượng cầu là bao nhiêu, và đơn vị của lượng cầu trong bảng là gì?",
+    "group": "table"
+  },
+  {
+    "id": "adv-test-table-02",
+    "question": "Dựa vào Hình 3.5 và Bảng 3.4 về \"Shifts in Demand: A Car Example\", tại mức giá $20,000, lượng xe ô tô được cầu theo đường cầu ban đầu D0 là bao nhiêu và sau khi cầu giảm sang D2 thì là bao nhiêu? Hãy nêu đúng đơn vị trong bảng.",
+    "group": "table"
+  },
+  {
+    "id": "adv-test-table-03",
+    "question": "Dựa vào Hình 3.16 và Bảng 3.6 về thị trường cá hồi, tại mức giá $2.50 mỗi pound, lượng cầu bằng bao nhiêu và lượng cung năm 2015 bằng bao nhiêu? Hãy trả lời kèm đúng đơn vị như trong bảng.",
+    "group": "table"
+  },
+  {
+    "id": "adv-test-table-04",
+    "question": "Dựa trên Bảng 4.1 “Demand and Supply of Nurses in Minneapolis-St. Paul-Bloomington”, nếu mức lương hằng năm là $80,000 thì số lượng y tá được hỏi việc và số lượng y tá sẵn sàng cung ứng lần lượt là bao nhiêu?",
+    "group": "table"
+  },
+  {
+    "id": "adv-test-table-05",
+    "question": "Dựa trên Bảng 4.4 “Living Wage: Example of a Price Floor”, tại mức tiền công $11/giờ, chênh lệch giữa số lượng lao động được yêu cầu và số lượng lao động được cung ứng là bao nhiêu người lao động?",
+    "group": "table"
+  },
+  {
+    "id": "adv-test-table-06",
+    "question": "Dựa vào Bảng 4.5 “Demand and Supply for Borrowing Money with Credit Cards”, tại mức lãi suất bao nhiêu thì lượng tài chính cần vay và lượng tài chính được cung ứng bằng nhau, và khi đó mỗi bên là bao nhiêu (đơn vị: tỷ USD)?",
+    "group": "table"
+  },
+  {
+    "id": "adv-test-diagram-01",
+    "question": "Dựa vào Hình 1.7 (Circular Flow Diagram) trong phần mô tả luồng tuần hoàn giữa hộ gia đình và doanh nghiệp, mũi tên nào biểu thị luồng “wages, salaries, and benefits” từ doanh nghiệp sang hộ gia đình? Hãy nêu ký hiệu mũi tên đúng.",
+    "group": "diagram"
+  },
+  {
+    "id": "adv-test-diagram-02",
+    "question": "Dựa trên Hình 16.2 (\"An Insurance Company: What Comes In, What Goes Out\") trong trang trích dẫn, các luồng nào đi **vào** công ty bảo hiểm và các luồng nào đi **ra** khỏi công ty bảo hiểm? Hãy nêu đầy đủ theo đúng nhãn trong hình.",
+    "group": "diagram"
+  },
+  {
+    "id": "adv-test-diagram-03",
+    "question": "Dựa vào Hình 17.3 về vai trò của ngân hàng như một trung gian tài chính, hãy xác định mũi tên nào biểu diễn dòng tiền từ người gửi tiết kiệm sang ngân hàng, và mũi tên nào biểu diễn dòng tiền từ ngân hàng quay trở lại người gửi tiết kiệm?",
+    "group": "diagram"
+  },
+  {
+    "id": "adv-test-diagram-04",
+    "question": "Dựa vào Hình 19.2 \"Macroeconomic Goals, Framework, and Policies\" trên trang được cung cấp, trong ô \"Framework\" có những mục nào được liệt kê?",
+    "group": "diagram"
+  },
+  {
+    "id": "adv-test-diagram-05",
+    "question": "Dựa vào Hình 27.3 (Relationship between M1 and M2 Money), hãy xác định ba thành phần nào nằm trong M1 nhưng không được liệt kê riêng bên ngoài vòng M1 trong M2?",
+    "group": "diagram"
+  },
+  {
+    "id": "adv-test-chart-01",
+    "question": "Dựa trên Hình 2.3 (đường giới hạn khả năng sản xuất giữa healthcare và education), nếu xã hội di chuyển từ điểm B sang điểm C thì chi phí cơ hội của phần giáo dục tăng thêm là gì, tính theo hàng hóa nào và theo đơn vị nào trong hình?",
+    "group": "chart"
+  },
+  {
+    "id": "adv-test-chart-02",
+    "question": "Dựa trên Hình 3.4 \"Demand and Supply for Gasoline\", tại mức giá nào (price per gallon) đường cung S và đường cầu D cắt nhau, và lượng cân bằng là bao nhiêu (quantity, tính bằng millions of gallons)?",
+    "group": "chart"
+  },
+  {
+    "id": "adv-test-chart-03",
+    "question": "Quan sát Hình 3.19 (Combined Effect of Decreased Demand and Decreased Supply), trên trục Quantity, mức sản lượng cân bằng mới được ký hiệu là gì khi cả cung và cầu đều giảm?",
+    "group": "chart"
+  },
+  {
+    "id": "adv-test-chart-04",
+    "question": "Quan sát Hình 4.5 về “Demand and Supply for Borrowing Money with Credit Cards”, tại mức lãi suất cân bằng 15% trên trục tung, lượng vốn tài chính được cho vay và đi vay là bao nhiêu theo trục hoành?",
+    "group": "chart"
+  },
+  {
+    "id": "adv-test-chart-05",
+    "question": "Quan sát Hình 5.2 (Calculating the Price Elasticity of Demand) trong vùng đồ thị, tại các điểm được gắn nhãn B và A, hãy cho biết độ co giãn của cầu theo giá giữa hai điểm này là bao nhiêu theo cách tính trong hình?",
+    "group": "chart"
+  },
+  {
+    "id": "adv-test-multi_hop-01",
+    "question": "Dựa trên Hình 1.7 (Circular Flow Diagram) ở trang 17 và Hình 17.3 (Banks as Financial Intermediaries) ở trang 412, hãy xác định đúng nhãn của dòng chảy tương ứng với: (i) dòng từ households sang firms trong thị trường hàng hóa và dịch vụ, và (ii) dòng từ savers sang banks trong vai trò trung gian tài chính. Trả lời bằng đúng hai nhãn theo thứ tự (i), (ii).",
+    "group": "multi_hop"
+  },
+  {
+    "id": "adv-test-multi_hop-02",
+    "question": "Dựa trên Table 3.1 (Price and Quantity Demanded of Gasoline) và Table 4.5 (Demand and Supply for Borrowing Money with Credit Cards), hãy cho biết: khi giá xăng là $1.60 mỗi gallon trong Table 3.1 và khi lãi suất là 15% trong Table 4.5, thì (i) quantity demanded của xăng là bao nhiêu triệu gallon, và (ii) quantity demanded of financial capital (borrowing) là bao nhiêu tỷ đô la?",
+    "group": "multi_hop"
+  },
+  {
+    "id": "adv-test-multi_hop-03",
+    "question": "Dựa trên cả Hình 2.3 và Hình 19.2, hãy xác định tại Hình 2.3 điểm nào biểu thị khi xã hội dồn toàn bộ nguồn lực vào chăm sóc sức khỏe, và trong Hình 19.2, hộp nào liệt kê các công cụ mà chính phủ liên bang dùng để tác động đến nền kinh tế vĩ mô?",
+    "group": "multi_hop"
+  },
+  {
+    "id": "adv-test-multi_hop-04",
+    "question": "Dựa trên Hình 27.3 và Hình 28.7(a), M2 gồm những thành phần nào ngoài M1, và theo sơ đồ về chính sách tiền tệ mở rộng thì mức giá cùng GDP thực thay đổi theo hướng nào?",
+    "group": "multi_hop"
+  },
+  {
+    "id": "adv-test-text-01",
+    "question": "Theo đoạn \"Why Study Economics?\" trên trang này, nếu một người muốn trở thành công dân có hiểu biết, họ cần có khả năng làm gì khi đọc các bài viết về các vấn đề kinh tế?",
+    "group": "text"
+  },
+  {
+    "id": "adv-test-text-02",
+    "question": "Theo đoạn văn ở trang này, trong một nền kinh tế chỉ huy, nếu chính phủ quyết định cả hàng hóa và dịch vụ nào sẽ được sản xuất, mức giá sẽ thu bao nhiêu, phương pháp sản xuất nào sẽ được dùng, và lương của công nhân sẽ do ai ấn định, thì ai là người đưa ra các quyết định kinh tế đó?",
+    "group": "text"
+  },
+  {
+    "id": "adv-test-text-03",
+    "question": "Trong đoạn “Price Floors” trên trang này, theo ví dụ về mức lương tối thiểu liên bang năm 2022, nếu một người làm việc toàn thời gian được trả mức lương tối thiểu liên bang $7.25 mỗi giờ thì thu nhập hằng năm của người đó là bao nhiêu?",
+    "group": "text"
+  },
+  {
+    "id": "adv-test-text-04",
+    "question": "Trên trang này, nếu tiền lương của y tá ở Minneapolis-St. Paul-Bloomington là $70,000 mỗi năm, thì có tình trạng gì xảy ra trên thị trường lao động, nhà tuyển dụng muốn thuê bao nhiêu y tá và có bao nhiêu cá nhân muốn làm y tá ở mức lương đó?",
+    "group": "text"
+  },
+  {
+    "id": "adv-test-unanswerable-01",
+    "question": "Dựa riêng vào tài liệu, tỷ giá USD/VND ngày 14/11/2026 chính xác là bao nhiêu?",
+    "group": "unanswerable"
+  },
+  {
+    "id": "adv-test-unanswerable-02",
+    "question": "Dựa riêng vào tài liệu, giá vàng miếng SJC tại Việt Nam ngày 14/11/2026 chính xác là bao nhiêu?",
+    "group": "unanswerable"
+  },
+  {
+    "id": "adv-test-unanswerable-03",
+    "question": "Dựa riêng vào tài liệu, sản lượng cà phê Việt Nam niên vụ 2025–2026 là bao nhiêu tấn?",
+    "group": "unanswerable"
+  },
+  {
+    "id": "adv-test-unanswerable-04",
+    "question": "Dựa riêng vào tài liệu, tỷ lệ lạm phát Việt Nam tháng 10/2026 chính xác là bao nhiêu?",
+    "group": "unanswerable"
+  },
+  {
+    "id": "adv-test-unanswerable-05",
+    "question": "Dựa riêng vào tài liệu, GDP Việt Nam quý III/2026 chính xác là bao nhiêu?",
+    "group": "unanswerable"
+  },
+  {
+    "id": "adv-test-unanswerable-06",
+    "question": "Dựa riêng vào tài liệu, tỷ lệ thất nghiệp Hà Nội năm 2026 chính xác là bao nhiêu?",
+    "group": "unanswerable"
+  }
+]

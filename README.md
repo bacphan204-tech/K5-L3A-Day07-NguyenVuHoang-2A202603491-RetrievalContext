@@ -16,7 +16,7 @@ Tiếp nối [Day 6](https://github.com/bacphan204-tech/K5-L3A-Day06-NguyenVuHoa
 | Test citation hỗ trợ nội dung | 4/6 | 7/7 |
 | Test từ chối đúng | 2/2 | 2/2 |
 
-Nhãn do **Codex AI đọc và đối chiếu nguồn**, chưa có xác nhận độc lập của học viên. Test chỉ 7 câu, cùng hai chương với dev, không suy rộng ra mọi câu hỏi kinh tế. Chỉ làm **phần cơ bản**, không làm bonus 100 trang. Test chạy sau khóa; không chỉnh pipeline/gold sau test.
+Nhãn phần cơ bản do **Codex AI đọc và đối chiếu nguồn**, chưa có xác nhận độc lập của học viên. Test cơ bản chỉ 7 câu, cùng hai chương với dev, không suy rộng ra mọi câu hỏi kinh tế. Phần bonus 120 trang đã được thử riêng: test khóa v1 đạt **23/30 (76,7%)**, thấp hơn ngưỡng 90%. Bản v1 được giữ nguyên; pipeline sau đó được điều chỉnh trên dev và các ca lỗi cũ chỉ dùng để chẩn đoán, không tính là điểm holdout. Chưa có test mới độc lập nên chưa thể xác nhận đạt bonus. Xem [advanced/README.md](advanced/README.md) và [báo cáo test v1](advanced/reports/test-vision-evaluation.json).
 
 ## Chạy nhanh tại gốc Day 7
 

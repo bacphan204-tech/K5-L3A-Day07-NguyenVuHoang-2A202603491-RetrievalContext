@@ -1,0 +1,501 @@
+{
+  "id": "adv-dev-diagram-02",
+  "question": "Dựa vào Hình 28.3 (\"The Twelve Federal Reserve Districts\"), hãy xác định ngân hàng Dự trữ Liên bang khu vực nào có trụ sở chính ở New York, Philadelphia và Richmond; đồng thời cho biết New York, Philadelphia và Richmond lần lượt là thành phố trung tâm của những quận Dự trữ Liên bang số mấy trên bản đồ?",
+  "vision": false,
+  "final": {
+    "status": "answered",
+    "answer": "Dựa vào Hình 28.3, các ngân hàng Dự trữ Liên bang khu vực có trụ sở chính tại:\n- New York: Ngân hàng Dự trữ Liên bang New York [page 118, Figure 28.3].\n- Philadelphia: Ngân hàng Dự trữ Liên bang Philadelphia [page 118, Figure 28.3].\n- Richmond: Ngân hàng Dự trữ Liên bang Richmond [page 118, Figure 28.3].\n\nTrên bản đồ Hình 28.3, các thành phố trung tâm này thuộc các quận Dự trữ Liên bang số:\n- New York: Quận số 2 [page 118, Figure 28.3].\n- Philadelphia: Quận số 3 [page 118, Figure 28.3].\n- Richmond: Quận số 5 [page 118, Figure 28.3].",
+    "pages": [
+      118
+    ]
+  },
+  "context": [
+    {
+      "page": 118,
+      "original_pdf_page": 686,
+      "text": "Figure 28.3 shows the Federal Reserve districts and the cities where their regional headquarters are located. \nThe commercial banks in each district elect a Board of Directors for each regional Federal Reserve bank, and \nthat board chooses a president for each regional Federal Reserve district. Thus, the Federal Reserve System \nincludes both federally and private-sector appointed leaders. \nFIGURE 28.3 The Twelve Federal Reserve Districts There are twelve regional Federal Reserve banks, each with its \ndistrict. \nWhat Does a Central Bank Do? \nThe Federal Reserve, like most central banks, is designed to perform three important functions: \n1. To conduct monetary policy \n2. To promote stability of the financial system \n3. To provide banking services to commercial banks and other depository institutions, and to provide \nbanking services to the federal government. \nThe first two functions are sufficiently important that we will discuss them in their own modules. The third \nfunction we will discuss here. \nThe Federal Reserve provides many of the same services to banks as banks provide to their customers. For \nexample, all commercial banks have an account at the Fed where they deposit reserves. Similarly, banks can \nobtain loans from the Fed through the “discount window” facility, which we will discuss in more detail later. \nThe Fed is also responsible for check processing. When you write a check, for example, to buy groceries, the \ngrocery store deposits the check in its bank account. Then, the grocery store's bank returns the physical check \n(or an image of that actual check) to your bank, after which it transfers funds from your bank account to the \ngrocery store's account. The Fed is responsible for each of these actions. \nOn a more mundane level, the Federal Reserve ensures that enough currency and coins are circulating \nthrough the financial system to meet public demands. For example, each year the Fed increases the amount of \ncurrency available in banks around the Christmas shopping season and reduces it again in January. \nFinally, the Fed is responsible for assuring that banks are in compliance with a wide variety of consumer \nprotection laws. For example, banks are forbidden from discriminating on the basis of age, race, sex, or marital \nstatus. Banks are also required to disclose publicly information about the loans they make for buying houses \nand how they distribute the loans geographically, as well as by sex and race of the loan applicants. \n670     28 • Monetary Policy and Bank Regulation\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 117,
+      "original_pdf_page": 685,
+      "text": "the Chair was Alan Greenspan. From 2006 until 2014, Ben Bernanke held the post. From 2014 to 2018, Janet \nYellen was the Chair. The current Chair is Jerome Powell. See the following Clear It Up feature to find out more \nabout the former and current Chair. \nWho has the most immediate economic power in the world? \nFIGURE 28.2 Chair of the Federal Reserve Board Jerome H. Powell (Credit: “_NZ79221” by Board of Governors of \nthe Federal Reserve System/Flickr, Public Domain) \nWhat individual can make a financial market crash or soar just by making a public statement? It is not Bill Gates or \nWarren Buffett. It is not even the President of the United States. The answer is the Chair of the Federal Reserve \nBoard of Governors. In 2018, President Donald Trump appointed Jerome H. Powell to a 4-year term as chair of the \nFederal Reserve, replacing Janet Yellen, who served as the first female chair of the Federal Reserve from \n2014–2018 and who now serves as the Treasury Secretary in the Biden administration. In November 2021, Powell \nwas nominated for a second term by President Biden; this appointment was confirmed in early-2022. \nPowell played a pivotal role during the COVID-19 recession and its aftermath; in March 2020, under his leadership \nthe Fed acted quickly to reduce the effective federal funds rate and expand its lending and bond-buying actions, \nsimilar to what Ben Bernanke did during the Great Recession. A centrist at heart, Powell has been criticized for \nfueling asset prices, even though in his many speeches and testimony before Congress he has consistently \nemphasized low unemployment rates and has been more tolerant of inflation than others on the Federal Reserve \nBoard. Powell is not an academic economist by training or career—he has a J.D. from Georgetown Law and worked \nfor many years at investment banks and on corporate boards—but this lack of \"ivory tower\" influences has helped \nguide a practical approach to economic problems, for which he is best known. \nThe Fed Chair is first among equals on the Board of Governors. While they have only one vote, the Chair \ncontrols the agenda, and is the Fed's public voice, so they have more power and influence than one might \nexpect. \nLINK IT UP \nVisit this website (https://openstax.org/l/Governors) to see who the current members of the Federal Reserve \nBoard of Governors are. You can follow the links provided for each board member to learn more about their \nbackgrounds, experiences, and when their terms on the board will end. \nThe Federal Reserve is more than the Board of Governors. The Fed also includes 12 regional Federal Reserve \nbanks, each of which is responsible for supporting the commercial banks and economy generally in its district. \n CLEAR IT UP \n28.1 • The Federal Reserve Banking System and Central Banks     669\n"
+    },
+    {
+      "page": 120,
+      "original_pdf_page": 697,
+      "text": "equilibrium (E1) at the potential GDP level of output. \nConversely, if an economy is producing at a quantity of output above its potential GDP, a contractionary \nmonetary policy can reduce the inflationary pressures for a rising price level. In Figure 28.6 (b), the original \nequilibrium (E0) occurs at an output of 750, which is above potential GDP. A contractionary monetary policy \nwill raise interest rates, discourage borrowing for investment and consumption spending, and cause the \noriginal demand curve (AD0) to shift left to AD1, so that the new equilibrium (E1) occurs at the potential GDP \nlevel of 700. \nThese examples suggest that monetary policy should be countercyclical; that is, it should act to \ncounterbalance the business cycles of economic downturns and upswings. The Fed should loosen monetary \npolicy when a recession has caused unemployment to increase and tighten it when inflation threatens. Of \ncourse, countercyclical policy does pose a danger of overreaction. If loose monetary policy seeking to end a \nrecession goes too far, it may push aggregate demand so far to the right that it triggers inflation. If tight \nmonetary policy seeking to reduce inflation goes too far, it may push aggregate demand so far to the left that a \nrecession begins. Figure 28.7 (a) summarizes the chain of effects that connect loose and tight monetary policy \nto changes in output and the price level. \nFIGURE 28.7 The Pathways of Monetary Policy (a) In expansionary monetary policy the central bank causes the \nsupply of money and loanable funds to increase, which lowers the interest rate, stimulating additional borrowing for \ninvestment and consumption, and shifting aggregate demand right. The result is a higher price level and, at least in \nthe short run, higher real GDP. (b) In contractionary monetary policy, the central bank causes the supply of money \nand credit in the economy to decrease, which raises the interest rate, discouraging borrowing for investment and \nconsumption, and shifting aggregate demand left. The result is a lower price level and, at least in the short run, \nlower real GDP. \nFederal Reserve Actions Over Last Four Decades \nFor the period from 1970 through 2020, we can summarize Federal Reserve monetary policy by looking at how \nit targeted the federal funds interest rate using open market operations. \nOf course, telling the story of the U.S. economy since 1970 in terms of Federal Reserve actions leaves out many \nother macroeconomic factors that were influencing unemployment, recession, economic growth, and inflation \nover this time. The ten episodes of Federal Reserve action outlined in the sections below also demonstrate that \nwe should consider the central bank as one of the leading actors influencing the macro economy. As we noted \nearlier, the single person with the greatest power to influence the U.S. economy is probably the Federal Reserve \nchairperson. \nFigure 28.8 shows how the Federal Reserve has carried out monetary policy by targeting the federal funds \ninterest rate in the last few decades. The graph shows the federal funds interest rate (remember, this interest \nrate is set through open market operations), the unemployment rate, and the inflation rate since 1970. \nDifferent episodes of monetary policy during this period are indicated in the figure. \n28.4 • Monetary Policy and Economic Outcomes     681\n"
+    },
+    {
+      "page": 102,
+      "original_pdf_page": 126,
+      "text": "in—they faced a 60% price hike to retain the same service in 2011. \nIn early 2011, Netflix consumers paid about $10 a month for a package consisting of streaming video and DVD \nrentals. In July 2011, the company announced a packaging change. Customers wishing to retain both streaming \nvideo and DVD rental would be charged $15.98 per month, a price increase of about 60%. In 2014, Netflix also \nraised its streaming video subscription price from $7.99 to $8.99 per month for new U.S. customers. The company \nalso changed its policy of 4K streaming content from $9.00 to $12.00 per month that year. \nHow would customers of the 18-year-old firm react? Would they abandon Netflix? Would the ease of access to other \nvenues make a difference in how consumers responded to the Netflix price change? At the time, Netflix had few \ncompetitors; in the intervening years, the field has grown to ten major competitors and nearly 200 smaller ones. Is \nthat likely to have a greater impact than the price changes? We will explore the answers to those questions in this \nchapter, which focuses on the change in quantity with respect to a change in price, a concept economists call \nelasticity. \nAnyone who has studied economics knows the law of demand: a higher price will lead to a lower quantity \ndemanded. What you may not know is how much lower the quantity demanded will be. Similarly, the law of \nsupply states that a higher price will lead to a higher quantity supplied. The question is: How much higher? \nThis chapter will explain how to answer these questions and why they are critically important in the real world. \nTo find answers to these questions, we need to understand the concept of elasticity. Elasticity is an economics \nconcept that measures responsiveness of one variable to changes in another variable. Suppose you drop two \nitems from a second-floor balcony. The first item is a tennis ball. The second item is a brick. Which will bounce \nhigher? Obviously, the tennis ball. We would say that the tennis ball has greater elasticity. \nConsider an economic example. Cigarette taxes are an example of a “sin tax,” a tax on something that is bad for \nyou, like alcohol. Governments tax cigarettes at the state and national levels. As of 2021, state taxes ranged \nfrom a low of 17 cents per pack in Missouri to $4.35 per pack in Connecticut and New York. The average state \ncigarette tax is $1.76 per pack. The 2021 federal tax rate on cigarettes was $1.01 per pack. In 2015, the Obama \nAdministration proposed raising the federal tax nearly a dollar to $1.95 per pack. The key question is: How \nmuch would cigarette purchases decline? \nTaxes on cigarettes serve two purposes: to raise tax revenue for government and to discourage cigarette \nconsumption. However, if a higher cigarette tax discourages consumption considerably, meaning a greatly \nreduced quantity of cigarette sales, then the cigarette tax on each pack will not raise much revenue for the \ngovernment. Alternatively, a higher cigarette tax that does not discourage consumption by much will actually \nraise more tax revenue for the government. Thus, when a government agency tries to calculate the effects of \naltering its cigarette tax, it must analyze how much the tax affects the quantity of cigarettes consumed. This \nissue reaches beyond governments and taxes. Every firm faces a similar issue. When a firm considers raising \nthe sales price, it must consider how much a price increase will reduce the quantity demanded of what it sells. \nConversely, when a firm puts its products on sale, it must expect (or hope) that the lower price will lead to a \nsignificantly higher quantity demanded. \n5.1 Price Elasticity of Demand and Price Elasticity of Supply \nLEARNING OBJECTIVES \nBy the end of this section, you will be able to: \n• Calculate the price elasticity of demand \n• Calculate the price elasticity of supply \nBoth the demand and supply curve show the relationship between price and the number of units demanded or \nsupplied. Price elasticity is the ratio between the percentage change in the quantity demanded (Qd) or \nsupplied (Qs) and the corresponding percent change in price. The price elasticity of demand is the percentage \n110     5 • Elasticity\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 119,
+      "original_pdf_page": 696,
+      "text": "1995, established its target federal funds rate in advance of any open market operations. \nOf course, financial markets display a wide range of interest rates, representing borrowers with different risk \npremiums and loans that they must repay over different periods of time. In general, when the federal funds \nrate drops substantially, other interest rates drop, too, and when the federal funds rate rises, other interest \nrates rise. However, a fall or rise of one percentage point in the federal funds rate—which remember is for \nborrowing overnight—will typically have an effect of less than one percentage point on a 30-year loan to \npurchase a house or a three-year loan to purchase a car. Monetary policy can push the entire spectrum of \ninterest rates higher or lower, but the forces of supply and demand in those specific markets for lending and \nborrowing set the specific interest rates. \nThe Effect of Monetary Policy on Aggregate Demand \nMonetary policy affects interest rates and the available quantity of loanable funds, which in turn affects several \ncomponents of aggregate demand. Tight or contractionary monetary policy that leads to higher interest rates \nand a reduced quantity of loanable funds will reduce two components of aggregate demand. Business \ninvestment will decline because it is less attractive for firms to borrow money, and even firms that have money \nwill notice that, with higher interest rates, it is relatively more attractive to put those funds in a financial \ninvestment than to make an investment in physical capital. In addition, higher interest rates will discourage \nconsumer borrowing for big-ticket items like houses and cars. Conversely, loose or expansionary monetary \npolicy that leads to lower interest rates and a higher quantity of loanable funds will tend to increase business \ninvestment and consumer borrowing for big-ticket items. \nIf the economy is suffering a recession and high unemployment, with output below potential GDP, \nexpansionary monetary policy can help the economy return to potential GDP. Figure 28.6 (a) illustrates this \nsituation. This example uses a short-run upward-sloping Keynesian aggregate supply curve (SRAS). The \noriginal equilibrium during a recession of E0 occurs at an output level of 600. An expansionary monetary \npolicy will reduce interest rates and stimulate investment and consumption spending, causing the original \naggregate demand curve (AD0) to shift right to AD1, so that the new equilibrium (E1) occurs at the potential \nGDP level of 700. \nFIGURE 28.6 Expansionary or Contractionary Monetary Policy (a) The economy is originally in a recession with the \nequilibrium output and price shown at E0. Expansionary monetary policy will reduce interest rates and shift \naggregate demand to the right from AD0 to AD1, leading to the new equilibrium (E1) at the potential GDP level of \noutput with a relatively small rise in the price level. (b) The economy is originally producing above the potential GDP \nlevel of output at the equilibrium E0 and is experiencing pressures for an inflationary rise in the price level. \nContractionary monetary policy will shift aggregate demand to the left from AD0 to AD1, thus leading to a new \n680     28 • Monetary Policy and Bank Regulation\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 63,
+      "original_pdf_page": 87,
+      "text": "demand and supply. \nGovernments can pass laws affecting market outcomes, but no law can negate these economic principles. \nRather, the principles will become apparent in sometimes unexpected ways, which may undermine the intent \nof the government policy. This is one of the major conclusions of this section. \nControversy sometimes surrounds the prices and quantities established by demand and supply, especially for \nproducts that are considered necessities. In some cases, discontent over prices turns into public pressure on \npoliticians, who may then pass legislation to prevent a certain price from climbing “too high” or falling “too \nlow.” \nThe demand and supply model shows how people and firms will react to the incentives that these laws provide \nto control prices, in ways that will often lead to undesirable consequences. Alternative policy tools can often \nachieve the desired goals of price control laws, while avoiding at least some of their costs and tradeoffs. \nPrice Ceilings \nLaws that governments enact to regulate prices are called price controls. Price controls come in two flavors. A \nprice ceiling keeps a price from rising above a certain level (the “ceiling”), while a price floor keeps a price \nfrom falling below a given level (the “floor”). This section uses the demand and supply framework to analyze \nprice ceilings. The next section discusses price floors. \nA price ceiling is a legal maximum price that one pays for some good or service. A government imposes price \nceilings in order to keep the price of some necessary good or service affordable. For example, in 2005 during \nHurricane Katrina, the price of bottled water increased above $5 per gallon. As a result, many people called for \nprice controls on bottled water to prevent the price from rising so high. In this particular case, the government \ndid not impose a price ceiling, but there are other examples of where price ceilings did occur. \nIn many markets for goods and services, demanders outnumber suppliers. Consumers, who are also potential \nvoters, sometimes unite behind a political proposal to hold down a certain price. In some cities, such as \nAlbany, renters have pressed political leaders to pass rent control laws, a price ceiling that usually works by \nstating that landlords can raise rents by only a certain maximum percentage each year. Some of the best \nexamples of rent control occur in urban areas such as New York, Washington D.C., or San Francisco. \nRent control becomes a politically hot topic when rents begin to rise rapidly. Everyone needs an affordable \nplace to live. Perhaps a change in tastes makes a certain suburb or town a more popular place to live. Perhaps \nlocally-based businesses expand, bringing higher incomes and more people into the area. Such changes can \ncause a change in the demand for rental housing, as Figure 3.21 illustrates. The original equilibrium (E0) lies at \nthe intersection of supply curve S0 and demand curve D0, corresponding to an equilibrium price of $500 and \nan equilibrium quantity of 15,000 units of rental housing. The effect of greater income or a change in tastes is \nto shift the demand curve for rental housing to the right, as the data in Table 3.7 shows and the shift from D0 to \nD1 on the graph. In this market, at the new equilibrium E1, the price of a rental unit would rise to $600 and the \nequilibrium quantity would increase to 17,000 units. \n3.4 • Price Ceilings and Price Floors     71\n"
+    }
+  ],
+  "retrieval_queries": [
+    "Hình 28.3 \"The Twelve Federal Reserve Districts\" New York Philadelphia Richmond district numbers",
+    "\"The Twelve Federal Reserve Districts\" New York Philadelphia Richmond Figure 28.3",
+    "Federal Reserve Districts New York Philadelphia Richmond district numbers textbook"
+  ],
+  "ranked_pages": [
+    [
+      118,
+      1.0491803278688525
+    ],
+    [
+      117,
+      0.09428492654299106
+    ],
+    [
+      120,
+      0.09427657915561141
+    ],
+    [
+      102,
+      0.08558899584111253
+    ],
+    [
+      119,
+      0.071183244180102
+    ],
+    [
+      63,
+      0.05558752486501847
+    ],
+    [
+      58,
+      0.05196996873878952
+    ],
+    [
+      114,
+      0.045928030303030304
+    ],
+    [
+      113,
+      0.04369138959931799
+    ],
+    [
+      11,
+      0.04186764422149335
+    ],
+    [
+      8,
+      0.039833859833859835
+    ],
+    [
+      2,
+      0.03950615594451211
+    ],
+    [
+      75,
+      0.02684684684684685
+    ],
+    [
+      104,
+      0.026013513513513515
+    ],
+    [
+      14,
+      0.02581612258494337
+    ],
+    [
+      92,
+      0.014285714285714285
+    ],
+    [
+      27,
+      0.012987012987012988
+    ],
+    [
+      50,
+      0.01282051282051282
+    ],
+    [
+      55,
+      0.012658227848101266
+    ],
+    [
+      83,
+      0.0125
+    ]
+  ],
+  "status": "success",
+  "calls": [
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": "Search this economics textbook to answer in Vietnamese: Dựa vào Hình 28.3 (\"The Twelve Federal Reserve Districts\"), hãy xác định ngân hàng Dự trữ Liên bang khu vực nào có trụ sở chính ở New York, Philadelphia và Richmond; đồng thời cho biết New York, Philadelphia và Richmond lần lượt là thành phố trung tâm của những quận Dự trữ Liên bang số mấy trên bản đồ?"
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "search_book",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_0cc548aa27d317e1016af8364d77cc87d2909f373e7a6cdbd9",
+        "object": "response",
+        "created_at": 1794651725,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651726,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_0cc548aa27d317e1016af8364ddd1c87d29493360bda42fc4c",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"queries\":[\"Hình 28.3 \\\"The Twelve Federal Reserve Districts\\\" New York Philadelphia Richmond district numbers\", \"\\\"The Twelve Federal Reserve Districts\\\" New York Philadelphia Richmond Figure 28.3\", \"Federal Reserve Districts New York Philadelphia Richmond district numbers textbook\"]}",
+            "call_id": "call_5WMUPEJ9rEmMp9BLwzMtFMNK",
+            "name": "search_book"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "name": "search_book",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 222,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 69,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 291
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.6460799000051338
+    },
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": [
+              {
+                "type": "input_text",
+                "text": "Answer the question using ONLY supplied source evidence, in Vietnamese. Cite [page N] and Figure/Table ID for all claims. No external facts. If date/place/condition absent, choose abstain with no guessed values. Dựa vào Hình 28.3 (\"The Twelve Federal Reserve Districts\"), hãy xác định ngân hàng Dự trữ Liên bang khu vực nào có trụ sở chính ở New York, Philadelphia và Richmond; đồng thời cho biết New York, Philadelphia và Richmond lần lượt là thành phố trung tâm của những quận Dự trữ Liên bang số mấy trên bản đồ?\nSOURCE_CONTEXT:[{\"page\": 118, \"original_pdf_page\": 686, \"text\": \"Figure 28.3 shows the Federal Reserve districts and the cities where their regional headquarters are located. \\nThe commercial banks in each district elect a Board of Directors for each regional Federal Reserve bank, and \\nthat board chooses a president for each regional Federal Reserve district. Thus, the Federal Reserve System \\nincludes both federally and private-sector appointed leaders. \\nFIGURE 28.3 The Twelve Federal Reserve Districts There are twelve regional Federal Reserve banks, each with its \\ndistrict. \\nWhat Does a Central Bank Do? \\nThe Federal Reserve, like most central banks, is designed to perform three important functions: \\n1. To conduct monetary policy \\n2. To promote stability of the financial system \\n3. To provide banking services to commercial banks and other depository institutions, and to provide \\nbanking services to the federal government. \\nThe first two functions are sufficiently important that we will discuss them in their own modules. The third \\nfunction we will discuss here. \\nThe Federal Reserve provides many of the same services to banks as banks provide to their customers. For \\nexample, all commercial banks have an account at the Fed where they deposit reserves. Similarly, banks can \\nobtain loans from the Fed through the “discount window” facility, which we will discuss in more detail later. \\nThe Fed is also responsible for check processing. When you write a check, for example, to buy groceries, the \\ngrocery store deposits the check in its bank account. Then, the grocery store's bank returns the physical check \\n(or an image of that actual check) to your bank, after which it transfers funds from your bank account to the \\ngrocery store's account. The Fed is responsible for each of these actions. \\nOn a more mundane level, the Federal Reserve ensures that enough currency and coins are circulating \\nthrough the financial system to meet public demands. For example, each year the Fed increases the amount of \\ncurrency available in banks around the Christmas shopping season and reduces it again in January. \\nFinally, the Fed is responsible for assuring that banks are in compliance with a wide variety of consumer \\nprotection laws. For example, banks are forbidden from discriminating on the basis of age, race, sex, or marital \\nstatus. Banks are also required to disclose publicly information about the loans they make for buying houses \\nand how they distribute the loans geographically, as well as by sex and race of the loan applicants. \\n670     28 • Monetary Policy and Bank Regulation\\nAccess for free at openstax.org\\n\"}, {\"page\": 117, \"original_pdf_page\": 685, \"text\": \"the Chair was Alan Greenspan. From 2006 until 2014, Ben Bernanke held the post. From 2014 to 2018, Janet \\nYellen was the Chair. The current Chair is Jerome Powell. See the following Clear It Up feature to find out more \\nabout the former and current Chair. \\nWho has the most immediate economic power in the world? \\nFIGURE 28.2 Chair of the Federal Reserve Board Jerome H. Powell (Credit: “_NZ79221” by Board of Governors of \\nthe Federal Reserve System/Flickr, Public Domain) \\nWhat individual can make a financial market crash or soar just by making a public statement? It is not Bill Gates or \\nWarren Buffett. It is not even the President of the United States. The answer is the Chair of the Federal Reserve \\nBoard of Governors. In 2018, President Donald Trump appointed Jerome H. Powell to a 4-year term as chair of the \\nFederal Reserve, replacing Janet Yellen, who served as the first female chair of the Federal Reserve from \\n2014–2018 and who now serves as the Treasury Secretary in the Biden administration. In November 2021, Powell \\nwas nominated for a second term by President Biden; this appointment was confirmed in early-2022. \\nPowell played a pivotal role during the COVID-19 recession and its aftermath; in March 2020, under his leadership \\nthe Fed acted quickly to reduce the effective federal funds rate and expand its lending and bond-buying actions, \\nsimilar to what Ben Bernanke did during the Great Recession. A centrist at heart, Powell has been criticized for \\nfueling asset prices, even though in his many speeches and testimony before Congress he has consistently \\nemphasized low unemployment rates and has been more tolerant of inflation than others on the Federal Reserve \\nBoard. Powell is not an academic economist by training or career—he has a J.D. from Georgetown Law and worked \\nfor many years at investment banks and on corporate boards—but this lack of \\\"ivory tower\\\" influences has helped \\nguide a practical approach to economic problems, for which he is best known. \\nThe Fed Chair is first among equals on the Board of Governors. While they have only one vote, the Chair \\ncontrols the agenda, and is the Fed's public voice, so they have more power and influence than one might \\nexpect. \\nLINK IT UP \\nVisit this website (https://openstax.org/l/Governors) to see who the current members of the Federal Reserve \\nBoard of Governors are. You can follow the links provided for each board member to learn more about their \\nbackgrounds, experiences, and when their terms on the board will end. \\nThe Federal Reserve is more than the Board of Governors. The Fed also includes 12 regional Federal Reserve \\nbanks, each of which is responsible for supporting the commercial banks and economy generally in its district. \\n CLEAR IT UP \\n28.1 • The Federal Reserve Banking System and Central Banks     669\\n\"}, {\"page\": 120, \"original_pdf_page\": 697, \"text\": \"equilibrium (E1) at the potential GDP level of output. \\nConversely, if an economy is producing at a quantity of output above its potential GDP, a contractionary \\nmonetary policy can reduce the inflationary pressures for a rising price level. In Figure 28.6 (b), the original \\nequilibrium (E0) occurs at an output of 750, which is above potential GDP. A contractionary monetary policy \\nwill raise interest rates, discourage borrowing for investment and consumption spending, and cause the \\noriginal demand curve (AD0) to shift left to AD1, so that the new equilibrium (E1) occurs at the potential GDP \\nlevel of 700. \\nThese examples suggest that monetary policy should be countercyclical; that is, it should act to \\ncounterbalance the business cycles of economic downturns and upswings. The Fed should loosen monetary \\npolicy when a recession has caused unemployment to increase and tighten it when inflation threatens. Of \\ncourse, countercyclical policy does pose a danger of overreaction. If loose monetary policy seeking to end a \\nrecession goes too far, it may push aggregate demand so far to the right that it triggers inflation. If tight \\nmonetary policy seeking to reduce inflation goes too far, it may push aggregate demand so far to the left that a \\nrecession begins. Figure 28.7 (a) summarizes the chain of effects that connect loose and tight monetary policy \\nto changes in output and the price level. \\nFIGURE 28.7 The Pathways of Monetary Policy (a) In expansionary monetary policy the central bank causes the \\nsupply of money and loanable funds to increase, which lowers the interest rate, stimulating additional borrowing for \\ninvestment and consumption, and shifting aggregate demand right. The result is a higher price level and, at least in \\nthe short run, higher real GDP. (b) In contractionary monetary policy, the central bank causes the supply of money \\nand credit in the economy to decrease, which raises the interest rate, discouraging borrowing for investment and \\nconsumption, and shifting aggregate demand left. The result is a lower price level and, at least in the short run, \\nlower real GDP. \\nFederal Reserve Actions Over Last Four Decades \\nFor the period from 1970 through 2020, we can summarize Federal Reserve monetary policy by looking at how \\nit targeted the federal funds interest rate using open market operations. \\nOf course, telling the story of the U.S. economy since 1970 in terms of Federal Reserve actions leaves out many \\nother macroeconomic factors that were influencing unemployment, recession, economic growth, and inflation \\nover this time. The ten episodes of Federal Reserve action outlined in the sections below also demonstrate that \\nwe should consider the central bank as one of the leading actors influencing the macro economy. As we noted \\nearlier, the single person with the greatest power to influence the U.S. economy is probably the Federal Reserve \\nchairperson. \\nFigure 28.8 shows how the Federal Reserve has carried out monetary policy by targeting the federal funds \\ninterest rate in the last few decades. The graph shows the federal funds interest rate (remember, this interest \\nrate is set through open market operations), the unemployment rate, and the inflation rate since 1970. \\nDifferent episodes of monetary policy during this period are indicated in the figure. \\n28.4 • Monetary Policy and Economic Outcomes     681\\n\"}, {\"page\": 102, \"original_pdf_page\": 126, \"text\": \"in—they faced a 60% price hike to retain the same service in 2011. \\nIn early 2011, Netflix consumers paid about $10 a month for a package consisting of streaming video and DVD \\nrentals. In July 2011, the company announced a packaging change. Customers wishing to retain both streaming \\nvideo and DVD rental would be charged $15.98 per month, a price increase of about 60%. In 2014, Netflix also \\nraised its streaming video subscription price from $7.99 to $8.99 per month for new U.S. customers. The company \\nalso changed its policy of 4K streaming content from $9.00 to $12.00 per month that year. \\nHow would customers of the 18-year-old firm react? Would they abandon Netflix? Would the ease of access to other \\nvenues make a difference in how consumers responded to the Netflix price change? At the time, Netflix had few \\ncompetitors; in the intervening years, the field has grown to ten major competitors and nearly 200 smaller ones. Is \\nthat likely to have a greater impact than the price changes? We will explore the answers to those questions in this \\nchapter, which focuses on the change in quantity with respect to a change in price, a concept economists call \\nelasticity. \\nAnyone who has studied economics knows the law of demand: a higher price will lead to a lower quantity \\ndemanded. What you may not know is how much lower the quantity demanded will be. Similarly, the law of \\nsupply states that a higher price will lead to a higher quantity supplied. The question is: How much higher? \\nThis chapter will explain how to answer these questions and why they are critically important in the real world. \\nTo find answers to these questions, we need to understand the concept of elasticity. Elasticity is an economics \\nconcept that measures responsiveness of one variable to changes in another variable. Suppose you drop two \\nitems from a second-floor balcony. The first item is a tennis ball. The second item is a brick. Which will bounce \\nhigher? Obviously, the tennis ball. We would say that the tennis ball has greater elasticity. \\nConsider an economic example. Cigarette taxes are an example of a “sin tax,” a tax on something that is bad for \\nyou, like alcohol. Governments tax cigarettes at the state and national levels. As of 2021, state taxes ranged \\nfrom a low of 17 cents per pack in Missouri to $4.35 per pack in Connecticut and New York. The average state \\ncigarette tax is $1.76 per pack. The 2021 federal tax rate on cigarettes was $1.01 per pack. In 2015, the Obama \\nAdministration proposed raising the federal tax nearly a dollar to $1.95 per pack. The key question is: How \\nmuch would cigarette purchases decline? \\nTaxes on cigarettes serve two purposes: to raise tax revenue for government and to discourage cigarette \\nconsumption. However, if a higher cigarette tax discourages consumption considerably, meaning a greatly \\nreduced quantity of cigarette sales, then the cigarette tax on each pack will not raise much revenue for the \\ngovernment. Alternatively, a higher cigarette tax that does not discourage consumption by much will actually \\nraise more tax revenue for the government. Thus, when a government agency tries to calculate the effects of \\naltering its cigarette tax, it must analyze how much the tax affects the quantity of cigarettes consumed. This \\nissue reaches beyond governments and taxes. Every firm faces a similar issue. When a firm considers raising \\nthe sales price, it must consider how much a price increase will reduce the quantity demanded of what it sells. \\nConversely, when a firm puts its products on sale, it must expect (or hope) that the lower price will lead to a \\nsignificantly higher quantity demanded. \\n5.1 Price Elasticity of Demand and Price Elasticity of Supply \\nLEARNING OBJECTIVES \\nBy the end of this section, you will be able to: \\n• Calculate the price elasticity of demand \\n• Calculate the price elasticity of supply \\nBoth the demand and supply curve show the relationship between price and the number of units demanded or \\nsupplied. Price elasticity is the ratio between the percentage change in the quantity demanded (Qd) or \\nsupplied (Qs) and the corresponding percent change in price. The price elasticity of demand is the percentage \\n110     5 • Elasticity\\nAccess for free at openstax.org\\n\"}, {\"page\": 119, \"original_pdf_page\": 696, \"text\": \"1995, established its target federal funds rate in advance of any open market operations. \\nOf course, financial markets display a wide range of interest rates, representing borrowers with different risk \\npremiums and loans that they must repay over different periods of time. In general, when the federal funds \\nrate drops substantially, other interest rates drop, too, and when the federal funds rate rises, other interest \\nrates rise. However, a fall or rise of one percentage point in the federal funds rate—which remember is for \\nborrowing overnight—will typically have an effect of less than one percentage point on a 30-year loan to \\npurchase a house or a three-year loan to purchase a car. Monetary policy can push the entire spectrum of \\ninterest rates higher or lower, but the forces of supply and demand in those specific markets for lending and \\nborrowing set the specific interest rates. \\nThe Effect of Monetary Policy on Aggregate Demand \\nMonetary policy affects interest rates and the available quantity of loanable funds, which in turn affects several \\ncomponents of aggregate demand. Tight or contractionary monetary policy that leads to higher interest rates \\nand a reduced quantity of loanable funds will reduce two components of aggregate demand. Business \\ninvestment will decline because it is less attractive for firms to borrow money, and even firms that have money \\nwill notice that, with higher interest rates, it is relatively more attractive to put those funds in a financial \\ninvestment than to make an investment in physical capital. In addition, higher interest rates will discourage \\nconsumer borrowing for big-ticket items like houses and cars. Conversely, loose or expansionary monetary \\npolicy that leads to lower interest rates and a higher quantity of loanable funds will tend to increase business \\ninvestment and consumer borrowing for big-ticket items. \\nIf the economy is suffering a recession and high unemployment, with output below potential GDP, \\nexpansionary monetary policy can help the economy return to potential GDP. Figure 28.6 (a) illustrates this \\nsituation. This example uses a short-run upward-sloping Keynesian aggregate supply curve (SRAS). The \\noriginal equilibrium during a recession of E0 occurs at an output level of 600. An expansionary monetary \\npolicy will reduce interest rates and stimulate investment and consumption spending, causing the original \\naggregate demand curve (AD0) to shift right to AD1, so that the new equilibrium (E1) occurs at the potential \\nGDP level of 700. \\nFIGURE 28.6 Expansionary or Contractionary Monetary Policy (a) The economy is originally in a recession with the \\nequilibrium output and price shown at E0. Expansionary monetary policy will reduce interest rates and shift \\naggregate demand to the right from AD0 to AD1, leading to the new equilibrium (E1) at the potential GDP level of \\noutput with a relatively small rise in the price level. (b) The economy is originally producing above the potential GDP \\nlevel of output at the equilibrium E0 and is experiencing pressures for an inflationary rise in the price level. \\nContractionary monetary policy will shift aggregate demand to the left from AD0 to AD1, thus leading to a new \\n680     28 • Monetary Policy and Bank Regulation\\nAccess for free at openstax.org\\n\"}, {\"page\": 63, \"original_pdf_page\": 87, \"text\": \"demand and supply. \\nGovernments can pass laws affecting market outcomes, but no law can negate these economic principles. \\nRather, the principles will become apparent in sometimes unexpected ways, which may undermine the intent \\nof the government policy. This is one of the major conclusions of this section. \\nControversy sometimes surrounds the prices and quantities established by demand and supply, especially for \\nproducts that are considered necessities. In some cases, discontent over prices turns into public pressure on \\npoliticians, who may then pass legislation to prevent a certain price from climbing “too high” or falling “too \\nlow.” \\nThe demand and supply model shows how people and firms will react to the incentives that these laws provide \\nto control prices, in ways that will often lead to undesirable consequences. Alternative policy tools can often \\nachieve the desired goals of price control laws, while avoiding at least some of their costs and tradeoffs. \\nPrice Ceilings \\nLaws that governments enact to regulate prices are called price controls. Price controls come in two flavors. A \\nprice ceiling keeps a price from rising above a certain level (the “ceiling”), while a price floor keeps a price \\nfrom falling below a given level (the “floor”). This section uses the demand and supply framework to analyze \\nprice ceilings. The next section discusses price floors. \\nA price ceiling is a legal maximum price that one pays for some good or service. A government imposes price \\nceilings in order to keep the price of some necessary good or service affordable. For example, in 2005 during \\nHurricane Katrina, the price of bottled water increased above $5 per gallon. As a result, many people called for \\nprice controls on bottled water to prevent the price from rising so high. In this particular case, the government \\ndid not impose a price ceiling, but there are other examples of where price ceilings did occur. \\nIn many markets for goods and services, demanders outnumber suppliers. Consumers, who are also potential \\nvoters, sometimes unite behind a political proposal to hold down a certain price. In some cities, such as \\nAlbany, renters have pressed political leaders to pass rent control laws, a price ceiling that usually works by \\nstating that landlords can raise rents by only a certain maximum percentage each year. Some of the best \\nexamples of rent control occur in urban areas such as New York, Washington D.C., or San Francisco. \\nRent control becomes a politically hot topic when rents begin to rise rapidly. Everyone needs an affordable \\nplace to live. Perhaps a change in tastes makes a certain suburb or town a more popular place to live. Perhaps \\nlocally-based businesses expand, bringing higher incomes and more people into the area. Such changes can \\ncause a change in the demand for rental housing, as Figure 3.21 illustrates. The original equilibrium (E0) lies at \\nthe intersection of supply curve S0 and demand curve D0, corresponding to an equilibrium price of $500 and \\nan equilibrium quantity of 15,000 units of rental housing. The effect of greater income or a change in tastes is \\nto shift the demand curve for rental housing to the right, as the data in Table 3.7 shows and the shift from D0 to \\nD1 on the graph. In this market, at the new equilibrium E1, the price of a rental unit would rise to $600 and the \\nequilibrium quantity would increase to 17,000 units. \\n3.4 • Price Ceilings and Price Floors     71\\n\"}]"
+              }
+            ]
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "finish",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_05c42348edae39f2016af8364f21e887d2be0e6c9c13e6121d",
+        "object": "response",
+        "created_at": 1794651727,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651729,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_05c42348edae39f2016af8364fc9a887d2839c532b3435323c",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"status\":\"answered\",\"answer\":\"Dựa vào Hình 28.3, các ngân hàng Dự trữ Liên bang khu vực có trụ sở chính tại:\\n- New York: Ngân hàng Dự trữ Liên bang New York [page 118, Figure 28.3].\\n- Philadelphia: Ngân hàng Dự trữ Liên bang Philadelphia [page 118, Figure 28.3].\\n- Richmond: Ngân hàng Dự trữ Liên bang Richmond [page 118, Figure 28.3].\\n\\nTrên bản đồ Hình 28.3, các thành phố trung tâm này thuộc các quận Dự trữ Liên bang số:\\n- New York: Quận số 2 [page 118, Figure 28.3].\\n- Philadelphia: Quận số 3 [page 118, Figure 28.3].\\n- Richmond: Quận số 5 [page 118, Figure 28.3].\",\"pages\":[118]}",
+            "call_id": "call_C56GJNh5cO7yFfkLhuAg5Xb7",
+            "name": "finish"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "name": "finish",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 4730,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 231,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 4961
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 2.7089345999993384
+    }
+  ],
+  "usage": {
+    "model_calls": 2,
+    "input_tokens": 4952,
+    "cached_input_tokens": 0,
+    "output_tokens": 300,
+    "estimated_api_cost_usd": 0.005064,
+    "cost_note": "Estimate from published standard GPT-5.4-mini token rates, verified 2026-11-14; actual bill may differ. Unknown model/endpoint rates are not assumed zero.",
+    "pricing_source": "https://developers.openai.com/api/docs/models/gpt-5.4-mini"
+  },
+  "seconds": 4.366005700008827
+}

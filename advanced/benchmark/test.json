@@ -1,0 +1,490 @@
+[
+  {
+    "id": "adv-test-table-01",
+    "split": "test",
+    "group": "table",
+    "answerable": true,
+    "question": "Dựa vào Bảng 3.1 \"Price and Quantity Demanded of Gasoline\" trong trang này, khi giá xăng là $1.80 mỗi gallon thì lượng cầu là bao nhiêu, và đơn vị của lượng cầu trong bảng là gì?",
+    "expected_answer": "500 triệu gallon",
+    "evidence_description": "Bảng 3.1 ở phần dưới của trang, hàng có giá $1.80 per gallon cho thấy Quantity Demanded = 500, và tiêu đề cột ghi đơn vị là millions of gallons.",
+    "gold_pages": [
+      41
+    ],
+    "original_pages": [
+      65
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-table-02",
+    "split": "test",
+    "group": "table",
+    "answerable": true,
+    "question": "Dựa vào Hình 3.5 và Bảng 3.4 về \"Shifts in Demand: A Car Example\", tại mức giá $20,000, lượng xe ô tô được cầu theo đường cầu ban đầu D0 là bao nhiêu và sau khi cầu giảm sang D2 thì là bao nhiêu? Hãy nêu đúng đơn vị trong bảng.",
+    "expected_answer": "Tại mức giá $20,000, lượng xe được cầu theo D0 là 18.0 million cars và theo D2 là 14.4 million cars.",
+    "evidence_description": "Trang hiển thị Hình 3.5 và Bảng 3.4. Trong hàng giá $20,000 của Bảng 3.4, cột \"Original Quantity Demanded D0\" ghi 18.0 million và cột \"Decrease to D2\" ghi 14.4 million.",
+    "gold_pages": [
+      48
+    ],
+    "original_pages": [
+      72
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-table-03",
+    "split": "test",
+    "group": "table",
+    "answerable": true,
+    "question": "Dựa vào Hình 3.16 và Bảng 3.6 về thị trường cá hồi, tại mức giá $2.50 mỗi pound, lượng cầu bằng bao nhiêu và lượng cung năm 2015 bằng bao nhiêu? Hãy trả lời kèm đúng đơn vị như trong bảng.",
+    "expected_answer": "Lượng cầu là 550 và lượng cung năm 2015 là 550, đều tính bằng nghìn con cá (thousands of fish).",
+    "evidence_description": "Hình 3.16 và Bảng 3.6 (Salmon Fishing), hàng giá $2.50 trong cột Quantity Demanded và Quantity Supplied in 2015.",
+    "gold_pages": [
+      57
+    ],
+    "original_pages": [
+      81
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-table-04",
+    "split": "test",
+    "group": "table",
+    "answerable": true,
+    "question": "Dựa trên Bảng 4.1 “Demand and Supply of Nurses in Minneapolis-St. Paul-Bloomington”, nếu mức lương hằng năm là $80,000 thì số lượng y tá được hỏi việc và số lượng y tá sẵn sàng cung ứng lần lượt là bao nhiêu?",
+    "expected_answer": "Ở mức lương hằng năm $80,000, số lượng y tá được hỏi việc là 44,000 và số lượng y tá sẵn sàng cung ứng là 38,000.",
+    "evidence_description": "Bảng 4.1 ở phần dưới hình 4.2, hàng có Annual Salary = $80,000; các cột tương ứng là Quantity Demanded = 44,000 và Quantity Supplied = 38,000.",
+    "gold_pages": [
+      79
+    ],
+    "original_pages": [
+      103
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-table-05",
+    "split": "test",
+    "group": "table",
+    "answerable": true,
+    "question": "Dựa trên Bảng 4.4 “Living Wage: Example of a Price Floor”, tại mức tiền công $11/giờ, chênh lệch giữa số lượng lao động được yêu cầu và số lượng lao động được cung ứng là bao nhiêu người lao động?",
+    "expected_answer": "500 người lao động",
+    "evidence_description": "Bảng 4.4 liệt kê tại wage $11/hr thì Quantity Labor Demanded = 900 và Quantity Labor Supplied = 1,400; chênh lệch tuyệt đối giữa hai giá trị là 500.",
+    "gold_pages": [
+      85
+    ],
+    "original_pages": [
+      109
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-table-06",
+    "split": "test",
+    "group": "table",
+    "answerable": true,
+    "question": "Dựa vào Bảng 4.5 “Demand and Supply for Borrowing Money with Credit Cards”, tại mức lãi suất bao nhiêu thì lượng tài chính cần vay và lượng tài chính được cung ứng bằng nhau, và khi đó mỗi bên là bao nhiêu (đơn vị: tỷ USD)?",
+    "expected_answer": "15%; lượng tài chính cần vay = 600 tỷ USD và lượng tài chính được cung ứng = 600 tỷ USD.",
+    "evidence_description": "Trang 112 PDF gốc (trang 88 bản in), Bảng 4.5 “Demand and Supply for Borrowing Money with Credit Cards”, hàng có interest rate 15% cho thấy quantity demanded = $600 billions và quantity supplied = $600 billions.",
+    "gold_pages": [
+      88
+    ],
+    "original_pages": [
+      112
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-diagram-01",
+    "split": "test",
+    "group": "diagram",
+    "answerable": true,
+    "question": "Dựa vào Hình 1.7 (Circular Flow Diagram) trong phần mô tả luồng tuần hoàn giữa hộ gia đình và doanh nghiệp, mũi tên nào biểu thị luồng “wages, salaries, and benefits” từ doanh nghiệp sang hộ gia đình? Hãy nêu ký hiệu mũi tên đúng.",
+    "expected_answer": "Mũi tên D",
+    "evidence_description": "Trong Hình 1.7, nhãn trên mũi tên phía trên bên phải của vòng tròn ghi “D: Wages, Salaries and Benefits”, thể hiện dòng thanh toán từ firms sang households.",
+    "gold_pages": [
+      9
+    ],
+    "original_pages": [
+      33
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-diagram-02",
+    "split": "test",
+    "group": "diagram",
+    "answerable": true,
+    "question": "Dựa trên Hình 16.2 (\"An Insurance Company: What Comes In, What Goes Out\") trong trang trích dẫn, các luồng nào đi **vào** công ty bảo hiểm và các luồng nào đi **ra** khỏi công ty bảo hiểm? Hãy nêu đầy đủ theo đúng nhãn trong hình.",
+    "expected_answer": "Luồng đi vào công ty bảo hiểm là: \"Premiums from customers\" và \"Investment income\". Luồng đi ra khỏi công ty bảo hiểm là: \"Payments to customers\", \"Expenses\", và \"Profits or losses\".",
+    "evidence_description": "Figure 16.2 ở phần giữa trang: sơ đồ có nhãn \"Money In\" bên trái với hai mũi tên \"Premiums from customers\" và \"Investment income\" đi vào hộp \"Insurance company\"; bên phải là \"Money Out\" với ba mũi tên \"Payments to customers\", \"Expenses\", và \"Profits or losses\" đi ra.",
+    "gold_pages": [
+      105
+    ],
+    "original_pages": [
+      409
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-diagram-03",
+    "split": "test",
+    "group": "diagram",
+    "answerable": true,
+    "question": "Dựa vào Hình 17.3 về vai trò của ngân hàng như một trung gian tài chính, hãy xác định mũi tên nào biểu diễn dòng tiền từ người gửi tiết kiệm sang ngân hàng, và mũi tên nào biểu diễn dòng tiền từ ngân hàng quay trở lại người gửi tiết kiệm?",
+    "expected_answer": "Mũi tên từ \"Savers\" sang \"Banks\" được ghi là \"Deposits\"; mũi tên từ \"Banks\" quay lại \"Savers\" được ghi là \"Withdrawals\" và \"Interest payments\".",
+    "evidence_description": "Trong Hình 17.3 (Banks as Financial Intermediaries), sơ đồ gồm ba vòng tròn \"Savers\" ở bên trái, \"Banks\" ở giữa và \"Borrowers\" ở bên phải. Mũi tên cong phía trên từ Savers sang Banks có nhãn \"Deposits\"; các mũi tên cong phía dưới từ Banks về Savers có nhãn \"Withdrawals\" và \"Interest payments\".",
+    "gold_pages": [
+      108
+    ],
+    "original_pages": [
+      428
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-diagram-04",
+    "split": "test",
+    "group": "diagram",
+    "answerable": true,
+    "question": "Dựa vào Hình 19.2 \"Macroeconomic Goals, Framework, and Policies\" trên trang được cung cấp, trong ô \"Framework\" có những mục nào được liệt kê?",
+    "expected_answer": "Aggregate demand/ Aggregate supply; Keynesian model; Neoclassical model.",
+    "evidence_description": "Figure 19.2 ở giữa trang, ô màu xanh tiêu đề \"Framework\" liệt kê ba dòng: \"Aggregate demand/ Aggregate supply\", \"Keynesian model\", và \"Neoclassical model\".",
+    "gold_pages": [
+      110
+    ],
+    "original_pages": [
+      464
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-diagram-05",
+    "split": "test",
+    "group": "diagram",
+    "answerable": true,
+    "question": "Dựa vào Hình 27.3 (Relationship between M1 and M2 Money), hãy xác định ba thành phần nào nằm trong M1 nhưng không được liệt kê riêng bên ngoài vòng M1 trong M2?",
+    "expected_answer": "Coins and currency in circulation; checkable (demand) deposits; savings deposits.",
+    "evidence_description": "Trong Hình 27.3, vòng tròn M1 Money Supply ở bên trong M2 Money Supply và ghi rõ ba mục: Coins and Currency in Circulation, Checkable Deposits, Savings Deposits. Phần M2 còn liệt kê thêm Money Market Funds, Certificates of Deposit, và Other Time Deposits.",
+    "gold_pages": [
+      114
+    ],
+    "original_pages": [
+      668
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-chart-01",
+    "split": "test",
+    "group": "chart",
+    "answerable": true,
+    "question": "Dựa trên Hình 2.3 (đường giới hạn khả năng sản xuất giữa healthcare và education), nếu xã hội di chuyển từ điểm B sang điểm C thì chi phí cơ hội của phần giáo dục tăng thêm là gì, tính theo hàng hóa nào và theo đơn vị nào trong hình?",
+    "expected_answer": "Chi phí cơ hội là phần healthcare phải từ bỏ để có thêm education; đơn vị được nêu trong hình là mức sản lượng của healthcare.",
+    "evidence_description": "Figure 2.3 shows healthcare on the vertical axis and education on the horizontal axis. The text states that when society moves from point B to point C, the opportunity cost of additional education is the healthcare society has to forgo.",
+    "gold_pages": [
+      26
+    ],
+    "original_pages": [
+      50
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-chart-02",
+    "split": "test",
+    "group": "chart",
+    "answerable": true,
+    "question": "Dựa trên Hình 3.4 \"Demand and Supply for Gasoline\", tại mức giá nào (price per gallon) đường cung S và đường cầu D cắt nhau, và lượng cân bằng là bao nhiêu (quantity, tính bằng millions of gallons)?",
+    "expected_answer": "Mức giá cân bằng là $1.40 mỗi gallon và lượng cân bằng là 600 triệu gallons.",
+    "evidence_description": "Hình 3.4 cho biết đường cầu D và đường cung S giao nhau tại điểm cân bằng E, với giá $1.40 và lượng 600 (millions of gallons).",
+    "gold_pages": [
+      44
+    ],
+    "original_pages": [
+      68
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-chart-03",
+    "split": "test",
+    "group": "chart",
+    "answerable": true,
+    "question": "Quan sát Hình 3.19 (Combined Effect of Decreased Demand and Decreased Supply), trên trục Quantity, mức sản lượng cân bằng mới được ký hiệu là gì khi cả cung và cầu đều giảm?",
+    "expected_answer": "Q3",
+    "evidence_description": "Trong Hình 3.19, phần mô tả dưới hình nêu rõ rằng khi cả hai đường cùng dịch sang trái thì tổng tác động lên lượng cân bằng là giảm, và có câu: \"This is easy to see graphically, since Q3 is to the left of Q0.\" Trên đồ thị, nhãn Q3 nằm trên trục Quantity tại mức cân bằng mới.",
+    "gold_pages": [
+      61
+    ],
+    "original_pages": [
+      85
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-chart-04",
+    "split": "test",
+    "group": "chart",
+    "answerable": true,
+    "question": "Quan sát Hình 4.5 về “Demand and Supply for Borrowing Money with Credit Cards”, tại mức lãi suất cân bằng 15% trên trục tung, lượng vốn tài chính được cho vay và đi vay là bao nhiêu theo trục hoành?",
+    "expected_answer": "$600 billion",
+    "evidence_description": "Trong Hình 4.5, phần chú thích nêu rõ tại điểm cân bằng E, lãi suất là 15% và lượng vốn tài chính được cho vay và đi vay là $600 billion.",
+    "gold_pages": [
+      87
+    ],
+    "original_pages": [
+      111
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-chart-05",
+    "split": "test",
+    "group": "chart",
+    "answerable": true,
+    "question": "Quan sát Hình 5.2 (Calculating the Price Elasticity of Demand) trong vùng đồ thị, tại các điểm được gắn nhãn B và A, hãy cho biết độ co giãn của cầu theo giá giữa hai điểm này là bao nhiêu theo cách tính trong hình?",
+    "expected_answer": "0.45",
+    "evidence_description": "Dựa trên Hình 5.2, phần chú thích và phép tính ngay dưới đồ thị cho thấy khi giá giảm từ $70 tại điểm B xuống $60 tại điểm A, độ co giãn của cầu theo giá giữa hai điểm này được tính ra là 0.45.",
+    "gold_pages": [
+      104
+    ],
+    "original_pages": [
+      128
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-multi_hop-01",
+    "split": "test",
+    "group": "multi_hop",
+    "answerable": true,
+    "question": "Dựa trên Hình 1.7 (Circular Flow Diagram) ở trang 17 và Hình 17.3 (Banks as Financial Intermediaries) ở trang 412, hãy xác định đúng nhãn của dòng chảy tương ứng với: (i) dòng từ households sang firms trong thị trường hàng hóa và dịch vụ, và (ii) dòng từ savers sang banks trong vai trò trung gian tài chính. Trả lời bằng đúng hai nhãn theo thứ tự (i), (ii).",
+    "expected_answer": "(i) B. Payment for Goods and Services; (ii) Deposits",
+    "evidence_description": "Hình 1.7 ghi dòng từ households sang firms trong thị trường hàng hóa và dịch vụ là mũi tên B, nhãn “Payment for Goods and Services”. Hình 17.3 ghi dòng từ savers sang banks là “Deposits”. Câu hỏi yêu cầu kết hợp thông tin từ cả hai trang/hình.",
+    "gold_pages": [
+      9,
+      108
+    ],
+    "original_pages": [
+      33,
+      428
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-multi_hop-02",
+    "split": "test",
+    "group": "multi_hop",
+    "answerable": true,
+    "question": "Dựa trên Table 3.1 (Price and Quantity Demanded of Gasoline) và Table 4.5 (Demand and Supply for Borrowing Money with Credit Cards), hãy cho biết: khi giá xăng là $1.60 mỗi gallon trong Table 3.1 và khi lãi suất là 15% trong Table 4.5, thì (i) quantity demanded của xăng là bao nhiêu triệu gallon, và (ii) quantity demanded of financial capital (borrowing) là bao nhiêu tỷ đô la?",
+    "expected_answer": "(i) 550 million gallons; (ii) $600 billion",
+    "evidence_description": "Table 3.1 on page 65 lists gasoline price $1.60 per gallon with quantity demanded 550 million gallons. Table 4.5 on page 112 lists interest rate 15% with quantity of financial capital demanded (borrowing) of $600 billion.",
+    "gold_pages": [
+      41,
+      88
+    ],
+    "original_pages": [
+      65,
+      112
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-multi_hop-03",
+    "split": "test",
+    "group": "multi_hop",
+    "answerable": true,
+    "question": "Dựa trên cả Hình 2.3 và Hình 19.2, hãy xác định tại Hình 2.3 điểm nào biểu thị khi xã hội dồn toàn bộ nguồn lực vào chăm sóc sức khỏe, và trong Hình 19.2, hộp nào liệt kê các công cụ mà chính phủ liên bang dùng để tác động đến nền kinh tế vĩ mô?",
+    "expected_answer": "Ở Hình 2.3, điểm A biểu thị khi xã hội dồn toàn bộ nguồn lực vào chăm sóc sức khỏe. Ở Hình 19.2, hộp bên phải có nhãn \"Policy Tools\" liệt kê các công cụ là \"Monetary policy\" và \"Fiscal policy\".",
+    "evidence_description": "Hình 2.3 (PPF chăm sóc sức khỏe so với giáo dục) cho biết tại A tất cả nguồn lực dành cho healthcare. Hình 19.2 (Macroeconomic Goals, Framework, and Policies) cho biết hộp bên phải là Policy Tools và chứa Monetary policy, Fiscal policy.",
+    "gold_pages": [
+      26,
+      110
+    ],
+    "original_pages": [
+      50,
+      464
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-multi_hop-04",
+    "split": "test",
+    "group": "multi_hop",
+    "answerable": true,
+    "question": "Dựa trên Hình 27.3 và Hình 28.7(a), M2 gồm những thành phần nào ngoài M1, và theo sơ đồ về chính sách tiền tệ mở rộng thì mức giá cùng GDP thực thay đổi theo hướng nào?",
+    "expected_answer": "Theo Hình 27.3, M2 gồm M1 cộng money market funds, certificates of deposit và other time deposits. Theo Hình 28.7(a), chính sách tiền tệ mở rộng làm mức giá tăng và GDP thực tăng, ít nhất trong ngắn hạn.",
+    "evidence_description": "Hình 27.3 ở excerpt page 114 (original PDF page 668) cho thấy Money Market Funds, Certificates of Deposit và Other Time Deposits nằm ngoài M1 nhưng trong M2. Hình 28.7(a) ở excerpt page 120 (original PDF page 697) kết thúc bằng P tăng và real GDP tăng; chú thích giới hạn GDP thực tăng ít nhất trong ngắn hạn.",
+    "gold_pages": [
+      114,
+      120
+    ],
+    "original_pages": [
+      668,
+      697
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-text-01",
+    "split": "test",
+    "group": "text",
+    "answerable": true,
+    "question": "Theo đoạn \"Why Study Economics?\" trên trang này, nếu một người muốn trở thành công dân có hiểu biết, họ cần có khả năng làm gì khi đọc các bài viết về các vấn đề kinh tế?",
+    "expected_answer": "Họ cần có khả năng hiểu và đánh giá lập luận của người viết khi đọc các bài viết về các vấn đề kinh tế.",
+    "evidence_description": "Đoạn gạch đầu dòng dưới tiêu đề \"Why Study Economics?\" nêu rằng \"A basic understanding of economics makes you a well-rounded thinker. When you read articles about economic issues, you will understand and be able to evaluate the writer’s argument.\"",
+    "gold_pages": [
+      6
+    ],
+    "original_pages": [
+      30
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-text-02",
+    "split": "test",
+    "group": "text",
+    "answerable": true,
+    "question": "Theo đoạn văn ở trang này, trong một nền kinh tế chỉ huy, nếu chính phủ quyết định cả hàng hóa và dịch vụ nào sẽ được sản xuất, mức giá sẽ thu bao nhiêu, phương pháp sản xuất nào sẽ được dùng, và lương của công nhân sẽ do ai ấn định, thì ai là người đưa ra các quyết định kinh tế đó?",
+    "expected_answer": "Chính phủ.",
+    "evidence_description": "Đoạn văn ngay dưới Hình 1.8 nêu rõ: \"In a command economy, the government decides what goods and services will be produced and what prices it will charge for them. The government decides what methods of production to use and sets wages for workers.\"",
+    "gold_pages": [
+      11
+    ],
+    "original_pages": [
+      35
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-text-03",
+    "split": "test",
+    "group": "text",
+    "answerable": true,
+    "question": "Trong đoạn “Price Floors” trên trang này, theo ví dụ về mức lương tối thiểu liên bang năm 2022, nếu một người làm việc toàn thời gian được trả mức lương tối thiểu liên bang $7.25 mỗi giờ thì thu nhập hằng năm của người đó là bao nhiêu?",
+    "expected_answer": "$15,080 per year",
+    "evidence_description": "Từ đoạn văn dưới tiêu đề “Price Floors”, câu nêu rõ: “The federal minimum wage in 2022 was $7.25 per hour... The federal minimum wage yields an annual income for a single person of $15,080.”",
+    "gold_pages": [
+      65
+    ],
+    "original_pages": [
+      89
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-text-04",
+    "split": "test",
+    "group": "text",
+    "answerable": true,
+    "question": "Trên trang này, nếu tiền lương của y tá ở Minneapolis-St. Paul-Bloomington là $70,000 mỗi năm, thì có tình trạng gì xảy ra trên thị trường lao động, nhà tuyển dụng muốn thuê bao nhiêu y tá và có bao nhiêu cá nhân muốn làm y tá ở mức lương đó?",
+    "expected_answer": "Xảy ra tình trạng excess demand (shortage): nhà tuyển dụng muốn thuê 52,000 y tá, nhưng chỉ có 27,000 người muốn làm y tá ở mức lương này.",
+    "evidence_description": "Đoạn văn ngay dưới Figure 4.2 trong phần nói về cân bằng và mức lương dưới cân bằng nêu rõ: nếu salary là $70,000 per year, employers want to hire 52,000 nurses, but only 27,000 individuals want to work as nurses at that salary in Minneapolis-St. Paul-Bloomington, và đây là tình trạng excess demand or a shortage.",
+    "gold_pages": [
+      80
+    ],
+    "original_pages": [
+      104
+    ],
+    "source": "data/advanced/economics-120-pages.pdf",
+    "review_status": "AI source review complete; learner confirmation pending"
+  },
+  {
+    "id": "adv-test-unanswerable-01",
+    "split": "test",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "Dựa riêng vào tài liệu, tỷ giá USD/VND ngày 14/11/2026 chính xác là bao nhiêu?",
+    "expected_answer": "Không đủ bằng chứng; không đoán con số.",
+    "gold_pages": [],
+    "absence_reason": "The excerpt contains no USD/VND exchange-rate observation for 14 November 2026 or any current Vietnamese exchange-rate series.",
+    "review_status": "AI-reviewed against all indexed pages; learner confirmation pending",
+    "source_review_note": "Searched all 120 indexed page texts; the excerpt contains no data series or observations for the requested contemporary Vietnam-specific statistic."
+  },
+  {
+    "id": "adv-test-unanswerable-02",
+    "split": "test",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "Dựa riêng vào tài liệu, giá vàng miếng SJC tại Việt Nam ngày 14/11/2026 chính xác là bao nhiêu?",
+    "expected_answer": "Không đủ bằng chứng; không đoán con số.",
+    "gold_pages": [],
+    "absence_reason": "The excerpt has no SJC gold-price observation, Vietnamese market series, or 14 November 2026 price data.",
+    "review_status": "AI-reviewed against all indexed pages; learner confirmation pending",
+    "source_review_note": "Searched all 120 indexed page texts; the excerpt contains no data series or observations for the requested contemporary Vietnam-specific statistic."
+  },
+  {
+    "id": "adv-test-unanswerable-03",
+    "split": "test",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "Dựa riêng vào tài liệu, sản lượng cà phê Việt Nam niên vụ 2025–2026 là bao nhiêu tấn?",
+    "expected_answer": "Không đủ bằng chứng; không đoán con số.",
+    "gold_pages": [],
+    "absence_reason": "The excerpt has no Vietnam coffee-production series or 2025–2026 crop-year output value.",
+    "review_status": "AI-reviewed against all indexed pages; learner confirmation pending",
+    "source_review_note": "Searched all 120 indexed page texts; the excerpt contains no data series or observations for the requested contemporary Vietnam-specific statistic."
+  },
+  {
+    "id": "adv-test-unanswerable-04",
+    "split": "test",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "Dựa riêng vào tài liệu, tỷ lệ lạm phát Việt Nam tháng 10/2026 chính xác là bao nhiêu?",
+    "expected_answer": "Không đủ bằng chứng; không đoán con số.",
+    "gold_pages": [],
+    "absence_reason": "Excerpt textbook has no contemporary Vietnam-specific dataset; full corpus scope/term and source review required.",
+    "review_status": "AI-reviewed against all indexed pages; learner confirmation pending",
+    "source_review_note": "Searched all 120 indexed page texts; the excerpt contains no data series or observations for the requested contemporary Vietnam-specific statistic."
+  },
+  {
+    "id": "adv-test-unanswerable-05",
+    "split": "test",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "Dựa riêng vào tài liệu, GDP Việt Nam quý III/2026 chính xác là bao nhiêu?",
+    "expected_answer": "Không đủ bằng chứng; không đoán con số.",
+    "gold_pages": [],
+    "absence_reason": "Excerpt textbook has no contemporary Vietnam-specific dataset; full corpus scope/term and source review required.",
+    "review_status": "AI-reviewed against all indexed pages; learner confirmation pending",
+    "source_review_note": "Searched all 120 indexed page texts; the excerpt contains no data series or observations for the requested contemporary Vietnam-specific statistic."
+  },
+  {
+    "id": "adv-test-unanswerable-06",
+    "split": "test",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "Dựa riêng vào tài liệu, tỷ lệ thất nghiệp Hà Nội năm 2026 chính xác là bao nhiêu?",
+    "expected_answer": "Không đủ bằng chứng; không đoán con số.",
+    "gold_pages": [],
+    "absence_reason": "Excerpt textbook has no contemporary Vietnam-specific dataset; full corpus scope/term and source review required.",
+    "review_status": "AI-reviewed against all indexed pages; learner confirmation pending",
+    "source_review_note": "Searched all 120 indexed page texts; the excerpt contains no data series or observations for the requested contemporary Vietnam-specific statistic."
+  }
+]

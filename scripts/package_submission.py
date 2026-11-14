@@ -12,7 +12,7 @@ from llm_client import read_settings
 
 
 def main():
-    folders=('artifacts','assets','benchmark','data','docs','report','results','scripts','src','starter','tests')
+    folders=('advanced','artifacts','assets','benchmark','data','docs','report','results','scripts','src','starter','tests')
     rootfiles=('README.md','.gitignore','.gitattributes','.env.example','requirements.txt','requirements-lock.txt',
                'ADVANCED.md','AGENT_SETUP.md','BENCHMARK.md','CHECKPOINTS.md','GUIDE.md','PSEUDOCODE.md','REPORT_TEMPLATE.md','RUBRIC.md','RULES.md','SUBMISSION.md')
     selected=[ROOT/name for name in rootfiles if (ROOT/name).is_file()]
@@ -37,8 +37,8 @@ def main():
     with zipfile.ZipFile(archive) as z:
         if z.testzip() is not None: raise ValueError('Archive integrity check failed')
         assert '.env' not in z.namelist()
-    (out/'manifest.json').write_text(json.dumps({'archive':archive.name,'file_count':len(files),'archive_sha256':hashlib.sha256(archive.read_bytes()).hexdigest(),
-             'credential_scan':'passed; no key values logged','exclusions':['.env','.local','venv','.git','__pycache__']},indent=2)+'\n',encoding='utf-8')
+    (out/'manifest.json').write_bytes((json.dumps({'archive':archive.name,'file_count':len(files),'archive_sha256':hashlib.sha256(archive.read_bytes()).hexdigest(),
+             'credential_scan':'passed; no key values logged','exclusions':['.env','.local','venv','.git','__pycache__']},indent=2)+'\n').encode('utf-8'))
     print(f'PASS: {archive} | files={len(files)} | bytes={archive.stat().st_size} | no credentials/local runtimes')
 
 

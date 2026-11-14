@@ -1,0 +1,547 @@
+{
+  "id": "adv-dev-unanswerable-03",
+  "question": "Dựa riêng vào tài liệu, lãi suất vay mua nhà Vietcombank tháng 11/2026 chính xác là bao nhiêu?",
+  "vision": false,
+  "final": {
+    "status": "abstain",
+    "answer": "Không thể xác định từ tài liệu cung cấp. Dữ liệu nguồn chỉ nói về lãi suất thị trường cho vay/thẻ tín dụng và ví dụ lý thuyết, không có thông tin về Vietcombank hay lãi suất vay mua nhà vào tháng 11/2026 [page 87][Figure 4.5], [page 88][Table 4.5], [page 91][Figure 4.8].",
+    "pages": [
+      87,
+      88,
+      91
+    ]
+  },
+  "context": [
+    {
+      "page": 88,
+      "original_pdf_page": 112,
+      "text": "Interest \nRate (%) \nQuantity of Financial Capital Demanded \n(Borrowing) ($ billions) \nQuantity of Financial Capital Supplied \n(Lending) ($ billions) \n11 \n$800 \n$420 \n13 \n$700 \n$510 \n15 \n$600 \n$600 \n17 \n$550 \n$660 \n19 \n$500 \n$720 \n21 \n$480 \n$750 \nTABLE 4.5 Demand and Supply for Borrowing Money with Credit Cards \nThe laws of demand and supply continue to apply in the financial markets. According to the law of demand, a \nhigher rate of return (that is, a higher price) will decrease the quantity demanded. As the interest rate rises, \nconsumers will reduce the quantity that they borrow. According to the law of supply, a higher price increases \nthe quantity supplied. Consequently, as the interest rate paid on credit card borrowing rises, more firms will be \neager to issue credit cards and to encourage customers to use them. Conversely, if the interest rate on credit \ncards falls, the quantity of financial capital supplied in the credit card market will decrease and the quantity \ndemanded will increase. \nEquilibrium in Financial Markets \nIn the financial market for credit cards in Figure 4.5, the supply curve (S) and the demand curve (D) cross at \nthe equilibrium point (E). The equilibrium occurs at an interest rate of 15%, where the quantity of funds \ndemanded and the quantity supplied are equal at an equilibrium quantity of $600 billion. \nIf the interest rate (remember, this measures the “price” in the financial market) is above the equilibrium level, \nthen an excess supply, or a surplus, of financial capital will arise in this market. For example, at an interest rate \nof 21%, the quantity of funds supplied increases to $750 billion, while the quantity demanded decreases to \n$480 billion. At this above-equilibrium interest rate, firms are eager to supply loans to credit card borrowers, \nbut relatively few people or businesses wish to borrow. As a result, some credit card firms will lower the \ninterest rates (or other fees) they charge to attract more business. This strategy will push the interest rate down \ntoward the equilibrium level. \nIf the interest rate is below the equilibrium, then excess demand or a shortage of funds occurs in this market. \nAt an interest rate of 13%, the quantity of funds credit card borrowers demand increases to $700 billion, but \nthe quantity credit card firms are willing to supply is only $510 billion. In this situation, credit card firms will \nperceive that they are overloaded with eager borrowers and conclude that they have an opportunity to raise \ninterest rates or fees. The interest rate will face economic pressures to creep up toward the equilibrium level. \nThe FRED database publishes some two dozen measures of interest rates, including interest rates on credit \ncards, automobile loans, personal loans, mortgage loans, and more. You can find these at the FRED website \n(https://openstax.org/l/FRED_stlouis). \nShifts in Demand and Supply in Financial Markets \nThose who supply financial capital face two broad decisions: how much to save, and how to divide up their \nsavings among different forms of financial investments. We will discuss each of these in turn. \nParticipants in financial markets must decide when they prefer to consume goods: now or in the future. \n96     4 • Labor and Financial Markets\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 87,
+      "original_pdf_page": 111,
+      "text": "supply financial capital through saving expect to receive a rate of return, while those who demand financial \ncapital by receiving funds expect to pay a rate of return. This rate of return can come in a variety of forms, \ndepending on the type of investment. \nThe simplest example of a rate of return is the interest rate. For example, when you supply money into a \nsavings account at a bank, you receive interest on your deposit. The interest the bank pays you as a percent of \nyour deposits is the interest rate. Similarly, if you demand a loan to buy a car or a computer, you will need to \npay interest on the money you borrow. \nLet’s consider the market for borrowing money with credit cards. In 2021, almost 200 million Americans were \ncardholders. Credit cards allow you to borrow money from the card's issuer, and pay back the borrowed \namount plus interest, although most allow you a period of time in which you can repay the loan without paying \ninterest. A typical credit card interest rate ranges from 12% to 18% per year. In May 2021, Americans had \nabout $807 billion outstanding in credit card debts. As of 2021, just over 45% of American families carried \nsome credit card debt. Let’s say that, on average, the annual interest rate for credit card borrowing is 15% per \nyear. Thus, Americans pay tens of billions of dollars every year in interest on their credit cards—plus basic fees \nfor the credit card or fees for late payments. \nFigure 4.5 illustrates demand and supply in the financial market for credit cards. The horizontal axis of the \nfinancial market shows the quantity of money loaned or borrowed in this market. The vertical or price axis \nshows the rate of return, which in the case of credit card borrowing we can measure with an interest rate. Table \n4.5 shows the quantity of financial capital that consumers demand at various interest rates and the quantity \nthat credit card firms (often banks) are willing to supply. \nFIGURE 4.5 Demand and Supply for Borrowing Money with Credit Cards In this market for credit card borrowing, \nthe demand curve (D) for borrowing financial capital intersects the supply curve (S) for lending financial capital at \nequilibrium E. At the equilibrium, the interest rate (the “price” in this market) is 15% and the quantity of financial \ncapital loaned and borrowed is $600 billion. The equilibrium price is where the quantity demanded and the quantity \nsupplied are equal. At an above-equilibrium interest rate like 21%, the quantity of financial capital supplied would \nincrease to $750 billion, but the quantity demanded would decrease to $480 billion. At a below-equilibrium interest \nrate like 13%, the quantity of financial capital demanded would increase to $700 billion, but the quantity of financial \ncapital supplied would decrease to $510 billion. \n4.2 • Demand and Supply in Financial Markets     95\n"
+    },
+    {
+      "page": 91,
+      "original_pdf_page": 115,
+      "text": "The economy has experienced an enormous inflow of foreign capital. According to the U.S. Bureau of \nEconomic Analysis, by the third quarter of 2021, U.S. investors had accumulated $34.45 trillion of foreign \nassets, but foreign investors owned a total of $50.53 trillion of U.S. assets. If foreign investors were to pull their \nmoney out of the U.S. economy and invest elsewhere in the world, the result could be a significantly lower \nquantity of financial investment in the United States, available only at a higher interest rate. This reduced \ninflow of foreign financial investment could impose hardship on U.S. consumers and firms interested in \nborrowing. \nIn a modern, developed economy, financial capital often moves invisibly through electronic transfers between \none bank account and another. Yet we can analyze these flows of funds with the same tools of demand and \nsupply as markets for goods or labor. \nPrice Ceilings in Financial Markets: Usury Laws \nAs we noted earlier, about 200 million Americans own credit cards, and their interest payments and fees total \ntens of billions of dollars each year. It is little wonder that political pressures sometimes arise for setting limits \non the interest rates or fees that credit card companies charge. The firms that issue credit cards, including \nbanks, oil companies, phone companies, and retail stores, respond that the higher interest rates are necessary \nto cover the losses created by those who borrow on their credit cards and who do not repay on time or at all. \nThese companies also point out that cardholders can avoid paying interest if they pay their bills on time. \nConsider the credit card market as Figure 4.8 illustrates. In this financial market, the vertical axis shows the \ninterest rate (which is the price in the financial market). Demanders in the credit card market are households \nand businesses. Suppliers are the companies that issue credit cards. This figure does not use specific \nnumbers, which would be hypothetical in any case, but instead focuses on the underlying economic \nrelationships. Imagine a law imposes a price ceiling that holds the interest rate charged on credit cards at the \nrate Rc, which lies below the interest rate R0 that would otherwise have prevailed in the market. The horizontal \ndashed line at interest rate Rc in Figure 4.8 shows the price ceiling. The demand and supply model predicts \nthat at the lower price ceiling interest rate, the quantity demanded of credit card debt will increase from its \noriginal level of Q0 to Qd; however, the quantity supplied of credit card debt will decrease from the original Q0 \nto Qs. At the price ceiling (Rc), quantity demanded will exceed quantity supplied. Consequently, a number of \npeople who want to have credit cards and are willing to pay the prevailing interest rate will find that companies \nare unwilling to issue cards to them. The result will be a credit shortage. \nFIGURE 4.8 Credit Card Interest Rates: Another Price Ceiling Example The original intersection of demand D and \nsupply S occurs at equilibrium E0. However, a price ceiling is set at the interest rate Rc, below the equilibrium \ninterest rate R0, and so the interest rate cannot adjust upward to the equilibrium. At the price ceiling, the quantity \ndemanded, Qd, exceeds the quantity supplied, Qs. There is excess demand, also called a shortage. \n4.2 • Demand and Supply in Financial Markets     99\n"
+    },
+    {
+      "page": 120,
+      "original_pdf_page": 697,
+      "text": "equilibrium (E1) at the potential GDP level of output. \nConversely, if an economy is producing at a quantity of output above its potential GDP, a contractionary \nmonetary policy can reduce the inflationary pressures for a rising price level. In Figure 28.6 (b), the original \nequilibrium (E0) occurs at an output of 750, which is above potential GDP. A contractionary monetary policy \nwill raise interest rates, discourage borrowing for investment and consumption spending, and cause the \noriginal demand curve (AD0) to shift left to AD1, so that the new equilibrium (E1) occurs at the potential GDP \nlevel of 700. \nThese examples suggest that monetary policy should be countercyclical; that is, it should act to \ncounterbalance the business cycles of economic downturns and upswings. The Fed should loosen monetary \npolicy when a recession has caused unemployment to increase and tighten it when inflation threatens. Of \ncourse, countercyclical policy does pose a danger of overreaction. If loose monetary policy seeking to end a \nrecession goes too far, it may push aggregate demand so far to the right that it triggers inflation. If tight \nmonetary policy seeking to reduce inflation goes too far, it may push aggregate demand so far to the left that a \nrecession begins. Figure 28.7 (a) summarizes the chain of effects that connect loose and tight monetary policy \nto changes in output and the price level. \nFIGURE 28.7 The Pathways of Monetary Policy (a) In expansionary monetary policy the central bank causes the \nsupply of money and loanable funds to increase, which lowers the interest rate, stimulating additional borrowing for \ninvestment and consumption, and shifting aggregate demand right. The result is a higher price level and, at least in \nthe short run, higher real GDP. (b) In contractionary monetary policy, the central bank causes the supply of money \nand credit in the economy to decrease, which raises the interest rate, discouraging borrowing for investment and \nconsumption, and shifting aggregate demand left. The result is a lower price level and, at least in the short run, \nlower real GDP. \nFederal Reserve Actions Over Last Four Decades \nFor the period from 1970 through 2020, we can summarize Federal Reserve monetary policy by looking at how \nit targeted the federal funds interest rate using open market operations. \nOf course, telling the story of the U.S. economy since 1970 in terms of Federal Reserve actions leaves out many \nother macroeconomic factors that were influencing unemployment, recession, economic growth, and inflation \nover this time. The ten episodes of Federal Reserve action outlined in the sections below also demonstrate that \nwe should consider the central bank as one of the leading actors influencing the macro economy. As we noted \nearlier, the single person with the greatest power to influence the U.S. economy is probably the Federal Reserve \nchairperson. \nFigure 28.8 shows how the Federal Reserve has carried out monetary policy by targeting the federal funds \ninterest rate in the last few decades. The graph shows the federal funds interest rate (remember, this interest \nrate is set through open market operations), the unemployment rate, and the inflation rate since 1970. \nDifferent episodes of monetary policy during this period are indicated in the figure. \n28.4 • Monetary Policy and Economic Outcomes     681\n"
+    },
+    {
+      "page": 108,
+      "original_pdf_page": 428,
+      "text": "Figure 17.3 illustrates the position of banks as a financial intermediary, with a pattern of deposits flowing into \na bank and loans flowing out, and then repayment of the loans flowing back to the bank, with interest \npayments for the original savers. \nFIGURE 17.3 Banks as Financial Intermediaries Banks are a financial intermediary because they stand between \nsavers and borrowers. Savers place deposits with banks, and then receive interest payments and withdraw money. \nBorrowers receive loans from banks, and repay the loans with interest. \nBanks offer a range of accounts to serve different needs. A checking account typically pays little or no interest, \nbut it facilitates transactions by giving you easy access to your money, either by writing a check or by using a \ndebit card (that is, a card which works like a credit card, except that purchases are immediately deducted from \nyour checking account rather than billed separately through a credit card company). A savings account \ntypically pays some interest rate, but getting the money typically requires you to make a trip to the bank or an \nautomatic teller machine (or you can access the funds electronically). The lines between checking and savings \naccounts have blurred in the last couple of decades, as many banks offer checking accounts that will pay an \ninterest rate similar to a savings account if you keep a certain minimum amount in the account, or conversely, \noffer savings accounts that allow you to write at least a few checks per month. \nAnother way to deposit savings at a bank is to use a certificate of deposit (CD). With a CD, you agree to deposit \na certain amount of money, often measured in thousands of dollars, in the account for a stated period of time, \ntypically ranging from a few months to several years. In exchange, the bank agrees to pay a higher interest rate \nthan for a regular savings account. While you can withdraw the money before the allotted time, as the \nadvertisements for CDs always warn, there is “a substantial penalty for early withdrawal.” \nFigure 17.4 shows the annual rate of interest paid on a six-month, one-year, and five-year CD since 1984, as \nreported by Bankrate.com. The interest rates that savings accounts pay are typically a little lower than the CD \nrate, because financial investors need to receive a slightly higher rate of interest as compensation for \npromising to leave deposits untouched for a period of time in a CD, and thus forfeiting some liquidity. \n412     17 • Financial Markets\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 107,
+      "original_pdf_page": 427,
+      "text": "directors and the shareholders. \nThe benefit of issuing stock is that a small and growing firm increases its visibility in the financial markets and \ncan access large amounts of financial capital for expansion, without worrying about repaying this money. If the \nfirm is successful and profitable, the board of directors will need to decide upon a dividend payout or how to \nreinvest profits to further grow the company. Issuing and placing stock is expensive, requires the expertise of \ninvestment bankers and attorneys, and entails compliance with reporting requirements to shareholders and \ngovernment agencies, such as the federal Securities and Exchange Commission (SEC). \n17.2 How Households Supply Financial Capital \nLEARNING OBJECTIVES \nBy the end of this section, you will be able to: \n• Show the relationship between savers, banks, and borrowers \n• Calculate bond yield \n• Contrast bonds, stocks, mutual funds, and assets \n• Explain the tradeoffs between return and risk \nThe ways in which firms would prefer to raise funds are only half the story of financial markets. The other half \nis what those households and individuals who supply funds desire, and how they perceive the available \nchoices. The focus of our discussion now shifts from firms on the demand side of financial capital markets to \nhouseholds on the supply side of those markets. We can divide the mechanisms for savings available to \nhouseholds into several categories: deposits in bank accounts; bonds; stocks; money market mutual funds; \nstock and bond mutual funds; and housing and other tangible assets like owning gold. We need to analyze each \nof these investments in terms of three factors: (1) the expected rate of return it will pay; (2) the risk that the \nreturn will be much lower or higher than expected; and (3) the investment's liquidity, which refers to how \neasily one can exchange money or financial assets for a good or service. We will do this analysis as we discuss \neach of these investments in the sections below. First, however, we need to understand the difference between \nexpected rate of return, risk, and actual rate of return. \nExpected Rate of Return, Risk, and Actual Rate of Return \nThe expected rate of return refers to how much a project or an investment is expected to return to the \ninvestor, either in future interest payments, capital gains, or increased profitability. It is usually the average \nreturn over a period of time, usually in years or even decades. We normally measure it as a percentage rate. \nRisk measures the uncertainty of that project’s profitability. There are several types of risk, including default \nrisk and interest rate risk. Default risk, as its name suggests, is the risk that the borrower fails to pay back the \nbond or loan. Interest rate risk is the danger that you might buy a long term bond at a 6% interest rate right \nbefore market rates suddenly rise, so had you waited, you could have received a similar bond that paid 9%. A \nhigh-risk investment is one for which a wide range of potential payoffs is reasonably probable. A low-risk \ninvestment may have actual returns that are fairly close to its expected rate of return year after year. A high-\nrisk investment will have actual returns that are much higher than the expected rate of return in some months \nor years and much lower in other months or years. The actual rate of return refers to the total rate of return, \nincluding capital gains and interest paid on an investment at the end of a time period. \nBank Accounts \nAn intermediary is one who stands between two other parties. For example, a person who arranges a blind \ndate between two other people is one kind of intermediary. In financial capital markets, banks are an example \nof a financial intermediary—that is, an institution that operates between a saver who deposits funds in a bank \nand a borrower who receives a loan from that bank. When a bank serves as a financial intermediary, unlike the \nsituation with a couple on a blind date, the saver and the borrower never meet. In fact, it is not even possible to \nmake direct connections between those who deposit funds in banks and those who borrow from banks, \nbecause all deposited funds end up in one big pool, which the financial institution then lends out. \n17.2 • How Households Supply Financial Capital     411\n"
+    }
+  ],
+  "retrieval_queries": [
+    "Vietcombank home loan interest rate November 2026 mortgage rate",
+    "Vietcombank vay mua nhà lãi suất tháng 11/2026",
+    "November 2026 Vietcombank mortgage interest rate"
+  ],
+  "ranked_pages": [
+    [
+      88,
+      0.07701949402534587
+    ],
+    [
+      87,
+      0.060422955112878304
+    ],
+    [
+      91,
+      0.05939316024917429
+    ],
+    [
+      120,
+      0.055214429751123596
+    ],
+    [
+      108,
+      0.05503823060702156
+    ],
+    [
+      107,
+      0.0429147465437788
+    ],
+    [
+      114,
+      0.029877369007803793
+    ],
+    [
+      119,
+      0.029709507042253523
+    ],
+    [
+      99,
+      0.029273504273504274
+    ],
+    [
+      23,
+      0.028949545078577336
+    ],
+    [
+      116,
+      0.027809742999616416
+    ],
+    [
+      96,
+      0.02667140825035562
+    ],
+    [
+      89,
+      0.02632034632034632
+    ],
+    [
+      90,
+      0.025645240835114255
+    ],
+    [
+      92,
+      0.02532051282051282
+    ],
+    [
+      76,
+      0.01639344262295082
+    ],
+    [
+      54,
+      0.015873015873015872
+    ],
+    [
+      95,
+      0.015625
+    ],
+    [
+      3,
+      0.015384615384615385
+    ],
+    [
+      17,
+      0.015151515151515152
+    ],
+    [
+      14,
+      0.014925373134328358
+    ],
+    [
+      36,
+      0.014705882352941176
+    ],
+    [
+      72,
+      0.014492753623188406
+    ],
+    [
+      34,
+      0.014285714285714285
+    ],
+    [
+      97,
+      0.014285714285714285
+    ],
+    [
+      13,
+      0.014084507042253521
+    ],
+    [
+      94,
+      0.013888888888888888
+    ],
+    [
+      24,
+      0.013513513513513514
+    ],
+    [
+      65,
+      0.013333333333333334
+    ],
+    [
+      85,
+      0.013157894736842105
+    ],
+    [
+      64,
+      0.012987012987012988
+    ]
+  ],
+  "status": "success",
+  "calls": [
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": "Search this economics textbook to answer in Vietnamese: Dựa riêng vào tài liệu, lãi suất vay mua nhà Vietcombank tháng 11/2026 chính xác là bao nhiêu?"
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "search_book",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_018e2cf2fb17a353016af836799cb487d2a952b2838c52cb7b",
+        "object": "response",
+        "created_at": 1794651769,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651770,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_018e2cf2fb17a353016af83679f02487d2b75a5a2ef09fe16e",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"queries\":[\"Vietcombank home loan interest rate November 2026 mortgage rate\", \"Vietcombank vay mua nhà lãi suất tháng 11/2026\", \"November 2026 Vietcombank mortgage interest rate\"]}",
+            "call_id": "call_Hmcyk3ThM24MzbwhAheuvokS",
+            "name": "search_book"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "name": "search_book",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 171,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 62,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 233
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.271633299998939
+    },
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": [
+              {
+                "type": "input_text",
+                "text": "Answer the question using ONLY supplied source evidence, in Vietnamese. Cite [page N] and Figure/Table ID for all claims. No external facts. If date/place/condition absent, choose abstain with no guessed values. Dựa riêng vào tài liệu, lãi suất vay mua nhà Vietcombank tháng 11/2026 chính xác là bao nhiêu?\nSOURCE_CONTEXT:[{\"page\": 88, \"original_pdf_page\": 112, \"text\": \"Interest \\nRate (%) \\nQuantity of Financial Capital Demanded \\n(Borrowing) ($ billions) \\nQuantity of Financial Capital Supplied \\n(Lending) ($ billions) \\n11 \\n$800 \\n$420 \\n13 \\n$700 \\n$510 \\n15 \\n$600 \\n$600 \\n17 \\n$550 \\n$660 \\n19 \\n$500 \\n$720 \\n21 \\n$480 \\n$750 \\nTABLE 4.5 Demand and Supply for Borrowing Money with Credit Cards \\nThe laws of demand and supply continue to apply in the financial markets. According to the law of demand, a \\nhigher rate of return (that is, a higher price) will decrease the quantity demanded. As the interest rate rises, \\nconsumers will reduce the quantity that they borrow. According to the law of supply, a higher price increases \\nthe quantity supplied. Consequently, as the interest rate paid on credit card borrowing rises, more firms will be \\neager to issue credit cards and to encourage customers to use them. Conversely, if the interest rate on credit \\ncards falls, the quantity of financial capital supplied in the credit card market will decrease and the quantity \\ndemanded will increase. \\nEquilibrium in Financial Markets \\nIn the financial market for credit cards in Figure 4.5, the supply curve (S) and the demand curve (D) cross at \\nthe equilibrium point (E). The equilibrium occurs at an interest rate of 15%, where the quantity of funds \\ndemanded and the quantity supplied are equal at an equilibrium quantity of $600 billion. \\nIf the interest rate (remember, this measures the “price” in the financial market) is above the equilibrium level, \\nthen an excess supply, or a surplus, of financial capital will arise in this market. For example, at an interest rate \\nof 21%, the quantity of funds supplied increases to $750 billion, while the quantity demanded decreases to \\n$480 billion. At this above-equilibrium interest rate, firms are eager to supply loans to credit card borrowers, \\nbut relatively few people or businesses wish to borrow. As a result, some credit card firms will lower the \\ninterest rates (or other fees) they charge to attract more business. This strategy will push the interest rate down \\ntoward the equilibrium level. \\nIf the interest rate is below the equilibrium, then excess demand or a shortage of funds occurs in this market. \\nAt an interest rate of 13%, the quantity of funds credit card borrowers demand increases to $700 billion, but \\nthe quantity credit card firms are willing to supply is only $510 billion. In this situation, credit card firms will \\nperceive that they are overloaded with eager borrowers and conclude that they have an opportunity to raise \\ninterest rates or fees. The interest rate will face economic pressures to creep up toward the equilibrium level. \\nThe FRED database publishes some two dozen measures of interest rates, including interest rates on credit \\ncards, automobile loans, personal loans, mortgage loans, and more. You can find these at the FRED website \\n(https://openstax.org/l/FRED_stlouis). \\nShifts in Demand and Supply in Financial Markets \\nThose who supply financial capital face two broad decisions: how much to save, and how to divide up their \\nsavings among different forms of financial investments. We will discuss each of these in turn. \\nParticipants in financial markets must decide when they prefer to consume goods: now or in the future. \\n96     4 • Labor and Financial Markets\\nAccess for free at openstax.org\\n\"}, {\"page\": 87, \"original_pdf_page\": 111, \"text\": \"supply financial capital through saving expect to receive a rate of return, while those who demand financial \\ncapital by receiving funds expect to pay a rate of return. This rate of return can come in a variety of forms, \\ndepending on the type of investment. \\nThe simplest example of a rate of return is the interest rate. For example, when you supply money into a \\nsavings account at a bank, you receive interest on your deposit. The interest the bank pays you as a percent of \\nyour deposits is the interest rate. Similarly, if you demand a loan to buy a car or a computer, you will need to \\npay interest on the money you borrow. \\nLet’s consider the market for borrowing money with credit cards. In 2021, almost 200 million Americans were \\ncardholders. Credit cards allow you to borrow money from the card's issuer, and pay back the borrowed \\namount plus interest, although most allow you a period of time in which you can repay the loan without paying \\ninterest. A typical credit card interest rate ranges from 12% to 18% per year. In May 2021, Americans had \\nabout $807 billion outstanding in credit card debts. As of 2021, just over 45% of American families carried \\nsome credit card debt. Let’s say that, on average, the annual interest rate for credit card borrowing is 15% per \\nyear. Thus, Americans pay tens of billions of dollars every year in interest on their credit cards—plus basic fees \\nfor the credit card or fees for late payments. \\nFigure 4.5 illustrates demand and supply in the financial market for credit cards. The horizontal axis of the \\nfinancial market shows the quantity of money loaned or borrowed in this market. The vertical or price axis \\nshows the rate of return, which in the case of credit card borrowing we can measure with an interest rate. Table \\n4.5 shows the quantity of financial capital that consumers demand at various interest rates and the quantity \\nthat credit card firms (often banks) are willing to supply. \\nFIGURE 4.5 Demand and Supply for Borrowing Money with Credit Cards In this market for credit card borrowing, \\nthe demand curve (D) for borrowing financial capital intersects the supply curve (S) for lending financial capital at \\nequilibrium E. At the equilibrium, the interest rate (the “price” in this market) is 15% and the quantity of financial \\ncapital loaned and borrowed is $600 billion. The equilibrium price is where the quantity demanded and the quantity \\nsupplied are equal. At an above-equilibrium interest rate like 21%, the quantity of financial capital supplied would \\nincrease to $750 billion, but the quantity demanded would decrease to $480 billion. At a below-equilibrium interest \\nrate like 13%, the quantity of financial capital demanded would increase to $700 billion, but the quantity of financial \\ncapital supplied would decrease to $510 billion. \\n4.2 • Demand and Supply in Financial Markets     95\\n\"}, {\"page\": 91, \"original_pdf_page\": 115, \"text\": \"The economy has experienced an enormous inflow of foreign capital. According to the U.S. Bureau of \\nEconomic Analysis, by the third quarter of 2021, U.S. investors had accumulated $34.45 trillion of foreign \\nassets, but foreign investors owned a total of $50.53 trillion of U.S. assets. If foreign investors were to pull their \\nmoney out of the U.S. economy and invest elsewhere in the world, the result could be a significantly lower \\nquantity of financial investment in the United States, available only at a higher interest rate. This reduced \\ninflow of foreign financial investment could impose hardship on U.S. consumers and firms interested in \\nborrowing. \\nIn a modern, developed economy, financial capital often moves invisibly through electronic transfers between \\none bank account and another. Yet we can analyze these flows of funds with the same tools of demand and \\nsupply as markets for goods or labor. \\nPrice Ceilings in Financial Markets: Usury Laws \\nAs we noted earlier, about 200 million Americans own credit cards, and their interest payments and fees total \\ntens of billions of dollars each year. It is little wonder that political pressures sometimes arise for setting limits \\non the interest rates or fees that credit card companies charge. The firms that issue credit cards, including \\nbanks, oil companies, phone companies, and retail stores, respond that the higher interest rates are necessary \\nto cover the losses created by those who borrow on their credit cards and who do not repay on time or at all. \\nThese companies also point out that cardholders can avoid paying interest if they pay their bills on time. \\nConsider the credit card market as Figure 4.8 illustrates. In this financial market, the vertical axis shows the \\ninterest rate (which is the price in the financial market). Demanders in the credit card market are households \\nand businesses. Suppliers are the companies that issue credit cards. This figure does not use specific \\nnumbers, which would be hypothetical in any case, but instead focuses on the underlying economic \\nrelationships. Imagine a law imposes a price ceiling that holds the interest rate charged on credit cards at the \\nrate Rc, which lies below the interest rate R0 that would otherwise have prevailed in the market. The horizontal \\ndashed line at interest rate Rc in Figure 4.8 shows the price ceiling. The demand and supply model predicts \\nthat at the lower price ceiling interest rate, the quantity demanded of credit card debt will increase from its \\noriginal level of Q0 to Qd; however, the quantity supplied of credit card debt will decrease from the original Q0 \\nto Qs. At the price ceiling (Rc), quantity demanded will exceed quantity supplied. Consequently, a number of \\npeople who want to have credit cards and are willing to pay the prevailing interest rate will find that companies \\nare unwilling to issue cards to them. The result will be a credit shortage. \\nFIGURE 4.8 Credit Card Interest Rates: Another Price Ceiling Example The original intersection of demand D and \\nsupply S occurs at equilibrium E0. However, a price ceiling is set at the interest rate Rc, below the equilibrium \\ninterest rate R0, and so the interest rate cannot adjust upward to the equilibrium. At the price ceiling, the quantity \\ndemanded, Qd, exceeds the quantity supplied, Qs. There is excess demand, also called a shortage. \\n4.2 • Demand and Supply in Financial Markets     99\\n\"}, {\"page\": 120, \"original_pdf_page\": 697, \"text\": \"equilibrium (E1) at the potential GDP level of output. \\nConversely, if an economy is producing at a quantity of output above its potential GDP, a contractionary \\nmonetary policy can reduce the inflationary pressures for a rising price level. In Figure 28.6 (b), the original \\nequilibrium (E0) occurs at an output of 750, which is above potential GDP. A contractionary monetary policy \\nwill raise interest rates, discourage borrowing for investment and consumption spending, and cause the \\noriginal demand curve (AD0) to shift left to AD1, so that the new equilibrium (E1) occurs at the potential GDP \\nlevel of 700. \\nThese examples suggest that monetary policy should be countercyclical; that is, it should act to \\ncounterbalance the business cycles of economic downturns and upswings. The Fed should loosen monetary \\npolicy when a recession has caused unemployment to increase and tighten it when inflation threatens. Of \\ncourse, countercyclical policy does pose a danger of overreaction. If loose monetary policy seeking to end a \\nrecession goes too far, it may push aggregate demand so far to the right that it triggers inflation. If tight \\nmonetary policy seeking to reduce inflation goes too far, it may push aggregate demand so far to the left that a \\nrecession begins. Figure 28.7 (a) summarizes the chain of effects that connect loose and tight monetary policy \\nto changes in output and the price level. \\nFIGURE 28.7 The Pathways of Monetary Policy (a) In expansionary monetary policy the central bank causes the \\nsupply of money and loanable funds to increase, which lowers the interest rate, stimulating additional borrowing for \\ninvestment and consumption, and shifting aggregate demand right. The result is a higher price level and, at least in \\nthe short run, higher real GDP. (b) In contractionary monetary policy, the central bank causes the supply of money \\nand credit in the economy to decrease, which raises the interest rate, discouraging borrowing for investment and \\nconsumption, and shifting aggregate demand left. The result is a lower price level and, at least in the short run, \\nlower real GDP. \\nFederal Reserve Actions Over Last Four Decades \\nFor the period from 1970 through 2020, we can summarize Federal Reserve monetary policy by looking at how \\nit targeted the federal funds interest rate using open market operations. \\nOf course, telling the story of the U.S. economy since 1970 in terms of Federal Reserve actions leaves out many \\nother macroeconomic factors that were influencing unemployment, recession, economic growth, and inflation \\nover this time. The ten episodes of Federal Reserve action outlined in the sections below also demonstrate that \\nwe should consider the central bank as one of the leading actors influencing the macro economy. As we noted \\nearlier, the single person with the greatest power to influence the U.S. economy is probably the Federal Reserve \\nchairperson. \\nFigure 28.8 shows how the Federal Reserve has carried out monetary policy by targeting the federal funds \\ninterest rate in the last few decades. The graph shows the federal funds interest rate (remember, this interest \\nrate is set through open market operations), the unemployment rate, and the inflation rate since 1970. \\nDifferent episodes of monetary policy during this period are indicated in the figure. \\n28.4 • Monetary Policy and Economic Outcomes     681\\n\"}, {\"page\": 108, \"original_pdf_page\": 428, \"text\": \"Figure 17.3 illustrates the position of banks as a financial intermediary, with a pattern of deposits flowing into \\na bank and loans flowing out, and then repayment of the loans flowing back to the bank, with interest \\npayments for the original savers. \\nFIGURE 17.3 Banks as Financial Intermediaries Banks are a financial intermediary because they stand between \\nsavers and borrowers. Savers place deposits with banks, and then receive interest payments and withdraw money. \\nBorrowers receive loans from banks, and repay the loans with interest. \\nBanks offer a range of accounts to serve different needs. A checking account typically pays little or no interest, \\nbut it facilitates transactions by giving you easy access to your money, either by writing a check or by using a \\ndebit card (that is, a card which works like a credit card, except that purchases are immediately deducted from \\nyour checking account rather than billed separately through a credit card company). A savings account \\ntypically pays some interest rate, but getting the money typically requires you to make a trip to the bank or an \\nautomatic teller machine (or you can access the funds electronically). The lines between checking and savings \\naccounts have blurred in the last couple of decades, as many banks offer checking accounts that will pay an \\ninterest rate similar to a savings account if you keep a certain minimum amount in the account, or conversely, \\noffer savings accounts that allow you to write at least a few checks per month. \\nAnother way to deposit savings at a bank is to use a certificate of deposit (CD). With a CD, you agree to deposit \\na certain amount of money, often measured in thousands of dollars, in the account for a stated period of time, \\ntypically ranging from a few months to several years. In exchange, the bank agrees to pay a higher interest rate \\nthan for a regular savings account. While you can withdraw the money before the allotted time, as the \\nadvertisements for CDs always warn, there is “a substantial penalty for early withdrawal.” \\nFigure 17.4 shows the annual rate of interest paid on a six-month, one-year, and five-year CD since 1984, as \\nreported by Bankrate.com. The interest rates that savings accounts pay are typically a little lower than the CD \\nrate, because financial investors need to receive a slightly higher rate of interest as compensation for \\npromising to leave deposits untouched for a period of time in a CD, and thus forfeiting some liquidity. \\n412     17 • Financial Markets\\nAccess for free at openstax.org\\n\"}, {\"page\": 107, \"original_pdf_page\": 427, \"text\": \"directors and the shareholders. \\nThe benefit of issuing stock is that a small and growing firm increases its visibility in the financial markets and \\ncan access large amounts of financial capital for expansion, without worrying about repaying this money. If the \\nfirm is successful and profitable, the board of directors will need to decide upon a dividend payout or how to \\nreinvest profits to further grow the company. Issuing and placing stock is expensive, requires the expertise of \\ninvestment bankers and attorneys, and entails compliance with reporting requirements to shareholders and \\ngovernment agencies, such as the federal Securities and Exchange Commission (SEC). \\n17.2 How Households Supply Financial Capital \\nLEARNING OBJECTIVES \\nBy the end of this section, you will be able to: \\n• Show the relationship between savers, banks, and borrowers \\n• Calculate bond yield \\n• Contrast bonds, stocks, mutual funds, and assets \\n• Explain the tradeoffs between return and risk \\nThe ways in which firms would prefer to raise funds are only half the story of financial markets. The other half \\nis what those households and individuals who supply funds desire, and how they perceive the available \\nchoices. The focus of our discussion now shifts from firms on the demand side of financial capital markets to \\nhouseholds on the supply side of those markets. We can divide the mechanisms for savings available to \\nhouseholds into several categories: deposits in bank accounts; bonds; stocks; money market mutual funds; \\nstock and bond mutual funds; and housing and other tangible assets like owning gold. We need to analyze each \\nof these investments in terms of three factors: (1) the expected rate of return it will pay; (2) the risk that the \\nreturn will be much lower or higher than expected; and (3) the investment's liquidity, which refers to how \\neasily one can exchange money or financial assets for a good or service. We will do this analysis as we discuss \\neach of these investments in the sections below. First, however, we need to understand the difference between \\nexpected rate of return, risk, and actual rate of return. \\nExpected Rate of Return, Risk, and Actual Rate of Return \\nThe expected rate of return refers to how much a project or an investment is expected to return to the \\ninvestor, either in future interest payments, capital gains, or increased profitability. It is usually the average \\nreturn over a period of time, usually in years or even decades. We normally measure it as a percentage rate. \\nRisk measures the uncertainty of that project’s profitability. There are several types of risk, including default \\nrisk and interest rate risk. Default risk, as its name suggests, is the risk that the borrower fails to pay back the \\nbond or loan. Interest rate risk is the danger that you might buy a long term bond at a 6% interest rate right \\nbefore market rates suddenly rise, so had you waited, you could have received a similar bond that paid 9%. A \\nhigh-risk investment is one for which a wide range of potential payoffs is reasonably probable. A low-risk \\ninvestment may have actual returns that are fairly close to its expected rate of return year after year. A high-\\nrisk investment will have actual returns that are much higher than the expected rate of return in some months \\nor years and much lower in other months or years. The actual rate of return refers to the total rate of return, \\nincluding capital gains and interest paid on an investment at the end of a time period. \\nBank Accounts \\nAn intermediary is one who stands between two other parties. For example, a person who arranges a blind \\ndate between two other people is one kind of intermediary. In financial capital markets, banks are an example \\nof a financial intermediary—that is, an institution that operates between a saver who deposits funds in a bank \\nand a borrower who receives a loan from that bank. When a bank serves as a financial intermediary, unlike the \\nsituation with a couple on a blind date, the saver and the borrower never meet. In fact, it is not even possible to \\nmake direct connections between those who deposit funds in banks and those who borrow from banks, \\nbecause all deposited funds end up in one big pool, which the financial institution then lends out. \\n17.2 • How Households Supply Financial Capital     411\\n\"}]"
+              }
+            ]
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "finish",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_0fa9925783bf90fb016af8367ae58887d28889d22e743367aa",
+        "object": "response",
+        "created_at": 1794651770,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651772,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_0fa9925783bf90fb016af8367b5aa887d29d8d67b823509b17",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"status\":\"abstain\",\"answer\":\"Không thể xác định từ tài liệu cung cấp. Dữ liệu nguồn chỉ nói về lãi suất thị trường cho vay/thẻ tín dụng và ví dụ lý thuyết, không có thông tin về Vietcombank hay lãi suất vay mua nhà vào tháng 11/2026 [page 87][Figure 4.5], [page 88][Table 4.5], [page 91][Figure 4.8].\",\"pages\":[87,88,91]}",
+            "call_id": "call_f2OmFH0IcnWYrNlkK4zN4fGg",
+            "name": "finish"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "name": "finish",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 4713,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 121,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 4834
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.656814600006328
+    }
+  ],
+  "usage": {
+    "model_calls": 2,
+    "input_tokens": 4884,
+    "cached_input_tokens": 0,
+    "output_tokens": 183,
+    "estimated_api_cost_usd": 0.0044865,
+    "cost_note": "Estimate from published standard GPT-5.4-mini token rates, verified 2026-11-14; actual bill may differ. Unknown model/endpoint rates are not assumed zero.",
+    "pricing_source": "https://developers.openai.com/api/docs/models/gpt-5.4-mini"
+  },
+  "seconds": 2.9305521000060253
+}

@@ -49,6 +49,7 @@ class ResponsesClient:
     def __init__(self, settings):
         self.settings = settings
         self.calls = []
+        self.failed_calls = 0
 
     def call(self, messages, tools, *, force_tool=None):
         body = {"model": self.settings["model"], "input": messages, "tools": tools,
@@ -63,6 +64,7 @@ class ResponsesClient:
             with urlopen(request, timeout=self.settings["timeout_seconds"]) as response:
                 result = json.loads(response.read().decode("utf-8"))
         except HTTPError as exc:
+            self.failed_calls += 1
             # Error bodies can echo inputs/credentials; report status and provider code only.
             try:
                 error = json.loads(exc.read().decode("utf-8"))["error"]
@@ -72,6 +74,7 @@ class ResponsesClient:
             code = code.replace(self.settings["api_key"], "[REDACTED]")[:100]
             raise RuntimeError(f"OpenAI HTTP {exc.code}: {code}. Check API key, model access and API billing.") from None
         except (URLError, TimeoutError) as exc:
+            self.failed_calls += 1
             raise ConnectionError("OpenAI connection failed or timed out; check internet/proxy and retry.") from None
         self.calls.append({"request": body, "response": result, "elapsed_seconds": time.perf_counter() - started})
         if result.get("status") != "completed":
@@ -93,8 +96,9 @@ class ResponsesClient:
             outputs += u.get("output_tokens", 0)
             cached += u.get("input_tokens_details", {}).get("cached_tokens", 0)
         known = self.settings["base_url"] == "https://api.openai.com/v1" and self.settings["model"] in ("gpt-5.4-mini", "gpt-5.4-mini-2026-03-17")
+        estimated_cost = ((inputs-cached)*0.75 + cached*0.075 + outputs*4.5)/1_000_000 if known and not self.failed_calls else None
         return {"model_calls": len(self.calls), "input_tokens": inputs, "cached_input_tokens": cached,
-                "output_tokens": outputs,
-                "estimated_api_cost_usd": ((inputs-cached)*0.75 + cached*0.075 + outputs*4.5)/1_000_000 if known else None,
-                "cost_note": "Estimate from published standard GPT-5.4-mini token rates, verified 2026-11-14; actual bill may differ. Unknown model/endpoint rates are not assumed zero.",
+                "output_tokens": outputs, "failed_calls": self.failed_calls,
+                "estimated_api_cost_usd": estimated_cost,
+                "cost_note": "Estimate from published standard GPT-5.4-mini token rates, verified 2026-11-14; actual bill may differ. Cost is unknown after a failed request or for an unknown model/endpoint.",
                 "pricing_source": "https://developers.openai.com/api/docs/models/gpt-5.4-mini"}

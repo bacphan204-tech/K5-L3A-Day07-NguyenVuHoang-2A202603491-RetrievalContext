@@ -1,0 +1,29 @@
+{
+  "lock_version": 1,
+  "created_at_utc": "2026-11-14T11:28:51.934567+00:00",
+  "vision": true,
+  "model_settings": {
+    "model": "gpt-5.4-mini-2026-03-17",
+    "timeout_seconds": 120,
+    "max_output_tokens": 2400,
+    "endpoint_sha256": "d9617135d6fdd0a2cde722d637a1dfcc3da37515708b3ea5d66ae607c8ac785e"
+  },
+  "retrieval": {
+    "method": "BM25 over page chunks; reciprocal-rank fusion over up to three model queries",
+    "candidate_depth": 20,
+    "rrf_constant": 60,
+    "context_pages": 6,
+    "figure_table_reference_boost": 1,
+    "visual_context": "full-page source images rendered at 1.3x"
+  },
+  "inputs_sha256": "fc61c43f21be5b6b183440426ac62ee92cc7e90cc5c0e35ee6993a61efe61bb5",
+  "gold_sha256": "605fe436f5ba6c1406ed81c30130a6d769f627b0ed62133e05c81b2ae7527240",
+  "chunks_sha256": "4016fdc61418f70e2d8ba24df1fcee5ff32eeffb065912bfb24bfe0fc2e4e57d",
+  "source_pdf_sha256": "dafd94b77afb1ffd8fa85bb491d49ab153820e4def355d1b54aa85c9759f7105",
+  "code_sha256": {
+    "workflow.py": "3f61a710c796e9924a0fdf559d1a5f25ee1e044f382c8828f3f1eb6d8081e3bf",
+    "llm_client.py": "eca9dc177896a56d1d17be9ce3f214bd75c210048b560dcfe0f2ab2b110d7f0e",
+    "lexical_retrieval.py": "00c931ea14924eec70e492f86baddd1d329e1c26363d1ec8f1b01c553aaa772a"
+  },
+  "test_count": 30
+}

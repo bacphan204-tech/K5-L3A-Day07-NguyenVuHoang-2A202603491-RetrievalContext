@@ -1,0 +1,558 @@
+{
+  "id": "adv-dev-multi_hop-02",
+  "question": "Dựa trên Hình 1.7 về sơ đồ luân chuyển (trang 33 PDF gốc) và Hình 27.4 về ngân hàng là trung gian tài chính (trang 671 PDF gốc), hãy xác định: nếu một hộ gia đình nhận tiền lương từ doanh nghiệp trong thị trường lao động rồi dùng khoản tiền đó để mua hàng hóa và dịch vụ từ doanh nghiệp trong thị trường hàng hóa và dịch vụ, thì trong Hình 1.7 hai dòng tương ứng với hai giao dịch này là mũi tên nào, và ở Hình 27.4 luồng tiền nào từ người vay về ngân hàng được gắn nhãn gì? Trả lời phải nêu rõ cả ký hiệu mũi tên và nhãn luồng tiền.",
+  "vision": false,
+  "final": {
+    "status": "answered",
+    "answer": "Trong Hình 1.7, giao dịch hộ gia đình nhận tiền lương từ doanh nghiệp trong thị trường lao động tương ứng với mũi tên **D** (doanh nghiệp trả lương cho hộ gia đình); giao dịch hộ gia đình dùng tiền đó mua hàng hóa và dịch vụ từ doanh nghiệp trong thị trường hàng hóa và dịch vụ tương ứng với mũi tên **B** (hộ gia đình trả tiền cho doanh nghiệp và nhận hàng hóa/dịch vụ). [page 9] Figure 1.7\n\nTrong Hình 27.4, luồng tiền từ người vay về ngân hàng được gắn nhãn **repay the loans with interest** (trả nợ khoản vay kèm lãi). [page 116] Figure 27.4",
+    "pages": [
+      9,
+      116
+    ]
+  },
+  "context": [
+    {
+      "page": 9,
+      "original_pdf_page": 33,
+      "text": "Economists see the world through a different lens than anthropologists, biologists, classicists, or practitioners \nof any other discipline. They analyze issues and problems using economic theories that are based on \nparticular assumptions about human behavior. These assumptions tend to be different than the assumptions \nan anthropologist or psychologist might use. A theory is a simplified representation of how two or more \nvariables interact with each other. The purpose of a theory is to take a complex, real-world issue and simplify it \ndown to its essentials. If done well, this enables the analyst to understand the issue and any problems around \nit. A good theory is simple enough to understand, while complex enough to capture the key features of the \nobject or situation you are studying. \nSometimes economists use the term model instead of theory. Strictly speaking, a theory is a more abstract \nrepresentation, while a model is a more applied or empirical representation. We use models to test theories, \nbut for this course we will use the terms interchangeably. \nFor example, an architect who is planning a major office building will often build a physical model that sits on \na tabletop to show how the entire city block will look after the new building is constructed. Companies often \nbuild models of their new products, which are more rough and unfinished than the final product, but can still \ndemonstrate how the new product will work. \nA good model to start with in economics is the circular flow diagram (Figure 1.7). It pictures the economy as \nconsisting of two groups—households and firms—that interact in two markets: the goods and services market \nin which firms sell and households buy and the labor market in which households sell labor to business firms \nor other employees. \nFIGURE 1.7 The Circular Flow Diagram The circular flow diagram shows how households and firms interact in the \ngoods and services market, and in the labor market. The direction of the arrows shows that in the goods and \nservices market, households receive goods and services and pay firms for them. In the labor market, households \nprovide labor and receive payment from firms through wages, salaries, and benefits. \nFirms produce and sell goods and services to households in the market for goods and services (or product \nmarket). Arrow “A” indicates this. Households pay for goods and services, which becomes the revenues to \nfirms. Arrow “B” indicates this. Arrows A and B represent the two sides of the product market. Where do \nhouseholds obtain the income to buy goods and services? They provide the labor and other resources (e.g., \nland, capital, raw materials) firms need to produce goods and services in the market for inputs (or factors of \nproduction). Arrow “C” indicates this. In return, firms pay for the inputs (or resources) they use in the form of \nwages and other factor payments. Arrow “D” indicates this. Arrows “C” and “D” represent the two sides of the \nfactor market. \nOf course, in the real world, there are many different markets for goods and services and markets for many \ndifferent types of labor. The circular flow diagram simplifies this to make the picture easier to grasp. In the \ndiagram, firms produce goods and services, which they sell to households in return for revenues. The outer \ncircle shows this, and represents the two sides of the product market (for example, the market for goods and \n1.3 • How Economists Use Theories and Models to Understand Economic Issues     17\n"
+    },
+    {
+      "page": 115,
+      "original_pdf_page": 670,
+      "text": "27.3 The Role of Banks \nLEARNING OBJECTIVES \nBy the end of this section, you will be able to: \n• Explain how banks act as intermediaries between savers and borrowers \n• Evaluate the relationship between banks, savings and loans, and credit unions \n• Analyze the causes of bankruptcy and recessions \nSomebody once asked the late bank robber named Willie Sutton why he robbed banks. He answered: “That’s \nwhere the money is.” While this may have been true at one time, from the perspective of modern economists, \nSutton is both right and wrong. He is wrong because the overwhelming majority of money in the economy is \nnot in the form of currency sitting in vaults or drawers at banks, waiting for a robber to appear. Most money is \nin the form of bank accounts, which exist only as electronic records on computers. From a broader \nperspective, however, the bank robber was more right than he may have known. Banking is intimately \ninterconnected with money and consequently, with the broader economy. \nBanks make it far easier for a complex economy to carry out the extraordinary range of transactions that occur \nin goods, labor, and financial capital markets. Imagine for a moment what the economy would be like if \neverybody had to make all payments in cash. When shopping for a large purchase or going on vacation you \nmight need to carry hundreds of dollars in a pocket or purse. Even small businesses would need stockpiles of \ncash to pay workers and to purchase supplies. A bank allows people and businesses to store this money in \neither a checking account or savings account, for example, and then withdraw this money as needed through \nthe use of a direct withdrawal, writing a check, or using a debit card. \nBanks are a critical intermediary in what we call the payment system, which helps an economy exchange \ngoods and services for money or other financial assets. Also, those with extra money that they would like to \nsave can store their money in a bank rather than look for an individual who is willing to borrow it from them \nand then repay them at a later date. Those who want to borrow money can go directly to a bank rather than \ntrying to find someone to lend them cash. Transaction costs are the costs associated with finding a lender or a \nborrower for this money. Thus, banks lower transactions costs and act as financial intermediaries—they bring \nsavers and borrowers together. Along with making transactions much safer and easier, banks also play a key \nrole in creating money. \nBanks as Financial Intermediaries \nAn “intermediary” is one who stands between two other parties. Banks are a financial intermediary—that is, \nan institution that operates between a saver who deposits money in a bank and a borrower who receives a loan \nfrom that bank. Financial intermediaries include other institutions in the financial market such as insurance \ncompanies and pension funds, but we will not include them in this discussion because they are not depository \ninstitutions, which are institutions that accept money deposits and then use these to make loans. All the \ndeposited funds mingle in one big pool, which the financial institution then lends. Figure 27.4 illustrates the \nposition of banks as financial intermediaries, with deposits flowing into a bank and loans flowing out. Of \ncourse, when banks make loans to firms, the banks will try to funnel financial capital to healthy businesses \nthat have good prospects for repaying the loans, not to firms that are suffering losses and may be unable to \nrepay. \n654     27 • Money and Banking\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 116,
+      "original_pdf_page": 671,
+      "text": "FIGURE 27.4 Banks as Financial Intermediaries Banks act as financial intermediaries because they stand between \nsavers and borrowers. Savers place deposits with banks, and then receive interest payments and withdraw money. \nBorrowers receive loans from banks and repay the loans with interest. In turn, banks return money to savers in the \nform of withdrawals, which also include interest payments from banks to savers. \nHow are banks, savings and loans, and credit unions related? \nBanks have a couple of close cousins: savings institutions and credit unions. Banks, as we explained, receive \ndeposits from individuals and businesses and make loans with the money. Savings institutions are also sometimes \ncalled “savings and loans” or “thrifts.” They also take deposits and make loans. However, from the 1930s until the \n1980s, federal law limited how much interest savings institutions were allowed to pay to depositors. They were also \nrequired to make most of their loans in the form of housing-related loans, either to homebuyers or to real-estate \ndevelopers and builders. \nA credit union is a nonprofit financial institution that its members own and run. Members of each credit union decide \nwho is eligible to be a member. Usually, potential members would be everyone in a certain community, or groups of \nemployees, or members of a certain organization. The credit union accepts deposits from members and focuses on \nmaking loans back to its members. While there are more credit unions than banks and more banks than savings and \nloans, the total assets of credit unions are growing. \nIn 2008, there were 7,085 banks. Due to the bank failures of 2007–2009 and bank mergers, there were 5,571 \nbanks in the United States at the end of the fourth quarter in 2014. By 2020, there were 4,374 commercial banks \nand 627 savings institutions. According to the National Credit Union Association, as of September 2021 there were \n4,990 credit unions with assets totaling $2.0 trillion. A day of “Transfer Your Money” took place in 2009 out of \ngeneral public disgust with big bank bailouts. People were encouraged to transfer their deposits to credit unions. \nThis has grown into the ongoing Move Your Money Project. Consequently, some now hold assets with a total value as \nlarge as $111 billion. \nA Bank’s Balance Sheet \nA balance sheet is an accounting tool that lists assets and liabilities. An asset is something of value that you \nown and you can use to produce something. For example, you can use the cash you own to pay your tuition. If \nyou own a home, this is also an asset. A liability is a debt or something you owe. Many people borrow money to \nbuy homes. In this case, a home is the asset, but the mortgage is the liability. The net worth is the asset value \nminus how much is owed (the liability). A bank’s balance sheet operates in much the same way. A bank’s net \nworth as bank capital. We also refer to a bank has assets such as cash held in its vaults, monies that the bank \n CLEAR IT UP \n27.3 • The Role of Banks     655\n"
+    },
+    {
+      "page": 83,
+      "original_pdf_page": 107,
+      "text": "Step 1. What did the markets for low-skill labor and high-skill labor look like before the arrival of the new \ntechnologies? In Figure 4.3 (a) and Figure 4.3 (b), S0 is the original supply curve for labor and D0 is the original \ndemand curve for labor in each market. In each graph, the original point of equilibrium, E0, occurs at the price \nW0 and the quantity Q0. \nFIGURE 4.3 Technology and Wages: Applying Demand and Supply (a) The demand for low-skill labor shifts to the \nleft when technology can do the job previously done by these workers. (b) New technologies can also increase the \ndemand for high-skill labor in fields such as information technology and network administration. \nStep 2. Does the new technology affect the supply of labor from households or the demand for labor from \nfirms? The technology change described here affects demand for labor by firms that hire workers. \nStep 3. Will the new technology increase or decrease demand? Based on the description earlier, as the \nsubstitute for low-skill labor becomes available, demand for low-skill labor will shift to the left, from D0 to D1. \nAs the technology complement for high-skill labor becomes cheaper, demand for high-skill labor will shift to \nthe right, from D0 to D1. \nStep 4. The new equilibrium for low-skill labor, shown as point E1 with price W1 and quantity Q1, has a lower \nwage and quantity hired than the original equilibrium, E0. The new equilibrium for high-skill labor, shown as \npoint E1 with price W1 and quantity Q1, has a higher wage and quantity hired than the original equilibrium \n(E0). \nThus, the demand and supply model predicts that the new computer and communications technologies will \nraise the pay of high-skill workers but reduce the pay of low-skill workers. From the 1970s to the mid-2000s, \nthe wage gap widened between high-skill and low-skill labor. According to the National Center for Education \nStatistics, in 1980, for example, a college graduate earned about 30% more than a high school graduate with \ncomparable job experience, but by 2019, a college graduate earned about 59% more than an otherwise \ncomparable high school graduate. Many economists believe that the trend toward greater wage inequality \nacross the U.S. economy is due to improvements in technology. \nLINK IT UP \nVisit this website (https://openstax.org/l/oldtechjobs) to read about ten tech skills that have lost relevance in \ntoday’s workforce. \nPrice Floors in the Labor Market: Living Wages and Minimum Wages \nIn contrast to goods and services markets, price ceilings are rare in labor markets, because rules that prevent \n4.1 • Demand and Supply at Work in Labor Markets     91\n"
+    },
+    {
+      "page": 8,
+      "original_pdf_page": 32,
+      "text": "prices a firm will charge? What determines how a firm will produce its products? What determines how many \nworkers it will hire? How will a firm finance its business? When will a firm decide to expand, downsize, or even \nclose? In the microeconomics part of this book, we will learn about the theory of consumer behavior, the \ntheory of the firm, how markets for labor and other resources work, and how markets sometimes fail to work \nproperly. \nMacroeconomics \nWhat determines the level of economic activity in a society? In other words, what determines how many goods \nand services a nation actually produces? What determines how many jobs are available in an economy? What \ndetermines a nation’s standard of living? What causes the economy to speed up or slow down? What causes \nfirms to hire more workers or to lay them off? Finally, what causes the economy to grow over the long term? \nWe can determine an economy's macroeconomic health by examining a number of goals: growth in the \nstandard of living, low unemployment, and low inflation, to name the most important. How can we use \ngovernment macroeconomic policy to pursue these goals? A nation's central bank conducts monetary policy, \nwhich involves policies that affect bank lending, interest rates, and financial capital markets. For the United \nStates, this is the Federal Reserve. A nation's legislative body determines fiscal policy, which involves \ngovernment spending and taxes. For the United States, this is the Congress and the executive branch, which \noriginates the federal budget. These are the government's main tools. Americans tend to expect that \ngovernment can fix whatever economic problems we encounter, but to what extent is that expectation \nrealistic? These are just some of the issues that we will explore in the macroeconomic chapters of this book. \n1.3 How Economists Use Theories and Models to Understand Economic Issues \nLEARNING OBJECTIVES \nBy the end of this section, you will be able to: \n• Interpret a circular flow diagram \n• Explain the importance of economic theories and models \n• Describe goods and services markets and labor markets \nFIGURE 1.6 John Maynard Keynes One of the most influential economists in modern times was John Maynard \nKeynes. (Credit: “John Maynard Keynes” by IMF/Wikimedia Commons, Public Domain) \nJohn Maynard Keynes (1883–1946), one of the greatest economists of the twentieth century, pointed out that \neconomics is not just a subject area but also a way of thinking. Keynes (Figure 1.6) famously wrote in the \nintroduction to a fellow economist’s book: “[Economics] is a method rather than a doctrine, an apparatus of the \nmind, a technique of thinking, which helps its possessor to draw correct conclusions.” In other words, \neconomics teaches you how to think, not what to think. \nLINK IT UP \nWatch this video (https://openstax.org/l/Keynes) about John Maynard Keynes and his influence on economics. \n16     1 • Welcome to Economics!\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 17,
+      "original_pdf_page": 41,
+      "text": "1.2 Microeconomics and Macroeconomics \nMicroeconomics and macroeconomics are two different perspectives on the economy. The microeconomic \nperspective focuses on parts of the economy: individuals, firms, and industries. The macroeconomic \nperspective looks at the economy as a whole, focusing on goals like growth in the standard of living, \nunemployment, and inflation. Macroeconomics has two types of policies for pursuing these goals: monetary \npolicy and fiscal policy. \n1.3 How Economists Use Theories and Models to Understand Economic Issues \nEconomists analyze problems differently than do other disciplinary experts. The main tools economists use \nare economic theories or models. A theory is not an illustration of the answer to a problem. Rather, a theory is a \ntool for determining the answer. \n1.4 How To Organize Economies: An Overview of Economic Systems \nWe can organize societies as traditional, command, or market-oriented economies. Most societies are a mix. \nThe last few decades have seen globalization evolve as a result of growth in commercial and financial networks \nthat cross national borders, making businesses and workers from different economies increasingly \ninterdependent. \nSelf-Check Questions \n1 . What is scarcity? Can you think of two causes of scarcity? \n2 . Residents of the town of Smithfield like to consume hams, but each ham requires 10 people to produce it \nand takes a month. If the town has a total of 100 people, what is the maximum amount of ham the \nresidents can consume in a month? \n3 . A consultant works for $200 per hour. She likes to eat vegetables, but is not very good at growing them. \nWhy does it make more economic sense for her to spend her time at the consulting job and shop for her \nvegetables? \n4 . A computer systems engineer could paint her house, but it makes more sense for her to hire a painter to \ndo it. Explain why. \n5 . What would be another example of a “system” in the real world that could serve as a metaphor for micro \nand macroeconomics? \n6 . Suppose we extend the circular flow model to add imports and exports. Copy the circular flow diagram \nonto a sheet of paper and then add a foreign country as a third agent. Draw a rough sketch of the flows of \nimports, exports, and the payments for each on your diagram. \n7 . What is an example of a problem in the world today, not mentioned in the chapter, that has an economic \ndimension? \n8 . The chapter defines private enterprise as a characteristic of market-oriented economies. What would \npublic enterprise be? Hint: It is a characteristic of command economies. \n9 . Why might Belgium, France, Italy, and Sweden have a higher export to GDP ratio than the United States? \nReview Questions \n10 . Give the three reasons that explain why the division of labor increases an economy’s level of production. \n11 . What are three reasons to study economics? \n12 . What is the difference between microeconomics and macroeconomics? \n13 . What are examples of individual economic agents? \n1 • Self-Check Questions     25\n"
+    }
+  ],
+  "retrieval_queries": [
+    "Figure 1.7 circular-flow diagram labor market goods and services market arrow household firm wages income spending",
+    "Figure 27.4 financial intermediaries bank borrower to bank labeled flow loan interest principal",
+    "Chapter 1 Figure 1.7 page 33 circular flow income expenditures wages goods services market and Figure 27.4 page 671 bank intermediary labeled flow from borrower to bank"
+  ],
+  "ranked_pages": [
+    [
+      9,
+      2.064788933376982
+    ],
+    [
+      115,
+      2.0632989900325303
+    ],
+    [
+      116,
+      2.015873015873016
+    ],
+    [
+      83,
+      0.05380046700764395
+    ],
+    [
+      8,
+      0.04329085624860273
+    ],
+    [
+      17,
+      0.04235074626865672
+    ],
+    [
+      98,
+      0.0420940170940171
+    ],
+    [
+      14,
+      0.04201388888888889
+    ],
+    [
+      107,
+      0.0315136476426799
+    ],
+    [
+      10,
+      0.029437229437229435
+    ],
+    [
+      111,
+      0.02919863597612958
+    ],
+    [
+      16,
+      0.029138513513513514
+    ],
+    [
+      114,
+      0.028991596638655463
+    ],
+    [
+      11,
+      0.028404512489927477
+    ],
+    [
+      90,
+      0.028258706467661692
+    ],
+    [
+      108,
+      0.02813852813852814
+    ],
+    [
+      84,
+      0.026334026334026334
+    ],
+    [
+      87,
+      0.015384615384615385
+    ],
+    [
+      78,
+      0.014492753623188406
+    ],
+    [
+      113,
+      0.014492753623188406
+    ],
+    [
+      54,
+      0.014084507042253521
+    ],
+    [
+      119,
+      0.014084507042253521
+    ],
+    [
+      91,
+      0.013888888888888888
+    ],
+    [
+      89,
+      0.0136986301369863
+    ],
+    [
+      118,
+      0.013513513513513514
+    ],
+    [
+      51,
+      0.013333333333333334
+    ],
+    [
+      29,
+      0.013157894736842105
+    ],
+    [
+      99,
+      0.013157894736842105
+    ],
+    [
+      2,
+      0.012987012987012988
+    ],
+    [
+      88,
+      0.012987012987012988
+    ],
+    [
+      85,
+      0.01282051282051282
+    ],
+    [
+      80,
+      0.012658227848101266
+    ],
+    [
+      86,
+      0.012658227848101266
+    ],
+    [
+      73,
+      0.0125
+    ]
+  ],
+  "status": "success",
+  "calls": [
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": "Search this economics textbook to answer in Vietnamese: Dựa trên Hình 1.7 về sơ đồ luân chuyển (trang 33 PDF gốc) và Hình 27.4 về ngân hàng là trung gian tài chính (trang 671 PDF gốc), hãy xác định: nếu một hộ gia đình nhận tiền lương từ doanh nghiệp trong thị trường lao động rồi dùng khoản tiền đó để mua hàng hóa và dịch vụ từ doanh nghiệp trong thị trường hàng hóa và dịch vụ, thì trong Hình 1.7 hai dòng tương ứng với hai giao dịch này là mũi tên nào, và ở Hình 27.4 luồng tiền nào từ người vay về ngân hàng được gắn nhãn gì? Trả lời phải nêu rõ cả ký hiệu mũi tên và nhãn luồng tiền."
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "search_book",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_002de7f85bc97e84016af8366145d087d2856ab5a8040af1f5",
+        "object": "response",
+        "created_at": 1794651745,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651746,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_002de7f85bc97e84016af83661a00087d2a9304fa167fa258d",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"queries\":[\"Figure 1.7 circular-flow diagram labor market goods and services market arrow household firm wages income spending\", \"Figure 27.4 financial intermediaries bank borrower to bank labeled flow loan interest principal\", \"Chapter 1 Figure 1.7 page 33 circular flow income expenditures wages goods services market and Figure 27.4 page 671 bank intermediary labeled flow from borrower to bank\"]}",
+            "call_id": "call_okN89PKuaT2x1vssWHZfeCul",
+            "name": "search_book"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "name": "search_book",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 305,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 95,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 400
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.3066657000017585
+    },
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": [
+              {
+                "type": "input_text",
+                "text": "Answer the question using ONLY supplied source evidence, in Vietnamese. Cite [page N] and Figure/Table ID for all claims. No external facts. If date/place/condition absent, choose abstain with no guessed values. Dựa trên Hình 1.7 về sơ đồ luân chuyển (trang 33 PDF gốc) và Hình 27.4 về ngân hàng là trung gian tài chính (trang 671 PDF gốc), hãy xác định: nếu một hộ gia đình nhận tiền lương từ doanh nghiệp trong thị trường lao động rồi dùng khoản tiền đó để mua hàng hóa và dịch vụ từ doanh nghiệp trong thị trường hàng hóa và dịch vụ, thì trong Hình 1.7 hai dòng tương ứng với hai giao dịch này là mũi tên nào, và ở Hình 27.4 luồng tiền nào từ người vay về ngân hàng được gắn nhãn gì? Trả lời phải nêu rõ cả ký hiệu mũi tên và nhãn luồng tiền.\nSOURCE_CONTEXT:[{\"page\": 9, \"original_pdf_page\": 33, \"text\": \"Economists see the world through a different lens than anthropologists, biologists, classicists, or practitioners \\nof any other discipline. They analyze issues and problems using economic theories that are based on \\nparticular assumptions about human behavior. These assumptions tend to be different than the assumptions \\nan anthropologist or psychologist might use. A theory is a simplified representation of how two or more \\nvariables interact with each other. The purpose of a theory is to take a complex, real-world issue and simplify it \\ndown to its essentials. If done well, this enables the analyst to understand the issue and any problems around \\nit. A good theory is simple enough to understand, while complex enough to capture the key features of the \\nobject or situation you are studying. \\nSometimes economists use the term model instead of theory. Strictly speaking, a theory is a more abstract \\nrepresentation, while a model is a more applied or empirical representation. We use models to test theories, \\nbut for this course we will use the terms interchangeably. \\nFor example, an architect who is planning a major office building will often build a physical model that sits on \\na tabletop to show how the entire city block will look after the new building is constructed. Companies often \\nbuild models of their new products, which are more rough and unfinished than the final product, but can still \\ndemonstrate how the new product will work. \\nA good model to start with in economics is the circular flow diagram (Figure 1.7). It pictures the economy as \\nconsisting of two groups—households and firms—that interact in two markets: the goods and services market \\nin which firms sell and households buy and the labor market in which households sell labor to business firms \\nor other employees. \\nFIGURE 1.7 The Circular Flow Diagram The circular flow diagram shows how households and firms interact in the \\ngoods and services market, and in the labor market. The direction of the arrows shows that in the goods and \\nservices market, households receive goods and services and pay firms for them. In the labor market, households \\nprovide labor and receive payment from firms through wages, salaries, and benefits. \\nFirms produce and sell goods and services to households in the market for goods and services (or product \\nmarket). Arrow “A” indicates this. Households pay for goods and services, which becomes the revenues to \\nfirms. Arrow “B” indicates this. Arrows A and B represent the two sides of the product market. Where do \\nhouseholds obtain the income to buy goods and services? They provide the labor and other resources (e.g., \\nland, capital, raw materials) firms need to produce goods and services in the market for inputs (or factors of \\nproduction). Arrow “C” indicates this. In return, firms pay for the inputs (or resources) they use in the form of \\nwages and other factor payments. Arrow “D” indicates this. Arrows “C” and “D” represent the two sides of the \\nfactor market. \\nOf course, in the real world, there are many different markets for goods and services and markets for many \\ndifferent types of labor. The circular flow diagram simplifies this to make the picture easier to grasp. In the \\ndiagram, firms produce goods and services, which they sell to households in return for revenues. The outer \\ncircle shows this, and represents the two sides of the product market (for example, the market for goods and \\n1.3 • How Economists Use Theories and Models to Understand Economic Issues     17\\n\"}, {\"page\": 115, \"original_pdf_page\": 670, \"text\": \"27.3 The Role of Banks \\nLEARNING OBJECTIVES \\nBy the end of this section, you will be able to: \\n• Explain how banks act as intermediaries between savers and borrowers \\n• Evaluate the relationship between banks, savings and loans, and credit unions \\n• Analyze the causes of bankruptcy and recessions \\nSomebody once asked the late bank robber named Willie Sutton why he robbed banks. He answered: “That’s \\nwhere the money is.” While this may have been true at one time, from the perspective of modern economists, \\nSutton is both right and wrong. He is wrong because the overwhelming majority of money in the economy is \\nnot in the form of currency sitting in vaults or drawers at banks, waiting for a robber to appear. Most money is \\nin the form of bank accounts, which exist only as electronic records on computers. From a broader \\nperspective, however, the bank robber was more right than he may have known. Banking is intimately \\ninterconnected with money and consequently, with the broader economy. \\nBanks make it far easier for a complex economy to carry out the extraordinary range of transactions that occur \\nin goods, labor, and financial capital markets. Imagine for a moment what the economy would be like if \\neverybody had to make all payments in cash. When shopping for a large purchase or going on vacation you \\nmight need to carry hundreds of dollars in a pocket or purse. Even small businesses would need stockpiles of \\ncash to pay workers and to purchase supplies. A bank allows people and businesses to store this money in \\neither a checking account or savings account, for example, and then withdraw this money as needed through \\nthe use of a direct withdrawal, writing a check, or using a debit card. \\nBanks are a critical intermediary in what we call the payment system, which helps an economy exchange \\ngoods and services for money or other financial assets. Also, those with extra money that they would like to \\nsave can store their money in a bank rather than look for an individual who is willing to borrow it from them \\nand then repay them at a later date. Those who want to borrow money can go directly to a bank rather than \\ntrying to find someone to lend them cash. Transaction costs are the costs associated with finding a lender or a \\nborrower for this money. Thus, banks lower transactions costs and act as financial intermediaries—they bring \\nsavers and borrowers together. Along with making transactions much safer and easier, banks also play a key \\nrole in creating money. \\nBanks as Financial Intermediaries \\nAn “intermediary” is one who stands between two other parties. Banks are a financial intermediary—that is, \\nan institution that operates between a saver who deposits money in a bank and a borrower who receives a loan \\nfrom that bank. Financial intermediaries include other institutions in the financial market such as insurance \\ncompanies and pension funds, but we will not include them in this discussion because they are not depository \\ninstitutions, which are institutions that accept money deposits and then use these to make loans. All the \\ndeposited funds mingle in one big pool, which the financial institution then lends. Figure 27.4 illustrates the \\nposition of banks as financial intermediaries, with deposits flowing into a bank and loans flowing out. Of \\ncourse, when banks make loans to firms, the banks will try to funnel financial capital to healthy businesses \\nthat have good prospects for repaying the loans, not to firms that are suffering losses and may be unable to \\nrepay. \\n654     27 • Money and Banking\\nAccess for free at openstax.org\\n\"}, {\"page\": 116, \"original_pdf_page\": 671, \"text\": \"FIGURE 27.4 Banks as Financial Intermediaries Banks act as financial intermediaries because they stand between \\nsavers and borrowers. Savers place deposits with banks, and then receive interest payments and withdraw money. \\nBorrowers receive loans from banks and repay the loans with interest. In turn, banks return money to savers in the \\nform of withdrawals, which also include interest payments from banks to savers. \\nHow are banks, savings and loans, and credit unions related? \\nBanks have a couple of close cousins: savings institutions and credit unions. Banks, as we explained, receive \\ndeposits from individuals and businesses and make loans with the money. Savings institutions are also sometimes \\ncalled “savings and loans” or “thrifts.” They also take deposits and make loans. However, from the 1930s until the \\n1980s, federal law limited how much interest savings institutions were allowed to pay to depositors. They were also \\nrequired to make most of their loans in the form of housing-related loans, either to homebuyers or to real-estate \\ndevelopers and builders. \\nA credit union is a nonprofit financial institution that its members own and run. Members of each credit union decide \\nwho is eligible to be a member. Usually, potential members would be everyone in a certain community, or groups of \\nemployees, or members of a certain organization. The credit union accepts deposits from members and focuses on \\nmaking loans back to its members. While there are more credit unions than banks and more banks than savings and \\nloans, the total assets of credit unions are growing. \\nIn 2008, there were 7,085 banks. Due to the bank failures of 2007–2009 and bank mergers, there were 5,571 \\nbanks in the United States at the end of the fourth quarter in 2014. By 2020, there were 4,374 commercial banks \\nand 627 savings institutions. According to the National Credit Union Association, as of September 2021 there were \\n4,990 credit unions with assets totaling $2.0 trillion. A day of “Transfer Your Money” took place in 2009 out of \\ngeneral public disgust with big bank bailouts. People were encouraged to transfer their deposits to credit unions. \\nThis has grown into the ongoing Move Your Money Project. Consequently, some now hold assets with a total value as \\nlarge as $111 billion. \\nA Bank’s Balance Sheet \\nA balance sheet is an accounting tool that lists assets and liabilities. An asset is something of value that you \\nown and you can use to produce something. For example, you can use the cash you own to pay your tuition. If \\nyou own a home, this is also an asset. A liability is a debt or something you owe. Many people borrow money to \\nbuy homes. In this case, a home is the asset, but the mortgage is the liability. The net worth is the asset value \\nminus how much is owed (the liability). A bank’s balance sheet operates in much the same way. A bank’s net \\nworth as bank capital. We also refer to a bank has assets such as cash held in its vaults, monies that the bank \\n CLEAR IT UP \\n27.3 • The Role of Banks     655\\n\"}, {\"page\": 83, \"original_pdf_page\": 107, \"text\": \"Step 1. What did the markets for low-skill labor and high-skill labor look like before the arrival of the new \\ntechnologies? In Figure 4.3 (a) and Figure 4.3 (b), S0 is the original supply curve for labor and D0 is the original \\ndemand curve for labor in each market. In each graph, the original point of equilibrium, E0, occurs at the price \\nW0 and the quantity Q0. \\nFIGURE 4.3 Technology and Wages: Applying Demand and Supply (a) The demand for low-skill labor shifts to the \\nleft when technology can do the job previously done by these workers. (b) New technologies can also increase the \\ndemand for high-skill labor in fields such as information technology and network administration. \\nStep 2. Does the new technology affect the supply of labor from households or the demand for labor from \\nfirms? The technology change described here affects demand for labor by firms that hire workers. \\nStep 3. Will the new technology increase or decrease demand? Based on the description earlier, as the \\nsubstitute for low-skill labor becomes available, demand for low-skill labor will shift to the left, from D0 to D1. \\nAs the technology complement for high-skill labor becomes cheaper, demand for high-skill labor will shift to \\nthe right, from D0 to D1. \\nStep 4. The new equilibrium for low-skill labor, shown as point E1 with price W1 and quantity Q1, has a lower \\nwage and quantity hired than the original equilibrium, E0. The new equilibrium for high-skill labor, shown as \\npoint E1 with price W1 and quantity Q1, has a higher wage and quantity hired than the original equilibrium \\n(E0). \\nThus, the demand and supply model predicts that the new computer and communications technologies will \\nraise the pay of high-skill workers but reduce the pay of low-skill workers. From the 1970s to the mid-2000s, \\nthe wage gap widened between high-skill and low-skill labor. According to the National Center for Education \\nStatistics, in 1980, for example, a college graduate earned about 30% more than a high school graduate with \\ncomparable job experience, but by 2019, a college graduate earned about 59% more than an otherwise \\ncomparable high school graduate. Many economists believe that the trend toward greater wage inequality \\nacross the U.S. economy is due to improvements in technology. \\nLINK IT UP \\nVisit this website (https://openstax.org/l/oldtechjobs) to read about ten tech skills that have lost relevance in \\ntoday’s workforce. \\nPrice Floors in the Labor Market: Living Wages and Minimum Wages \\nIn contrast to goods and services markets, price ceilings are rare in labor markets, because rules that prevent \\n4.1 • Demand and Supply at Work in Labor Markets     91\\n\"}, {\"page\": 8, \"original_pdf_page\": 32, \"text\": \"prices a firm will charge? What determines how a firm will produce its products? What determines how many \\nworkers it will hire? How will a firm finance its business? When will a firm decide to expand, downsize, or even \\nclose? In the microeconomics part of this book, we will learn about the theory of consumer behavior, the \\ntheory of the firm, how markets for labor and other resources work, and how markets sometimes fail to work \\nproperly. \\nMacroeconomics \\nWhat determines the level of economic activity in a society? In other words, what determines how many goods \\nand services a nation actually produces? What determines how many jobs are available in an economy? What \\ndetermines a nation’s standard of living? What causes the economy to speed up or slow down? What causes \\nfirms to hire more workers or to lay them off? Finally, what causes the economy to grow over the long term? \\nWe can determine an economy's macroeconomic health by examining a number of goals: growth in the \\nstandard of living, low unemployment, and low inflation, to name the most important. How can we use \\ngovernment macroeconomic policy to pursue these goals? A nation's central bank conducts monetary policy, \\nwhich involves policies that affect bank lending, interest rates, and financial capital markets. For the United \\nStates, this is the Federal Reserve. A nation's legislative body determines fiscal policy, which involves \\ngovernment spending and taxes. For the United States, this is the Congress and the executive branch, which \\noriginates the federal budget. These are the government's main tools. Americans tend to expect that \\ngovernment can fix whatever economic problems we encounter, but to what extent is that expectation \\nrealistic? These are just some of the issues that we will explore in the macroeconomic chapters of this book. \\n1.3 How Economists Use Theories and Models to Understand Economic Issues \\nLEARNING OBJECTIVES \\nBy the end of this section, you will be able to: \\n• Interpret a circular flow diagram \\n• Explain the importance of economic theories and models \\n• Describe goods and services markets and labor markets \\nFIGURE 1.6 John Maynard Keynes One of the most influential economists in modern times was John Maynard \\nKeynes. (Credit: “John Maynard Keynes” by IMF/Wikimedia Commons, Public Domain) \\nJohn Maynard Keynes (1883–1946), one of the greatest economists of the twentieth century, pointed out that \\neconomics is not just a subject area but also a way of thinking. Keynes (Figure 1.6) famously wrote in the \\nintroduction to a fellow economist’s book: “[Economics] is a method rather than a doctrine, an apparatus of the \\nmind, a technique of thinking, which helps its possessor to draw correct conclusions.” In other words, \\neconomics teaches you how to think, not what to think. \\nLINK IT UP \\nWatch this video (https://openstax.org/l/Keynes) about John Maynard Keynes and his influence on economics. \\n16     1 • Welcome to Economics!\\nAccess for free at openstax.org\\n\"}, {\"page\": 17, \"original_pdf_page\": 41, \"text\": \"1.2 Microeconomics and Macroeconomics \\nMicroeconomics and macroeconomics are two different perspectives on the economy. The microeconomic \\nperspective focuses on parts of the economy: individuals, firms, and industries. The macroeconomic \\nperspective looks at the economy as a whole, focusing on goals like growth in the standard of living, \\nunemployment, and inflation. Macroeconomics has two types of policies for pursuing these goals: monetary \\npolicy and fiscal policy. \\n1.3 How Economists Use Theories and Models to Understand Economic Issues \\nEconomists analyze problems differently than do other disciplinary experts. The main tools economists use \\nare economic theories or models. A theory is not an illustration of the answer to a problem. Rather, a theory is a \\ntool for determining the answer. \\n1.4 How To Organize Economies: An Overview of Economic Systems \\nWe can organize societies as traditional, command, or market-oriented economies. Most societies are a mix. \\nThe last few decades have seen globalization evolve as a result of growth in commercial and financial networks \\nthat cross national borders, making businesses and workers from different economies increasingly \\ninterdependent. \\nSelf-Check Questions \\n1 . What is scarcity? Can you think of two causes of scarcity? \\n2 . Residents of the town of Smithfield like to consume hams, but each ham requires 10 people to produce it \\nand takes a month. If the town has a total of 100 people, what is the maximum amount of ham the \\nresidents can consume in a month? \\n3 . A consultant works for $200 per hour. She likes to eat vegetables, but is not very good at growing them. \\nWhy does it make more economic sense for her to spend her time at the consulting job and shop for her \\nvegetables? \\n4 . A computer systems engineer could paint her house, but it makes more sense for her to hire a painter to \\ndo it. Explain why. \\n5 . What would be another example of a “system” in the real world that could serve as a metaphor for micro \\nand macroeconomics? \\n6 . Suppose we extend the circular flow model to add imports and exports. Copy the circular flow diagram \\nonto a sheet of paper and then add a foreign country as a third agent. Draw a rough sketch of the flows of \\nimports, exports, and the payments for each on your diagram. \\n7 . What is an example of a problem in the world today, not mentioned in the chapter, that has an economic \\ndimension? \\n8 . The chapter defines private enterprise as a characteristic of market-oriented economies. What would \\npublic enterprise be? Hint: It is a characteristic of command economies. \\n9 . Why might Belgium, France, Italy, and Sweden have a higher export to GDP ratio than the United States? \\nReview Questions \\n10 . Give the three reasons that explain why the division of labor increases an economy’s level of production. \\n11 . What are three reasons to study economics? \\n12 . What is the difference between microeconomics and macroeconomics? \\n13 . What are examples of individual economic agents? \\n1 • Self-Check Questions     25\\n\"}]"
+              }
+            ]
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "finish",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_0a163e9b2b297c6e016af83662ab5487d2b41dbc44463f72db",
+        "object": "response",
+        "created_at": 1794651746,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651748,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_0a163e9b2b297c6e016af83663309087d2b468950f4842f5da",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"status\":\"answered\",\"answer\":\"Trong Hình 1.7, giao dịch hộ gia đình nhận tiền lương từ doanh nghiệp trong thị trường lao động tương ứng với mũi tên **D** (doanh nghiệp trả lương cho hộ gia đình); giao dịch hộ gia đình dùng tiền đó mua hàng hóa và dịch vụ từ doanh nghiệp trong thị trường hàng hóa và dịch vụ tương ứng với mũi tên **B** (hộ gia đình trả tiền cho doanh nghiệp và nhận hàng hóa/dịch vụ). [page 9] Figure 1.7\\n\\nTrong Hình 27.4, luồng tiền từ người vay về ngân hàng được gắn nhãn **repay the loans with interest** (trả nợ khoản vay kèm lãi). [page 116] Figure 27.4\",\"pages\":[9,116]}",
+            "call_id": "call_D58fVD0hHiRnYDldyoEtYFM2",
+            "name": "finish"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "name": "finish",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 4735,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 190,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 4925
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.7686627000075532
+    }
+  ],
+  "usage": {
+    "model_calls": 2,
+    "input_tokens": 5040,
+    "cached_input_tokens": 0,
+    "output_tokens": 285,
+    "estimated_api_cost_usd": 0.0050625,
+    "cost_note": "Estimate from published standard GPT-5.4-mini token rates, verified 2026-11-14; actual bill may differ. Unknown model/endpoint rates are not assumed zero.",
+    "pricing_source": "https://developers.openai.com/api/docs/models/gpt-5.4-mini"
+  },
+  "seconds": 3.132529800001066
+}

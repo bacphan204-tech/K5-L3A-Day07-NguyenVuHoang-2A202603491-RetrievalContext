@@ -1,0 +1,517 @@
+{
+  "id": "adv-dev-text-01",
+  "question": "Dựa trên đoạn văn ở trang này, trong phần \"Introduction to FRED\", nếu bạn muốn sử dụng dữ liệu từ FRED cho các mục đích khác, bạn có thể làm gì với dữ liệu đó?",
+  "vision": false,
+  "final": {
+    "status": "answered",
+    "answer": "Bạn có thể **tải dữ liệu xuống dạng bảng tính** để dùng cho các mục đích khác. Đoạn văn nói rằng FRED “allows you to display data in tables or charts, and you can easily download it into spreadsheet form if you want to use the data for other purposes” [page 2, no Figure/Table ID].",
+    "pages": [
+      2
+    ]
+  },
+  "context": [
+    {
+      "page": 2,
+      "original_pdf_page": 26,
+      "text": "and understanding behavior in markets —the world of economics. Each chapter in this book will start with a \ndiscussion about current (or sometimes past) events and revisit it at chapter’s end—to “bring home” the concepts in \nplay. \nWhat is economics and why should you spend your time learning it? After all, there are other disciplines you \ncould be studying, and other ways you could be spending your time. As the Bring it Home feature just \nmentioned, making choices is at the heart of what economists study, and your decision to take this course is as \nmuch as economic decision as anything else. \nEconomics is probably not what you think. It is not primarily about money or finance. It is not primarily about \nbusiness. It is not mathematics. What is it then? It is both a subject area and a way of viewing the world. \n1.1 What Is Economics, and Why Is It Important? \nLEARNING OBJECTIVES \nBy the end of this section, you will be able to: \n• Discuss the importance of studying economics \n• Explain the relationship between production and division of labor \n• Evaluate the significance of scarcity \nEconomics is the study of how humans make decisions in the face of scarcity. These can be individual \ndecisions, family decisions, business decisions or societal decisions. If you look around carefully, you will see \nthat scarcity is a fact of life. Scarcity means that human wants for goods, services and resources exceed what \nis available. Resources, such as labor, tools, land, and raw materials are necessary to produce the goods and \nservices we want but they exist in limited supply. Of course, the ultimate scarce resource is time- everyone, \nrich or poor, has just 24 expendable hours in the day to earn income to acquire goods and services, for leisure \ntime, or for sleep. At any point in time, there is only a finite amount of resources available. \nThink about it this way: In 2015 the labor force in the United States contained over 158 million workers, \naccording to the U.S. Bureau of Labor Statistics. The total land area was 3,794,101 square miles. While these \nare certainly large numbers, they are not infinite. Because these resources are limited, so are the numbers of \ngoods and services we produce with them. Combine this with the fact that human wants seem to be virtually \ninfinite, and you can see why scarcity is a problem. \nIntroduction to FRED \nData is very important in economics because it describes and measures the issues and problems that \neconomics seek to understand. A variety of government agencies publish economic and social data. For this \ncourse, we will generally use data from the St. Louis Federal Reserve Bank's FRED database. FRED is very user \nfriendly. It allows you to display data in tables or charts, and you can easily download it into spreadsheet form \nif you want to use the data for other purposes. The FRED website (https://openstax.org/l/FRED/) includes data \non nearly 400,000 domestic and international variables over time, in the following broad categories: \n• Money, Banking & Finance \n• Population, Employment, & Labor Markets (including Income Distribution) \n• National Accounts (Gross Domestic Product & its components), Flow of Funds, and International Accounts \n• Production & Business Activity (including Business Cycles) \n• Prices & Inflation (including the Consumer Price Index, the Producer Price Index, and the Employment \nCost Index) \n• International Data from other nations \n• U.S. Regional Data \n• Academic Data (including Penn World Tables & NBER Macrohistory database) \nFor more information about how to use FRED, see the variety of videos (https://openstax.org/l/FRED_intro) on \n10     1 • Welcome to Economics!\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 88,
+      "original_pdf_page": 112,
+      "text": "Interest \nRate (%) \nQuantity of Financial Capital Demanded \n(Borrowing) ($ billions) \nQuantity of Financial Capital Supplied \n(Lending) ($ billions) \n11 \n$800 \n$420 \n13 \n$700 \n$510 \n15 \n$600 \n$600 \n17 \n$550 \n$660 \n19 \n$500 \n$720 \n21 \n$480 \n$750 \nTABLE 4.5 Demand and Supply for Borrowing Money with Credit Cards \nThe laws of demand and supply continue to apply in the financial markets. According to the law of demand, a \nhigher rate of return (that is, a higher price) will decrease the quantity demanded. As the interest rate rises, \nconsumers will reduce the quantity that they borrow. According to the law of supply, a higher price increases \nthe quantity supplied. Consequently, as the interest rate paid on credit card borrowing rises, more firms will be \neager to issue credit cards and to encourage customers to use them. Conversely, if the interest rate on credit \ncards falls, the quantity of financial capital supplied in the credit card market will decrease and the quantity \ndemanded will increase. \nEquilibrium in Financial Markets \nIn the financial market for credit cards in Figure 4.5, the supply curve (S) and the demand curve (D) cross at \nthe equilibrium point (E). The equilibrium occurs at an interest rate of 15%, where the quantity of funds \ndemanded and the quantity supplied are equal at an equilibrium quantity of $600 billion. \nIf the interest rate (remember, this measures the “price” in the financial market) is above the equilibrium level, \nthen an excess supply, or a surplus, of financial capital will arise in this market. For example, at an interest rate \nof 21%, the quantity of funds supplied increases to $750 billion, while the quantity demanded decreases to \n$480 billion. At this above-equilibrium interest rate, firms are eager to supply loans to credit card borrowers, \nbut relatively few people or businesses wish to borrow. As a result, some credit card firms will lower the \ninterest rates (or other fees) they charge to attract more business. This strategy will push the interest rate down \ntoward the equilibrium level. \nIf the interest rate is below the equilibrium, then excess demand or a shortage of funds occurs in this market. \nAt an interest rate of 13%, the quantity of funds credit card borrowers demand increases to $700 billion, but \nthe quantity credit card firms are willing to supply is only $510 billion. In this situation, credit card firms will \nperceive that they are overloaded with eager borrowers and conclude that they have an opportunity to raise \ninterest rates or fees. The interest rate will face economic pressures to creep up toward the equilibrium level. \nThe FRED database publishes some two dozen measures of interest rates, including interest rates on credit \ncards, automobile loans, personal loans, mortgage loans, and more. You can find these at the FRED website \n(https://openstax.org/l/FRED_stlouis). \nShifts in Demand and Supply in Financial Markets \nThose who supply financial capital face two broad decisions: how much to save, and how to divide up their \nsavings among different forms of financial investments. We will discuss each of these in turn. \nParticipants in financial markets must decide when they prefer to consume goods: now or in the future. \n96     4 • Labor and Financial Markets\nAccess for free at openstax.org\n"
+    },
+    {
+      "page": 19,
+      "original_pdf_page": 43,
+      "text": "FIGURE 2.1 Choices and Tradeoffs In general, the higher the degree, the higher the salary, so why aren’t more \npeople pursuing higher degrees? The short answer: choices and tradeoffs. (Credit: modification of \"College of \nDuPage Commencement 2018 107\" by COD Newsroom/Flickr, CC BY 2.0) \nChapter Objectives \nIn this chapter, you will learn about: \n• How Individuals Make Choices Based on Their Budget Constraint \n• The Production Possibilities Frontier and Social Choices \n• Confronting Objections to the Economic Approach \nIntroduction to Choice in a World of Scarcity \nChoices ... to What Degree? \nDoes your level of education impact earning? Let’s look at some data from the Bureau of Labor Statistics (BLS). In \n2020, among full-time wage and salary workers, median weekly earnings for those with a master’s degree were \n$1,545. Multiply this average by 52 weeks, and you get average annual earnings of $80,340. Compare that to the \n2 \nChoice in a World of Scarcity \n BRING IT HOME \n"
+    },
+    {
+      "page": 15,
+      "original_pdf_page": 39,
+      "text": "Table 1.2 indicates that many medium and low income countries around the world, like Mexico and China, \nhave also experienced a surge of globalization in recent decades. If an astronaut in orbit could put on special \nglasses that make all economic transactions visible as brightly colored lines and look down at Earth, the \nastronaut would see the planet covered with connections. \nDespite the rise in globalization over the last few decades, in recent years we've seen significant pushback \nagainst globalization from people across the world concerned about loss of jobs, loss of political sovereignty, \nand increased economic inequality. Prominent examples of this pushback include the 2016 vote in Great \nBritain to exit the European Union (i.e. Brexit), and the election of Donald J. Trump for President of the United \nStates. \nHopefully, you now have an idea about economics. Before you move to any other chapter of study, be sure to \nread the very important appendix to this chapter called The Use of Mathematics in Principles of Economics. It \nis essential that you learn more about how to read and use models in economics. \nInformation Overload in the Information Age \nThe world provides nearly instant access to a wealth of information. Consider that as recently as the late 1970s, the \nFarmer’s Almanac, along with the Weather Bureau of the U.S. Department of Agriculture, were the primary sources \nAmerican farmers used to determine when to plant and harvest their crops. Today, these decisions are driven by \ndata. Farmers access detailed data streams driven by global positioning systems, historical rainfall patterns, and \ncomplex weather monitoring services. They combine this information with crop yield data and soil quality \nmeasurements from prior years. Maximizing production efficiently can mean the difference between a farm that \nremains profitable and one that may need to sell its land, and data helps eliminate guesswork. \nInformation helps us make decisions as simple as what to wear today to how many reporters the media should send \nto cover an event. Each of these decisions is an economic decision. After all, resources are scarce. If the media send \nten reporters to cover an announcement, they are not available to cover other stories or complete other tasks. \nInformation provides the necessary knowledge to make the best possible decisions on how to utilize scarce \nresources. Welcome to the world of economics! \n BRING IT HOME \n1.4 • How To Organize Economies: An Overview of Economic Systems     23\n"
+    },
+    {
+      "page": 81,
+      "original_pdf_page": 105,
+      "text": "meet employers’ production requirements. As the demand for the goods and services decreases, the demand \nfor labor will decrease, or shift to the left. Table 4.2 shows that in addition to the derived demand for labor, \ndemand can also increase or decrease (shift) in response to several factors. \nFactors \nResults \nDemand for \nOutput \nWhen the demand for the good produced (output) increases, both the output price and profitability \nincrease. As a result, producers demand more labor to ramp up production. \nEducation \nand Training \nA well-trained and educated workforce causes an increase in the demand for that labor by \nemployers. Increased levels of productivity within the workforce will cause the demand for labor to \nshift to the right. If the workforce is not well-trained or educated, employers will not hire from \nwithin that labor pool, since they will need to spend a significant amount of time and money \ntraining that workforce. Demand for such will shift to the left. \nTechnology \nTechnology changes can act as either substitutes for or complements to labor. When technology \nacts as a substitute, it replaces the need for the number of workers an employer needs to hire. For \nexample, word processing decreased the number of typists needed in the workplace. This shifted \nthe demand curve for typists left. An increase in the availability of certain technologies may \nincrease the demand for labor. Technology that acts as a complement to labor will increase the \ndemand for certain types of labor, resulting in a rightward shift of the demand curve. For example, \nthe increased use of word processing and other software has increased the demand for information \ntechnology professionals who can resolve software and hardware issues related to a firm’s \nnetwork. More and better technology will increase demand for skilled workers who know how to \nuse technology to enhance workplace productivity. Those workers who do not adapt to changes in \ntechnology will experience a decrease in demand. \nNumber of \nCompanies \nAn increase in the number of companies producing a given product will increase the demand for \nlabor resulting in a shift to the right. A decrease in the number of companies producing a given \nproduct will decrease the demand for labor resulting in a shift to the left. \nGovernment \nRegulations \nComplying with government regulations can increase or decrease the demand for labor at any given \nwage. In the healthcare industry, government rules may require that nurses be hired to carry out \ncertain medical procedures. This will increase the demand for nurses. Less-trained healthcare \nworkers would be prohibited from carrying out these procedures, and the demand for these \nworkers will shift to the left. \nPrice and \nAvailability \nof Other \nInputs \nLabor is not the only input into the production process. For example, a salesperson at a call center \nneeds a telephone and a computer terminal to enter data and record sales. If prices of other inputs \nfall, production will become more profitable and suppliers will demand more labor to increase \nproduction. This will cause a rightward shift in the demand curve for labor. The opposite is also \ntrue. Higher prices for other inputs lower demand for labor. \nTABLE 4.2 Factors That Can Shift Demand \nLINK IT UP \nClick here (https://openstax.org/l/Futurework) to read more about “Trends and Challenges for Work in the 21st \nCentury.” \n4.1 • Demand and Supply at Work in Labor Markets     89\n"
+    },
+    {
+      "page": 1,
+      "original_pdf_page": 25,
+      "text": "FIGURE 1.1 Do You Use Facebook? Economics is greatly impacted by how well information travels through \nsociety. Today, social media giants Twitter, Facebook, and Instagram are major forces on the information super \nhighway. (Credit: modification of \"Social Media Mixed Icons - Banner\" by Blogtrepreneur/Flickr, CC BY 2.0) \nChapter Objectives \nIn this chapter, you will learn about: \n• What Is Economics, and Why Is It Important? \n• Microeconomics and Macroeconomics \n• How Economists Use Theories and Models to Understand Economic Issues \n• How Economies Can Be Organized: An Overview of Economic Systems \nIntroduction \nInformation Overload in the Information Age \nTo post or not to post? Every day we are faced with a myriad of decisions, from what to have for breakfast, to which \nshow to stream, to the more complex—“Should I double major and add possibly another semester of study to my \neducation?” Our response to these choices depends on the information we have available at any given moment. \nEconomists call this “imperfect” because we rarely have all the data we need to make perfect decisions. Despite the \nlack of perfect information, we still make hundreds of decisions a day. \nStreams, sponsors, and social media are altering the process by which we make choices, how we spend our time, \nwhich movies we see, which products we buy, and more. Whether they read the reviews or just check the ratings, it's \nunlikely for Americans to make many significant decisions without these information streams. \nAs you will see in this course, what happens in economics is affected by how well and how fast information \ndisseminates through a society, such as how quickly information travels through Facebook. “Economists love \nnothing better than when deep and liquid markets operate under conditions of perfect information,” says Jessica \nIrvine, National Economics Editor for News Corp Australia. \nThis leads us to the topic of this chapter, an introduction to the world of making decisions, processing information, \n1 \nWelcome to Economics! \n BRING IT HOME \n"
+    }
+  ],
+  "retrieval_queries": [
+    "\"Introduction to FRED\" reuse data other purposes",
+    "\"Introduction to FRED\" FRED data purposes",
+    "FRED data other purposes textbook"
+  ],
+  "ranked_pages": [
+    [
+      2,
+      0.09756742464304602
+    ],
+    [
+      88,
+      0.04664224664224664
+    ],
+    [
+      19,
+      0.04623878536922015
+    ],
+    [
+      15,
+      0.045928030303030304
+    ],
+    [
+      81,
+      0.04394190454670985
+    ],
+    [
+      1,
+      0.043908227848101264
+    ],
+    [
+      8,
+      0.043008641005498824
+    ],
+    [
+      71,
+      0.0418303929970947
+    ],
+    [
+      86,
+      0.04170355466130114
+    ],
+    [
+      23,
+      0.041094771241830065
+    ],
+    [
+      63,
+      0.04040803184638801
+    ],
+    [
+      102,
+      0.03987037149860108
+    ],
+    [
+      101,
+      0.028985507246376812
+    ],
+    [
+      39,
+      0.028404512489927477
+    ],
+    [
+      78,
+      0.027799227799227798
+    ],
+    [
+      109,
+      0.02761904761904762
+    ],
+    [
+      77,
+      0.026875901875901876
+    ],
+    [
+      12,
+      0.02631578947368421
+    ],
+    [
+      14,
+      0.026013513513513515
+    ],
+    [
+      112,
+      0.025974025974025976
+    ],
+    [
+      75,
+      0.025478740668614087
+    ],
+    [
+      92,
+      0.015384615384615385
+    ],
+    [
+      20,
+      0.013333333333333334
+    ],
+    [
+      27,
+      0.0125
+    ]
+  ],
+  "status": "success",
+  "calls": [
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": "Search this economics textbook to answer in Vietnamese: Dựa trên đoạn văn ở trang này, trong phần \"Introduction to FRED\", nếu bạn muốn sử dụng dữ liệu từ FRED cho các mục đích khác, bạn có thể làm gì với dữ liệu đó?"
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "search_book",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_0bf331fe79e2ce84016af83667bd9887d2a75b0ee78170adb7",
+        "object": "response",
+        "created_at": 1794651751,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651754,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_0bf331fe79e2ce84016af836680fb887d2b2216b64943caebc",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"queries\":[\"\\\"Introduction to FRED\\\" reuse data other purposes\", \"\\\"Introduction to FRED\\\" FRED data purposes\", \"FRED data other purposes textbook\"]}",
+            "call_id": "call_3rzmE9wr0B5SKO4avGmoATC4",
+            "name": "search_book"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "search_book"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Choose up to three English lexical search queries for the provided question; retain figure/table IDs.",
+            "name": "search_book",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "queries": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "required": [
+                "queries"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 186,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 47,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 233
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 4.796919899992645
+    },
+    {
+      "request": {
+        "model": "gpt-5.4-mini-2026-03-17",
+        "input": [
+          {
+            "role": "user",
+            "content": [
+              {
+                "type": "input_text",
+                "text": "Answer the question using ONLY supplied source evidence, in Vietnamese. Cite [page N] and Figure/Table ID for all claims. No external facts. If date/place/condition absent, choose abstain with no guessed values. Dựa trên đoạn văn ở trang này, trong phần \"Introduction to FRED\", nếu bạn muốn sử dụng dữ liệu từ FRED cho các mục đích khác, bạn có thể làm gì với dữ liệu đó?\nSOURCE_CONTEXT:[{\"page\": 2, \"original_pdf_page\": 26, \"text\": \"and understanding behavior in markets —the world of economics. Each chapter in this book will start with a \\ndiscussion about current (or sometimes past) events and revisit it at chapter’s end—to “bring home” the concepts in \\nplay. \\nWhat is economics and why should you spend your time learning it? After all, there are other disciplines you \\ncould be studying, and other ways you could be spending your time. As the Bring it Home feature just \\nmentioned, making choices is at the heart of what economists study, and your decision to take this course is as \\nmuch as economic decision as anything else. \\nEconomics is probably not what you think. It is not primarily about money or finance. It is not primarily about \\nbusiness. It is not mathematics. What is it then? It is both a subject area and a way of viewing the world. \\n1.1 What Is Economics, and Why Is It Important? \\nLEARNING OBJECTIVES \\nBy the end of this section, you will be able to: \\n• Discuss the importance of studying economics \\n• Explain the relationship between production and division of labor \\n• Evaluate the significance of scarcity \\nEconomics is the study of how humans make decisions in the face of scarcity. These can be individual \\ndecisions, family decisions, business decisions or societal decisions. If you look around carefully, you will see \\nthat scarcity is a fact of life. Scarcity means that human wants for goods, services and resources exceed what \\nis available. Resources, such as labor, tools, land, and raw materials are necessary to produce the goods and \\nservices we want but they exist in limited supply. Of course, the ultimate scarce resource is time- everyone, \\nrich or poor, has just 24 expendable hours in the day to earn income to acquire goods and services, for leisure \\ntime, or for sleep. At any point in time, there is only a finite amount of resources available. \\nThink about it this way: In 2015 the labor force in the United States contained over 158 million workers, \\naccording to the U.S. Bureau of Labor Statistics. The total land area was 3,794,101 square miles. While these \\nare certainly large numbers, they are not infinite. Because these resources are limited, so are the numbers of \\ngoods and services we produce with them. Combine this with the fact that human wants seem to be virtually \\ninfinite, and you can see why scarcity is a problem. \\nIntroduction to FRED \\nData is very important in economics because it describes and measures the issues and problems that \\neconomics seek to understand. A variety of government agencies publish economic and social data. For this \\ncourse, we will generally use data from the St. Louis Federal Reserve Bank's FRED database. FRED is very user \\nfriendly. It allows you to display data in tables or charts, and you can easily download it into spreadsheet form \\nif you want to use the data for other purposes. The FRED website (https://openstax.org/l/FRED/) includes data \\non nearly 400,000 domestic and international variables over time, in the following broad categories: \\n• Money, Banking & Finance \\n• Population, Employment, & Labor Markets (including Income Distribution) \\n• National Accounts (Gross Domestic Product & its components), Flow of Funds, and International Accounts \\n• Production & Business Activity (including Business Cycles) \\n• Prices & Inflation (including the Consumer Price Index, the Producer Price Index, and the Employment \\nCost Index) \\n• International Data from other nations \\n• U.S. Regional Data \\n• Academic Data (including Penn World Tables & NBER Macrohistory database) \\nFor more information about how to use FRED, see the variety of videos (https://openstax.org/l/FRED_intro) on \\n10     1 • Welcome to Economics!\\nAccess for free at openstax.org\\n\"}, {\"page\": 88, \"original_pdf_page\": 112, \"text\": \"Interest \\nRate (%) \\nQuantity of Financial Capital Demanded \\n(Borrowing) ($ billions) \\nQuantity of Financial Capital Supplied \\n(Lending) ($ billions) \\n11 \\n$800 \\n$420 \\n13 \\n$700 \\n$510 \\n15 \\n$600 \\n$600 \\n17 \\n$550 \\n$660 \\n19 \\n$500 \\n$720 \\n21 \\n$480 \\n$750 \\nTABLE 4.5 Demand and Supply for Borrowing Money with Credit Cards \\nThe laws of demand and supply continue to apply in the financial markets. According to the law of demand, a \\nhigher rate of return (that is, a higher price) will decrease the quantity demanded. As the interest rate rises, \\nconsumers will reduce the quantity that they borrow. According to the law of supply, a higher price increases \\nthe quantity supplied. Consequently, as the interest rate paid on credit card borrowing rises, more firms will be \\neager to issue credit cards and to encourage customers to use them. Conversely, if the interest rate on credit \\ncards falls, the quantity of financial capital supplied in the credit card market will decrease and the quantity \\ndemanded will increase. \\nEquilibrium in Financial Markets \\nIn the financial market for credit cards in Figure 4.5, the supply curve (S) and the demand curve (D) cross at \\nthe equilibrium point (E). The equilibrium occurs at an interest rate of 15%, where the quantity of funds \\ndemanded and the quantity supplied are equal at an equilibrium quantity of $600 billion. \\nIf the interest rate (remember, this measures the “price” in the financial market) is above the equilibrium level, \\nthen an excess supply, or a surplus, of financial capital will arise in this market. For example, at an interest rate \\nof 21%, the quantity of funds supplied increases to $750 billion, while the quantity demanded decreases to \\n$480 billion. At this above-equilibrium interest rate, firms are eager to supply loans to credit card borrowers, \\nbut relatively few people or businesses wish to borrow. As a result, some credit card firms will lower the \\ninterest rates (or other fees) they charge to attract more business. This strategy will push the interest rate down \\ntoward the equilibrium level. \\nIf the interest rate is below the equilibrium, then excess demand or a shortage of funds occurs in this market. \\nAt an interest rate of 13%, the quantity of funds credit card borrowers demand increases to $700 billion, but \\nthe quantity credit card firms are willing to supply is only $510 billion. In this situation, credit card firms will \\nperceive that they are overloaded with eager borrowers and conclude that they have an opportunity to raise \\ninterest rates or fees. The interest rate will face economic pressures to creep up toward the equilibrium level. \\nThe FRED database publishes some two dozen measures of interest rates, including interest rates on credit \\ncards, automobile loans, personal loans, mortgage loans, and more. You can find these at the FRED website \\n(https://openstax.org/l/FRED_stlouis). \\nShifts in Demand and Supply in Financial Markets \\nThose who supply financial capital face two broad decisions: how much to save, and how to divide up their \\nsavings among different forms of financial investments. We will discuss each of these in turn. \\nParticipants in financial markets must decide when they prefer to consume goods: now or in the future. \\n96     4 • Labor and Financial Markets\\nAccess for free at openstax.org\\n\"}, {\"page\": 19, \"original_pdf_page\": 43, \"text\": \"FIGURE 2.1 Choices and Tradeoffs In general, the higher the degree, the higher the salary, so why aren’t more \\npeople pursuing higher degrees? The short answer: choices and tradeoffs. (Credit: modification of \\\"College of \\nDuPage Commencement 2018 107\\\" by COD Newsroom/Flickr, CC BY 2.0) \\nChapter Objectives \\nIn this chapter, you will learn about: \\n• How Individuals Make Choices Based on Their Budget Constraint \\n• The Production Possibilities Frontier and Social Choices \\n• Confronting Objections to the Economic Approach \\nIntroduction to Choice in a World of Scarcity \\nChoices ... to What Degree? \\nDoes your level of education impact earning? Let’s look at some data from the Bureau of Labor Statistics (BLS). In \\n2020, among full-time wage and salary workers, median weekly earnings for those with a master’s degree were \\n$1,545. Multiply this average by 52 weeks, and you get average annual earnings of $80,340. Compare that to the \\n2 \\nChoice in a World of Scarcity \\n BRING IT HOME \\n\"}, {\"page\": 15, \"original_pdf_page\": 39, \"text\": \"Table 1.2 indicates that many medium and low income countries around the world, like Mexico and China, \\nhave also experienced a surge of globalization in recent decades. If an astronaut in orbit could put on special \\nglasses that make all economic transactions visible as brightly colored lines and look down at Earth, the \\nastronaut would see the planet covered with connections. \\nDespite the rise in globalization over the last few decades, in recent years we've seen significant pushback \\nagainst globalization from people across the world concerned about loss of jobs, loss of political sovereignty, \\nand increased economic inequality. Prominent examples of this pushback include the 2016 vote in Great \\nBritain to exit the European Union (i.e. Brexit), and the election of Donald J. Trump for President of the United \\nStates. \\nHopefully, you now have an idea about economics. Before you move to any other chapter of study, be sure to \\nread the very important appendix to this chapter called The Use of Mathematics in Principles of Economics. It \\nis essential that you learn more about how to read and use models in economics. \\nInformation Overload in the Information Age \\nThe world provides nearly instant access to a wealth of information. Consider that as recently as the late 1970s, the \\nFarmer’s Almanac, along with the Weather Bureau of the U.S. Department of Agriculture, were the primary sources \\nAmerican farmers used to determine when to plant and harvest their crops. Today, these decisions are driven by \\ndata. Farmers access detailed data streams driven by global positioning systems, historical rainfall patterns, and \\ncomplex weather monitoring services. They combine this information with crop yield data and soil quality \\nmeasurements from prior years. Maximizing production efficiently can mean the difference between a farm that \\nremains profitable and one that may need to sell its land, and data helps eliminate guesswork. \\nInformation helps us make decisions as simple as what to wear today to how many reporters the media should send \\nto cover an event. Each of these decisions is an economic decision. After all, resources are scarce. If the media send \\nten reporters to cover an announcement, they are not available to cover other stories or complete other tasks. \\nInformation provides the necessary knowledge to make the best possible decisions on how to utilize scarce \\nresources. Welcome to the world of economics! \\n BRING IT HOME \\n1.4 • How To Organize Economies: An Overview of Economic Systems     23\\n\"}, {\"page\": 81, \"original_pdf_page\": 105, \"text\": \"meet employers’ production requirements. As the demand for the goods and services decreases, the demand \\nfor labor will decrease, or shift to the left. Table 4.2 shows that in addition to the derived demand for labor, \\ndemand can also increase or decrease (shift) in response to several factors. \\nFactors \\nResults \\nDemand for \\nOutput \\nWhen the demand for the good produced (output) increases, both the output price and profitability \\nincrease. As a result, producers demand more labor to ramp up production. \\nEducation \\nand Training \\nA well-trained and educated workforce causes an increase in the demand for that labor by \\nemployers. Increased levels of productivity within the workforce will cause the demand for labor to \\nshift to the right. If the workforce is not well-trained or educated, employers will not hire from \\nwithin that labor pool, since they will need to spend a significant amount of time and money \\ntraining that workforce. Demand for such will shift to the left. \\nTechnology \\nTechnology changes can act as either substitutes for or complements to labor. When technology \\nacts as a substitute, it replaces the need for the number of workers an employer needs to hire. For \\nexample, word processing decreased the number of typists needed in the workplace. This shifted \\nthe demand curve for typists left. An increase in the availability of certain technologies may \\nincrease the demand for labor. Technology that acts as a complement to labor will increase the \\ndemand for certain types of labor, resulting in a rightward shift of the demand curve. For example, \\nthe increased use of word processing and other software has increased the demand for information \\ntechnology professionals who can resolve software and hardware issues related to a firm’s \\nnetwork. More and better technology will increase demand for skilled workers who know how to \\nuse technology to enhance workplace productivity. Those workers who do not adapt to changes in \\ntechnology will experience a decrease in demand. \\nNumber of \\nCompanies \\nAn increase in the number of companies producing a given product will increase the demand for \\nlabor resulting in a shift to the right. A decrease in the number of companies producing a given \\nproduct will decrease the demand for labor resulting in a shift to the left. \\nGovernment \\nRegulations \\nComplying with government regulations can increase or decrease the demand for labor at any given \\nwage. In the healthcare industry, government rules may require that nurses be hired to carry out \\ncertain medical procedures. This will increase the demand for nurses. Less-trained healthcare \\nworkers would be prohibited from carrying out these procedures, and the demand for these \\nworkers will shift to the left. \\nPrice and \\nAvailability \\nof Other \\nInputs \\nLabor is not the only input into the production process. For example, a salesperson at a call center \\nneeds a telephone and a computer terminal to enter data and record sales. If prices of other inputs \\nfall, production will become more profitable and suppliers will demand more labor to increase \\nproduction. This will cause a rightward shift in the demand curve for labor. The opposite is also \\ntrue. Higher prices for other inputs lower demand for labor. \\nTABLE 4.2 Factors That Can Shift Demand \\nLINK IT UP \\nClick here (https://openstax.org/l/Futurework) to read more about “Trends and Challenges for Work in the 21st \\nCentury.” \\n4.1 • Demand and Supply at Work in Labor Markets     89\\n\"}, {\"page\": 1, \"original_pdf_page\": 25, \"text\": \"FIGURE 1.1 Do You Use Facebook? Economics is greatly impacted by how well information travels through \\nsociety. Today, social media giants Twitter, Facebook, and Instagram are major forces on the information super \\nhighway. (Credit: modification of \\\"Social Media Mixed Icons - Banner\\\" by Blogtrepreneur/Flickr, CC BY 2.0) \\nChapter Objectives \\nIn this chapter, you will learn about: \\n• What Is Economics, and Why Is It Important? \\n• Microeconomics and Macroeconomics \\n• How Economists Use Theories and Models to Understand Economic Issues \\n• How Economies Can Be Organized: An Overview of Economic Systems \\nIntroduction \\nInformation Overload in the Information Age \\nTo post or not to post? Every day we are faced with a myriad of decisions, from what to have for breakfast, to which \\nshow to stream, to the more complex—“Should I double major and add possibly another semester of study to my \\neducation?” Our response to these choices depends on the information we have available at any given moment. \\nEconomists call this “imperfect” because we rarely have all the data we need to make perfect decisions. Despite the \\nlack of perfect information, we still make hundreds of decisions a day. \\nStreams, sponsors, and social media are altering the process by which we make choices, how we spend our time, \\nwhich movies we see, which products we buy, and more. Whether they read the reviews or just check the ratings, it's \\nunlikely for Americans to make many significant decisions without these information streams. \\nAs you will see in this course, what happens in economics is affected by how well and how fast information \\ndisseminates through a society, such as how quickly information travels through Facebook. “Economists love \\nnothing better than when deep and liquid markets operate under conditions of perfect information,” says Jessica \\nIrvine, National Economics Editor for News Corp Australia. \\nThis leads us to the topic of this chapter, an introduction to the world of making decisions, processing information, \\n1 \\nWelcome to Economics! \\n BRING IT HOME \\n\"}]"
+              }
+            ]
+          }
+        ],
+        "tools": [
+          {
+            "type": "function",
+            "name": "finish",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "strict": true,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            }
+          }
+        ],
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "parallel_tool_calls": false,
+        "store": false,
+        "max_output_tokens": 2400
+      },
+      "response": {
+        "id": "resp_0ddfb514b19a8c22016af8366c966487d29bca13847f0d589c",
+        "object": "response",
+        "created_at": 1794651756,
+        "status": "completed",
+        "access_programs": null,
+        "background": false,
+        "billing": {
+          "payer": "developer"
+        },
+        "completed_at": 1794651757,
+        "error": null,
+        "frequency_penalty": 0.0,
+        "image": {
+          "context_compression": "disabled"
+        },
+        "incomplete_details": null,
+        "input_transformations": [],
+        "instructions": null,
+        "max_output_tokens": 2400,
+        "max_tool_calls": null,
+        "model": "gpt-5.4-mini-2026-03-17",
+        "moderation": null,
+        "output": [
+          {
+            "id": "fc_0ddfb514b19a8c22016af8366d170887d2931ce8817aa5bd02",
+            "type": "function_call",
+            "status": "completed",
+            "arguments": "{\"status\":\"answered\",\"answer\":\"Bạn có thể **tải dữ liệu xuống dạng bảng tính** để dùng cho các mục đích khác. Đoạn văn nói rằng FRED “allows you to display data in tables or charts, and you can easily download it into spreadsheet form if you want to use the data for other purposes” [page 2, no Figure/Table ID].\",\"pages\":[2]}",
+            "call_id": "call_u62ibQbVTiStDVxe1VqmvIXC",
+            "name": "finish"
+          }
+        ],
+        "parallel_tool_calls": false,
+        "presence_penalty": 0.0,
+        "previous_response_id": null,
+        "prompt_cache_key": null,
+        "prompt_cache_retention": "24h",
+        "reasoning": {
+          "context": "current_turn",
+          "effort": "none",
+          "mode": "standard",
+          "summary": null
+        },
+        "safety_identifier": null,
+        "service_tier": "default",
+        "store": false,
+        "temperature": 1.0,
+        "text": {
+          "format": {
+            "type": "text"
+          },
+          "verbosity": "medium"
+        },
+        "tool_choice": {
+          "type": "function",
+          "name": "finish"
+        },
+        "tool_usage": {
+          "image_gen": {
+            "input_tokens": 0,
+            "input_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "output_tokens": 0,
+            "output_tokens_details": {
+              "image_tokens": 0,
+              "text_tokens": 0
+            },
+            "total_tokens": 0
+          },
+          "web_search": {
+            "num_requests": 0
+          }
+        },
+        "tools": [
+          {
+            "type": "function",
+            "description": "Answer using source pages; cite page and figure/table ID. Abstain when insufficient.",
+            "name": "finish",
+            "output_schema": null,
+            "parameters": {
+              "type": "object",
+              "properties": {
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "answered",
+                    "abstain"
+                  ]
+                },
+                "answer": {
+                  "type": "string"
+                },
+                "pages": {
+                  "type": "array",
+                  "items": {
+                    "type": "integer"
+                  }
+                }
+              },
+              "required": [
+                "status",
+                "answer",
+                "pages"
+              ],
+              "additionalProperties": false
+            },
+            "strict": true
+          }
+        ],
+        "top_logprobs": 0,
+        "top_p": 0.98,
+        "truncation": "disabled",
+        "usage": {
+          "input_tokens": 3954,
+          "input_tokens_details": {
+            "cache_write_tokens": 0,
+            "cache_write_tokens_details": {
+              "ttl_12h_tokens": 0,
+              "ttl_30m_tokens": 0
+            },
+            "cached_tokens": 0
+          },
+          "output_tokens": 95,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 4049
+        },
+        "user": null,
+        "metadata": {}
+      },
+      "elapsed_seconds": 1.400521600007778
+    }
+  ],
+  "usage": {
+    "model_calls": 2,
+    "input_tokens": 4140,
+    "cached_input_tokens": 0,
+    "output_tokens": 142,
+    "estimated_api_cost_usd": 0.003744,
+    "cost_note": "Estimate from published standard GPT-5.4-mini token rates, verified 2026-11-14; actual bill may differ. Unknown model/endpoint rates are not assumed zero.",
+    "pricing_source": "https://developers.openai.com/api/docs/models/gpt-5.4-mini"
+  },
+  "seconds": 6.20084799999313
+}
